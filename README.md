@@ -22,13 +22,13 @@ The repository is a source of truth and a version history. Publishing JSON-LD he
 | Alik Tarraf | `Person` | `https://aliktarraf.com/#alik-tarraf` |
 | Marina Tarraf | `Person` | `https://aliktarraf.com/#marina-tarraf` |
 
-### Files
+## Files
 
 - [`entities/core.jsonld`](entities/core.jsonld) — connected JSON-LD graph for the organization, Alik Tarraf, and Marina Tarraf.
-
 - [`entities/creative-universe.jsonld`](entities/creative-universe.jsonld) — connected JSON-LD graph for Epic Evolution Music, TARRAF LIVE SHOW, TARRAF PRODUCTIONS LIVE, TARRAF EPIC CHOIR, and OBARABO.
+- [`releases/live-trilogy.jsonld`](releases/live-trilogy.jsonld) — linked JSON-LD graph for the TARRAF PRODUCTIONS LIVE recording event, its three albums, and their digital releases.
 
-Planned additions will document releases, recordings, identifiers, and other verified projects.
+Planned additions will document individual recordings, release identifiers, and other verified projects.
 
 ## Data principles
 
