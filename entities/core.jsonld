@@ -1,0 +1,157 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://aliktarraf.com/#tarraf-productions",
+      "name": "TARRAF PRODUCTIONS",
+      "alternateName": [
+        "TARRAF PRODUCTIONS®",
+        "Tarraf Productions"
+      ],
+      "url": "https://aliktarraf.com/",
+      "description": "TARRAF PRODUCTIONS is an independent label for original music, a multidisciplinary creative studio, and a live production universe based in the United Arab Emirates.",
+      "email": "official@aliktarraf.com",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "AE"
+      },
+      "founder": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        },
+        {
+          "@id": "https://aliktarraf.com/#marina-tarraf"
+        }
+      ],
+      "member": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        },
+        {
+          "@id": "https://aliktarraf.com/#marina-tarraf"
+        }
+      ],
+      "sameAs": [
+        "https://github.com/tarrafproductions",
+        "https://www.youtube.com/@tarrafproduction",
+        "https://www.instagram.com/tarraf.productions/",
+        "https://www.facebook.com/tarraf.productions",
+        "https://musicbrainz.org/label/eaf33128-ab26-4e55-a1c3-d47069fab3e3"
+      ],
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "MusicBrainz Label ID",
+          "value": "eaf33128-ab26-4e55-a1c3-d47069fab3e3",
+          "url": "https://musicbrainz.org/label/eaf33128-ab26-4e55-a1c3-d47069fab3e3"
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "https://aliktarraf.com/#alik-tarraf",
+      "name": "Alik Tarraf",
+      "alternateName": [
+        "Алик Тарраф",
+        "Алік Тарраф"
+      ],
+      "url": "https://aliktarraf.com/",
+      "description": "Alik Tarraf is a Ukrainian singer, songwriter, composer, producer, and recording engineer based in the United Arab Emirates. He is the founder and creative lead of TARRAF PRODUCTIONS.",
+      "nationality": {
+        "@type": "Country",
+        "name": "Ukraine"
+      },
+      "homeLocation": {
+        "@type": "Country",
+        "name": "United Arab Emirates"
+      },
+      "jobTitle": [
+        "Singer",
+        "Songwriter",
+        "Composer",
+        "Producer",
+        "Recording Engineer",
+        "Founder and Creative Lead of TARRAF PRODUCTIONS"
+      ],
+      "worksFor": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "sameAs": [
+        "https://github.com/AlikTarraf",
+        "https://github.com/tarrafproductions",
+        "https://www.youtube.com/@tarrafproduction",
+        "https://www.instagram.com/tarraf.productions/",
+        "https://open.spotify.com/artist/4Bvzc3evo5YgdS0VYVDGFX",
+        "https://music.apple.com/artist/1834783896",
+        "https://musicbrainz.org/artist/7eb1e174-d271-4390-bfda-490c6959c8f7",
+        "https://isni.org/isni/0000000530575873"
+      ],
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "MusicBrainz Artist ID",
+          "value": "7eb1e174-d271-4390-bfda-490c6959c8f7",
+          "url": "https://musicbrainz.org/artist/7eb1e174-d271-4390-bfda-490c6959c8f7"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "ISNI",
+          "value": "0000 0005 3057 5873",
+          "url": "https://isni.org/isni/0000000530575873"
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "https://aliktarraf.com/#marina-tarraf",
+      "name": "Marina Tarraf",
+      "alternateName": [
+        "Марина Тарраф"
+      ],
+      "url": "https://aliktarraf.com/",
+      "description": "Marina Tarraf is a Ukrainian singer, songwriter, and creative director based in the United Arab Emirates. She is the co-founder and director of TARRAF PRODUCTIONS.",
+      "nationality": {
+        "@type": "Country",
+        "name": "Ukraine"
+      },
+      "homeLocation": {
+        "@type": "Country",
+        "name": "United Arab Emirates"
+      },
+      "jobTitle": [
+        "Singer",
+        "Songwriter",
+        "Creative Director",
+        "Co-founder and Director of TARRAF PRODUCTIONS"
+      ],
+      "worksFor": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "sameAs": [
+        "https://github.com/MarinaTarraf",
+        "https://github.com/tarrafproductions",
+        "https://www.youtube.com/@marinatarraf",
+        "https://www.instagram.com/marinatarraf/",
+        "https://open.spotify.com/artist/5TeO20ecEJeN8IYEwjJwS7",
+        "https://music.apple.com/artist/1855307122",
+        "https://musicbrainz.org/artist/bd3eddb4-faaf-4016-8e62-aa54d39550c4",
+        "https://isni.org/isni/0000000530576411"
+      ],
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "MusicBrainz Artist ID",
+          "value": "bd3eddb4-faaf-4016-8e62-aa54d39550c4",
+          "url": "https://musicbrainz.org/artist/bd3eddb4-faaf-4016-8e62-aa54d39550c4"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "ISNI",
+          "value": "0000 0005 3057 6411",
+          "url": "https://isni.org/isni/0000000530576411"
+        }
+      ]
+    }
+  ]
+}
