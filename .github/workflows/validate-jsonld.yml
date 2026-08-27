@@ -1,0 +1,45 @@
+name: Validate JSON-LD
+
+on:
+  push:
+    paths:
+      - "**/*.jsonld"
+      - ".github/workflows/validate-jsonld.yml"
+  pull_request:
+    paths:
+      - "**/*.jsonld"
+      - ".github/workflows/validate-jsonld.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    name: Parse every JSON-LD file
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v7
+
+      - name: Validate JSON syntax
+        shell: bash
+        run: |
+          python3 - <<'PY'
+          import json
+          from pathlib import Path
+
+          files = sorted(Path(".").rglob("*.jsonld"))
+
+          if not files:
+              raise SystemExit("No .jsonld files found.")
+
+          for path in files:
+              with path.open(encoding="utf-8") as source:
+                  json.load(source)
+              print(f"✓ {path}")
+
+          print(f"\nValidated {len(files)} JSON-LD file(s).")
+          PY
