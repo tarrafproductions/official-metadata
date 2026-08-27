@@ -1,0 +1,272 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "MusicEvent",
+      "@id": "https://aliktarraf.com/#tarraf-live-recording-2026-06-08",
+      "name": "TARRAF LIVE SHOW — Fujairah Live Recording",
+      "startDate": "2026-06-08",
+      "eventStatus": "https://schema.org/EventCompleted",
+      "location": {
+        "@type": "Place",
+        "name": "Fujairah, United Arab Emirates",
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Fujairah",
+          "addressCountry": "AE"
+        }
+      },
+      "organizer": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "performer": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        },
+        {
+          "@id": "https://aliktarraf.com/#marina-tarraf"
+        },
+        {
+          "@id": "https://aliktarraf.com/#tarraf-epic-choir"
+        }
+      ]
+    },
+    {
+      "@type": "MusicAlbum",
+      "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-i-the-opening",
+      "name": "Tarraf Productions Live, Vol. I: The Opening",
+      "alternateName": "TARRAF PRODUCTIONS LIVE, Vol. I: The Opening",
+      "description": "The first volume of the three-part TARRAF PRODUCTIONS LIVE series, recorded in Fujairah, United Arab Emirates, on June 8, 2026.",
+      "albumProductionType": "https://schema.org/LiveAlbum",
+      "albumReleaseType": "https://schema.org/AlbumRelease",
+      "byArtist": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        },
+        {
+          "@id": "https://aliktarraf.com/#marina-tarraf"
+        }
+      ],
+      "numTracks": 22,
+      "duration": "PT1H39M46S",
+      "datePublished": "2026-07-15",
+      "position": 1,
+      "isPartOf": {
+        "@id": "https://aliktarraf.com/#tarraf-productions-live"
+      },
+      "recordedAt": {
+        "@id": "https://aliktarraf.com/#tarraf-live-recording-2026-06-08"
+      },
+      "publisher": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "copyrightHolder": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "albumRelease": {
+        "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-i-digital-release"
+      },
+      "sameAs": [
+        "https://distrokid.com/hyperfollow/aliktarrafmarinatarraf/tarraf-productions-live-vol-i-the-opening",
+        "https://music.apple.com/us/album/tarraf-productions-live-vol-i-the-opening/6784526211",
+        "https://open.spotify.com/album/0jVFgAM1I8uStiT3KnXeGg",
+        "https://musicbrainz.org/release/55889f07-365d-4aa8-b6de-2e2d68c697cd"
+      ]
+    },
+    {
+      "@type": "MusicRelease",
+      "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-i-digital-release",
+      "name": "Tarraf Productions Live, Vol. I: The Opening — Digital Release",
+      "releaseOf": {
+        "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-i-the-opening"
+      },
+      "datePublished": "2026-07-15",
+      "musicReleaseFormat": "https://schema.org/DigitalFormat",
+      "creditedTo": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        },
+        {
+          "@id": "https://aliktarraf.com/#marina-tarraf"
+        }
+      ],
+      "recordLabel": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "numTracks": 22,
+      "duration": "PT1H39M46S",
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "UPC",
+          "value": "882614979497"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "MusicBrainz Release ID",
+          "value": "55889f07-365d-4aa8-b6de-2e2d68c697cd",
+          "url": "https://musicbrainz.org/release/55889f07-365d-4aa8-b6de-2e2d68c697cd"
+        }
+      ]
+    },
+    {
+      "@type": "MusicAlbum",
+      "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-ii-the-fire",
+      "name": "Tarraf Productions Live, Vol. II: The Fire",
+      "alternateName": "TARRAF PRODUCTIONS LIVE, Vol. II: The Fire",
+      "description": "The second volume of the three-part TARRAF PRODUCTIONS LIVE series, featuring 23 live recordings captured in Fujairah, United Arab Emirates, on June 8, 2026.",
+      "albumProductionType": "https://schema.org/LiveAlbum",
+      "albumReleaseType": "https://schema.org/AlbumRelease",
+      "byArtist": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        },
+        {
+          "@id": "https://aliktarraf.com/#marina-tarraf"
+        }
+      ],
+      "numTracks": 23,
+      "duration": "PT1H40M22S",
+      "datePublished": "2026-08-21",
+      "position": 2,
+      "isPartOf": {
+        "@id": "https://aliktarraf.com/#tarraf-productions-live"
+      },
+      "recordedAt": {
+        "@id": "https://aliktarraf.com/#tarraf-live-recording-2026-06-08"
+      },
+      "publisher": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "copyrightHolder": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "albumRelease": {
+        "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-ii-digital-release"
+      },
+      "sameAs": [
+        "https://distrokid.com/hyperfollow/aliktarrafmarinatarraf/tarraf-productions-live-vol-ii-the-fire",
+        "https://musicbrainz.org/release/56fd8ab3-a82b-400b-9b5a-96d99ac0b010"
+      ]
+    },
+    {
+      "@type": "MusicRelease",
+      "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-ii-digital-release",
+      "name": "Tarraf Productions Live, Vol. II: The Fire — Digital Release",
+      "releaseOf": {
+        "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-ii-the-fire"
+      },
+      "datePublished": "2026-08-21",
+      "musicReleaseFormat": "https://schema.org/DigitalFormat",
+      "creditedTo": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        },
+        {
+          "@id": "https://aliktarraf.com/#marina-tarraf"
+        }
+      ],
+      "recordLabel": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "numTracks": 23,
+      "duration": "PT1H40M22S",
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "UPC",
+          "value": "882197185506"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "MusicBrainz Release ID",
+          "value": "56fd8ab3-a82b-400b-9b5a-96d99ac0b010",
+          "url": "https://musicbrainz.org/release/56fd8ab3-a82b-400b-9b5a-96d99ac0b010"
+        }
+      ]
+    },
+    {
+      "@type": "MusicAlbum",
+      "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-iii-the-encore",
+      "name": "Tarraf Productions Live, Vol. III: The Encore",
+      "alternateName": "TARRAF PRODUCTIONS LIVE, Vol. III: The Encore",
+      "description": "The third and concluding volume of the three-part TARRAF PRODUCTIONS LIVE series, featuring 19 live recordings captured in Fujairah, United Arab Emirates, on June 8, 2026.",
+      "albumProductionType": "https://schema.org/LiveAlbum",
+      "albumReleaseType": "https://schema.org/AlbumRelease",
+      "creativeWorkStatus": "Scheduled for release",
+      "byArtist": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        },
+        {
+          "@id": "https://aliktarraf.com/#marina-tarraf"
+        },
+        {
+          "@id": "https://aliktarraf.com/#tarraf-epic-choir"
+        }
+      ],
+      "numTracks": 19,
+      "duration": "PT1H23M51S",
+      "datePublished": "2026-09-25",
+      "position": 3,
+      "isPartOf": {
+        "@id": "https://aliktarraf.com/#tarraf-productions-live"
+      },
+      "recordedAt": {
+        "@id": "https://aliktarraf.com/#tarraf-live-recording-2026-06-08"
+      },
+      "publisher": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "copyrightHolder": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "albumRelease": {
+        "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-iii-digital-release"
+      },
+      "sameAs": [
+        "https://musicbrainz.org/release/9f1774db-0fa9-4463-b4d7-b78616207c63"
+      ]
+    },
+    {
+      "@type": "MusicRelease",
+      "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-iii-digital-release",
+      "name": "Tarraf Productions Live, Vol. III: The Encore — Digital Release",
+      "releaseOf": {
+        "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-iii-the-encore"
+      },
+      "datePublished": "2026-09-25",
+      "creativeWorkStatus": "Scheduled for release",
+      "musicReleaseFormat": "https://schema.org/DigitalFormat",
+      "creditedTo": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        },
+        {
+          "@id": "https://aliktarraf.com/#marina-tarraf"
+        },
+        {
+          "@id": "https://aliktarraf.com/#tarraf-epic-choir"
+        }
+      ],
+      "recordLabel": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "numTracks": 19,
+      "duration": "PT1H23M51S",
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "UPC",
+          "value": "882321270177"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "MusicBrainz Release ID",
+          "value": "9f1774db-0fa9-4463-b4d7-b78616207c63",
+          "url": "https://musicbrainz.org/release/9f1774db-0fa9-4463-b4d7-b78616207c63"
+        }
+      ]
+    }
+  ]
+}
