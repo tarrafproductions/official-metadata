@@ -1,0 +1,100 @@
+{
+  "@context": "https://schema.org",
+  "@type": "DataCatalog",
+  "@id": "https://github.com/tarrafproductions/official-metadata#catalog",
+  "name": "TARRAF PRODUCTIONS Official Metadata Catalog",
+  "description": "Machine-readable catalog of official identity, creative-universe, event, album, and release metadata for TARRAF PRODUCTIONS.",
+  "url": "https://github.com/tarrafproductions/official-metadata",
+  "creator": {
+    "@id": "https://aliktarraf.com/#tarraf-productions"
+  },
+  "publisher": {
+    "@id": "https://aliktarraf.com/#tarraf-productions"
+  },
+  "maintainer": [
+    {
+      "@id": "https://aliktarraf.com/#alik-tarraf"
+    },
+    {
+      "@id": "https://aliktarraf.com/#marina-tarraf"
+    }
+  ],
+  "inLanguage": "en",
+  "keywords": [
+    "TARRAF PRODUCTIONS",
+    "Epic Evolution Music",
+    "music metadata",
+    "JSON-LD",
+    "linked data"
+  ],
+  "copyrightHolder": {
+    "@id": "https://aliktarraf.com/#tarraf-productions"
+  },
+  "copyrightNotice": "© 2025–2026 TARRAF PRODUCTIONS. All rights reserved.",
+  "dataset": [
+    {
+      "@type": "Dataset",
+      "@id": "https://github.com/tarrafproductions/official-metadata#core-entities",
+      "name": "TARRAF PRODUCTIONS Core Entities",
+      "description": "Official linked-data graph for TARRAF PRODUCTIONS, Alik Tarraf, and Marina Tarraf.",
+      "about": [
+        {
+          "@id": "https://aliktarraf.com/#tarraf-productions"
+        },
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        },
+        {
+          "@id": "https://aliktarraf.com/#marina-tarraf"
+        }
+      ],
+      "distribution": {
+        "@type": "DataDownload",
+        "encodingFormat": "application/ld+json",
+        "contentUrl": "https://raw.githubusercontent.com/tarrafproductions/official-metadata/main/entities/core.jsonld"
+      }
+    },
+    {
+      "@type": "Dataset",
+      "@id": "https://github.com/tarrafproductions/official-metadata#creative-universe",
+      "name": "TARRAF PRODUCTIONS Creative Universe",
+      "description": "Official linked-data graph for Epic Evolution Music, TARRAF LIVE SHOW, TARRAF PRODUCTIONS LIVE, TARRAF EPIC CHOIR, and OBARABO.",
+      "about": [
+        {
+          "@id": "https://aliktarraf.com/#epic-evolution-music"
+        },
+        {
+          "@id": "https://aliktarraf.com/#tarraf-live-show"
+        },
+        {
+          "@id": "https://aliktarraf.com/#tarraf-productions-live"
+        },
+        {
+          "@id": "https://aliktarraf.com/#tarraf-epic-choir"
+        },
+        {
+          "@id": "https://aliktarraf.com/obarabo#obarabo"
+        }
+      ],
+      "distribution": {
+        "@type": "DataDownload",
+        "encodingFormat": "application/ld+json",
+        "contentUrl": "https://raw.githubusercontent.com/tarrafproductions/official-metadata/main/entities/creative-universe.jsonld"
+      }
+    },
+    {
+      "@type": "Dataset",
+      "@id": "https://github.com/tarrafproductions/official-metadata#live-trilogy",
+      "name": "TARRAF PRODUCTIONS LIVE Trilogy",
+      "description": "Official linked-data graph for the Fujairah recording event, the three TARRAF PRODUCTIONS LIVE albums, and their digital releases.",
+      "about": {
+        "@id": "https://aliktarraf.com/#tarraf-productions-live"
+      },
+      "distribution": {
+        "@type": "DataDownload",
+        "encodingFormat": "application/ld+json",
+        "contentUrl": "https://raw.githubusercontent.com/tarrafproductions/official-metadata/main/releases/live-trilogy.jsonld"
+      }
+    }
+  ]
+}
