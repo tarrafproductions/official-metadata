@@ -1,5 +1,5 @@
 # TARRAF PRODUCTIONS — Official Metadata
-
+[![Validate JSON-LD](https://github.com/tarrafproductions/official-metadata/actions/workflows/validate-jsonld.yml/badge.svg?branch=main&event=push)](https://github.com/tarrafproductions/official-metadata/actions/workflows/validate-jsonld.yml)
 Official, version-controlled identity, project, and catalog metadata for **TARRAF PRODUCTIONS®** and its creative universe.
 
 ## Purpose
