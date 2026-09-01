@@ -4,10 +4,12 @@ on:
   push:
     paths:
       - "**/*.jsonld"
+      - ".github/scripts/validate_jsonld.py"
       - ".github/workflows/validate-jsonld.yml"
   pull_request:
     paths:
       - "**/*.jsonld"
+      - ".github/scripts/validate_jsonld.py"
       - ".github/workflows/validate-jsonld.yml"
   workflow_dispatch:
 
@@ -16,7 +18,7 @@ permissions:
 
 jobs:
   validate:
-    name: Parse every JSON-LD file
+    name: Validate syntax and graph integrity
     runs-on: ubuntu-latest
     timeout-minutes: 5
 
@@ -24,22 +26,5 @@ jobs:
       - name: Check out repository
         uses: actions/checkout@v7
 
-      - name: Validate JSON syntax
-        shell: bash
-        run: |
-          python3 - <<'PY'
-          import json
-          from pathlib import Path
-
-          files = sorted(Path(".").rglob("*.jsonld"))
-
-          if not files:
-              raise SystemExit("No .jsonld files found.")
-
-          for path in files:
-              with path.open(encoding="utf-8") as source:
-                  json.load(source)
-              print(f"✓ {path}")
-
-          print(f"\nValidated {len(files)} JSON-LD file(s).")
-          PY
+      - name: Validate JSON-LD
+        run: python3 .github/scripts/validate_jsonld.py
