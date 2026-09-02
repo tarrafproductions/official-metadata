@@ -66,6 +66,9 @@
       "albumRelease": {
         "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-i-digital-release"
       },
+      "track": {
+        "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-i-track-list"
+      },
       "sameAs": [
         "https://distrokid.com/hyperfollow/aliktarrafmarinatarraf/tarraf-productions-live-vol-i-the-opening",
         "https://music.apple.com/us/album/tarraf-productions-live-vol-i-the-opening/6784526211",
@@ -143,6 +146,9 @@
       },
       "albumRelease": {
         "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-ii-digital-release"
+      },
+      "track": {
+        "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-ii-track-list"
       },
       "sameAs": [
         "https://distrokid.com/hyperfollow/aliktarrafmarinatarraf/tarraf-productions-live-vol-ii-the-fire",
@@ -223,6 +229,9 @@
       },
       "albumRelease": {
         "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-iii-digital-release"
+      },
+      "track": {
+        "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-iii-track-list"
       },
       "sameAs": [
         "https://musicbrainz.org/release/9f1774db-0fa9-4463-b4d7-b78616207c63"
