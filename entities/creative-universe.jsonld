@@ -74,6 +74,17 @@
       "producer": {
         "@id": "https://aliktarraf.com/#tarraf-productions"
       },
+      "hasPart": [
+        {
+          "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-i-the-opening"
+        },
+        {
+          "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-ii-the-fire"
+        },
+        {
+          "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-iii-the-encore"
+        }
+      ],
       "publisher": {
         "@id": "https://aliktarraf.com/#tarraf-productions"
       },

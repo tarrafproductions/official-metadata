@@ -3,7 +3,7 @@
   "@type": "DataCatalog",
   "@id": "https://github.com/tarrafproductions/official-metadata#catalog",
   "name": "TARRAF PRODUCTIONS Official Metadata Catalog",
-  "description": "Machine-readable catalog of official identity, creative-universe, event, album, and release metadata for TARRAF PRODUCTIONS.",
+  "description": "Machine-readable catalog of official identity, creative-universe, event, album, release, and ordered track-list metadata for TARRAF PRODUCTIONS.",
   "url": "https://github.com/tarrafproductions/official-metadata",
   "creator": {
     "@id": "https://aliktarraf.com/#tarraf-productions"
@@ -94,6 +94,28 @@
         "@type": "DataDownload",
         "encodingFormat": "application/ld+json",
         "contentUrl": "https://raw.githubusercontent.com/tarrafproductions/official-metadata/main/releases/live-trilogy.jsonld"
+      }
+    },
+    {
+      "@type": "Dataset",
+      "@id": "https://github.com/tarrafproductions/official-metadata#live-tracklists",
+      "name": "TARRAF PRODUCTIONS LIVE Official Track Lists",
+      "description": "Official ordered track lists for all three volumes of TARRAF PRODUCTIONS LIVE.",
+      "about": [
+        {
+          "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-i-the-opening"
+        },
+        {
+          "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-ii-the-fire"
+        },
+        {
+          "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-iii-the-encore"
+        }
+      ],
+      "distribution": {
+        "@type": "DataDownload",
+        "encodingFormat": "application/ld+json",
+        "contentUrl": "https://raw.githubusercontent.com/tarrafproductions/official-metadata/main/releases/live-tracklists.jsonld"
       }
     }
   ]
