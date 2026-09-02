@@ -87,9 +87,14 @@
       "@id": "https://github.com/tarrafproductions/official-metadata#live-trilogy",
       "name": "TARRAF PRODUCTIONS LIVE Trilogy",
       "description": "Official linked-data graph for the Fujairah recording event, the three TARRAF PRODUCTIONS LIVE albums, and their digital releases.",
-      "about": {
-        "@id": "https://aliktarraf.com/#tarraf-productions-live"
-      },
+      "about": [
+        {
+          "@id": "https://aliktarraf.com/#tarraf-productions-live"
+        },
+        {
+          "@id": "https://aliktarraf.com/#tarraf-epic-choir"
+        }
+      ],
       "distribution": {
         "@type": "DataDownload",
         "encodingFormat": "application/ld+json",
