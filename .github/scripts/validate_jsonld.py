@@ -18,6 +18,29 @@ INTERNAL_ID_PREFIXES = (
     "https://aliktarraf.com/",
     "https://github.com/tarrafproductions/official-metadata",
 )
+LIVE_EVENT_ID = "https://aliktarraf.com/#tarraf-live-recording-2026-06-08"
+LIVE_SERIES_ID = "https://aliktarraf.com/#tarraf-productions-live"
+LIVE_ALBUM_IDS = (
+    "https://aliktarraf.com/#tarraf-productions-live-vol-i-the-opening",
+    "https://aliktarraf.com/#tarraf-productions-live-vol-ii-the-fire",
+    "https://aliktarraf.com/#tarraf-productions-live-vol-iii-the-encore",
+)
+MARINA_TARRAF_ID = "https://aliktarraf.com/#marina-tarraf"
+EXPECTED_LIVE_PRODUCERS = {
+    "https://aliktarraf.com/#tarraf-productions",
+    "https://aliktarraf.com/#alik-tarraf",
+    "Manik Bhatheja",
+    "Ivan Dolhopiat",
+    "Ihor Kvilinskyi",
+    "Waleed Robbie",
+    "Nazarii Storozhuk",
+}
+EXPECTED_ALBUM_CREDIT_TEXT = {
+    "Producer and recording engineer: Alik Tarraf",
+    "Executive producer: Manik Bhatheja",
+    "Producers: Ivan Dolhopiat, Ihor Kvilinskyi, Waleed Robbie, and Nazarii Storozhuk",
+    "Production and recording: TARRAF PRODUCTIONS",
+}
 
 
 def walk_json(value: Any, location: str = "$") -> Iterator[tuple[Any, str]]:
@@ -59,10 +82,71 @@ def repository_path_from_raw_url(value: str) -> str | None:
     return "/".join(parts[3:])
 
 
+def relation_party_keys(value: Any) -> set[str]:
+    """Return stable identifiers or names from a Person/Organization relation."""
+    items = value if isinstance(value, list) else [value]
+    keys: set[str] = set()
+
+    for item in items:
+        if not isinstance(item, dict):
+            continue
+        identifier = item.get("@id")
+        name = item.get("name")
+        if isinstance(identifier, str):
+            keys.add(identifier)
+        elif isinstance(name, str):
+            keys.add(name)
+
+    return keys
+
+
+def validate_live_production_graph(nodes: dict[str, dict[str, Any]]) -> list[str]:
+    """Protect the verified TARRAF PRODUCTIONS LIVE production-credit contract."""
+    errors: list[str] = []
+    event = nodes.get(LIVE_EVENT_ID)
+
+    if event is None:
+        errors.append(f"Missing live recording event definition: {LIVE_EVENT_ID}")
+    elif relation_party_keys(event.get("director")) != {MARINA_TARRAF_ID}:
+        errors.append(
+            "The Fujairah live recording event must identify Marina Tarraf "
+            "as director"
+        )
+
+    for identifier in (LIVE_SERIES_ID, *LIVE_ALBUM_IDS):
+        node = nodes.get(identifier)
+        if node is None:
+            errors.append(f"Missing live production work definition: {identifier}")
+            continue
+
+        actual_producers = relation_party_keys(node.get("producer"))
+        if actual_producers != EXPECTED_LIVE_PRODUCERS:
+            missing = sorted(EXPECTED_LIVE_PRODUCERS - actual_producers)
+            unexpected = sorted(actual_producers - EXPECTED_LIVE_PRODUCERS)
+            errors.append(
+                f"{identifier}: production team mismatch; "
+                f"missing={missing}, unexpected={unexpected}"
+            )
+
+        if identifier in LIVE_ALBUM_IDS:
+            credit_text = node.get("creditText")
+            actual_credit_text = (
+                set(credit_text) if isinstance(credit_text, list) else set()
+            )
+            if not EXPECTED_ALBUM_CREDIT_TEXT.issubset(actual_credit_text):
+                missing = sorted(EXPECTED_ALBUM_CREDIT_TEXT - actual_credit_text)
+                errors.append(
+                    f"{identifier}: missing verified production credit text: {missing}"
+                )
+
+    return errors
+
+
 def validate_repository(root: Path) -> list[str]:
     errors: list[str] = []
     documents: dict[Path, Any] = {}
     definitions: dict[str, list[str]] = defaultdict(list)
+    definition_nodes: dict[str, dict[str, Any]] = {}
     references: dict[str, list[str]] = defaultdict(list)
     catalog_paths: list[str] = []
 
@@ -131,6 +215,7 @@ def validate_repository(root: Path) -> list[str]:
                     references[identifier].append(location)
                 else:
                     definitions[identifier].append(location)
+                    definition_nodes[identifier] = value
 
             if isinstance(value, dict) and value.get("@type") == "DataDownload":
                 content_url = value.get("contentUrl")
@@ -169,6 +254,8 @@ def validate_repository(root: Path) -> list[str]:
 
     if len(catalog_paths) != len(actual_catalog_paths):
         errors.append("catalog.jsonld contains duplicate dataset distributions")
+
+    errors.extend(validate_live_production_graph(definition_nodes))
 
     if not errors:
         print("JSON-LD validation passed")

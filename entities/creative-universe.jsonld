@@ -71,9 +71,42 @@
           "@id": "https://aliktarraf.com/#marina-tarraf"
         }
       ],
-      "producer": {
-        "@id": "https://aliktarraf.com/#tarraf-productions"
-      },
+      "producer": [
+        {
+          "@id": "https://aliktarraf.com/#tarraf-productions"
+        },
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        },
+        {
+          "@type": "Person",
+          "name": "Manik Bhatheja"
+        },
+        {
+          "@type": "Person",
+          "name": "Ivan Dolhopiat"
+        },
+        {
+          "@type": "Person",
+          "name": "Ihor Kvilinskyi"
+        },
+        {
+          "@type": "Person",
+          "name": "Waleed Robbie"
+        },
+        {
+          "@type": "Person",
+          "name": "Nazarii Storozhuk"
+        }
+      ],
+      "creditText": [
+        "Producer and recording engineer: Alik Tarraf",
+        "Executive producer: Manik Bhatheja",
+        "Producers: Ivan Dolhopiat, Ihor Kvilinskyi, Waleed Robbie, and Nazarii Storozhuk",
+        "Director and editor: Marina Tarraf",
+        "Creative director and art director: Smriti Bhatheja",
+        "Production, recording, management, and record label: TARRAF PRODUCTIONS"
+      ],
       "contributor": {
         "@id": "https://aliktarraf.com/#tarraf-epic-choir"
       },
