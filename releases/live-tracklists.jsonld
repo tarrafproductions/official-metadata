@@ -1,0 +1,575 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "ItemList",
+      "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-i-track-list",
+      "name": "Tarraf Productions Live, Vol. I: The Opening — Official Track List",
+      "description": "The official ordered 22-track list for the first volume of TARRAF PRODUCTIONS LIVE.",
+      "numberOfItems": 22,
+      "itemListOrder": "https://schema.org/ItemListOrderAscending",
+      "about": {
+        "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-i-the-opening"
+      },
+      "isPartOf": {
+        "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-i-the-opening"
+      },
+      "copyrightHolder": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "MusicRecording",
+            "name": "Opening Overture"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "item": {
+            "@type": "MusicRecording",
+            "name": "Alik & Marina Introduction"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "item": {
+            "@type": "MusicRecording",
+            "name": "Abu Dhabi Nights"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "item": {
+            "@type": "MusicRecording",
+            "name": "Eagles Not Crows"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "item": {
+            "@type": "MusicRecording",
+            "name": "حبك مو لعبة"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "item": {
+            "@type": "MusicRecording",
+            "name": "OBARABO الصحراء العجيبة"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "item": {
+            "@type": "MusicRecording",
+            "name": "WORDS"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 8,
+          "item": {
+            "@type": "MusicRecording",
+            "name": "Tell Me Why"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 9,
+          "item": {
+            "@type": "MusicRecording",
+            "name": "Desert Dominus"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 10,
+          "item": {
+            "@type": "MusicRecording",
+            "name": "Мы"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 11,
+          "item": {
+            "@type": "MusicRecording",
+            "name": "Malak Shaitan"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 12,
+          "item": {
+            "@type": "MusicRecording",
+            "name": "Goddess"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 13,
+          "item": {
+            "@type": "MusicRecording",
+            "name": "Смысл Жизни"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 14,
+          "item": {
+            "@type": "MusicRecording",
+            "name": "Fire Drones Show"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 15,
+          "item": {
+            "@type": "MusicRecording",
+            "name": "Meaning of Life"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 16,
+          "item": {
+            "@type": "MusicRecording",
+            "name": "Сум за Батьківщину"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 17,
+          "item": {
+            "@type": "MusicRecording",
+            "name": "Don't Speak"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 18,
+          "item": {
+            "@type": "MusicRecording",
+            "name": "I Rise"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 19,
+          "item": {
+            "@type": "MusicRecording",
+            "name": "Добро и Зло"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 20,
+          "item": {
+            "@type": "MusicRecording",
+            "name": "The Other Side"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 21,
+          "item": {
+            "@type": "MusicRecording",
+            "name": "This Is Goodbye"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 22,
+          "item": {
+            "@type": "MusicRecording",
+            "name": "End, Vol. 1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-ii-track-list",
+      "name": "Tarraf Productions Live, Vol. II: The Fire — Official Track List",
+      "description": "The official ordered 23-track list for the second volume of TARRAF PRODUCTIONS LIVE.",
+      "numberOfItems": 23,
+      "itemListOrder": "https://schema.org/ItemListOrderAscending",
+      "about": {
+        "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-ii-the-fire"
+      },
+      "isPartOf": {
+        "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-ii-the-fire"
+      },
+      "copyrightHolder": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "MusicRecording",
+            "name": "Kacheli Introduction"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "item": {
+            "@type": "MusicRecording",
+            "name": "Качели"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "item": {
+            "@type": "MusicRecording",
+            "name": "I'm Hungry"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "item": {
+            "@type": "MusicRecording",
+            "name": "Noise Silence"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "item": {
+            "@type": "MusicRecording",
+            "name": "Arabica Overture"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "item": {
+            "@type": "MusicRecording",
+            "name": "الليلة مجنونة"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "item": {
+            "@type": "MusicRecording",
+            "name": "Banina Banina Yalla Tarraf"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 8,
+          "item": {
+            "@type": "MusicRecording",
+            "name": "Release Me"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 9,
+          "item": {
+            "@type": "MusicRecording",
+            "name": "Hello"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 10,
+          "item": {
+            "@type": "MusicRecording",
+            "name": "Syria - سوريا"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 11,
+          "item": {
+            "@type": "MusicRecording",
+            "name": "Animals"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 12,
+          "item": {
+            "@type": "MusicRecording",
+            "name": "Marina Birthday Celebration"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 13,
+          "item": {
+            "@type": "MusicRecording",
+            "name": "Ну Нина"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 14,
+          "item": {
+            "@type": "MusicRecording",
+            "name": "Ave Lumen Aeternum"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 15,
+          "item": {
+            "@type": "MusicRecording",
+            "name": "Ad Vinculum"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 16,
+          "item": {
+            "@type": "MusicRecording",
+            "name": "Dubai Lights"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 17,
+          "item": {
+            "@type": "MusicRecording",
+            "name": "Good and Evil"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 18,
+          "item": {
+            "@type": "MusicRecording",
+            "name": "Alik Guitar Improvisation"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 19,
+          "item": {
+            "@type": "MusicRecording",
+            "name": "The End"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 20,
+          "item": {
+            "@type": "MusicRecording",
+            "name": "I'm Alive Prelude"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 21,
+          "item": {
+            "@type": "MusicRecording",
+            "name": "I'm Alive"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 22,
+          "item": {
+            "@type": "MusicRecording",
+            "name": "Ignis in Me"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 23,
+          "item": {
+            "@type": "MusicRecording",
+            "name": "Dream of Light"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-iii-track-list",
+      "name": "Tarraf Productions Live, Vol. III: The Encore — Official Track List",
+      "description": "The official ordered 19-track list for the scheduled third volume of TARRAF PRODUCTIONS LIVE.",
+      "numberOfItems": 19,
+      "itemListOrder": "https://schema.org/ItemListOrderAscending",
+      "creativeWorkStatus": "Scheduled for release",
+      "about": {
+        "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-iii-the-encore"
+      },
+      "isPartOf": {
+        "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-iii-the-encore"
+      },
+      "copyrightHolder": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "MusicRecording",
+            "name": "Welcome to the TARRAF UNIVERSE"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "item": {
+            "@type": "MusicRecording",
+            "name": "Бумеранг"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "item": {
+            "@type": "MusicRecording",
+            "name": "STAY"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "item": {
+            "@type": "MusicRecording",
+            "name": "Still Yours"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "item": {
+            "@type": "MusicRecording",
+            "name": "ТЕНИ"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "item": {
+            "@type": "MusicRecording",
+            "name": "ASH and NEON"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "item": {
+            "@type": "MusicRecording",
+            "name": "МОЛОДОСТЬ"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 8,
+          "item": {
+            "@type": "MusicRecording",
+            "name": "FORGET ME"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 9,
+          "item": {
+            "@type": "MusicRecording",
+            "name": "ПРОЩАЙ"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 10,
+          "item": {
+            "@type": "MusicRecording",
+            "name": "OBARABO BODY RITUALS"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 11,
+          "item": {
+            "@type": "MusicRecording",
+            "name": "Сила Любви"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 12,
+          "item": {
+            "@type": "MusicRecording",
+            "name": "Evolution is Alive"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 13,
+          "item": {
+            "@type": "MusicRecording",
+            "name": "HELAH"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 14,
+          "item": {
+            "@type": "MusicRecording",
+            "name": "Пока мы живы"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 15,
+          "item": {
+            "@type": "MusicRecording",
+            "name": "Aureum Orchestra"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 16,
+          "item": {
+            "@type": "MusicRecording",
+            "name": "НАЗАР"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 17,
+          "item": {
+            "@type": "MusicRecording",
+            "name": "Запретный Вкус"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 18,
+          "item": {
+            "@type": "MusicRecording",
+            "name": "New World"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 19,
+          "item": {
+            "@type": "MusicRecording",
+            "name": "Thank You, Fujairah"
+          }
+        }
+      ]
+    }
+  ]
+}
