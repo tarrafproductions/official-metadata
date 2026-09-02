@@ -32,6 +32,9 @@
           "@id": "https://aliktarraf.com/#marina-tarraf"
         }
       ],
+      "subOrganization": {
+        "@id": "https://aliktarraf.com/#tarraf-epic-choir"
+      },
       "sameAs": [
         "https://github.com/tarrafproductions",
         "https://www.youtube.com/@tarrafproduction",

@@ -74,6 +74,9 @@
       "producer": {
         "@id": "https://aliktarraf.com/#tarraf-productions"
       },
+      "contributor": {
+        "@id": "https://aliktarraf.com/#tarraf-epic-choir"
+      },
       "hasPart": [
         {
           "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-i-the-opening"
@@ -107,9 +110,12 @@
       "@type": "MusicGroup",
       "@id": "https://aliktarraf.com/#tarraf-epic-choir",
       "name": "TARRAF EPIC CHOIR",
-      "description": "The choral identity within the TARRAF sound and live universe. The Fujairah live recording on June 8, 2026 featured 24 professional voices: twelve women and twelve men.",
+      "description": "TARRAF EPIC CHOIR is the 24-voice choral ensemble within the TARRAF sound and live universe: twelve women and twelve men. The ensemble performed in the Fujairah live recording on June 8, 2026, documented across the three-part TARRAF PRODUCTIONS LIVE project.",
       "parentOrganization": {
         "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "event": {
+        "@id": "https://aliktarraf.com/#tarraf-live-recording-2026-06-08"
       },
       "location": {
         "@type": "Country",

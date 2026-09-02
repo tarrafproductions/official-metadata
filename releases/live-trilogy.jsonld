@@ -47,6 +47,9 @@
           "@id": "https://aliktarraf.com/#marina-tarraf"
         }
       ],
+      "contributor": {
+        "@id": "https://aliktarraf.com/#tarraf-epic-choir"
+      },
       "numTracks": 22,
       "duration": "PT1H39M46S",
       "datePublished": "2026-07-15",
@@ -128,6 +131,9 @@
           "@id": "https://aliktarraf.com/#marina-tarraf"
         }
       ],
+      "contributor": {
+        "@id": "https://aliktarraf.com/#tarraf-epic-choir"
+      },
       "numTracks": 23,
       "duration": "PT1H40M22S",
       "datePublished": "2026-08-21",
