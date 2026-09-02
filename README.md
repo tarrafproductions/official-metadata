@@ -33,6 +33,7 @@ The repository is a source of truth and a version history. Publishing JSON-LD he
 - [`entities/creative-universe.jsonld`](entities/creative-universe.jsonld) — connected JSON-LD graph for Epic Evolution Music, TARRAF LIVE SHOW, TARRAF PRODUCTIONS LIVE, TARRAF EPIC CHOIR, and OBARABO.
 - [`releases/live-trilogy.jsonld`](releases/live-trilogy.jsonld) — linked JSON-LD graph for the TARRAF PRODUCTIONS LIVE recording event, its three albums, and their digital releases.
 - [`releases/live-tracklists.jsonld`](releases/live-tracklists.jsonld) — official ordered track lists for all three TARRAF PRODUCTIONS LIVE volumes (64 recordings in total).
+- [`docs/live-production-credits.md`](docs/live-production-credits.md) — verified production-credit matrix for the Fujairah recording event, live trilogy, and 64 recordings.
 - [`docs/website-integration.md`](docs/website-integration.md) — implementation contract for multilingual Vite/React pages, pre-rendering, canonical URLs, `hreflang`, and JSON-LD.
 
 Planned additions will assign stable identifiers to individual recordings and document other verified projects as their official public references become available.
