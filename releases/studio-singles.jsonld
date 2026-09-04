@@ -17629,6 +17629,11 @@
           "@type": "PropertyValue",
           "propertyID": "TARRAF Catalog Release ID",
           "value": "SNG-185"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "UPC",
+          "value": "821473229817"
         }
       ]
     },
@@ -17669,6 +17674,9 @@
       "albumReleaseType": "https://schema.org/SingleRelease",
       "byArtist": [
         {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        },
+        {
           "@id": "https://aliktarraf.com/#marina-tarraf"
         }
       ],
@@ -17677,7 +17685,7 @@
           "@id": "https://aliktarraf.com/#alik-tarraf"
         }
       ],
-      "creditText": "Marina Tarraf (feat. Alik Tarraf)",
+      "creditText": "Alik Tarraf & Marina Tarraf",
       "numTracks": 1,
       "datePublished": "2026-02-07",
       "track": {
@@ -17711,13 +17719,13 @@
       "musicReleaseFormat": "https://schema.org/DigitalFormat",
       "creditedTo": [
         {
-          "@id": "https://aliktarraf.com/#marina-tarraf"
+          "@id": "https://aliktarraf.com/#alik-tarraf"
         },
         {
-          "@id": "https://aliktarraf.com/#alik-tarraf"
+          "@id": "https://aliktarraf.com/#marina-tarraf"
         }
       ],
-      "creditText": "Marina Tarraf (feat. Alik Tarraf)",
+      "creditText": "Alik Tarraf & Marina Tarraf",
       "recordLabel": {
         "@id": "https://aliktarraf.com/#tarraf-productions"
       },
@@ -17727,6 +17735,11 @@
           "@type": "PropertyValue",
           "propertyID": "TARRAF Catalog Release ID",
           "value": "SNG-186"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "UPC",
+          "value": "821473216367"
         }
       ]
     },
@@ -17737,6 +17750,9 @@
       "isrcCode": "QZHN62632358",
       "byArtist": [
         {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        },
+        {
           "@id": "https://aliktarraf.com/#marina-tarraf"
         }
       ],
@@ -17745,7 +17761,7 @@
           "@id": "https://aliktarraf.com/#alik-tarraf"
         }
       ],
-      "creditText": "Marina Tarraf (feat. Alik Tarraf)",
+      "creditText": "Alik Tarraf & Marina Tarraf",
       "datePublished": "2026-02-07",
       "duration": "PT4M46.169S",
       "inAlbum": {
@@ -17830,6 +17846,11 @@
           "@type": "PropertyValue",
           "propertyID": "TARRAF Catalog Release ID",
           "value": "SNG-187"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "UPC",
+          "value": "821460245240"
         }
       ]
     },
@@ -17933,8 +17954,14 @@
           "@type": "PropertyValue",
           "propertyID": "TARRAF Catalog Release ID",
           "value": "SNG-188"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "UPC",
+          "value": "821317236131"
         }
-      ]
+      ],
+      "contentRating": "Explicit"
     },
     {
       "@type": "MusicRecording",
@@ -17969,7 +17996,8 @@
           "propertyID": "TARRAF Catalog Track ID",
           "value": "TRK-0233"
         }
-      ]
+      ],
+      "contentRating": "Explicit"
     },
     {
       "@type": "MusicAlbum",
@@ -18036,6 +18064,11 @@
           "@type": "PropertyValue",
           "propertyID": "TARRAF Catalog Release ID",
           "value": "SNG-189"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "UPC",
+          "value": "821300929286"
         }
       ]
     },
@@ -18139,6 +18172,11 @@
           "@type": "PropertyValue",
           "propertyID": "TARRAF Catalog Release ID",
           "value": "SNG-190"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "UPC",
+          "value": "825715730314"
         }
       ]
     },
@@ -18684,6 +18722,11 @@
           "@type": "PropertyValue",
           "propertyID": "TARRAF Catalog Release ID",
           "value": "SNG-195"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "UPC",
+          "value": "825628112610"
         }
       ]
     },

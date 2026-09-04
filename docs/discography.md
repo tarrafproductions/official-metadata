@@ -6,8 +6,7 @@ This document is the human-readable index of the verified partial discography pu
 
 - 216 reconstructed digital single release products.
 - 216 distinct studio recording rows with valid ISRC identifiers.
-- 209 single releases with valid UPC identifiers.
-- 7 single releases whose UPC is not yet available in the verified source package.
+- 216 single releases with valid UPC identifiers.
 - 1 single release whose release date is not yet available in the verified source package.
 - 57 additional single release products remain unresolved because the full DistroKid catalog export was not included in the source package.
 
@@ -17,17 +16,7 @@ The live albums and their 64 recordings are maintained separately in [`releases/
 
 GitHub provides version history and public provenance; it does not replace registrations with performing-rights organizations, mechanical-rights organizations, SoundExchange, distributors, ISRC/UPC agencies, or copyright authorities.
 
-## Missing identifiers requiring source completion
-
-### UPC
-
-- SNG-185 — TARRAF LIVE SHOW (Live)
-- SNG-186 — THE END
-- SNG-187 — GOODBYE
-- SNG-188 — Не продавай себя
-- SNG-189 — Continuity / Мы- Переход [Manifesto]
-- SNG-190 — Детская боль
-- SNG-195 — Más Cerca / Closer [PART II]
+## Missing identifier requiring source completion
 
 ### Release date
 
@@ -221,17 +210,17 @@ GitHub provides version history and public provenance; it does not replace regis
 | SNG-182 | 2026-01-12 | DICTATOR MODE | Marina Tarraf (feat. Alik Tarraf) | 821530772225 | QZDA42696455 | Source-normalized |
 | SNG-183 | 2026-01-12 | I’M HUNGRY | Alik Tarraf | 821530774205 | QZDA42650506 | Source-normalized |
 | SNG-184 | 2026-01-13 | Тарраф продакшинс поздравляет с Новым Годом | Alik Tarraf | 199934754469 | QZFZ42614354 | Source-normalized |
-| SNG-185 | 2026-01-27 | TARRAF LIVE SHOW (Live) | Alik Tarraf | — | QZHN62624144 | Public-catalog verified |
-| SNG-186 | 2026-02-07 | THE END | Marina Tarraf (feat. Alik Tarraf) | — | QZHN62632358 | Public-catalog verified |
-| SNG-187 | 2026-02-12 | GOODBYE | Marina Tarraf (feat. Alik Tarraf) | — | QZHNA2677833 | Public-catalog verified |
-| SNG-188 | 2026-02-27 | Не продавай себя | Marina Tarraf (feat. Alik Tarraf) | — | QZK6F2691254 | Public-catalog verified |
-| SNG-189 | 2026-02-28 | Continuity / Мы- Переход [Manifesto] | Marina Tarraf (feat. Alik Tarraf) | — | QZMEP2665142 | Public-catalog verified |
-| SNG-190 | 2026-03-21 | Детская боль | Alik Tarraf (feat. Marina Tarraf) | — | QZTAS2690128 | Public-catalog verified |
+| SNG-185 | 2026-01-27 | TARRAF LIVE SHOW (Live) | Alik Tarraf | 821473229817 | QZHN62624144 | DistroKid dashboard verified |
+| SNG-186 | 2026-02-07 | THE END | Alik Tarraf & Marina Tarraf | 821473216367 | QZHN62632358 | DistroKid dashboard verified |
+| SNG-187 | 2026-02-12 | GOODBYE | Marina Tarraf (feat. Alik Tarraf) | 821460245240 | QZHNA2677833 | DistroKid dashboard verified |
+| SNG-188 | 2026-02-27 | Не продавай себя | Marina Tarraf (feat. Alik Tarraf) | 821317236131 | QZK6F2691254 | DistroKid dashboard verified |
+| SNG-189 | 2026-02-28 | Continuity / Мы- Переход [Manifesto] | Marina Tarraf (feat. Alik Tarraf) | 821300929286 | QZMEP2665142 | DistroKid dashboard verified |
+| SNG-190 | 2026-03-21 | Детская боль | Alik Tarraf (feat. Marina Tarraf) | 825715730314 | QZTAS2690128 | DistroKid dashboard verified |
 | SNG-191 | 2026-04-04 | Я не став поганим | Alik Tarraf | 825626325975 | QZTB72616159 | Public-catalog verified |
 | SNG-192 | 2026-04-07 | Bèsame, Ya habibi | Alik Tarraf (feat. Marina Tarraf) | 825626671508 | QZTB82636905 | Public-catalog verified |
 | SNG-193 | 2026-04-09 | Ignis in me | Alik Tarraf | 825583082898 | QZTB92656644 | Public-catalog verified |
 | SNG-194 | 2026-04-12 | Буллинг | Marina Tarraf (feat. Alik Tarraf) | 825583066386 | QZTBA2623452 | Public-catalog verified |
-| SNG-195 | 2026-04-15 | Más Cerca / Closer [PART II] | Marina Tarraf (feat. Alik Tarraf) | — | QZTB52684532 | Public-catalog verified |
+| SNG-195 | 2026-04-15 | Más Cerca / Closer [PART II] | Marina Tarraf (feat. Alik Tarraf) | 825628112610 | QZTB52684532 | DistroKid dashboard verified |
 | SNG-196 | 2026-04-17 | Позвони родителям | Alik Tarraf | 825484105085 | QZWFF2662937 | Public-catalog verified |
 | SNG-197 | 2026-04-18 | Desert Dominus | Alik Tarraf (feat. Marina Tarraf) | 825484097878 | QZWFF2663284 | Public-catalog verified |
 | SNG-198 | 2026-04-19 | Ой, не спи | Alik Tarraf | 825484093344 | QZTBF2666514 | Public-catalog verified |
@@ -256,7 +245,7 @@ GitHub provides version history and public provenance; it does not replace regis
 
 ## Provenance
 
-Derived from the TARRAF PRODUCTIONS master discography and rights workbook supplied for this repository update. Source coverage was audited on 2026-07-25. Only public catalog facts needed for identification are published here; private source paths, correspondence, and unsupported fields are excluded.
+Derived from the TARRAF PRODUCTIONS master discography and rights workbook supplied for this repository update. Source coverage was audited on 2026-07-25. Seven previously missing UPC values, the joint primary-artist credit for `THE END`, and the explicit-content designation for `Не продавай себя` were verified directly against first-party DistroKid dashboard records on 2026-09-04. Only public catalog facts needed for identification are published here; private source paths, correspondence, and unsupported fields are excluded.
 
 ---
 
