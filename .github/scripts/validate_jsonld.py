@@ -44,7 +44,7 @@ EXPECTED_ALBUM_CREDIT_TEXT = {
 }
 STUDIO_SINGLES_PATH = Path("releases/studio-singles.jsonld")
 STUDIO_SINGLE_MINIMUM = 216
-STUDIO_UPC_MINIMUM = 209
+STUDIO_UPC_MINIMUM = 216
 CATALOG_RELEASE_ID_PREFIX = "https://aliktarraf.com/#catalog-sng-"
 CATALOG_RECORDING_ID_PREFIX = "https://aliktarraf.com/#catalog-trk-"
 ISRC_PATTERN = re.compile(r"^[A-Z]{2}[A-Z0-9]{3}[0-9]{7}$")
@@ -165,6 +165,19 @@ def property_values(node: dict[str, Any], property_id: str) -> list[str]:
     ]
 
 
+def is_valid_gtin(value: str) -> bool:
+    """Validate a 12–14 digit GTIN, including its check digit."""
+    if not UPC_PATTERN.fullmatch(value):
+        return False
+
+    payload = reversed(value[:-1])
+    total = sum(
+        int(digit) * (3 if offset % 2 == 0 else 1)
+        for offset, digit in enumerate(payload)
+    )
+    return (-total) % 10 == int(value[-1])
+
+
 def validate_studio_singles(document: Any) -> list[str]:
     """Validate the public studio-single register without inventing source gaps."""
     errors: list[str] = []
@@ -230,15 +243,18 @@ def validate_studio_singles(document: Any) -> list[str]:
         identifier = node.get("@id", "<missing @id>")
         if not node.get("releaseOf") or not node.get("recordLabel"):
             errors.append(f"{identifier}: release requires releaseOf and recordLabel")
-        for upc in property_values(node, "UPC"):
-            if not UPC_PATTERN.fullmatch(upc):
-                errors.append(f"{identifier}: invalid UPC {upc!r}")
+        node_upcs = property_values(node, "UPC")
+        if len(node_upcs) != 1:
+            errors.append(f"{identifier}: release requires exactly one UPC")
+        for upc in node_upcs:
+            if not is_valid_gtin(upc):
+                errors.append(f"{identifier}: invalid UPC format or check digit {upc!r}")
             else:
                 upcs.append(upc)
 
-    if len(upcs) < STUDIO_UPC_MINIMUM:
+    if len(upcs) != STUDIO_UPC_MINIMUM:
         errors.append(
-            f"{STUDIO_SINGLES_PATH}: expected at least {STUDIO_UPC_MINIMUM} "
+            f"{STUDIO_SINGLES_PATH}: expected exactly {STUDIO_UPC_MINIMUM} "
             f"verified UPC values, found {len(upcs)}"
         )
     if len(upcs) != len(set(upcs)):
