@@ -20796,14 +20796,17 @@
     {
       "@type": "MusicAlbum",
       "@id": "https://aliktarraf.com/#catalog-sng-214",
-      "name": "Epic Evolution Music [Live Studio Session]",
+      "name": "Epic Evolution Music (Live Studio Session)",
       "albumReleaseType": "https://schema.org/SingleRelease",
       "byArtist": [
         {
           "@id": "https://aliktarraf.com/#alik-tarraf"
+        },
+        {
+          "@id": "https://aliktarraf.com/#marina-tarraf"
         }
       ],
-      "creditText": "Alik Tarraf",
+      "creditText": "Alik Tarraf & Marina Tarraf",
       "numTracks": 1,
       "datePublished": "2026-06-19",
       "track": {
@@ -20832,7 +20835,7 @@
     {
       "@type": "MusicRelease",
       "@id": "https://aliktarraf.com/#catalog-sng-214-digital-release",
-      "name": "Epic Evolution Music [Live Studio Session] — Digital Single Release",
+      "name": "Epic Evolution Music (Live Studio Session) — Digital Single Release",
       "releaseOf": {
         "@id": "https://aliktarraf.com/#catalog-sng-214"
       },
@@ -20841,9 +20844,12 @@
       "creditedTo": [
         {
           "@id": "https://aliktarraf.com/#alik-tarraf"
+        },
+        {
+          "@id": "https://aliktarraf.com/#marina-tarraf"
         }
       ],
-      "creditText": "Alik Tarraf",
+      "creditText": "Alik Tarraf & Marina Tarraf",
       "recordLabel": {
         "@id": "https://aliktarraf.com/#tarraf-productions"
       },
@@ -20867,14 +20873,17 @@
     {
       "@type": "MusicRecording",
       "@id": "https://aliktarraf.com/#catalog-trk-0259",
-      "name": "Epic Evolution Music [Live Studio Session]",
+      "name": "Epic Evolution Music (Live Studio Session)",
       "isrcCode": "QZZ7R2695699",
       "byArtist": [
         {
           "@id": "https://aliktarraf.com/#alik-tarraf"
+        },
+        {
+          "@id": "https://aliktarraf.com/#marina-tarraf"
         }
       ],
-      "creditText": "Alik Tarraf",
+      "creditText": "Alik Tarraf & Marina Tarraf",
       "datePublished": "2026-06-19",
       "duration": "PT6M31.96S",
       "inAlbum": {
@@ -21045,7 +21054,8 @@
           "propertyID": "TARRAF Catalog Release ID",
           "value": "SNG-216"
         }
-      ]
+      ],
+      "datePublished": "2025-09-07"
     },
     {
       "@type": "MusicRelease",
@@ -21079,7 +21089,8 @@
           "propertyID": "UPC",
           "value": "199736865578"
         }
-      ]
+      ],
+      "datePublished": "2025-09-07"
     },
     {
       "@type": "MusicRecording",
@@ -21112,7 +21123,8 @@
           "propertyID": "TARRAF Catalog Track ID",
           "value": "TRK-0261"
         }
-      ]
+      ],
+      "datePublished": "2025-09-07"
     }
   ]
 }
