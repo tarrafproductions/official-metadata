@@ -4,6 +4,7 @@
 from __future__ import annotations
 
 import json
+import re
 import sys
 from collections import defaultdict
 from pathlib import Path
@@ -41,6 +42,14 @@ EXPECTED_ALBUM_CREDIT_TEXT = {
     "Producers: Ivan Dolhopiat, Ihor Kvilinskyi, Waleed Robbie, and Nazarii Storozhuk",
     "Production and recording: TARRAF PRODUCTIONS",
 }
+STUDIO_SINGLES_PATH = Path("releases/studio-singles.jsonld")
+STUDIO_SINGLE_MINIMUM = 216
+STUDIO_UPC_MINIMUM = 209
+CATALOG_RELEASE_ID_PREFIX = "https://aliktarraf.com/#catalog-sng-"
+CATALOG_RECORDING_ID_PREFIX = "https://aliktarraf.com/#catalog-trk-"
+ISRC_PATTERN = re.compile(r"^[A-Z]{2}[A-Z0-9]{3}[0-9]{7}$")
+UPC_PATTERN = re.compile(r"^[0-9]{12,14}$")
+FORBIDDEN_PUBLIC_VALUES = {"690", "Needs verification"}
 
 
 def walk_json(value: Any, location: str = "$") -> Iterator[tuple[Any, str]]:
@@ -138,6 +147,112 @@ def validate_live_production_graph(nodes: dict[str, dict[str, Any]]) -> list[str
                 errors.append(
                     f"{identifier}: missing verified production credit text: {missing}"
                 )
+
+    return errors
+
+
+def property_values(node: dict[str, Any], property_id: str) -> list[str]:
+    """Return PropertyValue values matching a propertyID."""
+    identifiers = node.get("identifier", [])
+    items = identifiers if isinstance(identifiers, list) else [identifiers]
+    return [
+        item["value"]
+        for item in items
+        if isinstance(item, dict)
+        and item.get("@type") == "PropertyValue"
+        and item.get("propertyID") == property_id
+        and isinstance(item.get("value"), str)
+    ]
+
+
+def validate_studio_singles(document: Any) -> list[str]:
+    """Validate the public studio-single register without inventing source gaps."""
+    errors: list[str] = []
+    if not isinstance(document, dict) or not isinstance(document.get("@graph"), list):
+        return [f"{STUDIO_SINGLES_PATH}: expected an @graph array"]
+
+    graph = document["@graph"]
+    albums = [
+        node
+        for node in graph
+        if isinstance(node, dict)
+        and node.get("@type") == "MusicAlbum"
+        and str(node.get("@id", "")).startswith(CATALOG_RELEASE_ID_PREFIX)
+        and not str(node.get("@id", "")).endswith("-digital-release")
+    ]
+    releases = [
+        node
+        for node in graph
+        if isinstance(node, dict)
+        and node.get("@type") == "MusicRelease"
+        and str(node.get("@id", "")).startswith(CATALOG_RELEASE_ID_PREFIX)
+    ]
+    recordings = [
+        node
+        for node in graph
+        if isinstance(node, dict)
+        and node.get("@type") == "MusicRecording"
+        and str(node.get("@id", "")).startswith(CATALOG_RECORDING_ID_PREFIX)
+    ]
+
+    counts = {
+        "single release works": len(albums),
+        "digital releases": len(releases),
+        "studio recordings": len(recordings),
+    }
+    for label, count in counts.items():
+        if count < STUDIO_SINGLE_MINIMUM:
+            errors.append(
+                f"{STUDIO_SINGLES_PATH}: expected at least "
+                f"{STUDIO_SINGLE_MINIMUM} {label}, found {count}"
+            )
+    if len(set(counts.values())) != 1:
+        errors.append(
+            f"{STUDIO_SINGLES_PATH}: release/recording layer counts differ: {counts}"
+        )
+
+    isrcs: list[str] = []
+    for node in recordings:
+        identifier = node.get("@id", "<missing @id>")
+        isrc = node.get("isrcCode")
+        if not isinstance(isrc, str) or not ISRC_PATTERN.fullmatch(isrc):
+            errors.append(f"{identifier}: missing or invalid isrcCode")
+        else:
+            isrcs.append(isrc)
+        if not node.get("name") or not node.get("byArtist"):
+            errors.append(f"{identifier}: recording requires name and byArtist")
+
+    if len(isrcs) != len(set(isrcs)):
+        errors.append(f"{STUDIO_SINGLES_PATH}: duplicate ISRC values found")
+
+    upcs: list[str] = []
+    for node in releases:
+        identifier = node.get("@id", "<missing @id>")
+        if not node.get("releaseOf") or not node.get("recordLabel"):
+            errors.append(f"{identifier}: release requires releaseOf and recordLabel")
+        for upc in property_values(node, "UPC"):
+            if not UPC_PATTERN.fullmatch(upc):
+                errors.append(f"{identifier}: invalid UPC {upc!r}")
+            else:
+                upcs.append(upc)
+
+    if len(upcs) < STUDIO_UPC_MINIMUM:
+        errors.append(
+            f"{STUDIO_SINGLES_PATH}: expected at least {STUDIO_UPC_MINIMUM} "
+            f"verified UPC values, found {len(upcs)}"
+        )
+    if len(upcs) != len(set(upcs)):
+        errors.append(f"{STUDIO_SINGLES_PATH}: duplicate UPC values found")
+
+    for value, location in walk_json(document):
+        if isinstance(value, str) and value in FORBIDDEN_PUBLIC_VALUES:
+            errors.append(
+                f"{STUDIO_SINGLES_PATH}:{location}: forbidden placeholder {value!r}"
+            )
+        if isinstance(value, str) and "/search" in value:
+            errors.append(
+                f"{STUDIO_SINGLES_PATH}:{location}: search URL cannot be sameAs evidence"
+            )
 
     return errors
 
@@ -256,6 +371,11 @@ def validate_repository(root: Path) -> list[str]:
         errors.append("catalog.jsonld contains duplicate dataset distributions")
 
     errors.extend(validate_live_production_graph(definition_nodes))
+    studio_document = documents.get(STUDIO_SINGLES_PATH)
+    if studio_document is None:
+        errors.append(f"Missing studio singles dataset: {STUDIO_SINGLES_PATH}")
+    else:
+        errors.extend(validate_studio_singles(studio_document))
 
     if not errors:
         print("JSON-LD validation passed")

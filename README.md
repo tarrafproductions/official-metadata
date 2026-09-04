@@ -33,10 +33,12 @@ The repository is a source of truth and a version history. Publishing JSON-LD he
 - [`entities/creative-universe.jsonld`](entities/creative-universe.jsonld) — connected JSON-LD graph for Epic Evolution Music, TARRAF LIVE SHOW, TARRAF PRODUCTIONS LIVE, TARRAF EPIC CHOIR, and OBARABO.
 - [`releases/live-trilogy.jsonld`](releases/live-trilogy.jsonld) — linked JSON-LD graph for the TARRAF PRODUCTIONS LIVE recording event, its three albums, and their digital releases.
 - [`releases/live-tracklists.jsonld`](releases/live-tracklists.jsonld) — official ordered track lists for all three TARRAF PRODUCTIONS LIVE volumes (64 recordings in total).
+- [`releases/studio-singles.jsonld`](releases/studio-singles.jsonld) — verified partial register of 216 digital single releases and their 216 studio recordings, with stable internal identifiers and ISRC values.
+- [`docs/discography.md`](docs/discography.md) — human-readable discography register, documented coverage limits, and unresolved source gaps.
 - [`docs/live-production-credits.md`](docs/live-production-credits.md) — verified production-credit matrix for the Fujairah recording event, live trilogy, and 64 recordings.
 - [`docs/website-integration.md`](docs/website-integration.md) — implementation contract for multilingual Vite/React pages, pre-rendering, canonical URLs, `hreflang`, and JSON-LD.
 
-Planned additions will assign stable identifiers to individual recordings and document other verified projects as their official public references become available.
+The studio-single register currently covers 216 of 273 reported single release products. Fifty-seven additional singles remain intentionally unpublished until the full DistroKid export or equivalent first-party evidence is available. Missing values are never inferred.
 
 ## Validation
 
@@ -66,3 +68,4 @@ Unless a file contains an explicit license stating otherwise, no license is gran
 **TARRAF PRODUCTIONS® · EPIC EVOLUTION MUSIC**
 
 © 2025–2026 TARRAF PRODUCTIONS. All rights reserved.
+
