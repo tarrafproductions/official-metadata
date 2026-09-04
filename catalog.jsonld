@@ -3,7 +3,7 @@
   "@type": "DataCatalog",
   "@id": "https://github.com/tarrafproductions/official-metadata#catalog",
   "name": "TARRAF PRODUCTIONS Official Metadata Catalog",
-  "description": "Machine-readable catalog of official identity, creative-universe, event, album, release, and ordered track-list metadata for TARRAF PRODUCTIONS.",
+  "description": "Machine-readable catalog of official identity, creative-universe, event, album, release, ordered track-list, and verified partial studio-discography metadata for TARRAF PRODUCTIONS.",
   "url": "https://github.com/tarrafproductions/official-metadata",
   "creator": {
     "@id": "https://aliktarraf.com/#tarraf-productions"
@@ -121,6 +121,35 @@
         "@type": "DataDownload",
         "encodingFormat": "application/ld+json",
         "contentUrl": "https://raw.githubusercontent.com/tarrafproductions/official-metadata/main/releases/live-tracklists.jsonld"
+      }
+    },
+    {
+      "@type": "Dataset",
+      "@id": "https://github.com/tarrafproductions/official-metadata#studio-singles",
+      "name": "TARRAF PRODUCTIONS Verified Studio Singles Register",
+      "description": "Verified partial register of 216 digital single releases and their 216 studio recordings. The source package is incomplete; known catalog gaps are documented and no missing values are fabricated.",
+      "dateModified": "2026-07-25",
+      "about": [
+        {
+          "@id": "https://aliktarraf.com/#tarraf-productions"
+        },
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        },
+        {
+          "@id": "https://aliktarraf.com/#marina-tarraf"
+        }
+      ],
+      "variableMeasured": [
+        "216 single release products",
+        "216 studio recordings with ISRC",
+        "209 releases with verified UPC",
+        "57 known unresolved single release products"
+      ],
+      "distribution": {
+        "@type": "DataDownload",
+        "encodingFormat": "application/ld+json",
+        "contentUrl": "https://raw.githubusercontent.com/tarrafproductions/official-metadata/main/releases/studio-singles.jsonld"
       }
     }
   ]
