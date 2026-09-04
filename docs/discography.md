@@ -4,12 +4,13 @@ This document is the human-readable index of the verified partial discography pu
 
 ## Scope and status
 
-- 216 reconstructed digital single release products.
+- 216 reconstructed digital single release products published as canonical JSON-LD.
 - 216 distinct studio recording rows with valid ISRC identifiers.
 - 216 single releases with valid UPC identifiers.
-- 57 additional single release products remain unresolved because the full DistroKid catalog export was not included in the source package.
+- 59 additional single products confirmed in first-party DistroKid dashboard overview captures.
+- 275 studio-single products observed in total.
 
-This is explicitly a **partial verified register**, not a claim of complete catalog coverage. Missing values are omitted rather than inferred. Search-result URLs, estimated language labels, unverified AI/explicit/instrumental flags, and provisional rights data are not published as facts.
+This is explicitly a **partial canonical register**. The 59 observed but unresolved products are preserved in [`sources/distrokid-dashboard-observations-2026-09-04.json`](../sources/distrokid-dashboard-observations-2026-09-04.json). They are not yet added to the JSON-LD release graph because the overview captures do not expose the required release date, UPC, and ISRC. Missing values are omitted rather than inferred. Search-result URLs, estimated language labels, unverified AI/explicit/instrumental flags, and provisional rights data are not published as facts.
 
 The live albums and their 64 recordings are maintained separately in [`releases/live-trilogy.jsonld`](../releases/live-trilogy.jsonld) and [`releases/live-tracklists.jsonld`](../releases/live-tracklists.jsonld).
 
@@ -238,7 +239,7 @@ GitHub provides version history and public provenance; it does not replace regis
 
 ## Provenance
 
-Derived from the TARRAF PRODUCTIONS master discography and rights workbook supplied for this repository update. Source coverage was audited on 2026-07-25. Seven previously missing UPC values, the release date for `APOCALYPSES`, the joint primary-artist credits for `THE END` and `Epic Evolution Music (Live Studio Session)`, the exact version-title punctuation for the latter release, and the explicit-content designation for `Не продавай себя` were verified directly against first-party DistroKid dashboard records on 2026-09-04. Only public catalog facts needed for identification are published here; private source paths, correspondence, and unsupported fields are excluded.
+Derived from the TARRAF PRODUCTIONS master discography and rights workbook supplied for this repository update. Source coverage was audited on 2026-07-25. Seven previously missing UPC values, the release date for `APOCALYPSES`, the joint primary-artist credits for `THE END` and `Epic Evolution Music (Live Studio Session)`, the exact version-title punctuation for the latter release, and the explicit-content designation for `Не продавай себя` were verified directly against first-party DistroKid dashboard records on 2026-09-04. A complete dashboard overview capture from `My Heart Says Goodbye` through `SWINGS` was reviewed the same day; after reconciliation with the 216 canonical singles it confirmed 59 additional distinct single products. Only public catalog facts needed for identification are published here; private source paths, correspondence, and unsupported fields are excluded.
 
 ---
 
