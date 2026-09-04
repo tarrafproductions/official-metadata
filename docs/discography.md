@@ -4,13 +4,13 @@ This document is the human-readable index of the verified partial discography pu
 
 ## Scope and status
 
-- 216 reconstructed digital single release products published as canonical JSON-LD.
-- 216 distinct studio recording rows with valid ISRC identifiers.
-- 216 single releases with valid UPC identifiers.
-- 59 additional single products confirmed in first-party DistroKid dashboard overview captures.
+- 275 reconstructed digital single release products published as canonical JSON-LD.
+- 275 distinct studio recording rows with valid ISRC identifiers.
+- 275 single releases with valid UPC identifiers.
+- 59 additional single products reconciled from first-party DistroKid dashboard detail records.
 - 275 studio-single products observed in total.
 
-This is explicitly a **partial canonical register**. The 59 observed but unresolved products are preserved in [`sources/distrokid-dashboard-observations-2026-09-04.json`](../sources/distrokid-dashboard-observations-2026-09-04.json). They are not yet added to the JSON-LD release graph because the overview captures do not expose the required release date, UPC, and ISRC. Missing values are omitted rather than inferred. Search-result URLs, estimated language labels, unverified AI/explicit/instrumental flags, and provisional rights data are not published as facts.
+This is a **verified canonical register of the 275 studio-single products observed in the supplied first-party DistroKid catalog evidence**. The 59 products previously awaiting identifiers are documented in [`sources/distrokid-dashboard-observations-2026-09-04.json`](../sources/distrokid-dashboard-observations-2026-09-04.json) and are now reconciled into the JSON-LD release graph using their DistroKid release date, UPC, ISRC, duration, and explicit-content status. Missing or unsupported values continue to be omitted rather than inferred.
 
 The live albums and their 64 recordings are maintained separately in [`releases/live-trilogy.jsonld`](../releases/live-trilogy.jsonld) and [`releases/live-tracklists.jsonld`](../releases/live-tracklists.jsonld).
 
@@ -236,10 +236,69 @@ GitHub provides version history and public provenance; it does not replace regis
 | SNG-214 | 2026-06-19 | Epic Evolution Music (Live Studio Session) | Alik Tarraf & Marina Tarraf | 825192166156 | QZZ7R2695699 | DistroKid dashboard verified |
 | SNG-215 | 2026-06-21 | Still Yours (LIVE) | Alik Tarraf & Marina Tarraf | 883369720266 | QT3FE2691958 | Public-catalog verified |
 | SNG-216 | 2025-09-07 | APOCALYPSES | Alik Tarraf (feat. Marina Tarraf) | 199736865578 | QZZ7S2565863 | DistroKid dashboard verified |
+| SNG-217 | 2026-10-23 | My Heart Says Goodbye | Alik Tarraf | 881864059270 | QT6G62628340 | DistroKid detail verified |
+| SNG-218 | 2026-10-10 | Jordan - الأرض المقدسة | Alik Tarraf & Marina Tarraf | 882436167232 | QT6G22657676 | DistroKid detail verified |
+| SNG-219 | 2026-05-17 | Bite the light (Studio Live Session) | Marina Tarraf | 825254977096 | QZZ7L2614061 | DistroKid detail verified |
+| SNG-220 | 2015-05-05 | Pick It Up | Manik Bhatheja | 825293554333 | QZZ772605191 | DistroKid detail verified |
+| SNG-221 | 2026-05-06 | Живая | Marina Tarraf | 825353069494 | QZWFQ2609943 | DistroKid detail verified |
+| SNG-222 | 2026-04-25 | Удаляй меня | Marina Tarraf | 825500873585 | QZTB92689800 | DistroKid detail verified |
+| SNG-223 | 2026-04-21 | Не звони мне | Marina Tarraf | 825500876043 | QZTB92686995 | DistroKid detail verified |
+| SNG-224 | 2026-04-16 | This is goodbye | Marina Tarraf | 825583038222 | QZTB92661671 | DistroKid detail verified |
+| SNG-225 | 2026-04-10 | Хто ти тепер | Alik Tarraf | 825626537774 | QZTB62662325 | DistroKid detail verified |
+| SNG-226 | 2026-04-13 | NON STOP (Soundtrack) | Alik Tarraf | 825626650879 | QZTB62644697 | DistroKid detail verified |
+| SNG-227 | 2026-04-11 | EPIC MODE | Alik Tarraf | 825626657786 | QZTB62641981 | DistroKid detail verified |
+| SNG-228 | 2026-04-02 | Разлом (Soundtrack) | Marina Tarraf | 825626696211 | QZTB62638190 | DistroKid detail verified |
+| SNG-229 | 2026-04-05 | 18+ | Alik Tarraf | 825628100518 | QZTB52643580 | DistroKid detail verified |
+| SNG-230 | 2026-04-08 | Школа жизни | Alik Tarraf | 825682070222 | QZTAZ2642798 | DistroKid detail verified |
+| SNG-231 | 2026-03-25 | I Will Always Love You | Marina Tarraf | 825758987270 | QZPLR2649825 | DistroKid detail verified |
+| SNG-232 | 2026-03-03 | Aliana | Alik Tarraf (feat. Marina Tarraf) | 821201623535 | QZNWU2642118 | DistroKid detail verified |
+| SNG-233 | 2026-03-07 | ОБРАТНЫЙ ОТСЧЁТ | Alik Tarraf | 821275786952 | QZNWR2670507 | DistroKid detail verified |
+| SNG-234 | 2026-03-15 | Coco Jamboo | Alik Tarraf (feat. Marina Tarraf) | 821300139999 | QZNWR2639595 | DistroKid detail verified |
+| SNG-235 | 2026-03-04 | ObaTar (Soundtrack) | Alik Tarraf | 821300143590 | QZMEQ2691709 | DistroKid detail verified |
+| SNG-236 | 2026-03-02 | Не спрашивай потом | Alik Tarraf | 821300623306 | QZMEP2687524 | DistroKid detail verified |
+| SNG-237 | 2026-03-01 | Он рисует мир | Alik Tarraf | 821300919539 | QZMEP2615493 | DistroKid detail verified |
+| SNG-238 | 2026-02-26 | После 40 | Alik Tarraf | 821406369436 | QZK6J2673410 | DistroKid detail verified |
+| SNG-239 | 2026-03-15 | OBARABO (الصحراء العجيبة) | Alik Tarraf | 821406526259 | QZK6J2642099 | DistroKid detail verified |
+| SNG-240 | 2026-02-24 | Мой путь (LIVE) | Alik Tarraf | 821430004266 | QZK6H2644131 | DistroKid detail verified |
+| SNG-241 | 2026-03-11 | OBARABO (DOMINÉ) | Alik Tarraf | 821430010977 | QZK6K2667471 | DistroKid detail verified |
+| SNG-242 | 2026-03-03 | OBARABO (ANRA LUMÉ) | Alik Tarraf | 821430023823 | QZK6K2667447 | DistroKid detail verified |
+| SNG-243 | 2026-02-24 | I Rise | Alik Tarraf | 821430038339 | QZK6K2665001 | DistroKid detail verified |
+| SNG-244 | 2026-02-23 | Любовь | Alik Tarraf | 821430041100 | QZK6K2662665 | DistroKid detail verified |
+| SNG-245 | 2026-02-22 | La vita | Alik Tarraf | 821438386760 | QZK6N2680514 | DistroKid detail verified |
+| SNG-246 | 2026-02-21 | Democrats | Alik Tarraf | 821438394826 | QZK6N2680321 | DistroKid detail verified |
+| SNG-247 | 2026-02-19 | Моё нутро | Alik Tarraf | 821438401593 | QZK6N2674431 | DistroKid detail verified |
+| SNG-248 | 2026-02-18 | حبك مو لعبة | Alik Tarraf & Marina Tarraf | 821438418959 | QZK6L2688208 | DistroKid detail verified |
+| SNG-249 | 2026-02-17 | Más Cerca / Closer | Alik Tarraf (feat. Marina Tarraf) | 821438428491 | QZK6L2688089 | DistroKid detail verified |
+| SNG-250 | 2026-02-14 | الليلة مجنونة | Alik Tarraf | 821438443043 | QZK6N2667269 | DistroKid detail verified |
+| SNG-251 | 2026-02-11 | Tell me why | Alik Tarraf | 821438452847 | QZK6N2663590 | DistroKid detail verified |
+| SNG-252 | 2026-02-16 | Все хорошо (Live) | Marina Tarraf | 821440980352 | QZK6N2617663 | DistroKid detail verified |
+| SNG-253 | 2026-02-25 | OBARAE (TARRAF RITUAL SONG) | Alik Tarraf & Marina Tarraf | 821460277760 | QZHNA2667994 | DistroKid detail verified |
+| SNG-254 | 2026-02-20 | OBARABO STI-ME (TARRAF RITUAL SONG) | Marina Tarraf | 821460278200 | QZHN82648633 | DistroKid detail verified |
+| SNG-255 | 2026-02-09 | ParaDiseDox | Alik Tarraf | 821470289883 | QZHN62670941 | DistroKid detail verified |
+| SNG-256 | 2026-02-07 | СРОК ИСТЁК | Alik Tarraf | 821470325635 | QZHN62666102 | DistroKid detail verified |
+| SNG-257 | 2026-02-05 | AVE LUMEN AETERNUM (Ritual Song) | Alik Tarraf | 821470350026 | QZHN62662026 | DistroKid detail verified |
+| SNG-258 | 2026-01-29 | Выбираю себя | Alik Tarraf & Marina Tarraf | 821470729174 | QZHN52672795 | DistroKid detail verified |
+| SNG-259 | 2026-02-15 | OBARABO (TARRAF RITUAL SONG ) | Alik Tarraf | 821473122996 | QZHN42693830 | DistroKid detail verified |
+| SNG-260 | 2026-02-13 | Жизнь не игра | Alik Tarraf | 821473147562 | QZHN42684128 | DistroKid detail verified |
+| SNG-261 | 2026-01-31 | We are different | Alik Tarraf | 821473208997 | QZHN42675661 | DistroKid detail verified |
+| SNG-262 | 2026-01-29 | ОСТАВЛЮ СЛЕД | Alik Tarraf | 821473224478 | QZHN42671448 | DistroKid detail verified |
+| SNG-263 | 2026-02-03 | Still here ((TARRAF LIVE SHOW)) | Marina Tarraf | 821473813634 | QZHN42674434 | DistroKid detail verified |
+| SNG-264 | 2026-02-01 | Good morning world | Alik Tarraf | 821473829871 | QZHN32622972 | DistroKid detail verified |
+| SNG-265 | 2026-02-10 | Detonate | Alik Tarraf | 821473835087 | QZHN32622943 | DistroKid detail verified |
+| SNG-266 | 2026-02-02 | МАРИНА | Alik Tarraf | 821473841729 | QZHN32620913 | DistroKid detail verified |
+| SNG-267 | 2026-02-03 | Страсть Боль Прощение | Alik Tarraf | 821473846700 | QZHN32620896 | DistroKid detail verified |
+| SNG-268 | 2026-02-06 | Пока мы живы | Alik Tarraf (feat. Marina Tarraf) | 821473850189 | QZHN42663366 | DistroKid detail verified |
+| SNG-269 | 2026-02-08 | Я слышу тебя | Alik Tarraf | 821473856082 | QZHN32618130 | DistroKid detail verified |
+| SNG-270 | 2026-01-25 | ЗА ЧТО | Alik Tarraf | 821473977428 | QZES92694771 | DistroKid detail verified |
+| SNG-271 | 2026-02-04 | Детство ((New Version)) | Alik Tarraf | 821500164579 | QZES92663296 | DistroKid detail verified |
+| SNG-272 | 2026-01-30 | King's move | Alik Tarraf | 821500845171 | QZES82639913 | DistroKid detail verified |
+| SNG-273 | 2026-01-28 | Смотри это Алик | Alik Tarraf | 821520484602 | QZDA82684848 | DistroKid detail verified |
+| SNG-274 | 2026-01-26 | Life is not a game | Alik Tarraf | 821520512831 | QZDA82681109 | DistroKid detail verified |
+| SNG-275 | 2026-01-23 | Огонь в крови | Alik Tarraf | 821526627324 | QZDA62676404 | DistroKid detail verified |
 
 ## Provenance
 
-Derived from the TARRAF PRODUCTIONS master discography and rights workbook supplied for this repository update. Source coverage was audited on 2026-07-25. Seven previously missing UPC values, the release date for `APOCALYPSES`, the joint primary-artist credits for `THE END` and `Epic Evolution Music (Live Studio Session)`, the exact version-title punctuation for the latter release, and the explicit-content designation for `Не продавай себя` were verified directly against first-party DistroKid dashboard records on 2026-09-04. A complete dashboard overview capture from `My Heart Says Goodbye` through `SWINGS` was reviewed the same day; after reconciliation with the 216 canonical singles it confirmed 59 additional distinct single products. Only public catalog facts needed for identification are published here; private source paths, correspondence, and unsupported fields are excluded.
+Derived from the TARRAF PRODUCTIONS master discography and rights workbook supplied for this repository update. Source coverage was audited on 2026-07-25. Seven previously missing UPC values, the release date for `APOCALYPSES`, the joint primary-artist credits for `THE END` and `Epic Evolution Music (Live Studio Session)`, the exact version-title punctuation for the latter release, and the explicit-content designation for `Не продавай себя` were verified directly against first-party DistroKid dashboard records on 2026-09-04. A complete dashboard overview capture from `My Heart Says Goodbye` through `SWINGS` was reviewed the same day; after reconciliation with the 216 previously canonical singles it confirmed 59 additional distinct single products. Their first-party detail records were subsequently transcribed and validated, bringing the canonical studio-single register to 275 products. The Arabic title `حبك مو لعبة` was corrected from the detail record and remains distinct from `أيام - Of Fire`. Only public catalog facts needed for identification are published here; private source paths, correspondence, and unsupported fields are excluded.
 
 ---
 
