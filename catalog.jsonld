@@ -127,7 +127,7 @@
       "@type": "Dataset",
       "@id": "https://github.com/tarrafproductions/official-metadata#studio-singles",
       "name": "TARRAF PRODUCTIONS Verified Studio Singles Register",
-      "description": "Verified partial register of 216 digital single releases and their 216 studio recordings. The source package is incomplete; known catalog gaps are documented and no missing values are fabricated.",
+      "description": "Verified canonical register of 275 digital single releases and their 275 studio recordings, reconciled from first-party catalog evidence.",
       "dateModified": "2026-09-04",
       "about": [
         {
@@ -141,11 +141,11 @@
         }
       ],
       "variableMeasured": [
-        "216 single release products",
-        "216 studio recordings with ISRC",
-        "216 releases with verified UPC",
-        "216 releases with verified release dates",
-        "57 known unresolved single release products"
+        "275 single release products",
+        "275 studio recordings with ISRC",
+        "275 releases with verified UPC",
+        "275 releases with verified release dates",
+        "0 unresolved observed single release products"
       ],
       "distribution": {
         "@type": "DataDownload",

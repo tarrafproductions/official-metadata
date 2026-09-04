@@ -3,21 +3,19 @@
   "observedAt": "2026-09-04",
   "source": "First-party DistroKid dashboard supplied by the catalog owner",
   "scope": "Studio single products visible from My Heart Says Goodbye through SWINGS",
-  "status": "Evidence register only; not canonical JSON-LD",
+  "status": "First-party verification register; all observations reconciled into canonical JSON-LD",
   "counts": {
-    "canonicalSinglesAlreadyPublished": 216,
-    "additionalSinglesObserved": 59,
-    "totalSinglesObserved": 275
+    "canonicalSinglesBeforeReconciliation": 216,
+    "additionalSinglesReconciled": 59,
+    "canonicalSinglesAfterReconciliation": 275,
+    "unresolvedSingles": 0
   },
-  "requiredBeforeCanonicalPublication": [
-    "releaseDate",
-    "UPC",
-    "ISRC"
-  ],
+  "requiredBeforeCanonicalPublication": [],
   "notes": [
-    "Titles and artist lines preserve the DistroKid dashboard display.",
-    "No release date, UPC, ISRC, duration, language, rights split, or explicit-content value is inferred from the overview captures.",
-    "Items must be reconciled into releases/studio-singles.jsonld only after the required fields are captured from a DistroKid release detail page or equivalent first-party record."
+    "Titles and artist lines preserve the DistroKid dashboard display; feature text is represented as structured contributor credit in canonical JSON-LD.",
+    "Release date, UPC, ISRC, duration, and explicit-content status were transcribed from first-party DistroKid detail records supplied by the catalog owner.",
+    "All 59 observations were reconciled into releases/studio-singles.jsonld as SNG-217 through SNG-275 and TRK-0262 through TRK-0320.",
+    "حبك مو لعبة and أيام - Of Fire are separate releases and remain distinct in the canonical register."
   ],
   "observations": [
     {
@@ -26,10 +24,18 @@
       "displayedArtistLine": "Alik Tarraf",
       "productType": "Single",
       "observedInDistroKidCatalog": true,
-      "canonicalPublicationStatus": "pending_required_identifiers",
+      "canonicalPublicationStatus": "published",
       "evidence": [
-        "DistroKid dashboard long-page capture"
-      ]
+        "DistroKid dashboard long-page capture",
+        "DistroKid release-detail record supplied by catalog owner"
+      ],
+      "releaseDate": "2026-10-23",
+      "upc": "881864059270",
+      "isrc": "QT6G62628340",
+      "duration": "PT6M13S",
+      "explicitContent": false,
+      "canonicalCatalogId": "SNG-217",
+      "canonicalTrackId": "TRK-0262"
     },
     {
       "observationId": "DK-OBS-002",
@@ -37,10 +43,18 @@
       "displayedArtistLine": "Alik Tarraf, Marina Tarraf",
       "productType": "Single",
       "observedInDistroKidCatalog": true,
-      "canonicalPublicationStatus": "pending_required_identifiers",
+      "canonicalPublicationStatus": "published",
       "evidence": [
-        "DistroKid dashboard long-page capture"
-      ]
+        "DistroKid dashboard long-page capture",
+        "DistroKid release-detail record supplied by catalog owner"
+      ],
+      "releaseDate": "2026-10-10",
+      "upc": "882436167232",
+      "isrc": "QT6G22657676",
+      "duration": "PT6M2S",
+      "explicitContent": false,
+      "canonicalCatalogId": "SNG-218",
+      "canonicalTrackId": "TRK-0263"
     },
     {
       "observationId": "DK-OBS-003",
@@ -48,10 +62,18 @@
       "displayedArtistLine": "Marina Tarraf",
       "productType": "Single",
       "observedInDistroKidCatalog": true,
-      "canonicalPublicationStatus": "pending_required_identifiers",
+      "canonicalPublicationStatus": "published",
       "evidence": [
-        "DistroKid dashboard long-page capture"
-      ]
+        "DistroKid dashboard long-page capture",
+        "DistroKid release-detail record supplied by catalog owner"
+      ],
+      "releaseDate": "2026-05-17",
+      "upc": "825254977096",
+      "isrc": "QZZ7L2614061",
+      "duration": "PT6M11S",
+      "explicitContent": false,
+      "canonicalCatalogId": "SNG-219",
+      "canonicalTrackId": "TRK-0264"
     },
     {
       "observationId": "DK-OBS-004",
@@ -59,10 +81,18 @@
       "displayedArtistLine": "Manik Bhatheja",
       "productType": "Single",
       "observedInDistroKidCatalog": true,
-      "canonicalPublicationStatus": "pending_required_identifiers",
+      "canonicalPublicationStatus": "published",
       "evidence": [
-        "DistroKid dashboard long-page capture"
-      ]
+        "DistroKid dashboard long-page capture",
+        "DistroKid release-detail record supplied by catalog owner"
+      ],
+      "releaseDate": "2015-05-05",
+      "upc": "825293554333",
+      "isrc": "QZZ772605191",
+      "duration": "PT4M11S",
+      "explicitContent": false,
+      "canonicalCatalogId": "SNG-220",
+      "canonicalTrackId": "TRK-0265"
     },
     {
       "observationId": "DK-OBS-005",
@@ -70,10 +100,18 @@
       "displayedArtistLine": "Marina Tarraf",
       "productType": "Single",
       "observedInDistroKidCatalog": true,
-      "canonicalPublicationStatus": "pending_required_identifiers",
+      "canonicalPublicationStatus": "published",
       "evidence": [
-        "DistroKid dashboard long-page capture"
-      ]
+        "DistroKid dashboard long-page capture",
+        "DistroKid release-detail record supplied by catalog owner"
+      ],
+      "releaseDate": "2026-05-06",
+      "upc": "825353069494",
+      "isrc": "QZWFQ2609943",
+      "duration": "PT5M21S",
+      "explicitContent": false,
+      "canonicalCatalogId": "SNG-221",
+      "canonicalTrackId": "TRK-0266"
     },
     {
       "observationId": "DK-OBS-006",
@@ -81,10 +119,18 @@
       "displayedArtistLine": "Marina Tarraf",
       "productType": "Single",
       "observedInDistroKidCatalog": true,
-      "canonicalPublicationStatus": "pending_required_identifiers",
+      "canonicalPublicationStatus": "published",
       "evidence": [
-        "DistroKid dashboard long-page capture"
-      ]
+        "DistroKid dashboard long-page capture",
+        "DistroKid release-detail record supplied by catalog owner"
+      ],
+      "releaseDate": "2026-04-25",
+      "upc": "825500873585",
+      "isrc": "QZTB92689800",
+      "duration": "PT5M18S",
+      "explicitContent": false,
+      "canonicalCatalogId": "SNG-222",
+      "canonicalTrackId": "TRK-0267"
     },
     {
       "observationId": "DK-OBS-007",
@@ -92,10 +138,18 @@
       "displayedArtistLine": "Marina Tarraf",
       "productType": "Single",
       "observedInDistroKidCatalog": true,
-      "canonicalPublicationStatus": "pending_required_identifiers",
+      "canonicalPublicationStatus": "published",
       "evidence": [
-        "DistroKid dashboard long-page capture"
-      ]
+        "DistroKid dashboard long-page capture",
+        "DistroKid release-detail record supplied by catalog owner"
+      ],
+      "releaseDate": "2026-04-21",
+      "upc": "825500876043",
+      "isrc": "QZTB92686995",
+      "duration": "PT5M31S",
+      "explicitContent": false,
+      "canonicalCatalogId": "SNG-223",
+      "canonicalTrackId": "TRK-0268"
     },
     {
       "observationId": "DK-OBS-008",
@@ -103,10 +157,18 @@
       "displayedArtistLine": "Marina Tarraf",
       "productType": "Single",
       "observedInDistroKidCatalog": true,
-      "canonicalPublicationStatus": "pending_required_identifiers",
+      "canonicalPublicationStatus": "published",
       "evidence": [
-        "DistroKid dashboard long-page capture"
-      ]
+        "DistroKid dashboard long-page capture",
+        "DistroKid release-detail record supplied by catalog owner"
+      ],
+      "releaseDate": "2026-04-16",
+      "upc": "825583038222",
+      "isrc": "QZTB92661671",
+      "duration": "PT6M29S",
+      "explicitContent": false,
+      "canonicalCatalogId": "SNG-224",
+      "canonicalTrackId": "TRK-0269"
     },
     {
       "observationId": "DK-OBS-009",
@@ -114,10 +176,18 @@
       "displayedArtistLine": "Alik Tarraf",
       "productType": "Single",
       "observedInDistroKidCatalog": true,
-      "canonicalPublicationStatus": "pending_required_identifiers",
+      "canonicalPublicationStatus": "published",
       "evidence": [
-        "DistroKid dashboard long-page capture"
-      ]
+        "DistroKid dashboard long-page capture",
+        "DistroKid release-detail record supplied by catalog owner"
+      ],
+      "releaseDate": "2026-04-10",
+      "upc": "825626537774",
+      "isrc": "QZTB62662325",
+      "duration": "PT6M2S",
+      "explicitContent": false,
+      "canonicalCatalogId": "SNG-225",
+      "canonicalTrackId": "TRK-0270"
     },
     {
       "observationId": "DK-OBS-010",
@@ -125,10 +195,18 @@
       "displayedArtistLine": "Alik Tarraf",
       "productType": "Single",
       "observedInDistroKidCatalog": true,
-      "canonicalPublicationStatus": "pending_required_identifiers",
+      "canonicalPublicationStatus": "published",
       "evidence": [
-        "DistroKid dashboard long-page capture"
-      ]
+        "DistroKid dashboard long-page capture",
+        "DistroKid release-detail record supplied by catalog owner"
+      ],
+      "releaseDate": "2026-04-13",
+      "upc": "825626650879",
+      "isrc": "QZTB62644697",
+      "duration": "PT5M1S",
+      "explicitContent": false,
+      "canonicalCatalogId": "SNG-226",
+      "canonicalTrackId": "TRK-0271"
     },
     {
       "observationId": "DK-OBS-011",
@@ -136,10 +214,18 @@
       "displayedArtistLine": "Alik Tarraf",
       "productType": "Single",
       "observedInDistroKidCatalog": true,
-      "canonicalPublicationStatus": "pending_required_identifiers",
+      "canonicalPublicationStatus": "published",
       "evidence": [
-        "DistroKid dashboard long-page capture"
-      ]
+        "DistroKid dashboard long-page capture",
+        "DistroKid release-detail record supplied by catalog owner"
+      ],
+      "releaseDate": "2026-04-11",
+      "upc": "825626657786",
+      "isrc": "QZTB62641981",
+      "duration": "PT3M30S",
+      "explicitContent": false,
+      "canonicalCatalogId": "SNG-227",
+      "canonicalTrackId": "TRK-0272"
     },
     {
       "observationId": "DK-OBS-012",
@@ -147,10 +233,18 @@
       "displayedArtistLine": "Marina Tarraf",
       "productType": "Single",
       "observedInDistroKidCatalog": true,
-      "canonicalPublicationStatus": "pending_required_identifiers",
+      "canonicalPublicationStatus": "published",
       "evidence": [
-        "DistroKid dashboard long-page capture"
-      ]
+        "DistroKid dashboard long-page capture",
+        "DistroKid release-detail record supplied by catalog owner"
+      ],
+      "releaseDate": "2026-04-02",
+      "upc": "825626696211",
+      "isrc": "QZTB62638190",
+      "duration": "PT4M12S",
+      "explicitContent": false,
+      "canonicalCatalogId": "SNG-228",
+      "canonicalTrackId": "TRK-0273"
     },
     {
       "observationId": "DK-OBS-013",
@@ -158,10 +252,18 @@
       "displayedArtistLine": "Alik Tarraf",
       "productType": "Single",
       "observedInDistroKidCatalog": true,
-      "canonicalPublicationStatus": "pending_required_identifiers",
+      "canonicalPublicationStatus": "published",
       "evidence": [
-        "DistroKid dashboard long-page capture"
-      ]
+        "DistroKid dashboard long-page capture",
+        "DistroKid release-detail record supplied by catalog owner"
+      ],
+      "releaseDate": "2026-04-05",
+      "upc": "825628100518",
+      "isrc": "QZTB52643580",
+      "duration": "PT6M8S",
+      "explicitContent": false,
+      "canonicalCatalogId": "SNG-229",
+      "canonicalTrackId": "TRK-0274"
     },
     {
       "observationId": "DK-OBS-014",
@@ -169,10 +271,18 @@
       "displayedArtistLine": "Alik Tarraf",
       "productType": "Single",
       "observedInDistroKidCatalog": true,
-      "canonicalPublicationStatus": "pending_required_identifiers",
+      "canonicalPublicationStatus": "published",
       "evidence": [
-        "DistroKid dashboard long-page capture"
-      ]
+        "DistroKid dashboard long-page capture",
+        "DistroKid release-detail record supplied by catalog owner"
+      ],
+      "releaseDate": "2026-04-08",
+      "upc": "825682070222",
+      "isrc": "QZTAZ2642798",
+      "duration": "PT3M18S",
+      "explicitContent": false,
+      "canonicalCatalogId": "SNG-230",
+      "canonicalTrackId": "TRK-0275"
     },
     {
       "observationId": "DK-OBS-015",
@@ -180,10 +290,18 @@
       "displayedArtistLine": "Marina Tarraf",
       "productType": "Single",
       "observedInDistroKidCatalog": true,
-      "canonicalPublicationStatus": "pending_required_identifiers",
+      "canonicalPublicationStatus": "published",
       "evidence": [
-        "DistroKid dashboard long-page capture"
-      ]
+        "DistroKid dashboard long-page capture",
+        "DistroKid release-detail record supplied by catalog owner"
+      ],
+      "releaseDate": "2026-03-25",
+      "upc": "825758987270",
+      "isrc": "QZPLR2649825",
+      "duration": "PT4M28S",
+      "explicitContent": false,
+      "canonicalCatalogId": "SNG-231",
+      "canonicalTrackId": "TRK-0276"
     },
     {
       "observationId": "DK-OBS-016",
@@ -191,11 +309,19 @@
       "displayedArtistLine": "Alik Tarraf",
       "productType": "Single",
       "observedInDistroKidCatalog": true,
-      "canonicalPublicationStatus": "pending_required_identifiers",
+      "canonicalPublicationStatus": "published",
       "evidence": [
         "DistroKid dashboard long-page capture",
-        "DistroKid dashboard screenshot sequence"
-      ]
+        "DistroKid dashboard screenshot sequence",
+        "DistroKid release-detail record supplied by catalog owner"
+      ],
+      "releaseDate": "2026-03-03",
+      "upc": "821201623535",
+      "isrc": "QZNWU2642118",
+      "duration": "PT4M41S",
+      "explicitContent": false,
+      "canonicalCatalogId": "SNG-232",
+      "canonicalTrackId": "TRK-0277"
     },
     {
       "observationId": "DK-OBS-017",
@@ -203,10 +329,18 @@
       "displayedArtistLine": "Alik Tarraf",
       "productType": "Single",
       "observedInDistroKidCatalog": true,
-      "canonicalPublicationStatus": "pending_required_identifiers",
+      "canonicalPublicationStatus": "published",
       "evidence": [
-        "DistroKid dashboard screenshot sequence"
-      ]
+        "DistroKid dashboard screenshot sequence",
+        "DistroKid release-detail record supplied by catalog owner"
+      ],
+      "releaseDate": "2026-03-07",
+      "upc": "821275786952",
+      "isrc": "QZNWR2670507",
+      "duration": "PT5M5S",
+      "explicitContent": false,
+      "canonicalCatalogId": "SNG-233",
+      "canonicalTrackId": "TRK-0278"
     },
     {
       "observationId": "DK-OBS-018",
@@ -214,10 +348,18 @@
       "displayedArtistLine": "Alik Tarraf",
       "productType": "Single",
       "observedInDistroKidCatalog": true,
-      "canonicalPublicationStatus": "pending_required_identifiers",
+      "canonicalPublicationStatus": "published",
       "evidence": [
-        "DistroKid dashboard screenshot sequence"
-      ]
+        "DistroKid dashboard screenshot sequence",
+        "DistroKid release-detail record supplied by catalog owner"
+      ],
+      "releaseDate": "2026-03-15",
+      "upc": "821300139999",
+      "isrc": "QZNWR2639595",
+      "duration": "PT4M0S",
+      "explicitContent": false,
+      "canonicalCatalogId": "SNG-234",
+      "canonicalTrackId": "TRK-0279"
     },
     {
       "observationId": "DK-OBS-019",
@@ -225,10 +367,18 @@
       "displayedArtistLine": "Alik Tarraf",
       "productType": "Single",
       "observedInDistroKidCatalog": true,
-      "canonicalPublicationStatus": "pending_required_identifiers",
+      "canonicalPublicationStatus": "published",
       "evidence": [
-        "DistroKid dashboard screenshot sequence"
-      ]
+        "DistroKid dashboard screenshot sequence",
+        "DistroKid release-detail record supplied by catalog owner"
+      ],
+      "releaseDate": "2026-03-04",
+      "upc": "821300143590",
+      "isrc": "QZMEQ2691709",
+      "duration": "PT4M11S",
+      "explicitContent": false,
+      "canonicalCatalogId": "SNG-235",
+      "canonicalTrackId": "TRK-0280"
     },
     {
       "observationId": "DK-OBS-020",
@@ -236,10 +386,18 @@
       "displayedArtistLine": "Alik Tarraf",
       "productType": "Single",
       "observedInDistroKidCatalog": true,
-      "canonicalPublicationStatus": "pending_required_identifiers",
+      "canonicalPublicationStatus": "published",
       "evidence": [
-        "DistroKid dashboard screenshot sequence"
-      ]
+        "DistroKid dashboard screenshot sequence",
+        "DistroKid release-detail record supplied by catalog owner"
+      ],
+      "releaseDate": "2026-03-02",
+      "upc": "821300623306",
+      "isrc": "QZMEP2687524",
+      "duration": "PT4M35S",
+      "explicitContent": false,
+      "canonicalCatalogId": "SNG-236",
+      "canonicalTrackId": "TRK-0281"
     },
     {
       "observationId": "DK-OBS-021",
@@ -247,10 +405,18 @@
       "displayedArtistLine": "Alik Tarraf",
       "productType": "Single",
       "observedInDistroKidCatalog": true,
-      "canonicalPublicationStatus": "pending_required_identifiers",
+      "canonicalPublicationStatus": "published",
       "evidence": [
-        "DistroKid dashboard screenshot sequence"
-      ]
+        "DistroKid dashboard screenshot sequence",
+        "DistroKid release-detail record supplied by catalog owner"
+      ],
+      "releaseDate": "2026-03-01",
+      "upc": "821300919539",
+      "isrc": "QZMEP2615493",
+      "duration": "PT3M35S",
+      "explicitContent": false,
+      "canonicalCatalogId": "SNG-237",
+      "canonicalTrackId": "TRK-0282"
     },
     {
       "observationId": "DK-OBS-022",
@@ -258,10 +424,18 @@
       "displayedArtistLine": "Alik Tarraf",
       "productType": "Single",
       "observedInDistroKidCatalog": true,
-      "canonicalPublicationStatus": "pending_required_identifiers",
+      "canonicalPublicationStatus": "published",
       "evidence": [
-        "DistroKid dashboard screenshot sequence"
-      ]
+        "DistroKid dashboard screenshot sequence",
+        "DistroKid release-detail record supplied by catalog owner"
+      ],
+      "releaseDate": "2026-02-26",
+      "upc": "821406369436",
+      "isrc": "QZK6J2673410",
+      "duration": "PT4M39S",
+      "explicitContent": false,
+      "canonicalCatalogId": "SNG-238",
+      "canonicalTrackId": "TRK-0283"
     },
     {
       "observationId": "DK-OBS-023",
@@ -269,10 +443,18 @@
       "displayedArtistLine": "Alik Tarraf",
       "productType": "Single",
       "observedInDistroKidCatalog": true,
-      "canonicalPublicationStatus": "pending_required_identifiers",
+      "canonicalPublicationStatus": "published",
       "evidence": [
-        "DistroKid dashboard screenshot sequence"
-      ]
+        "DistroKid dashboard screenshot sequence",
+        "DistroKid release-detail record supplied by catalog owner"
+      ],
+      "releaseDate": "2026-03-15",
+      "upc": "821406526259",
+      "isrc": "QZK6J2642099",
+      "duration": "PT4M14S",
+      "explicitContent": false,
+      "canonicalCatalogId": "SNG-239",
+      "canonicalTrackId": "TRK-0284"
     },
     {
       "observationId": "DK-OBS-024",
@@ -280,10 +462,18 @@
       "displayedArtistLine": "Alik Tarraf",
       "productType": "Single",
       "observedInDistroKidCatalog": true,
-      "canonicalPublicationStatus": "pending_required_identifiers",
+      "canonicalPublicationStatus": "published",
       "evidence": [
-        "DistroKid dashboard screenshot sequence"
-      ]
+        "DistroKid dashboard screenshot sequence",
+        "DistroKid release-detail record supplied by catalog owner"
+      ],
+      "releaseDate": "2026-02-24",
+      "upc": "821430004266",
+      "isrc": "QZK6H2644131",
+      "duration": "PT4M28S",
+      "explicitContent": false,
+      "canonicalCatalogId": "SNG-240",
+      "canonicalTrackId": "TRK-0285"
     },
     {
       "observationId": "DK-OBS-025",
@@ -291,10 +481,18 @@
       "displayedArtistLine": "Alik Tarraf",
       "productType": "Single",
       "observedInDistroKidCatalog": true,
-      "canonicalPublicationStatus": "pending_required_identifiers",
+      "canonicalPublicationStatus": "published",
       "evidence": [
-        "DistroKid dashboard screenshot sequence"
-      ]
+        "DistroKid dashboard screenshot sequence",
+        "DistroKid release-detail record supplied by catalog owner"
+      ],
+      "releaseDate": "2026-03-11",
+      "upc": "821430010977",
+      "isrc": "QZK6K2667471",
+      "duration": "PT4M57S",
+      "explicitContent": false,
+      "canonicalCatalogId": "SNG-241",
+      "canonicalTrackId": "TRK-0286"
     },
     {
       "observationId": "DK-OBS-026",
@@ -302,10 +500,18 @@
       "displayedArtistLine": "Alik Tarraf",
       "productType": "Single",
       "observedInDistroKidCatalog": true,
-      "canonicalPublicationStatus": "pending_required_identifiers",
+      "canonicalPublicationStatus": "published",
       "evidence": [
-        "DistroKid dashboard screenshot sequence"
-      ]
+        "DistroKid dashboard screenshot sequence",
+        "DistroKid release-detail record supplied by catalog owner"
+      ],
+      "releaseDate": "2026-03-03",
+      "upc": "821430023823",
+      "isrc": "QZK6K2667447",
+      "duration": "PT5M30S",
+      "explicitContent": false,
+      "canonicalCatalogId": "SNG-242",
+      "canonicalTrackId": "TRK-0287"
     },
     {
       "observationId": "DK-OBS-027",
@@ -313,10 +519,18 @@
       "displayedArtistLine": "Alik Tarraf",
       "productType": "Single",
       "observedInDistroKidCatalog": true,
-      "canonicalPublicationStatus": "pending_required_identifiers",
+      "canonicalPublicationStatus": "published",
       "evidence": [
-        "DistroKid dashboard screenshot sequence"
-      ]
+        "DistroKid dashboard screenshot sequence",
+        "DistroKid release-detail record supplied by catalog owner"
+      ],
+      "releaseDate": "2026-02-24",
+      "upc": "821430038339",
+      "isrc": "QZK6K2665001",
+      "duration": "PT4M33S",
+      "explicitContent": false,
+      "canonicalCatalogId": "SNG-243",
+      "canonicalTrackId": "TRK-0288"
     },
     {
       "observationId": "DK-OBS-028",
@@ -324,10 +538,18 @@
       "displayedArtistLine": "Alik Tarraf",
       "productType": "Single",
       "observedInDistroKidCatalog": true,
-      "canonicalPublicationStatus": "pending_required_identifiers",
+      "canonicalPublicationStatus": "published",
       "evidence": [
-        "DistroKid dashboard screenshot sequence"
-      ]
+        "DistroKid dashboard screenshot sequence",
+        "DistroKid release-detail record supplied by catalog owner"
+      ],
+      "releaseDate": "2026-02-23",
+      "upc": "821430041100",
+      "isrc": "QZK6K2662665",
+      "duration": "PT4M44S",
+      "explicitContent": false,
+      "canonicalCatalogId": "SNG-244",
+      "canonicalTrackId": "TRK-0289"
     },
     {
       "observationId": "DK-OBS-029",
@@ -335,10 +557,18 @@
       "displayedArtistLine": "Alik Tarraf",
       "productType": "Single",
       "observedInDistroKidCatalog": true,
-      "canonicalPublicationStatus": "pending_required_identifiers",
+      "canonicalPublicationStatus": "published",
       "evidence": [
-        "DistroKid dashboard screenshot sequence"
-      ]
+        "DistroKid dashboard screenshot sequence",
+        "DistroKid release-detail record supplied by catalog owner"
+      ],
+      "releaseDate": "2026-02-22",
+      "upc": "821438386760",
+      "isrc": "QZK6N2680514",
+      "duration": "PT4M27S",
+      "explicitContent": false,
+      "canonicalCatalogId": "SNG-245",
+      "canonicalTrackId": "TRK-0290"
     },
     {
       "observationId": "DK-OBS-030",
@@ -346,10 +576,18 @@
       "displayedArtistLine": "Alik Tarraf",
       "productType": "Single",
       "observedInDistroKidCatalog": true,
-      "canonicalPublicationStatus": "pending_required_identifiers",
+      "canonicalPublicationStatus": "published",
       "evidence": [
-        "DistroKid dashboard screenshot sequence"
-      ]
+        "DistroKid dashboard screenshot sequence",
+        "DistroKid release-detail record supplied by catalog owner"
+      ],
+      "releaseDate": "2026-02-21",
+      "upc": "821438394826",
+      "isrc": "QZK6N2680321",
+      "duration": "PT3M49S",
+      "explicitContent": false,
+      "canonicalCatalogId": "SNG-246",
+      "canonicalTrackId": "TRK-0291"
     },
     {
       "observationId": "DK-OBS-031",
@@ -357,21 +595,37 @@
       "displayedArtistLine": "Alik Tarraf",
       "productType": "Single",
       "observedInDistroKidCatalog": true,
-      "canonicalPublicationStatus": "pending_required_identifiers",
+      "canonicalPublicationStatus": "published",
       "evidence": [
-        "DistroKid dashboard screenshot sequence"
-      ]
+        "DistroKid dashboard screenshot sequence",
+        "DistroKid release-detail record supplied by catalog owner"
+      ],
+      "releaseDate": "2026-02-19",
+      "upc": "821438401593",
+      "isrc": "QZK6N2674431",
+      "duration": "PT3M22S",
+      "explicitContent": false,
+      "canonicalCatalogId": "SNG-247",
+      "canonicalTrackId": "TRK-0292"
     },
     {
       "observationId": "DK-OBS-032",
-      "displayedTitle": "حبل مولية",
+      "displayedTitle": "حبك مو لعبة",
       "displayedArtistLine": "Alik Tarraf, Marina Tarraf",
       "productType": "Single",
       "observedInDistroKidCatalog": true,
-      "canonicalPublicationStatus": "pending_required_identifiers",
+      "canonicalPublicationStatus": "published",
       "evidence": [
-        "DistroKid dashboard screenshot sequence"
-      ]
+        "DistroKid dashboard screenshot sequence",
+        "DistroKid release-detail record supplied by catalog owner"
+      ],
+      "releaseDate": "2026-02-18",
+      "upc": "821438418959",
+      "isrc": "QZK6L2688208",
+      "duration": "PT4M43S",
+      "explicitContent": false,
+      "canonicalCatalogId": "SNG-248",
+      "canonicalTrackId": "TRK-0293"
     },
     {
       "observationId": "DK-OBS-033",
@@ -379,10 +633,18 @@
       "displayedArtistLine": "Alik Tarraf",
       "productType": "Single",
       "observedInDistroKidCatalog": true,
-      "canonicalPublicationStatus": "pending_required_identifiers",
+      "canonicalPublicationStatus": "published",
       "evidence": [
-        "DistroKid dashboard screenshot sequence"
-      ]
+        "DistroKid dashboard screenshot sequence",
+        "DistroKid release-detail record supplied by catalog owner"
+      ],
+      "releaseDate": "2026-02-17",
+      "upc": "821438428491",
+      "isrc": "QZK6L2688089",
+      "duration": "PT3M50S",
+      "explicitContent": false,
+      "canonicalCatalogId": "SNG-249",
+      "canonicalTrackId": "TRK-0294"
     },
     {
       "observationId": "DK-OBS-034",
@@ -390,10 +652,18 @@
       "displayedArtistLine": "Alik Tarraf",
       "productType": "Single",
       "observedInDistroKidCatalog": true,
-      "canonicalPublicationStatus": "pending_required_identifiers",
+      "canonicalPublicationStatus": "published",
       "evidence": [
-        "DistroKid dashboard screenshot sequence"
-      ]
+        "DistroKid dashboard screenshot sequence",
+        "DistroKid release-detail record supplied by catalog owner"
+      ],
+      "releaseDate": "2026-02-14",
+      "upc": "821438443043",
+      "isrc": "QZK6N2667269",
+      "duration": "PT3M27S",
+      "explicitContent": false,
+      "canonicalCatalogId": "SNG-250",
+      "canonicalTrackId": "TRK-0295"
     },
     {
       "observationId": "DK-OBS-035",
@@ -401,10 +671,18 @@
       "displayedArtistLine": "Alik Tarraf",
       "productType": "Single",
       "observedInDistroKidCatalog": true,
-      "canonicalPublicationStatus": "pending_required_identifiers",
+      "canonicalPublicationStatus": "published",
       "evidence": [
-        "DistroKid dashboard screenshot sequence"
-      ]
+        "DistroKid dashboard screenshot sequence",
+        "DistroKid release-detail record supplied by catalog owner"
+      ],
+      "releaseDate": "2026-02-11",
+      "upc": "821438452847",
+      "isrc": "QZK6N2663590",
+      "duration": "PT6M3S",
+      "explicitContent": false,
+      "canonicalCatalogId": "SNG-251",
+      "canonicalTrackId": "TRK-0296"
     },
     {
       "observationId": "DK-OBS-036",
@@ -412,10 +690,18 @@
       "displayedArtistLine": "Marina Tarraf",
       "productType": "Single",
       "observedInDistroKidCatalog": true,
-      "canonicalPublicationStatus": "pending_required_identifiers",
+      "canonicalPublicationStatus": "published",
       "evidence": [
-        "DistroKid dashboard screenshot sequence"
-      ]
+        "DistroKid dashboard screenshot sequence",
+        "DistroKid release-detail record supplied by catalog owner"
+      ],
+      "releaseDate": "2026-02-16",
+      "upc": "821440980352",
+      "isrc": "QZK6N2617663",
+      "duration": "PT3M43S",
+      "explicitContent": false,
+      "canonicalCatalogId": "SNG-252",
+      "canonicalTrackId": "TRK-0297"
     },
     {
       "observationId": "DK-OBS-037",
@@ -423,10 +709,18 @@
       "displayedArtistLine": "Alik Tarraf, Marina Tarraf",
       "productType": "Single",
       "observedInDistroKidCatalog": true,
-      "canonicalPublicationStatus": "pending_required_identifiers",
+      "canonicalPublicationStatus": "published",
       "evidence": [
-        "DistroKid dashboard screenshot sequence"
-      ]
+        "DistroKid dashboard screenshot sequence",
+        "DistroKid release-detail record supplied by catalog owner"
+      ],
+      "releaseDate": "2026-02-25",
+      "upc": "821460277760",
+      "isrc": "QZHNA2667994",
+      "duration": "PT5M3S",
+      "explicitContent": false,
+      "canonicalCatalogId": "SNG-253",
+      "canonicalTrackId": "TRK-0298"
     },
     {
       "observationId": "DK-OBS-038",
@@ -434,10 +728,18 @@
       "displayedArtistLine": "Marina Tarraf",
       "productType": "Single",
       "observedInDistroKidCatalog": true,
-      "canonicalPublicationStatus": "pending_required_identifiers",
+      "canonicalPublicationStatus": "published",
       "evidence": [
-        "DistroKid dashboard screenshot sequence"
-      ]
+        "DistroKid dashboard screenshot sequence",
+        "DistroKid release-detail record supplied by catalog owner"
+      ],
+      "releaseDate": "2026-02-20",
+      "upc": "821460278200",
+      "isrc": "QZHN82648633",
+      "duration": "PT4M39S",
+      "explicitContent": false,
+      "canonicalCatalogId": "SNG-254",
+      "canonicalTrackId": "TRK-0299"
     },
     {
       "observationId": "DK-OBS-039",
@@ -445,10 +747,18 @@
       "displayedArtistLine": "Alik Tarraf",
       "productType": "Single",
       "observedInDistroKidCatalog": true,
-      "canonicalPublicationStatus": "pending_required_identifiers",
+      "canonicalPublicationStatus": "published",
       "evidence": [
-        "DistroKid dashboard screenshot sequence"
-      ]
+        "DistroKid dashboard screenshot sequence",
+        "DistroKid release-detail record supplied by catalog owner"
+      ],
+      "releaseDate": "2026-02-09",
+      "upc": "821470289883",
+      "isrc": "QZHN62670941",
+      "duration": "PT3M52S",
+      "explicitContent": false,
+      "canonicalCatalogId": "SNG-255",
+      "canonicalTrackId": "TRK-0300"
     },
     {
       "observationId": "DK-OBS-040",
@@ -456,10 +766,18 @@
       "displayedArtistLine": "Alik Tarraf",
       "productType": "Single",
       "observedInDistroKidCatalog": true,
-      "canonicalPublicationStatus": "pending_required_identifiers",
+      "canonicalPublicationStatus": "published",
       "evidence": [
-        "DistroKid dashboard screenshot sequence"
-      ]
+        "DistroKid dashboard screenshot sequence",
+        "DistroKid release-detail record supplied by catalog owner"
+      ],
+      "releaseDate": "2026-02-07",
+      "upc": "821470325635",
+      "isrc": "QZHN62666102",
+      "duration": "PT6M7S",
+      "explicitContent": false,
+      "canonicalCatalogId": "SNG-256",
+      "canonicalTrackId": "TRK-0301"
     },
     {
       "observationId": "DK-OBS-041",
@@ -467,21 +785,37 @@
       "displayedArtistLine": "Alik Tarraf",
       "productType": "Single",
       "observedInDistroKidCatalog": true,
-      "canonicalPublicationStatus": "pending_required_identifiers",
+      "canonicalPublicationStatus": "published",
       "evidence": [
-        "DistroKid dashboard screenshot sequence"
-      ]
+        "DistroKid dashboard screenshot sequence",
+        "DistroKid release-detail record supplied by catalog owner"
+      ],
+      "releaseDate": "2026-02-05",
+      "upc": "821470350026",
+      "isrc": "QZHN62662026",
+      "duration": "PT3M52S",
+      "explicitContent": false,
+      "canonicalCatalogId": "SNG-257",
+      "canonicalTrackId": "TRK-0302"
     },
     {
       "observationId": "DK-OBS-042",
       "displayedTitle": "Выбираю себя",
-      "displayedArtistLine": "Alik Tarraf",
+      "displayedArtistLine": "Alik Tarraf, Marina Tarraf",
       "productType": "Single",
       "observedInDistroKidCatalog": true,
-      "canonicalPublicationStatus": "pending_required_identifiers",
+      "canonicalPublicationStatus": "published",
       "evidence": [
-        "DistroKid dashboard screenshot sequence"
-      ]
+        "DistroKid dashboard screenshot sequence",
+        "DistroKid release-detail record supplied by catalog owner"
+      ],
+      "releaseDate": "2026-01-29",
+      "upc": "821470729174",
+      "isrc": "QZHN52672795",
+      "duration": "PT6M31S",
+      "explicitContent": false,
+      "canonicalCatalogId": "SNG-258",
+      "canonicalTrackId": "TRK-0303"
     },
     {
       "observationId": "DK-OBS-043",
@@ -489,10 +823,18 @@
       "displayedArtistLine": "Alik Tarraf",
       "productType": "Single",
       "observedInDistroKidCatalog": true,
-      "canonicalPublicationStatus": "pending_required_identifiers",
+      "canonicalPublicationStatus": "published",
       "evidence": [
-        "DistroKid dashboard screenshot sequence"
-      ]
+        "DistroKid dashboard screenshot sequence",
+        "DistroKid release-detail record supplied by catalog owner"
+      ],
+      "releaseDate": "2026-02-15",
+      "upc": "821473122996",
+      "isrc": "QZHN42693830",
+      "duration": "PT4M52S",
+      "explicitContent": false,
+      "canonicalCatalogId": "SNG-259",
+      "canonicalTrackId": "TRK-0304"
     },
     {
       "observationId": "DK-OBS-044",
@@ -500,10 +842,18 @@
       "displayedArtistLine": "Alik Tarraf",
       "productType": "Single",
       "observedInDistroKidCatalog": true,
-      "canonicalPublicationStatus": "pending_required_identifiers",
+      "canonicalPublicationStatus": "published",
       "evidence": [
-        "DistroKid dashboard screenshot sequence"
-      ]
+        "DistroKid dashboard screenshot sequence",
+        "DistroKid release-detail record supplied by catalog owner"
+      ],
+      "releaseDate": "2026-02-13",
+      "upc": "821473147562",
+      "isrc": "QZHN42684128",
+      "duration": "PT4M41S",
+      "explicitContent": false,
+      "canonicalCatalogId": "SNG-260",
+      "canonicalTrackId": "TRK-0305"
     },
     {
       "observationId": "DK-OBS-045",
@@ -511,10 +861,18 @@
       "displayedArtistLine": "Alik Tarraf",
       "productType": "Single",
       "observedInDistroKidCatalog": true,
-      "canonicalPublicationStatus": "pending_required_identifiers",
+      "canonicalPublicationStatus": "published",
       "evidence": [
-        "DistroKid dashboard screenshot sequence"
-      ]
+        "DistroKid dashboard screenshot sequence",
+        "DistroKid release-detail record supplied by catalog owner"
+      ],
+      "releaseDate": "2026-01-31",
+      "upc": "821473208997",
+      "isrc": "QZHN42675661",
+      "duration": "PT4M39S",
+      "explicitContent": false,
+      "canonicalCatalogId": "SNG-261",
+      "canonicalTrackId": "TRK-0306"
     },
     {
       "observationId": "DK-OBS-046",
@@ -522,10 +880,18 @@
       "displayedArtistLine": "Alik Tarraf",
       "productType": "Single",
       "observedInDistroKidCatalog": true,
-      "canonicalPublicationStatus": "pending_required_identifiers",
+      "canonicalPublicationStatus": "published",
       "evidence": [
-        "DistroKid dashboard screenshot sequence"
-      ]
+        "DistroKid dashboard screenshot sequence",
+        "DistroKid release-detail record supplied by catalog owner"
+      ],
+      "releaseDate": "2026-01-29",
+      "upc": "821473224478",
+      "isrc": "QZHN42671448",
+      "duration": "PT4M13S",
+      "explicitContent": false,
+      "canonicalCatalogId": "SNG-262",
+      "canonicalTrackId": "TRK-0307"
     },
     {
       "observationId": "DK-OBS-047",
@@ -533,10 +899,18 @@
       "displayedArtistLine": "Marina Tarraf",
       "productType": "Single",
       "observedInDistroKidCatalog": true,
-      "canonicalPublicationStatus": "pending_required_identifiers",
+      "canonicalPublicationStatus": "published",
       "evidence": [
-        "DistroKid dashboard screenshot sequence"
-      ]
+        "DistroKid dashboard screenshot sequence",
+        "DistroKid release-detail record supplied by catalog owner"
+      ],
+      "releaseDate": "2026-02-03",
+      "upc": "821473813634",
+      "isrc": "QZHN42674434",
+      "duration": "PT3M25S",
+      "explicitContent": false,
+      "canonicalCatalogId": "SNG-263",
+      "canonicalTrackId": "TRK-0308"
     },
     {
       "observationId": "DK-OBS-048",
@@ -544,10 +918,18 @@
       "displayedArtistLine": "Alik Tarraf",
       "productType": "Single",
       "observedInDistroKidCatalog": true,
-      "canonicalPublicationStatus": "pending_required_identifiers",
+      "canonicalPublicationStatus": "published",
       "evidence": [
-        "DistroKid dashboard screenshot sequence"
-      ]
+        "DistroKid dashboard screenshot sequence",
+        "DistroKid release-detail record supplied by catalog owner"
+      ],
+      "releaseDate": "2026-02-01",
+      "upc": "821473829871",
+      "isrc": "QZHN32622972",
+      "duration": "PT4M34S",
+      "explicitContent": false,
+      "canonicalCatalogId": "SNG-264",
+      "canonicalTrackId": "TRK-0309"
     },
     {
       "observationId": "DK-OBS-049",
@@ -555,10 +937,18 @@
       "displayedArtistLine": "Alik Tarraf",
       "productType": "Single",
       "observedInDistroKidCatalog": true,
-      "canonicalPublicationStatus": "pending_required_identifiers",
+      "canonicalPublicationStatus": "published",
       "evidence": [
-        "DistroKid dashboard screenshot sequence"
-      ]
+        "DistroKid dashboard screenshot sequence",
+        "DistroKid release-detail record supplied by catalog owner"
+      ],
+      "releaseDate": "2026-02-10",
+      "upc": "821473835087",
+      "isrc": "QZHN32622943",
+      "duration": "PT3M38S",
+      "explicitContent": false,
+      "canonicalCatalogId": "SNG-265",
+      "canonicalTrackId": "TRK-0310"
     },
     {
       "observationId": "DK-OBS-050",
@@ -566,10 +956,18 @@
       "displayedArtistLine": "Alik Tarraf",
       "productType": "Single",
       "observedInDistroKidCatalog": true,
-      "canonicalPublicationStatus": "pending_required_identifiers",
+      "canonicalPublicationStatus": "published",
       "evidence": [
-        "DistroKid dashboard screenshot sequence"
-      ]
+        "DistroKid dashboard screenshot sequence",
+        "DistroKid release-detail record supplied by catalog owner"
+      ],
+      "releaseDate": "2026-02-02",
+      "upc": "821473841729",
+      "isrc": "QZHN32620913",
+      "duration": "PT4M12S",
+      "explicitContent": false,
+      "canonicalCatalogId": "SNG-266",
+      "canonicalTrackId": "TRK-0311"
     },
     {
       "observationId": "DK-OBS-051",
@@ -577,10 +975,18 @@
       "displayedArtistLine": "Alik Tarraf",
       "productType": "Single",
       "observedInDistroKidCatalog": true,
-      "canonicalPublicationStatus": "pending_required_identifiers",
+      "canonicalPublicationStatus": "published",
       "evidence": [
-        "DistroKid dashboard screenshot sequence"
-      ]
+        "DistroKid dashboard screenshot sequence",
+        "DistroKid release-detail record supplied by catalog owner"
+      ],
+      "releaseDate": "2026-02-03",
+      "upc": "821473846700",
+      "isrc": "QZHN32620896",
+      "duration": "PT5M5S",
+      "explicitContent": false,
+      "canonicalCatalogId": "SNG-267",
+      "canonicalTrackId": "TRK-0312"
     },
     {
       "observationId": "DK-OBS-052",
@@ -588,10 +994,18 @@
       "displayedArtistLine": "Alik Tarraf",
       "productType": "Single",
       "observedInDistroKidCatalog": true,
-      "canonicalPublicationStatus": "pending_required_identifiers",
+      "canonicalPublicationStatus": "published",
       "evidence": [
-        "DistroKid dashboard screenshot sequence"
-      ]
+        "DistroKid dashboard screenshot sequence",
+        "DistroKid release-detail record supplied by catalog owner"
+      ],
+      "releaseDate": "2026-02-06",
+      "upc": "821473850189",
+      "isrc": "QZHN42663366",
+      "duration": "PT4M14S",
+      "explicitContent": false,
+      "canonicalCatalogId": "SNG-268",
+      "canonicalTrackId": "TRK-0313"
     },
     {
       "observationId": "DK-OBS-053",
@@ -599,10 +1013,18 @@
       "displayedArtistLine": "Alik Tarraf",
       "productType": "Single",
       "observedInDistroKidCatalog": true,
-      "canonicalPublicationStatus": "pending_required_identifiers",
+      "canonicalPublicationStatus": "published",
       "evidence": [
-        "DistroKid dashboard screenshot sequence"
-      ]
+        "DistroKid dashboard screenshot sequence",
+        "DistroKid release-detail record supplied by catalog owner"
+      ],
+      "releaseDate": "2026-02-08",
+      "upc": "821473856082",
+      "isrc": "QZHN32618130",
+      "duration": "PT3M27S",
+      "explicitContent": false,
+      "canonicalCatalogId": "SNG-269",
+      "canonicalTrackId": "TRK-0314"
     },
     {
       "observationId": "DK-OBS-054",
@@ -610,10 +1032,18 @@
       "displayedArtistLine": "Alik Tarraf",
       "productType": "Single",
       "observedInDistroKidCatalog": true,
-      "canonicalPublicationStatus": "pending_required_identifiers",
+      "canonicalPublicationStatus": "published",
       "evidence": [
-        "DistroKid dashboard screenshot sequence"
-      ]
+        "DistroKid dashboard screenshot sequence",
+        "DistroKid release-detail record supplied by catalog owner"
+      ],
+      "releaseDate": "2026-01-25",
+      "upc": "821473977428",
+      "isrc": "QZES92694771",
+      "duration": "PT5M0S",
+      "explicitContent": false,
+      "canonicalCatalogId": "SNG-270",
+      "canonicalTrackId": "TRK-0315"
     },
     {
       "observationId": "DK-OBS-055",
@@ -621,10 +1051,18 @@
       "displayedArtistLine": "Alik Tarraf",
       "productType": "Single",
       "observedInDistroKidCatalog": true,
-      "canonicalPublicationStatus": "pending_required_identifiers",
+      "canonicalPublicationStatus": "published",
       "evidence": [
-        "DistroKid dashboard screenshot sequence"
-      ]
+        "DistroKid dashboard screenshot sequence",
+        "DistroKid release-detail record supplied by catalog owner"
+      ],
+      "releaseDate": "2026-02-04",
+      "upc": "821500164579",
+      "isrc": "QZES92663296",
+      "duration": "PT4M22S",
+      "explicitContent": false,
+      "canonicalCatalogId": "SNG-271",
+      "canonicalTrackId": "TRK-0316"
     },
     {
       "observationId": "DK-OBS-056",
@@ -632,10 +1070,18 @@
       "displayedArtistLine": "Alik Tarraf",
       "productType": "Single",
       "observedInDistroKidCatalog": true,
-      "canonicalPublicationStatus": "pending_required_identifiers",
+      "canonicalPublicationStatus": "published",
       "evidence": [
-        "DistroKid dashboard screenshot sequence"
-      ]
+        "DistroKid dashboard screenshot sequence",
+        "DistroKid release-detail record supplied by catalog owner"
+      ],
+      "releaseDate": "2026-01-30",
+      "upc": "821500845171",
+      "isrc": "QZES82639913",
+      "duration": "PT4M1S",
+      "explicitContent": false,
+      "canonicalCatalogId": "SNG-272",
+      "canonicalTrackId": "TRK-0317"
     },
     {
       "observationId": "DK-OBS-057",
@@ -643,10 +1089,18 @@
       "displayedArtistLine": "Alik Tarraf",
       "productType": "Single",
       "observedInDistroKidCatalog": true,
-      "canonicalPublicationStatus": "pending_required_identifiers",
+      "canonicalPublicationStatus": "published",
       "evidence": [
-        "DistroKid dashboard screenshot sequence"
-      ]
+        "DistroKid dashboard screenshot sequence",
+        "DistroKid release-detail record supplied by catalog owner"
+      ],
+      "releaseDate": "2026-01-28",
+      "upc": "821520484602",
+      "isrc": "QZDA82684848",
+      "duration": "PT4M2S",
+      "explicitContent": false,
+      "canonicalCatalogId": "SNG-273",
+      "canonicalTrackId": "TRK-0318"
     },
     {
       "observationId": "DK-OBS-058",
@@ -654,10 +1108,18 @@
       "displayedArtistLine": "Alik Tarraf",
       "productType": "Single",
       "observedInDistroKidCatalog": true,
-      "canonicalPublicationStatus": "pending_required_identifiers",
+      "canonicalPublicationStatus": "published",
       "evidence": [
-        "DistroKid dashboard screenshot sequence"
-      ]
+        "DistroKid dashboard screenshot sequence",
+        "DistroKid release-detail record supplied by catalog owner"
+      ],
+      "releaseDate": "2026-01-26",
+      "upc": "821520512831",
+      "isrc": "QZDA82681109",
+      "duration": "PT4M23S",
+      "explicitContent": false,
+      "canonicalCatalogId": "SNG-274",
+      "canonicalTrackId": "TRK-0319"
     },
     {
       "observationId": "DK-OBS-059",
@@ -665,10 +1127,18 @@
       "displayedArtistLine": "Alik Tarraf",
       "productType": "Single",
       "observedInDistroKidCatalog": true,
-      "canonicalPublicationStatus": "pending_required_identifiers",
+      "canonicalPublicationStatus": "published",
       "evidence": [
-        "DistroKid dashboard screenshot sequence"
-      ]
+        "DistroKid dashboard screenshot sequence",
+        "DistroKid release-detail record supplied by catalog owner"
+      ],
+      "releaseDate": "2026-01-23",
+      "upc": "821526627324",
+      "isrc": "QZDA62676404",
+      "duration": "PT4M9S",
+      "explicitContent": false,
+      "canonicalCatalogId": "SNG-275",
+      "canonicalTrackId": "TRK-0320"
     }
   ]
 }

@@ -44,8 +44,8 @@ EXPECTED_ALBUM_CREDIT_TEXT = {
     "Production and recording: TARRAF PRODUCTIONS",
 }
 STUDIO_SINGLES_PATH = Path("releases/studio-singles.jsonld")
-STUDIO_SINGLE_MINIMUM = 216
-STUDIO_UPC_MINIMUM = 216
+STUDIO_SINGLE_MINIMUM = 275
+STUDIO_UPC_MINIMUM = 275
 CATALOG_RELEASE_ID_PREFIX = "https://aliktarraf.com/#catalog-sng-"
 CATALOG_RECORDING_ID_PREFIX = "https://aliktarraf.com/#catalog-trk-"
 ISRC_PATTERN = re.compile(r"^[A-Z]{2}[A-Z0-9]{3}[0-9]{7}$")

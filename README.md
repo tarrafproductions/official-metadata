@@ -33,13 +33,13 @@ The repository is a source of truth and a version history. Publishing JSON-LD he
 - [`entities/creative-universe.jsonld`](entities/creative-universe.jsonld) — connected JSON-LD graph for Epic Evolution Music, TARRAF LIVE SHOW, TARRAF PRODUCTIONS LIVE, TARRAF EPIC CHOIR, and OBARABO.
 - [`releases/live-trilogy.jsonld`](releases/live-trilogy.jsonld) — linked JSON-LD graph for the TARRAF PRODUCTIONS LIVE recording event, its three albums, and their digital releases.
 - [`releases/live-tracklists.jsonld`](releases/live-tracklists.jsonld) — official ordered track lists for all three TARRAF PRODUCTIONS LIVE volumes (64 recordings in total).
-- [`releases/studio-singles.jsonld`](releases/studio-singles.jsonld) — verified canonical register of 216 digital single releases and their 216 studio recordings, with stable internal identifiers and ISRC values.
-- [`sources/distrokid-dashboard-observations-2026-09-04.json`](sources/distrokid-dashboard-observations-2026-09-04.json) — first-party DistroKid overview evidence for 59 additional single products awaiting release dates, UPCs, and ISRCs.
-- [`docs/discography.md`](docs/discography.md) — human-readable discography register, documented coverage limits, and unresolved source gaps.
+- [`releases/studio-singles.jsonld`](releases/studio-singles.jsonld) — verified canonical register of 275 digital single releases and their 275 studio recordings, with stable internal identifiers and ISRC values.
+- [`sources/distrokid-dashboard-observations-2026-09-04.json`](sources/distrokid-dashboard-observations-2026-09-04.json) — first-party DistroKid evidence and reconciled identifiers for the 59 releases added as SNG-217 through SNG-275.
+- [`docs/discography.md`](docs/discography.md) — human-readable discography register with documented coverage and source provenance.
 - [`docs/live-production-credits.md`](docs/live-production-credits.md) — verified production-credit matrix for the Fujairah recording event, live trilogy, and 64 recordings.
 - [`docs/website-integration.md`](docs/website-integration.md) — implementation contract for multilingual Vite/React pages, pre-rendering, canonical URLs, `hreflang`, and JSON-LD.
 
-The DistroKid dashboard capture supplied on 2026-09-04 confirms 275 studio-single products. The canonical JSON-LD register covers 216; the remaining 59 are preserved in the observation inventory and remain intentionally unpublished as canonical release nodes until each release date, UPC, and ISRC is available. Missing values are never inferred.
+The first-party DistroKid catalog evidence supplied on 2026-09-04 confirms 275 studio-single products. The canonical JSON-LD register now covers all 275 observed products; the 59 formerly pending items were reconciled from verified release dates, UPCs, ISRCs, durations, and explicit-content statuses. Missing values are never inferred.
 
 ## Validation
 
@@ -69,4 +69,3 @@ Unless a file contains an explicit license stating otherwise, no license is gran
 **TARRAF PRODUCTIONS® · EPIC EVOLUTION MUSIC**
 
 © 2025–2026 TARRAF PRODUCTIONS. All rights reserved.
-

@@ -21125,6 +21125,5702 @@
         }
       ],
       "datePublished": "2025-09-07"
+    },
+    {
+      "@type": "MusicAlbum",
+      "@id": "https://aliktarraf.com/#catalog-sng-217",
+      "name": "My Heart Says Goodbye",
+      "albumReleaseType": "https://schema.org/SingleRelease",
+      "byArtist": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf",
+      "numTracks": 1,
+      "datePublished": "2026-10-23",
+      "track": {
+        "@id": "https://aliktarraf.com/#catalog-trk-0262"
+      },
+      "albumRelease": {
+        "@id": "https://aliktarraf.com/#catalog-sng-217-digital-release"
+      },
+      "publisher": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "copyrightHolder": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Release ID",
+          "value": "SNG-217"
+        }
+      ]
+    },
+    {
+      "@type": "MusicRelease",
+      "@id": "https://aliktarraf.com/#catalog-sng-217-digital-release",
+      "name": "My Heart Says Goodbye — Digital Single Release",
+      "releaseOf": {
+        "@id": "https://aliktarraf.com/#catalog-sng-217"
+      },
+      "datePublished": "2026-10-23",
+      "musicReleaseFormat": "https://schema.org/DigitalFormat",
+      "creditedTo": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf",
+      "recordLabel": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "numTracks": 1,
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Release ID",
+          "value": "SNG-217"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "UPC",
+          "value": "881864059270"
+        }
+      ]
+    },
+    {
+      "@type": "MusicRecording",
+      "@id": "https://aliktarraf.com/#catalog-trk-0262",
+      "name": "My Heart Says Goodbye",
+      "isrcCode": "QT6G62628340",
+      "byArtist": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf",
+      "datePublished": "2026-10-23",
+      "duration": "PT6M13S",
+      "inAlbum": {
+        "@id": "https://aliktarraf.com/#catalog-sng-217"
+      },
+      "publisher": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "copyrightHolder": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Track ID",
+          "value": "TRK-0262"
+        }
+      ]
+    },
+    {
+      "@type": "MusicAlbum",
+      "@id": "https://aliktarraf.com/#catalog-sng-218",
+      "name": "Jordan - الأرض المقدسة",
+      "albumReleaseType": "https://schema.org/SingleRelease",
+      "byArtist": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        },
+        {
+          "@id": "https://aliktarraf.com/#marina-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf & Marina Tarraf",
+      "numTracks": 1,
+      "datePublished": "2026-10-10",
+      "track": {
+        "@id": "https://aliktarraf.com/#catalog-trk-0263"
+      },
+      "albumRelease": {
+        "@id": "https://aliktarraf.com/#catalog-sng-218-digital-release"
+      },
+      "publisher": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "copyrightHolder": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Release ID",
+          "value": "SNG-218"
+        }
+      ]
+    },
+    {
+      "@type": "MusicRelease",
+      "@id": "https://aliktarraf.com/#catalog-sng-218-digital-release",
+      "name": "Jordan - الأرض المقدسة — Digital Single Release",
+      "releaseOf": {
+        "@id": "https://aliktarraf.com/#catalog-sng-218"
+      },
+      "datePublished": "2026-10-10",
+      "musicReleaseFormat": "https://schema.org/DigitalFormat",
+      "creditedTo": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        },
+        {
+          "@id": "https://aliktarraf.com/#marina-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf & Marina Tarraf",
+      "recordLabel": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "numTracks": 1,
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Release ID",
+          "value": "SNG-218"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "UPC",
+          "value": "882436167232"
+        }
+      ]
+    },
+    {
+      "@type": "MusicRecording",
+      "@id": "https://aliktarraf.com/#catalog-trk-0263",
+      "name": "Jordan - الأرض المقدسة",
+      "isrcCode": "QT6G22657676",
+      "byArtist": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        },
+        {
+          "@id": "https://aliktarraf.com/#marina-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf & Marina Tarraf",
+      "datePublished": "2026-10-10",
+      "duration": "PT6M2S",
+      "inAlbum": {
+        "@id": "https://aliktarraf.com/#catalog-sng-218"
+      },
+      "publisher": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "copyrightHolder": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Track ID",
+          "value": "TRK-0263"
+        }
+      ]
+    },
+    {
+      "@type": "MusicAlbum",
+      "@id": "https://aliktarraf.com/#catalog-sng-219",
+      "name": "Bite the light (Studio Live Session)",
+      "albumReleaseType": "https://schema.org/SingleRelease",
+      "byArtist": [
+        {
+          "@id": "https://aliktarraf.com/#marina-tarraf"
+        }
+      ],
+      "creditText": "Marina Tarraf",
+      "numTracks": 1,
+      "datePublished": "2026-05-17",
+      "track": {
+        "@id": "https://aliktarraf.com/#catalog-trk-0264"
+      },
+      "albumRelease": {
+        "@id": "https://aliktarraf.com/#catalog-sng-219-digital-release"
+      },
+      "publisher": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "copyrightHolder": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Release ID",
+          "value": "SNG-219"
+        }
+      ]
+    },
+    {
+      "@type": "MusicRelease",
+      "@id": "https://aliktarraf.com/#catalog-sng-219-digital-release",
+      "name": "Bite the light (Studio Live Session) — Digital Single Release",
+      "releaseOf": {
+        "@id": "https://aliktarraf.com/#catalog-sng-219"
+      },
+      "datePublished": "2026-05-17",
+      "musicReleaseFormat": "https://schema.org/DigitalFormat",
+      "creditedTo": [
+        {
+          "@id": "https://aliktarraf.com/#marina-tarraf"
+        }
+      ],
+      "creditText": "Marina Tarraf",
+      "recordLabel": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "numTracks": 1,
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Release ID",
+          "value": "SNG-219"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "UPC",
+          "value": "825254977096"
+        }
+      ]
+    },
+    {
+      "@type": "MusicRecording",
+      "@id": "https://aliktarraf.com/#catalog-trk-0264",
+      "name": "Bite the light (Studio Live Session)",
+      "isrcCode": "QZZ7L2614061",
+      "byArtist": [
+        {
+          "@id": "https://aliktarraf.com/#marina-tarraf"
+        }
+      ],
+      "creditText": "Marina Tarraf",
+      "datePublished": "2026-05-17",
+      "duration": "PT6M11S",
+      "inAlbum": {
+        "@id": "https://aliktarraf.com/#catalog-sng-219"
+      },
+      "publisher": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "copyrightHolder": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Track ID",
+          "value": "TRK-0264"
+        }
+      ]
+    },
+    {
+      "@type": "MusicAlbum",
+      "@id": "https://aliktarraf.com/#catalog-sng-220",
+      "name": "Pick It Up",
+      "albumReleaseType": "https://schema.org/SingleRelease",
+      "byArtist": [
+        {
+          "@type": "Person",
+          "name": "Manik Bhatheja"
+        }
+      ],
+      "creditText": "Manik Bhatheja",
+      "numTracks": 1,
+      "datePublished": "2015-05-05",
+      "track": {
+        "@id": "https://aliktarraf.com/#catalog-trk-0265"
+      },
+      "albumRelease": {
+        "@id": "https://aliktarraf.com/#catalog-sng-220-digital-release"
+      },
+      "publisher": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "copyrightHolder": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Release ID",
+          "value": "SNG-220"
+        }
+      ]
+    },
+    {
+      "@type": "MusicRelease",
+      "@id": "https://aliktarraf.com/#catalog-sng-220-digital-release",
+      "name": "Pick It Up — Digital Single Release",
+      "releaseOf": {
+        "@id": "https://aliktarraf.com/#catalog-sng-220"
+      },
+      "datePublished": "2015-05-05",
+      "musicReleaseFormat": "https://schema.org/DigitalFormat",
+      "creditedTo": [
+        {
+          "@type": "Person",
+          "name": "Manik Bhatheja"
+        }
+      ],
+      "creditText": "Manik Bhatheja",
+      "recordLabel": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "numTracks": 1,
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Release ID",
+          "value": "SNG-220"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "UPC",
+          "value": "825293554333"
+        }
+      ]
+    },
+    {
+      "@type": "MusicRecording",
+      "@id": "https://aliktarraf.com/#catalog-trk-0265",
+      "name": "Pick It Up",
+      "isrcCode": "QZZ772605191",
+      "byArtist": [
+        {
+          "@type": "Person",
+          "name": "Manik Bhatheja"
+        }
+      ],
+      "creditText": "Manik Bhatheja",
+      "datePublished": "2015-05-05",
+      "duration": "PT4M11S",
+      "inAlbum": {
+        "@id": "https://aliktarraf.com/#catalog-sng-220"
+      },
+      "publisher": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "copyrightHolder": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Track ID",
+          "value": "TRK-0265"
+        }
+      ]
+    },
+    {
+      "@type": "MusicAlbum",
+      "@id": "https://aliktarraf.com/#catalog-sng-221",
+      "name": "Живая",
+      "albumReleaseType": "https://schema.org/SingleRelease",
+      "byArtist": [
+        {
+          "@id": "https://aliktarraf.com/#marina-tarraf"
+        }
+      ],
+      "creditText": "Marina Tarraf",
+      "numTracks": 1,
+      "datePublished": "2026-05-06",
+      "track": {
+        "@id": "https://aliktarraf.com/#catalog-trk-0266"
+      },
+      "albumRelease": {
+        "@id": "https://aliktarraf.com/#catalog-sng-221-digital-release"
+      },
+      "publisher": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "copyrightHolder": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Release ID",
+          "value": "SNG-221"
+        }
+      ]
+    },
+    {
+      "@type": "MusicRelease",
+      "@id": "https://aliktarraf.com/#catalog-sng-221-digital-release",
+      "name": "Живая — Digital Single Release",
+      "releaseOf": {
+        "@id": "https://aliktarraf.com/#catalog-sng-221"
+      },
+      "datePublished": "2026-05-06",
+      "musicReleaseFormat": "https://schema.org/DigitalFormat",
+      "creditedTo": [
+        {
+          "@id": "https://aliktarraf.com/#marina-tarraf"
+        }
+      ],
+      "creditText": "Marina Tarraf",
+      "recordLabel": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "numTracks": 1,
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Release ID",
+          "value": "SNG-221"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "UPC",
+          "value": "825353069494"
+        }
+      ]
+    },
+    {
+      "@type": "MusicRecording",
+      "@id": "https://aliktarraf.com/#catalog-trk-0266",
+      "name": "Живая",
+      "isrcCode": "QZWFQ2609943",
+      "byArtist": [
+        {
+          "@id": "https://aliktarraf.com/#marina-tarraf"
+        }
+      ],
+      "creditText": "Marina Tarraf",
+      "datePublished": "2026-05-06",
+      "duration": "PT5M21S",
+      "inAlbum": {
+        "@id": "https://aliktarraf.com/#catalog-sng-221"
+      },
+      "publisher": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "copyrightHolder": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Track ID",
+          "value": "TRK-0266"
+        }
+      ]
+    },
+    {
+      "@type": "MusicAlbum",
+      "@id": "https://aliktarraf.com/#catalog-sng-222",
+      "name": "Удаляй меня",
+      "albumReleaseType": "https://schema.org/SingleRelease",
+      "byArtist": [
+        {
+          "@id": "https://aliktarraf.com/#marina-tarraf"
+        }
+      ],
+      "creditText": "Marina Tarraf",
+      "numTracks": 1,
+      "datePublished": "2026-04-25",
+      "track": {
+        "@id": "https://aliktarraf.com/#catalog-trk-0267"
+      },
+      "albumRelease": {
+        "@id": "https://aliktarraf.com/#catalog-sng-222-digital-release"
+      },
+      "publisher": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "copyrightHolder": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Release ID",
+          "value": "SNG-222"
+        }
+      ]
+    },
+    {
+      "@type": "MusicRelease",
+      "@id": "https://aliktarraf.com/#catalog-sng-222-digital-release",
+      "name": "Удаляй меня — Digital Single Release",
+      "releaseOf": {
+        "@id": "https://aliktarraf.com/#catalog-sng-222"
+      },
+      "datePublished": "2026-04-25",
+      "musicReleaseFormat": "https://schema.org/DigitalFormat",
+      "creditedTo": [
+        {
+          "@id": "https://aliktarraf.com/#marina-tarraf"
+        }
+      ],
+      "creditText": "Marina Tarraf",
+      "recordLabel": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "numTracks": 1,
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Release ID",
+          "value": "SNG-222"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "UPC",
+          "value": "825500873585"
+        }
+      ]
+    },
+    {
+      "@type": "MusicRecording",
+      "@id": "https://aliktarraf.com/#catalog-trk-0267",
+      "name": "Удаляй меня",
+      "isrcCode": "QZTB92689800",
+      "byArtist": [
+        {
+          "@id": "https://aliktarraf.com/#marina-tarraf"
+        }
+      ],
+      "creditText": "Marina Tarraf",
+      "datePublished": "2026-04-25",
+      "duration": "PT5M18S",
+      "inAlbum": {
+        "@id": "https://aliktarraf.com/#catalog-sng-222"
+      },
+      "publisher": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "copyrightHolder": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Track ID",
+          "value": "TRK-0267"
+        }
+      ]
+    },
+    {
+      "@type": "MusicAlbum",
+      "@id": "https://aliktarraf.com/#catalog-sng-223",
+      "name": "Не звони мне",
+      "albumReleaseType": "https://schema.org/SingleRelease",
+      "byArtist": [
+        {
+          "@id": "https://aliktarraf.com/#marina-tarraf"
+        }
+      ],
+      "creditText": "Marina Tarraf",
+      "numTracks": 1,
+      "datePublished": "2026-04-21",
+      "track": {
+        "@id": "https://aliktarraf.com/#catalog-trk-0268"
+      },
+      "albumRelease": {
+        "@id": "https://aliktarraf.com/#catalog-sng-223-digital-release"
+      },
+      "publisher": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "copyrightHolder": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Release ID",
+          "value": "SNG-223"
+        }
+      ]
+    },
+    {
+      "@type": "MusicRelease",
+      "@id": "https://aliktarraf.com/#catalog-sng-223-digital-release",
+      "name": "Не звони мне — Digital Single Release",
+      "releaseOf": {
+        "@id": "https://aliktarraf.com/#catalog-sng-223"
+      },
+      "datePublished": "2026-04-21",
+      "musicReleaseFormat": "https://schema.org/DigitalFormat",
+      "creditedTo": [
+        {
+          "@id": "https://aliktarraf.com/#marina-tarraf"
+        }
+      ],
+      "creditText": "Marina Tarraf",
+      "recordLabel": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "numTracks": 1,
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Release ID",
+          "value": "SNG-223"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "UPC",
+          "value": "825500876043"
+        }
+      ]
+    },
+    {
+      "@type": "MusicRecording",
+      "@id": "https://aliktarraf.com/#catalog-trk-0268",
+      "name": "Не звони мне",
+      "isrcCode": "QZTB92686995",
+      "byArtist": [
+        {
+          "@id": "https://aliktarraf.com/#marina-tarraf"
+        }
+      ],
+      "creditText": "Marina Tarraf",
+      "datePublished": "2026-04-21",
+      "duration": "PT5M31S",
+      "inAlbum": {
+        "@id": "https://aliktarraf.com/#catalog-sng-223"
+      },
+      "publisher": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "copyrightHolder": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Track ID",
+          "value": "TRK-0268"
+        }
+      ]
+    },
+    {
+      "@type": "MusicAlbum",
+      "@id": "https://aliktarraf.com/#catalog-sng-224",
+      "name": "This is goodbye",
+      "albumReleaseType": "https://schema.org/SingleRelease",
+      "byArtist": [
+        {
+          "@id": "https://aliktarraf.com/#marina-tarraf"
+        }
+      ],
+      "creditText": "Marina Tarraf",
+      "numTracks": 1,
+      "datePublished": "2026-04-16",
+      "track": {
+        "@id": "https://aliktarraf.com/#catalog-trk-0269"
+      },
+      "albumRelease": {
+        "@id": "https://aliktarraf.com/#catalog-sng-224-digital-release"
+      },
+      "publisher": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "copyrightHolder": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Release ID",
+          "value": "SNG-224"
+        }
+      ]
+    },
+    {
+      "@type": "MusicRelease",
+      "@id": "https://aliktarraf.com/#catalog-sng-224-digital-release",
+      "name": "This is goodbye — Digital Single Release",
+      "releaseOf": {
+        "@id": "https://aliktarraf.com/#catalog-sng-224"
+      },
+      "datePublished": "2026-04-16",
+      "musicReleaseFormat": "https://schema.org/DigitalFormat",
+      "creditedTo": [
+        {
+          "@id": "https://aliktarraf.com/#marina-tarraf"
+        }
+      ],
+      "creditText": "Marina Tarraf",
+      "recordLabel": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "numTracks": 1,
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Release ID",
+          "value": "SNG-224"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "UPC",
+          "value": "825583038222"
+        }
+      ]
+    },
+    {
+      "@type": "MusicRecording",
+      "@id": "https://aliktarraf.com/#catalog-trk-0269",
+      "name": "This is goodbye",
+      "isrcCode": "QZTB92661671",
+      "byArtist": [
+        {
+          "@id": "https://aliktarraf.com/#marina-tarraf"
+        }
+      ],
+      "creditText": "Marina Tarraf",
+      "datePublished": "2026-04-16",
+      "duration": "PT6M29S",
+      "inAlbum": {
+        "@id": "https://aliktarraf.com/#catalog-sng-224"
+      },
+      "publisher": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "copyrightHolder": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Track ID",
+          "value": "TRK-0269"
+        }
+      ]
+    },
+    {
+      "@type": "MusicAlbum",
+      "@id": "https://aliktarraf.com/#catalog-sng-225",
+      "name": "Хто ти тепер",
+      "albumReleaseType": "https://schema.org/SingleRelease",
+      "byArtist": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf",
+      "numTracks": 1,
+      "datePublished": "2026-04-10",
+      "track": {
+        "@id": "https://aliktarraf.com/#catalog-trk-0270"
+      },
+      "albumRelease": {
+        "@id": "https://aliktarraf.com/#catalog-sng-225-digital-release"
+      },
+      "publisher": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "copyrightHolder": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Release ID",
+          "value": "SNG-225"
+        }
+      ]
+    },
+    {
+      "@type": "MusicRelease",
+      "@id": "https://aliktarraf.com/#catalog-sng-225-digital-release",
+      "name": "Хто ти тепер — Digital Single Release",
+      "releaseOf": {
+        "@id": "https://aliktarraf.com/#catalog-sng-225"
+      },
+      "datePublished": "2026-04-10",
+      "musicReleaseFormat": "https://schema.org/DigitalFormat",
+      "creditedTo": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf",
+      "recordLabel": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "numTracks": 1,
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Release ID",
+          "value": "SNG-225"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "UPC",
+          "value": "825626537774"
+        }
+      ]
+    },
+    {
+      "@type": "MusicRecording",
+      "@id": "https://aliktarraf.com/#catalog-trk-0270",
+      "name": "Хто ти тепер",
+      "isrcCode": "QZTB62662325",
+      "byArtist": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf",
+      "datePublished": "2026-04-10",
+      "duration": "PT6M2S",
+      "inAlbum": {
+        "@id": "https://aliktarraf.com/#catalog-sng-225"
+      },
+      "publisher": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "copyrightHolder": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Track ID",
+          "value": "TRK-0270"
+        }
+      ]
+    },
+    {
+      "@type": "MusicAlbum",
+      "@id": "https://aliktarraf.com/#catalog-sng-226",
+      "name": "NON STOP (Soundtrack)",
+      "albumReleaseType": "https://schema.org/SingleRelease",
+      "byArtist": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf",
+      "numTracks": 1,
+      "datePublished": "2026-04-13",
+      "track": {
+        "@id": "https://aliktarraf.com/#catalog-trk-0271"
+      },
+      "albumRelease": {
+        "@id": "https://aliktarraf.com/#catalog-sng-226-digital-release"
+      },
+      "publisher": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "copyrightHolder": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Release ID",
+          "value": "SNG-226"
+        }
+      ]
+    },
+    {
+      "@type": "MusicRelease",
+      "@id": "https://aliktarraf.com/#catalog-sng-226-digital-release",
+      "name": "NON STOP (Soundtrack) — Digital Single Release",
+      "releaseOf": {
+        "@id": "https://aliktarraf.com/#catalog-sng-226"
+      },
+      "datePublished": "2026-04-13",
+      "musicReleaseFormat": "https://schema.org/DigitalFormat",
+      "creditedTo": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf",
+      "recordLabel": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "numTracks": 1,
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Release ID",
+          "value": "SNG-226"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "UPC",
+          "value": "825626650879"
+        }
+      ]
+    },
+    {
+      "@type": "MusicRecording",
+      "@id": "https://aliktarraf.com/#catalog-trk-0271",
+      "name": "NON STOP (Soundtrack)",
+      "isrcCode": "QZTB62644697",
+      "byArtist": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf",
+      "datePublished": "2026-04-13",
+      "duration": "PT5M1S",
+      "inAlbum": {
+        "@id": "https://aliktarraf.com/#catalog-sng-226"
+      },
+      "publisher": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "copyrightHolder": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Track ID",
+          "value": "TRK-0271"
+        }
+      ]
+    },
+    {
+      "@type": "MusicAlbum",
+      "@id": "https://aliktarraf.com/#catalog-sng-227",
+      "name": "EPIC MODE",
+      "albumReleaseType": "https://schema.org/SingleRelease",
+      "byArtist": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf",
+      "numTracks": 1,
+      "datePublished": "2026-04-11",
+      "track": {
+        "@id": "https://aliktarraf.com/#catalog-trk-0272"
+      },
+      "albumRelease": {
+        "@id": "https://aliktarraf.com/#catalog-sng-227-digital-release"
+      },
+      "publisher": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "copyrightHolder": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Release ID",
+          "value": "SNG-227"
+        }
+      ]
+    },
+    {
+      "@type": "MusicRelease",
+      "@id": "https://aliktarraf.com/#catalog-sng-227-digital-release",
+      "name": "EPIC MODE — Digital Single Release",
+      "releaseOf": {
+        "@id": "https://aliktarraf.com/#catalog-sng-227"
+      },
+      "datePublished": "2026-04-11",
+      "musicReleaseFormat": "https://schema.org/DigitalFormat",
+      "creditedTo": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf",
+      "recordLabel": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "numTracks": 1,
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Release ID",
+          "value": "SNG-227"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "UPC",
+          "value": "825626657786"
+        }
+      ]
+    },
+    {
+      "@type": "MusicRecording",
+      "@id": "https://aliktarraf.com/#catalog-trk-0272",
+      "name": "EPIC MODE",
+      "isrcCode": "QZTB62641981",
+      "byArtist": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf",
+      "datePublished": "2026-04-11",
+      "duration": "PT3M30S",
+      "inAlbum": {
+        "@id": "https://aliktarraf.com/#catalog-sng-227"
+      },
+      "publisher": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "copyrightHolder": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Track ID",
+          "value": "TRK-0272"
+        }
+      ]
+    },
+    {
+      "@type": "MusicAlbum",
+      "@id": "https://aliktarraf.com/#catalog-sng-228",
+      "name": "Разлом (Soundtrack)",
+      "albumReleaseType": "https://schema.org/SingleRelease",
+      "byArtist": [
+        {
+          "@id": "https://aliktarraf.com/#marina-tarraf"
+        }
+      ],
+      "creditText": "Marina Tarraf",
+      "numTracks": 1,
+      "datePublished": "2026-04-02",
+      "track": {
+        "@id": "https://aliktarraf.com/#catalog-trk-0273"
+      },
+      "albumRelease": {
+        "@id": "https://aliktarraf.com/#catalog-sng-228-digital-release"
+      },
+      "publisher": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "copyrightHolder": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Release ID",
+          "value": "SNG-228"
+        }
+      ]
+    },
+    {
+      "@type": "MusicRelease",
+      "@id": "https://aliktarraf.com/#catalog-sng-228-digital-release",
+      "name": "Разлом (Soundtrack) — Digital Single Release",
+      "releaseOf": {
+        "@id": "https://aliktarraf.com/#catalog-sng-228"
+      },
+      "datePublished": "2026-04-02",
+      "musicReleaseFormat": "https://schema.org/DigitalFormat",
+      "creditedTo": [
+        {
+          "@id": "https://aliktarraf.com/#marina-tarraf"
+        }
+      ],
+      "creditText": "Marina Tarraf",
+      "recordLabel": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "numTracks": 1,
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Release ID",
+          "value": "SNG-228"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "UPC",
+          "value": "825626696211"
+        }
+      ]
+    },
+    {
+      "@type": "MusicRecording",
+      "@id": "https://aliktarraf.com/#catalog-trk-0273",
+      "name": "Разлом (Soundtrack)",
+      "isrcCode": "QZTB62638190",
+      "byArtist": [
+        {
+          "@id": "https://aliktarraf.com/#marina-tarraf"
+        }
+      ],
+      "creditText": "Marina Tarraf",
+      "datePublished": "2026-04-02",
+      "duration": "PT4M12S",
+      "inAlbum": {
+        "@id": "https://aliktarraf.com/#catalog-sng-228"
+      },
+      "publisher": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "copyrightHolder": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Track ID",
+          "value": "TRK-0273"
+        }
+      ]
+    },
+    {
+      "@type": "MusicAlbum",
+      "@id": "https://aliktarraf.com/#catalog-sng-229",
+      "name": "18+",
+      "albumReleaseType": "https://schema.org/SingleRelease",
+      "byArtist": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf",
+      "numTracks": 1,
+      "datePublished": "2026-04-05",
+      "track": {
+        "@id": "https://aliktarraf.com/#catalog-trk-0274"
+      },
+      "albumRelease": {
+        "@id": "https://aliktarraf.com/#catalog-sng-229-digital-release"
+      },
+      "publisher": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "copyrightHolder": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Release ID",
+          "value": "SNG-229"
+        }
+      ]
+    },
+    {
+      "@type": "MusicRelease",
+      "@id": "https://aliktarraf.com/#catalog-sng-229-digital-release",
+      "name": "18+ — Digital Single Release",
+      "releaseOf": {
+        "@id": "https://aliktarraf.com/#catalog-sng-229"
+      },
+      "datePublished": "2026-04-05",
+      "musicReleaseFormat": "https://schema.org/DigitalFormat",
+      "creditedTo": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf",
+      "recordLabel": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "numTracks": 1,
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Release ID",
+          "value": "SNG-229"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "UPC",
+          "value": "825628100518"
+        }
+      ]
+    },
+    {
+      "@type": "MusicRecording",
+      "@id": "https://aliktarraf.com/#catalog-trk-0274",
+      "name": "18+",
+      "isrcCode": "QZTB52643580",
+      "byArtist": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf",
+      "datePublished": "2026-04-05",
+      "duration": "PT6M8S",
+      "inAlbum": {
+        "@id": "https://aliktarraf.com/#catalog-sng-229"
+      },
+      "publisher": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "copyrightHolder": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Track ID",
+          "value": "TRK-0274"
+        }
+      ]
+    },
+    {
+      "@type": "MusicAlbum",
+      "@id": "https://aliktarraf.com/#catalog-sng-230",
+      "name": "Школа жизни",
+      "albumReleaseType": "https://schema.org/SingleRelease",
+      "byArtist": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf",
+      "numTracks": 1,
+      "datePublished": "2026-04-08",
+      "track": {
+        "@id": "https://aliktarraf.com/#catalog-trk-0275"
+      },
+      "albumRelease": {
+        "@id": "https://aliktarraf.com/#catalog-sng-230-digital-release"
+      },
+      "publisher": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "copyrightHolder": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Release ID",
+          "value": "SNG-230"
+        }
+      ]
+    },
+    {
+      "@type": "MusicRelease",
+      "@id": "https://aliktarraf.com/#catalog-sng-230-digital-release",
+      "name": "Школа жизни — Digital Single Release",
+      "releaseOf": {
+        "@id": "https://aliktarraf.com/#catalog-sng-230"
+      },
+      "datePublished": "2026-04-08",
+      "musicReleaseFormat": "https://schema.org/DigitalFormat",
+      "creditedTo": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf",
+      "recordLabel": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "numTracks": 1,
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Release ID",
+          "value": "SNG-230"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "UPC",
+          "value": "825682070222"
+        }
+      ]
+    },
+    {
+      "@type": "MusicRecording",
+      "@id": "https://aliktarraf.com/#catalog-trk-0275",
+      "name": "Школа жизни",
+      "isrcCode": "QZTAZ2642798",
+      "byArtist": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf",
+      "datePublished": "2026-04-08",
+      "duration": "PT3M18S",
+      "inAlbum": {
+        "@id": "https://aliktarraf.com/#catalog-sng-230"
+      },
+      "publisher": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "copyrightHolder": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Track ID",
+          "value": "TRK-0275"
+        }
+      ]
+    },
+    {
+      "@type": "MusicAlbum",
+      "@id": "https://aliktarraf.com/#catalog-sng-231",
+      "name": "I Will Always Love You",
+      "albumReleaseType": "https://schema.org/SingleRelease",
+      "byArtist": [
+        {
+          "@id": "https://aliktarraf.com/#marina-tarraf"
+        }
+      ],
+      "creditText": "Marina Tarraf",
+      "numTracks": 1,
+      "datePublished": "2026-03-25",
+      "track": {
+        "@id": "https://aliktarraf.com/#catalog-trk-0276"
+      },
+      "albumRelease": {
+        "@id": "https://aliktarraf.com/#catalog-sng-231-digital-release"
+      },
+      "publisher": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "copyrightHolder": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Release ID",
+          "value": "SNG-231"
+        }
+      ]
+    },
+    {
+      "@type": "MusicRelease",
+      "@id": "https://aliktarraf.com/#catalog-sng-231-digital-release",
+      "name": "I Will Always Love You — Digital Single Release",
+      "releaseOf": {
+        "@id": "https://aliktarraf.com/#catalog-sng-231"
+      },
+      "datePublished": "2026-03-25",
+      "musicReleaseFormat": "https://schema.org/DigitalFormat",
+      "creditedTo": [
+        {
+          "@id": "https://aliktarraf.com/#marina-tarraf"
+        }
+      ],
+      "creditText": "Marina Tarraf",
+      "recordLabel": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "numTracks": 1,
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Release ID",
+          "value": "SNG-231"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "UPC",
+          "value": "825758987270"
+        }
+      ]
+    },
+    {
+      "@type": "MusicRecording",
+      "@id": "https://aliktarraf.com/#catalog-trk-0276",
+      "name": "I Will Always Love You",
+      "isrcCode": "QZPLR2649825",
+      "byArtist": [
+        {
+          "@id": "https://aliktarraf.com/#marina-tarraf"
+        }
+      ],
+      "creditText": "Marina Tarraf",
+      "datePublished": "2026-03-25",
+      "duration": "PT4M28S",
+      "inAlbum": {
+        "@id": "https://aliktarraf.com/#catalog-sng-231"
+      },
+      "publisher": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "copyrightHolder": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Track ID",
+          "value": "TRK-0276"
+        }
+      ]
+    },
+    {
+      "@type": "MusicAlbum",
+      "@id": "https://aliktarraf.com/#catalog-sng-232",
+      "name": "Aliana",
+      "albumReleaseType": "https://schema.org/SingleRelease",
+      "byArtist": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        }
+      ],
+      "contributor": [
+        {
+          "@id": "https://aliktarraf.com/#marina-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf (feat. Marina Tarraf)",
+      "numTracks": 1,
+      "datePublished": "2026-03-03",
+      "track": {
+        "@id": "https://aliktarraf.com/#catalog-trk-0277"
+      },
+      "albumRelease": {
+        "@id": "https://aliktarraf.com/#catalog-sng-232-digital-release"
+      },
+      "publisher": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "copyrightHolder": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Release ID",
+          "value": "SNG-232"
+        }
+      ]
+    },
+    {
+      "@type": "MusicRelease",
+      "@id": "https://aliktarraf.com/#catalog-sng-232-digital-release",
+      "name": "Aliana — Digital Single Release",
+      "releaseOf": {
+        "@id": "https://aliktarraf.com/#catalog-sng-232"
+      },
+      "datePublished": "2026-03-03",
+      "musicReleaseFormat": "https://schema.org/DigitalFormat",
+      "creditedTo": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        },
+        {
+          "@id": "https://aliktarraf.com/#marina-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf (feat. Marina Tarraf)",
+      "recordLabel": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "numTracks": 1,
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Release ID",
+          "value": "SNG-232"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "UPC",
+          "value": "821201623535"
+        }
+      ]
+    },
+    {
+      "@type": "MusicRecording",
+      "@id": "https://aliktarraf.com/#catalog-trk-0277",
+      "name": "Aliana",
+      "isrcCode": "QZNWU2642118",
+      "byArtist": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        }
+      ],
+      "contributor": [
+        {
+          "@id": "https://aliktarraf.com/#marina-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf (feat. Marina Tarraf)",
+      "datePublished": "2026-03-03",
+      "duration": "PT4M41S",
+      "inAlbum": {
+        "@id": "https://aliktarraf.com/#catalog-sng-232"
+      },
+      "publisher": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "copyrightHolder": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Track ID",
+          "value": "TRK-0277"
+        }
+      ]
+    },
+    {
+      "@type": "MusicAlbum",
+      "@id": "https://aliktarraf.com/#catalog-sng-233",
+      "name": "ОБРАТНЫЙ ОТСЧЁТ",
+      "albumReleaseType": "https://schema.org/SingleRelease",
+      "byArtist": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf",
+      "numTracks": 1,
+      "datePublished": "2026-03-07",
+      "track": {
+        "@id": "https://aliktarraf.com/#catalog-trk-0278"
+      },
+      "albumRelease": {
+        "@id": "https://aliktarraf.com/#catalog-sng-233-digital-release"
+      },
+      "publisher": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "copyrightHolder": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Release ID",
+          "value": "SNG-233"
+        }
+      ]
+    },
+    {
+      "@type": "MusicRelease",
+      "@id": "https://aliktarraf.com/#catalog-sng-233-digital-release",
+      "name": "ОБРАТНЫЙ ОТСЧЁТ — Digital Single Release",
+      "releaseOf": {
+        "@id": "https://aliktarraf.com/#catalog-sng-233"
+      },
+      "datePublished": "2026-03-07",
+      "musicReleaseFormat": "https://schema.org/DigitalFormat",
+      "creditedTo": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf",
+      "recordLabel": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "numTracks": 1,
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Release ID",
+          "value": "SNG-233"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "UPC",
+          "value": "821275786952"
+        }
+      ]
+    },
+    {
+      "@type": "MusicRecording",
+      "@id": "https://aliktarraf.com/#catalog-trk-0278",
+      "name": "ОБРАТНЫЙ ОТСЧЁТ",
+      "isrcCode": "QZNWR2670507",
+      "byArtist": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf",
+      "datePublished": "2026-03-07",
+      "duration": "PT5M5S",
+      "inAlbum": {
+        "@id": "https://aliktarraf.com/#catalog-sng-233"
+      },
+      "publisher": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "copyrightHolder": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Track ID",
+          "value": "TRK-0278"
+        }
+      ]
+    },
+    {
+      "@type": "MusicAlbum",
+      "@id": "https://aliktarraf.com/#catalog-sng-234",
+      "name": "Coco Jamboo",
+      "albumReleaseType": "https://schema.org/SingleRelease",
+      "byArtist": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        }
+      ],
+      "contributor": [
+        {
+          "@id": "https://aliktarraf.com/#marina-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf (feat. Marina Tarraf)",
+      "numTracks": 1,
+      "datePublished": "2026-03-15",
+      "track": {
+        "@id": "https://aliktarraf.com/#catalog-trk-0279"
+      },
+      "albumRelease": {
+        "@id": "https://aliktarraf.com/#catalog-sng-234-digital-release"
+      },
+      "publisher": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "copyrightHolder": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Release ID",
+          "value": "SNG-234"
+        }
+      ]
+    },
+    {
+      "@type": "MusicRelease",
+      "@id": "https://aliktarraf.com/#catalog-sng-234-digital-release",
+      "name": "Coco Jamboo — Digital Single Release",
+      "releaseOf": {
+        "@id": "https://aliktarraf.com/#catalog-sng-234"
+      },
+      "datePublished": "2026-03-15",
+      "musicReleaseFormat": "https://schema.org/DigitalFormat",
+      "creditedTo": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        },
+        {
+          "@id": "https://aliktarraf.com/#marina-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf (feat. Marina Tarraf)",
+      "recordLabel": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "numTracks": 1,
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Release ID",
+          "value": "SNG-234"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "UPC",
+          "value": "821300139999"
+        }
+      ]
+    },
+    {
+      "@type": "MusicRecording",
+      "@id": "https://aliktarraf.com/#catalog-trk-0279",
+      "name": "Coco Jamboo",
+      "isrcCode": "QZNWR2639595",
+      "byArtist": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        }
+      ],
+      "contributor": [
+        {
+          "@id": "https://aliktarraf.com/#marina-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf (feat. Marina Tarraf)",
+      "datePublished": "2026-03-15",
+      "duration": "PT4M0S",
+      "inAlbum": {
+        "@id": "https://aliktarraf.com/#catalog-sng-234"
+      },
+      "publisher": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "copyrightHolder": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Track ID",
+          "value": "TRK-0279"
+        }
+      ]
+    },
+    {
+      "@type": "MusicAlbum",
+      "@id": "https://aliktarraf.com/#catalog-sng-235",
+      "name": "ObaTar (Soundtrack)",
+      "albumReleaseType": "https://schema.org/SingleRelease",
+      "byArtist": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf",
+      "numTracks": 1,
+      "datePublished": "2026-03-04",
+      "track": {
+        "@id": "https://aliktarraf.com/#catalog-trk-0280"
+      },
+      "albumRelease": {
+        "@id": "https://aliktarraf.com/#catalog-sng-235-digital-release"
+      },
+      "publisher": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "copyrightHolder": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Release ID",
+          "value": "SNG-235"
+        }
+      ]
+    },
+    {
+      "@type": "MusicRelease",
+      "@id": "https://aliktarraf.com/#catalog-sng-235-digital-release",
+      "name": "ObaTar (Soundtrack) — Digital Single Release",
+      "releaseOf": {
+        "@id": "https://aliktarraf.com/#catalog-sng-235"
+      },
+      "datePublished": "2026-03-04",
+      "musicReleaseFormat": "https://schema.org/DigitalFormat",
+      "creditedTo": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf",
+      "recordLabel": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "numTracks": 1,
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Release ID",
+          "value": "SNG-235"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "UPC",
+          "value": "821300143590"
+        }
+      ]
+    },
+    {
+      "@type": "MusicRecording",
+      "@id": "https://aliktarraf.com/#catalog-trk-0280",
+      "name": "ObaTar (Soundtrack)",
+      "isrcCode": "QZMEQ2691709",
+      "byArtist": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf",
+      "datePublished": "2026-03-04",
+      "duration": "PT4M11S",
+      "inAlbum": {
+        "@id": "https://aliktarraf.com/#catalog-sng-235"
+      },
+      "publisher": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "copyrightHolder": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Track ID",
+          "value": "TRK-0280"
+        }
+      ]
+    },
+    {
+      "@type": "MusicAlbum",
+      "@id": "https://aliktarraf.com/#catalog-sng-236",
+      "name": "Не спрашивай потом",
+      "albumReleaseType": "https://schema.org/SingleRelease",
+      "byArtist": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf",
+      "numTracks": 1,
+      "datePublished": "2026-03-02",
+      "track": {
+        "@id": "https://aliktarraf.com/#catalog-trk-0281"
+      },
+      "albumRelease": {
+        "@id": "https://aliktarraf.com/#catalog-sng-236-digital-release"
+      },
+      "publisher": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "copyrightHolder": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Release ID",
+          "value": "SNG-236"
+        }
+      ]
+    },
+    {
+      "@type": "MusicRelease",
+      "@id": "https://aliktarraf.com/#catalog-sng-236-digital-release",
+      "name": "Не спрашивай потом — Digital Single Release",
+      "releaseOf": {
+        "@id": "https://aliktarraf.com/#catalog-sng-236"
+      },
+      "datePublished": "2026-03-02",
+      "musicReleaseFormat": "https://schema.org/DigitalFormat",
+      "creditedTo": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf",
+      "recordLabel": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "numTracks": 1,
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Release ID",
+          "value": "SNG-236"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "UPC",
+          "value": "821300623306"
+        }
+      ]
+    },
+    {
+      "@type": "MusicRecording",
+      "@id": "https://aliktarraf.com/#catalog-trk-0281",
+      "name": "Не спрашивай потом",
+      "isrcCode": "QZMEP2687524",
+      "byArtist": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf",
+      "datePublished": "2026-03-02",
+      "duration": "PT4M35S",
+      "inAlbum": {
+        "@id": "https://aliktarraf.com/#catalog-sng-236"
+      },
+      "publisher": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "copyrightHolder": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Track ID",
+          "value": "TRK-0281"
+        }
+      ]
+    },
+    {
+      "@type": "MusicAlbum",
+      "@id": "https://aliktarraf.com/#catalog-sng-237",
+      "name": "Он рисует мир",
+      "albumReleaseType": "https://schema.org/SingleRelease",
+      "byArtist": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf",
+      "numTracks": 1,
+      "datePublished": "2026-03-01",
+      "track": {
+        "@id": "https://aliktarraf.com/#catalog-trk-0282"
+      },
+      "albumRelease": {
+        "@id": "https://aliktarraf.com/#catalog-sng-237-digital-release"
+      },
+      "publisher": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "copyrightHolder": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Release ID",
+          "value": "SNG-237"
+        }
+      ]
+    },
+    {
+      "@type": "MusicRelease",
+      "@id": "https://aliktarraf.com/#catalog-sng-237-digital-release",
+      "name": "Он рисует мир — Digital Single Release",
+      "releaseOf": {
+        "@id": "https://aliktarraf.com/#catalog-sng-237"
+      },
+      "datePublished": "2026-03-01",
+      "musicReleaseFormat": "https://schema.org/DigitalFormat",
+      "creditedTo": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf",
+      "recordLabel": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "numTracks": 1,
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Release ID",
+          "value": "SNG-237"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "UPC",
+          "value": "821300919539"
+        }
+      ]
+    },
+    {
+      "@type": "MusicRecording",
+      "@id": "https://aliktarraf.com/#catalog-trk-0282",
+      "name": "Он рисует мир",
+      "isrcCode": "QZMEP2615493",
+      "byArtist": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf",
+      "datePublished": "2026-03-01",
+      "duration": "PT3M35S",
+      "inAlbum": {
+        "@id": "https://aliktarraf.com/#catalog-sng-237"
+      },
+      "publisher": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "copyrightHolder": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Track ID",
+          "value": "TRK-0282"
+        }
+      ]
+    },
+    {
+      "@type": "MusicAlbum",
+      "@id": "https://aliktarraf.com/#catalog-sng-238",
+      "name": "После 40",
+      "albumReleaseType": "https://schema.org/SingleRelease",
+      "byArtist": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf",
+      "numTracks": 1,
+      "datePublished": "2026-02-26",
+      "track": {
+        "@id": "https://aliktarraf.com/#catalog-trk-0283"
+      },
+      "albumRelease": {
+        "@id": "https://aliktarraf.com/#catalog-sng-238-digital-release"
+      },
+      "publisher": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "copyrightHolder": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Release ID",
+          "value": "SNG-238"
+        }
+      ]
+    },
+    {
+      "@type": "MusicRelease",
+      "@id": "https://aliktarraf.com/#catalog-sng-238-digital-release",
+      "name": "После 40 — Digital Single Release",
+      "releaseOf": {
+        "@id": "https://aliktarraf.com/#catalog-sng-238"
+      },
+      "datePublished": "2026-02-26",
+      "musicReleaseFormat": "https://schema.org/DigitalFormat",
+      "creditedTo": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf",
+      "recordLabel": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "numTracks": 1,
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Release ID",
+          "value": "SNG-238"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "UPC",
+          "value": "821406369436"
+        }
+      ]
+    },
+    {
+      "@type": "MusicRecording",
+      "@id": "https://aliktarraf.com/#catalog-trk-0283",
+      "name": "После 40",
+      "isrcCode": "QZK6J2673410",
+      "byArtist": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf",
+      "datePublished": "2026-02-26",
+      "duration": "PT4M39S",
+      "inAlbum": {
+        "@id": "https://aliktarraf.com/#catalog-sng-238"
+      },
+      "publisher": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "copyrightHolder": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Track ID",
+          "value": "TRK-0283"
+        }
+      ]
+    },
+    {
+      "@type": "MusicAlbum",
+      "@id": "https://aliktarraf.com/#catalog-sng-239",
+      "name": "OBARABO (الصحراء العجيبة)",
+      "albumReleaseType": "https://schema.org/SingleRelease",
+      "byArtist": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf",
+      "numTracks": 1,
+      "datePublished": "2026-03-15",
+      "track": {
+        "@id": "https://aliktarraf.com/#catalog-trk-0284"
+      },
+      "albumRelease": {
+        "@id": "https://aliktarraf.com/#catalog-sng-239-digital-release"
+      },
+      "publisher": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "copyrightHolder": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Release ID",
+          "value": "SNG-239"
+        }
+      ]
+    },
+    {
+      "@type": "MusicRelease",
+      "@id": "https://aliktarraf.com/#catalog-sng-239-digital-release",
+      "name": "OBARABO (الصحراء العجيبة) — Digital Single Release",
+      "releaseOf": {
+        "@id": "https://aliktarraf.com/#catalog-sng-239"
+      },
+      "datePublished": "2026-03-15",
+      "musicReleaseFormat": "https://schema.org/DigitalFormat",
+      "creditedTo": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf",
+      "recordLabel": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "numTracks": 1,
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Release ID",
+          "value": "SNG-239"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "UPC",
+          "value": "821406526259"
+        }
+      ]
+    },
+    {
+      "@type": "MusicRecording",
+      "@id": "https://aliktarraf.com/#catalog-trk-0284",
+      "name": "OBARABO (الصحراء العجيبة)",
+      "isrcCode": "QZK6J2642099",
+      "byArtist": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf",
+      "datePublished": "2026-03-15",
+      "duration": "PT4M14S",
+      "inAlbum": {
+        "@id": "https://aliktarraf.com/#catalog-sng-239"
+      },
+      "publisher": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "copyrightHolder": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Track ID",
+          "value": "TRK-0284"
+        }
+      ]
+    },
+    {
+      "@type": "MusicAlbum",
+      "@id": "https://aliktarraf.com/#catalog-sng-240",
+      "name": "Мой путь (LIVE)",
+      "albumReleaseType": "https://schema.org/SingleRelease",
+      "byArtist": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf",
+      "numTracks": 1,
+      "datePublished": "2026-02-24",
+      "track": {
+        "@id": "https://aliktarraf.com/#catalog-trk-0285"
+      },
+      "albumRelease": {
+        "@id": "https://aliktarraf.com/#catalog-sng-240-digital-release"
+      },
+      "publisher": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "copyrightHolder": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Release ID",
+          "value": "SNG-240"
+        }
+      ]
+    },
+    {
+      "@type": "MusicRelease",
+      "@id": "https://aliktarraf.com/#catalog-sng-240-digital-release",
+      "name": "Мой путь (LIVE) — Digital Single Release",
+      "releaseOf": {
+        "@id": "https://aliktarraf.com/#catalog-sng-240"
+      },
+      "datePublished": "2026-02-24",
+      "musicReleaseFormat": "https://schema.org/DigitalFormat",
+      "creditedTo": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf",
+      "recordLabel": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "numTracks": 1,
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Release ID",
+          "value": "SNG-240"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "UPC",
+          "value": "821430004266"
+        }
+      ]
+    },
+    {
+      "@type": "MusicRecording",
+      "@id": "https://aliktarraf.com/#catalog-trk-0285",
+      "name": "Мой путь (LIVE)",
+      "isrcCode": "QZK6H2644131",
+      "byArtist": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf",
+      "datePublished": "2026-02-24",
+      "duration": "PT4M28S",
+      "inAlbum": {
+        "@id": "https://aliktarraf.com/#catalog-sng-240"
+      },
+      "publisher": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "copyrightHolder": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Track ID",
+          "value": "TRK-0285"
+        }
+      ]
+    },
+    {
+      "@type": "MusicAlbum",
+      "@id": "https://aliktarraf.com/#catalog-sng-241",
+      "name": "OBARABO (DOMINÉ)",
+      "albumReleaseType": "https://schema.org/SingleRelease",
+      "byArtist": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf",
+      "numTracks": 1,
+      "datePublished": "2026-03-11",
+      "track": {
+        "@id": "https://aliktarraf.com/#catalog-trk-0286"
+      },
+      "albumRelease": {
+        "@id": "https://aliktarraf.com/#catalog-sng-241-digital-release"
+      },
+      "publisher": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "copyrightHolder": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Release ID",
+          "value": "SNG-241"
+        }
+      ]
+    },
+    {
+      "@type": "MusicRelease",
+      "@id": "https://aliktarraf.com/#catalog-sng-241-digital-release",
+      "name": "OBARABO (DOMINÉ) — Digital Single Release",
+      "releaseOf": {
+        "@id": "https://aliktarraf.com/#catalog-sng-241"
+      },
+      "datePublished": "2026-03-11",
+      "musicReleaseFormat": "https://schema.org/DigitalFormat",
+      "creditedTo": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf",
+      "recordLabel": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "numTracks": 1,
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Release ID",
+          "value": "SNG-241"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "UPC",
+          "value": "821430010977"
+        }
+      ]
+    },
+    {
+      "@type": "MusicRecording",
+      "@id": "https://aliktarraf.com/#catalog-trk-0286",
+      "name": "OBARABO (DOMINÉ)",
+      "isrcCode": "QZK6K2667471",
+      "byArtist": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf",
+      "datePublished": "2026-03-11",
+      "duration": "PT4M57S",
+      "inAlbum": {
+        "@id": "https://aliktarraf.com/#catalog-sng-241"
+      },
+      "publisher": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "copyrightHolder": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Track ID",
+          "value": "TRK-0286"
+        }
+      ]
+    },
+    {
+      "@type": "MusicAlbum",
+      "@id": "https://aliktarraf.com/#catalog-sng-242",
+      "name": "OBARABO (ANRA LUMÉ)",
+      "albumReleaseType": "https://schema.org/SingleRelease",
+      "byArtist": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf",
+      "numTracks": 1,
+      "datePublished": "2026-03-03",
+      "track": {
+        "@id": "https://aliktarraf.com/#catalog-trk-0287"
+      },
+      "albumRelease": {
+        "@id": "https://aliktarraf.com/#catalog-sng-242-digital-release"
+      },
+      "publisher": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "copyrightHolder": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Release ID",
+          "value": "SNG-242"
+        }
+      ]
+    },
+    {
+      "@type": "MusicRelease",
+      "@id": "https://aliktarraf.com/#catalog-sng-242-digital-release",
+      "name": "OBARABO (ANRA LUMÉ) — Digital Single Release",
+      "releaseOf": {
+        "@id": "https://aliktarraf.com/#catalog-sng-242"
+      },
+      "datePublished": "2026-03-03",
+      "musicReleaseFormat": "https://schema.org/DigitalFormat",
+      "creditedTo": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf",
+      "recordLabel": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "numTracks": 1,
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Release ID",
+          "value": "SNG-242"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "UPC",
+          "value": "821430023823"
+        }
+      ]
+    },
+    {
+      "@type": "MusicRecording",
+      "@id": "https://aliktarraf.com/#catalog-trk-0287",
+      "name": "OBARABO (ANRA LUMÉ)",
+      "isrcCode": "QZK6K2667447",
+      "byArtist": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf",
+      "datePublished": "2026-03-03",
+      "duration": "PT5M30S",
+      "inAlbum": {
+        "@id": "https://aliktarraf.com/#catalog-sng-242"
+      },
+      "publisher": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "copyrightHolder": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Track ID",
+          "value": "TRK-0287"
+        }
+      ]
+    },
+    {
+      "@type": "MusicAlbum",
+      "@id": "https://aliktarraf.com/#catalog-sng-243",
+      "name": "I Rise",
+      "albumReleaseType": "https://schema.org/SingleRelease",
+      "byArtist": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf",
+      "numTracks": 1,
+      "datePublished": "2026-02-24",
+      "track": {
+        "@id": "https://aliktarraf.com/#catalog-trk-0288"
+      },
+      "albumRelease": {
+        "@id": "https://aliktarraf.com/#catalog-sng-243-digital-release"
+      },
+      "publisher": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "copyrightHolder": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Release ID",
+          "value": "SNG-243"
+        }
+      ]
+    },
+    {
+      "@type": "MusicRelease",
+      "@id": "https://aliktarraf.com/#catalog-sng-243-digital-release",
+      "name": "I Rise — Digital Single Release",
+      "releaseOf": {
+        "@id": "https://aliktarraf.com/#catalog-sng-243"
+      },
+      "datePublished": "2026-02-24",
+      "musicReleaseFormat": "https://schema.org/DigitalFormat",
+      "creditedTo": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf",
+      "recordLabel": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "numTracks": 1,
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Release ID",
+          "value": "SNG-243"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "UPC",
+          "value": "821430038339"
+        }
+      ]
+    },
+    {
+      "@type": "MusicRecording",
+      "@id": "https://aliktarraf.com/#catalog-trk-0288",
+      "name": "I Rise",
+      "isrcCode": "QZK6K2665001",
+      "byArtist": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf",
+      "datePublished": "2026-02-24",
+      "duration": "PT4M33S",
+      "inAlbum": {
+        "@id": "https://aliktarraf.com/#catalog-sng-243"
+      },
+      "publisher": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "copyrightHolder": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Track ID",
+          "value": "TRK-0288"
+        }
+      ]
+    },
+    {
+      "@type": "MusicAlbum",
+      "@id": "https://aliktarraf.com/#catalog-sng-244",
+      "name": "Любовь",
+      "albumReleaseType": "https://schema.org/SingleRelease",
+      "byArtist": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf",
+      "numTracks": 1,
+      "datePublished": "2026-02-23",
+      "track": {
+        "@id": "https://aliktarraf.com/#catalog-trk-0289"
+      },
+      "albumRelease": {
+        "@id": "https://aliktarraf.com/#catalog-sng-244-digital-release"
+      },
+      "publisher": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "copyrightHolder": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Release ID",
+          "value": "SNG-244"
+        }
+      ]
+    },
+    {
+      "@type": "MusicRelease",
+      "@id": "https://aliktarraf.com/#catalog-sng-244-digital-release",
+      "name": "Любовь — Digital Single Release",
+      "releaseOf": {
+        "@id": "https://aliktarraf.com/#catalog-sng-244"
+      },
+      "datePublished": "2026-02-23",
+      "musicReleaseFormat": "https://schema.org/DigitalFormat",
+      "creditedTo": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf",
+      "recordLabel": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "numTracks": 1,
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Release ID",
+          "value": "SNG-244"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "UPC",
+          "value": "821430041100"
+        }
+      ]
+    },
+    {
+      "@type": "MusicRecording",
+      "@id": "https://aliktarraf.com/#catalog-trk-0289",
+      "name": "Любовь",
+      "isrcCode": "QZK6K2662665",
+      "byArtist": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf",
+      "datePublished": "2026-02-23",
+      "duration": "PT4M44S",
+      "inAlbum": {
+        "@id": "https://aliktarraf.com/#catalog-sng-244"
+      },
+      "publisher": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "copyrightHolder": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Track ID",
+          "value": "TRK-0289"
+        }
+      ]
+    },
+    {
+      "@type": "MusicAlbum",
+      "@id": "https://aliktarraf.com/#catalog-sng-245",
+      "name": "La vita",
+      "albumReleaseType": "https://schema.org/SingleRelease",
+      "byArtist": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf",
+      "numTracks": 1,
+      "datePublished": "2026-02-22",
+      "track": {
+        "@id": "https://aliktarraf.com/#catalog-trk-0290"
+      },
+      "albumRelease": {
+        "@id": "https://aliktarraf.com/#catalog-sng-245-digital-release"
+      },
+      "publisher": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "copyrightHolder": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Release ID",
+          "value": "SNG-245"
+        }
+      ]
+    },
+    {
+      "@type": "MusicRelease",
+      "@id": "https://aliktarraf.com/#catalog-sng-245-digital-release",
+      "name": "La vita — Digital Single Release",
+      "releaseOf": {
+        "@id": "https://aliktarraf.com/#catalog-sng-245"
+      },
+      "datePublished": "2026-02-22",
+      "musicReleaseFormat": "https://schema.org/DigitalFormat",
+      "creditedTo": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf",
+      "recordLabel": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "numTracks": 1,
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Release ID",
+          "value": "SNG-245"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "UPC",
+          "value": "821438386760"
+        }
+      ]
+    },
+    {
+      "@type": "MusicRecording",
+      "@id": "https://aliktarraf.com/#catalog-trk-0290",
+      "name": "La vita",
+      "isrcCode": "QZK6N2680514",
+      "byArtist": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf",
+      "datePublished": "2026-02-22",
+      "duration": "PT4M27S",
+      "inAlbum": {
+        "@id": "https://aliktarraf.com/#catalog-sng-245"
+      },
+      "publisher": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "copyrightHolder": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Track ID",
+          "value": "TRK-0290"
+        }
+      ]
+    },
+    {
+      "@type": "MusicAlbum",
+      "@id": "https://aliktarraf.com/#catalog-sng-246",
+      "name": "Democrats",
+      "albumReleaseType": "https://schema.org/SingleRelease",
+      "byArtist": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf",
+      "numTracks": 1,
+      "datePublished": "2026-02-21",
+      "track": {
+        "@id": "https://aliktarraf.com/#catalog-trk-0291"
+      },
+      "albumRelease": {
+        "@id": "https://aliktarraf.com/#catalog-sng-246-digital-release"
+      },
+      "publisher": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "copyrightHolder": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Release ID",
+          "value": "SNG-246"
+        }
+      ]
+    },
+    {
+      "@type": "MusicRelease",
+      "@id": "https://aliktarraf.com/#catalog-sng-246-digital-release",
+      "name": "Democrats — Digital Single Release",
+      "releaseOf": {
+        "@id": "https://aliktarraf.com/#catalog-sng-246"
+      },
+      "datePublished": "2026-02-21",
+      "musicReleaseFormat": "https://schema.org/DigitalFormat",
+      "creditedTo": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf",
+      "recordLabel": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "numTracks": 1,
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Release ID",
+          "value": "SNG-246"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "UPC",
+          "value": "821438394826"
+        }
+      ]
+    },
+    {
+      "@type": "MusicRecording",
+      "@id": "https://aliktarraf.com/#catalog-trk-0291",
+      "name": "Democrats",
+      "isrcCode": "QZK6N2680321",
+      "byArtist": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf",
+      "datePublished": "2026-02-21",
+      "duration": "PT3M49S",
+      "inAlbum": {
+        "@id": "https://aliktarraf.com/#catalog-sng-246"
+      },
+      "publisher": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "copyrightHolder": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Track ID",
+          "value": "TRK-0291"
+        }
+      ]
+    },
+    {
+      "@type": "MusicAlbum",
+      "@id": "https://aliktarraf.com/#catalog-sng-247",
+      "name": "Моё нутро",
+      "albumReleaseType": "https://schema.org/SingleRelease",
+      "byArtist": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf",
+      "numTracks": 1,
+      "datePublished": "2026-02-19",
+      "track": {
+        "@id": "https://aliktarraf.com/#catalog-trk-0292"
+      },
+      "albumRelease": {
+        "@id": "https://aliktarraf.com/#catalog-sng-247-digital-release"
+      },
+      "publisher": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "copyrightHolder": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Release ID",
+          "value": "SNG-247"
+        }
+      ]
+    },
+    {
+      "@type": "MusicRelease",
+      "@id": "https://aliktarraf.com/#catalog-sng-247-digital-release",
+      "name": "Моё нутро — Digital Single Release",
+      "releaseOf": {
+        "@id": "https://aliktarraf.com/#catalog-sng-247"
+      },
+      "datePublished": "2026-02-19",
+      "musicReleaseFormat": "https://schema.org/DigitalFormat",
+      "creditedTo": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf",
+      "recordLabel": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "numTracks": 1,
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Release ID",
+          "value": "SNG-247"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "UPC",
+          "value": "821438401593"
+        }
+      ]
+    },
+    {
+      "@type": "MusicRecording",
+      "@id": "https://aliktarraf.com/#catalog-trk-0292",
+      "name": "Моё нутро",
+      "isrcCode": "QZK6N2674431",
+      "byArtist": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf",
+      "datePublished": "2026-02-19",
+      "duration": "PT3M22S",
+      "inAlbum": {
+        "@id": "https://aliktarraf.com/#catalog-sng-247"
+      },
+      "publisher": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "copyrightHolder": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Track ID",
+          "value": "TRK-0292"
+        }
+      ]
+    },
+    {
+      "@type": "MusicAlbum",
+      "@id": "https://aliktarraf.com/#catalog-sng-248",
+      "name": "حبك مو لعبة",
+      "albumReleaseType": "https://schema.org/SingleRelease",
+      "byArtist": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        },
+        {
+          "@id": "https://aliktarraf.com/#marina-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf & Marina Tarraf",
+      "numTracks": 1,
+      "datePublished": "2026-02-18",
+      "track": {
+        "@id": "https://aliktarraf.com/#catalog-trk-0293"
+      },
+      "albumRelease": {
+        "@id": "https://aliktarraf.com/#catalog-sng-248-digital-release"
+      },
+      "publisher": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "copyrightHolder": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Release ID",
+          "value": "SNG-248"
+        }
+      ]
+    },
+    {
+      "@type": "MusicRelease",
+      "@id": "https://aliktarraf.com/#catalog-sng-248-digital-release",
+      "name": "حبك مو لعبة — Digital Single Release",
+      "releaseOf": {
+        "@id": "https://aliktarraf.com/#catalog-sng-248"
+      },
+      "datePublished": "2026-02-18",
+      "musicReleaseFormat": "https://schema.org/DigitalFormat",
+      "creditedTo": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        },
+        {
+          "@id": "https://aliktarraf.com/#marina-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf & Marina Tarraf",
+      "recordLabel": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "numTracks": 1,
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Release ID",
+          "value": "SNG-248"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "UPC",
+          "value": "821438418959"
+        }
+      ]
+    },
+    {
+      "@type": "MusicRecording",
+      "@id": "https://aliktarraf.com/#catalog-trk-0293",
+      "name": "حبك مو لعبة",
+      "isrcCode": "QZK6L2688208",
+      "byArtist": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        },
+        {
+          "@id": "https://aliktarraf.com/#marina-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf & Marina Tarraf",
+      "datePublished": "2026-02-18",
+      "duration": "PT4M43S",
+      "inAlbum": {
+        "@id": "https://aliktarraf.com/#catalog-sng-248"
+      },
+      "publisher": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "copyrightHolder": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Track ID",
+          "value": "TRK-0293"
+        }
+      ]
+    },
+    {
+      "@type": "MusicAlbum",
+      "@id": "https://aliktarraf.com/#catalog-sng-249",
+      "name": "Más Cerca / Closer",
+      "albumReleaseType": "https://schema.org/SingleRelease",
+      "byArtist": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        }
+      ],
+      "contributor": [
+        {
+          "@id": "https://aliktarraf.com/#marina-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf (feat. Marina Tarraf)",
+      "numTracks": 1,
+      "datePublished": "2026-02-17",
+      "track": {
+        "@id": "https://aliktarraf.com/#catalog-trk-0294"
+      },
+      "albumRelease": {
+        "@id": "https://aliktarraf.com/#catalog-sng-249-digital-release"
+      },
+      "publisher": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "copyrightHolder": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Release ID",
+          "value": "SNG-249"
+        }
+      ]
+    },
+    {
+      "@type": "MusicRelease",
+      "@id": "https://aliktarraf.com/#catalog-sng-249-digital-release",
+      "name": "Más Cerca / Closer — Digital Single Release",
+      "releaseOf": {
+        "@id": "https://aliktarraf.com/#catalog-sng-249"
+      },
+      "datePublished": "2026-02-17",
+      "musicReleaseFormat": "https://schema.org/DigitalFormat",
+      "creditedTo": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        },
+        {
+          "@id": "https://aliktarraf.com/#marina-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf (feat. Marina Tarraf)",
+      "recordLabel": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "numTracks": 1,
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Release ID",
+          "value": "SNG-249"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "UPC",
+          "value": "821438428491"
+        }
+      ]
+    },
+    {
+      "@type": "MusicRecording",
+      "@id": "https://aliktarraf.com/#catalog-trk-0294",
+      "name": "Más Cerca / Closer",
+      "isrcCode": "QZK6L2688089",
+      "byArtist": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        }
+      ],
+      "contributor": [
+        {
+          "@id": "https://aliktarraf.com/#marina-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf (feat. Marina Tarraf)",
+      "datePublished": "2026-02-17",
+      "duration": "PT3M50S",
+      "inAlbum": {
+        "@id": "https://aliktarraf.com/#catalog-sng-249"
+      },
+      "publisher": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "copyrightHolder": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Track ID",
+          "value": "TRK-0294"
+        }
+      ]
+    },
+    {
+      "@type": "MusicAlbum",
+      "@id": "https://aliktarraf.com/#catalog-sng-250",
+      "name": "الليلة مجنونة",
+      "albumReleaseType": "https://schema.org/SingleRelease",
+      "byArtist": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf",
+      "numTracks": 1,
+      "datePublished": "2026-02-14",
+      "track": {
+        "@id": "https://aliktarraf.com/#catalog-trk-0295"
+      },
+      "albumRelease": {
+        "@id": "https://aliktarraf.com/#catalog-sng-250-digital-release"
+      },
+      "publisher": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "copyrightHolder": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Release ID",
+          "value": "SNG-250"
+        }
+      ]
+    },
+    {
+      "@type": "MusicRelease",
+      "@id": "https://aliktarraf.com/#catalog-sng-250-digital-release",
+      "name": "الليلة مجنونة — Digital Single Release",
+      "releaseOf": {
+        "@id": "https://aliktarraf.com/#catalog-sng-250"
+      },
+      "datePublished": "2026-02-14",
+      "musicReleaseFormat": "https://schema.org/DigitalFormat",
+      "creditedTo": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf",
+      "recordLabel": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "numTracks": 1,
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Release ID",
+          "value": "SNG-250"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "UPC",
+          "value": "821438443043"
+        }
+      ]
+    },
+    {
+      "@type": "MusicRecording",
+      "@id": "https://aliktarraf.com/#catalog-trk-0295",
+      "name": "الليلة مجنونة",
+      "isrcCode": "QZK6N2667269",
+      "byArtist": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf",
+      "datePublished": "2026-02-14",
+      "duration": "PT3M27S",
+      "inAlbum": {
+        "@id": "https://aliktarraf.com/#catalog-sng-250"
+      },
+      "publisher": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "copyrightHolder": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Track ID",
+          "value": "TRK-0295"
+        }
+      ]
+    },
+    {
+      "@type": "MusicAlbum",
+      "@id": "https://aliktarraf.com/#catalog-sng-251",
+      "name": "Tell me why",
+      "albumReleaseType": "https://schema.org/SingleRelease",
+      "byArtist": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf",
+      "numTracks": 1,
+      "datePublished": "2026-02-11",
+      "track": {
+        "@id": "https://aliktarraf.com/#catalog-trk-0296"
+      },
+      "albumRelease": {
+        "@id": "https://aliktarraf.com/#catalog-sng-251-digital-release"
+      },
+      "publisher": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "copyrightHolder": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Release ID",
+          "value": "SNG-251"
+        }
+      ]
+    },
+    {
+      "@type": "MusicRelease",
+      "@id": "https://aliktarraf.com/#catalog-sng-251-digital-release",
+      "name": "Tell me why — Digital Single Release",
+      "releaseOf": {
+        "@id": "https://aliktarraf.com/#catalog-sng-251"
+      },
+      "datePublished": "2026-02-11",
+      "musicReleaseFormat": "https://schema.org/DigitalFormat",
+      "creditedTo": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf",
+      "recordLabel": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "numTracks": 1,
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Release ID",
+          "value": "SNG-251"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "UPC",
+          "value": "821438452847"
+        }
+      ]
+    },
+    {
+      "@type": "MusicRecording",
+      "@id": "https://aliktarraf.com/#catalog-trk-0296",
+      "name": "Tell me why",
+      "isrcCode": "QZK6N2663590",
+      "byArtist": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf",
+      "datePublished": "2026-02-11",
+      "duration": "PT6M3S",
+      "inAlbum": {
+        "@id": "https://aliktarraf.com/#catalog-sng-251"
+      },
+      "publisher": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "copyrightHolder": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Track ID",
+          "value": "TRK-0296"
+        }
+      ]
+    },
+    {
+      "@type": "MusicAlbum",
+      "@id": "https://aliktarraf.com/#catalog-sng-252",
+      "name": "Все хорошо (Live)",
+      "albumReleaseType": "https://schema.org/SingleRelease",
+      "byArtist": [
+        {
+          "@id": "https://aliktarraf.com/#marina-tarraf"
+        }
+      ],
+      "creditText": "Marina Tarraf",
+      "numTracks": 1,
+      "datePublished": "2026-02-16",
+      "track": {
+        "@id": "https://aliktarraf.com/#catalog-trk-0297"
+      },
+      "albumRelease": {
+        "@id": "https://aliktarraf.com/#catalog-sng-252-digital-release"
+      },
+      "publisher": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "copyrightHolder": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Release ID",
+          "value": "SNG-252"
+        }
+      ]
+    },
+    {
+      "@type": "MusicRelease",
+      "@id": "https://aliktarraf.com/#catalog-sng-252-digital-release",
+      "name": "Все хорошо (Live) — Digital Single Release",
+      "releaseOf": {
+        "@id": "https://aliktarraf.com/#catalog-sng-252"
+      },
+      "datePublished": "2026-02-16",
+      "musicReleaseFormat": "https://schema.org/DigitalFormat",
+      "creditedTo": [
+        {
+          "@id": "https://aliktarraf.com/#marina-tarraf"
+        }
+      ],
+      "creditText": "Marina Tarraf",
+      "recordLabel": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "numTracks": 1,
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Release ID",
+          "value": "SNG-252"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "UPC",
+          "value": "821440980352"
+        }
+      ]
+    },
+    {
+      "@type": "MusicRecording",
+      "@id": "https://aliktarraf.com/#catalog-trk-0297",
+      "name": "Все хорошо (Live)",
+      "isrcCode": "QZK6N2617663",
+      "byArtist": [
+        {
+          "@id": "https://aliktarraf.com/#marina-tarraf"
+        }
+      ],
+      "creditText": "Marina Tarraf",
+      "datePublished": "2026-02-16",
+      "duration": "PT3M43S",
+      "inAlbum": {
+        "@id": "https://aliktarraf.com/#catalog-sng-252"
+      },
+      "publisher": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "copyrightHolder": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Track ID",
+          "value": "TRK-0297"
+        }
+      ]
+    },
+    {
+      "@type": "MusicAlbum",
+      "@id": "https://aliktarraf.com/#catalog-sng-253",
+      "name": "OBARAE (TARRAF RITUAL SONG)",
+      "albumReleaseType": "https://schema.org/SingleRelease",
+      "byArtist": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        },
+        {
+          "@id": "https://aliktarraf.com/#marina-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf & Marina Tarraf",
+      "numTracks": 1,
+      "datePublished": "2026-02-25",
+      "track": {
+        "@id": "https://aliktarraf.com/#catalog-trk-0298"
+      },
+      "albumRelease": {
+        "@id": "https://aliktarraf.com/#catalog-sng-253-digital-release"
+      },
+      "publisher": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "copyrightHolder": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Release ID",
+          "value": "SNG-253"
+        }
+      ]
+    },
+    {
+      "@type": "MusicRelease",
+      "@id": "https://aliktarraf.com/#catalog-sng-253-digital-release",
+      "name": "OBARAE (TARRAF RITUAL SONG) — Digital Single Release",
+      "releaseOf": {
+        "@id": "https://aliktarraf.com/#catalog-sng-253"
+      },
+      "datePublished": "2026-02-25",
+      "musicReleaseFormat": "https://schema.org/DigitalFormat",
+      "creditedTo": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        },
+        {
+          "@id": "https://aliktarraf.com/#marina-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf & Marina Tarraf",
+      "recordLabel": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "numTracks": 1,
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Release ID",
+          "value": "SNG-253"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "UPC",
+          "value": "821460277760"
+        }
+      ]
+    },
+    {
+      "@type": "MusicRecording",
+      "@id": "https://aliktarraf.com/#catalog-trk-0298",
+      "name": "OBARAE (TARRAF RITUAL SONG)",
+      "isrcCode": "QZHNA2667994",
+      "byArtist": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        },
+        {
+          "@id": "https://aliktarraf.com/#marina-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf & Marina Tarraf",
+      "datePublished": "2026-02-25",
+      "duration": "PT5M3S",
+      "inAlbum": {
+        "@id": "https://aliktarraf.com/#catalog-sng-253"
+      },
+      "publisher": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "copyrightHolder": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Track ID",
+          "value": "TRK-0298"
+        }
+      ]
+    },
+    {
+      "@type": "MusicAlbum",
+      "@id": "https://aliktarraf.com/#catalog-sng-254",
+      "name": "OBARABO STI-ME (TARRAF RITUAL SONG)",
+      "albumReleaseType": "https://schema.org/SingleRelease",
+      "byArtist": [
+        {
+          "@id": "https://aliktarraf.com/#marina-tarraf"
+        }
+      ],
+      "creditText": "Marina Tarraf",
+      "numTracks": 1,
+      "datePublished": "2026-02-20",
+      "track": {
+        "@id": "https://aliktarraf.com/#catalog-trk-0299"
+      },
+      "albumRelease": {
+        "@id": "https://aliktarraf.com/#catalog-sng-254-digital-release"
+      },
+      "publisher": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "copyrightHolder": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Release ID",
+          "value": "SNG-254"
+        }
+      ]
+    },
+    {
+      "@type": "MusicRelease",
+      "@id": "https://aliktarraf.com/#catalog-sng-254-digital-release",
+      "name": "OBARABO STI-ME (TARRAF RITUAL SONG) — Digital Single Release",
+      "releaseOf": {
+        "@id": "https://aliktarraf.com/#catalog-sng-254"
+      },
+      "datePublished": "2026-02-20",
+      "musicReleaseFormat": "https://schema.org/DigitalFormat",
+      "creditedTo": [
+        {
+          "@id": "https://aliktarraf.com/#marina-tarraf"
+        }
+      ],
+      "creditText": "Marina Tarraf",
+      "recordLabel": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "numTracks": 1,
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Release ID",
+          "value": "SNG-254"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "UPC",
+          "value": "821460278200"
+        }
+      ]
+    },
+    {
+      "@type": "MusicRecording",
+      "@id": "https://aliktarraf.com/#catalog-trk-0299",
+      "name": "OBARABO STI-ME (TARRAF RITUAL SONG)",
+      "isrcCode": "QZHN82648633",
+      "byArtist": [
+        {
+          "@id": "https://aliktarraf.com/#marina-tarraf"
+        }
+      ],
+      "creditText": "Marina Tarraf",
+      "datePublished": "2026-02-20",
+      "duration": "PT4M39S",
+      "inAlbum": {
+        "@id": "https://aliktarraf.com/#catalog-sng-254"
+      },
+      "publisher": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "copyrightHolder": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Track ID",
+          "value": "TRK-0299"
+        }
+      ]
+    },
+    {
+      "@type": "MusicAlbum",
+      "@id": "https://aliktarraf.com/#catalog-sng-255",
+      "name": "ParaDiseDox",
+      "albumReleaseType": "https://schema.org/SingleRelease",
+      "byArtist": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf",
+      "numTracks": 1,
+      "datePublished": "2026-02-09",
+      "track": {
+        "@id": "https://aliktarraf.com/#catalog-trk-0300"
+      },
+      "albumRelease": {
+        "@id": "https://aliktarraf.com/#catalog-sng-255-digital-release"
+      },
+      "publisher": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "copyrightHolder": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Release ID",
+          "value": "SNG-255"
+        }
+      ]
+    },
+    {
+      "@type": "MusicRelease",
+      "@id": "https://aliktarraf.com/#catalog-sng-255-digital-release",
+      "name": "ParaDiseDox — Digital Single Release",
+      "releaseOf": {
+        "@id": "https://aliktarraf.com/#catalog-sng-255"
+      },
+      "datePublished": "2026-02-09",
+      "musicReleaseFormat": "https://schema.org/DigitalFormat",
+      "creditedTo": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf",
+      "recordLabel": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "numTracks": 1,
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Release ID",
+          "value": "SNG-255"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "UPC",
+          "value": "821470289883"
+        }
+      ]
+    },
+    {
+      "@type": "MusicRecording",
+      "@id": "https://aliktarraf.com/#catalog-trk-0300",
+      "name": "ParaDiseDox",
+      "isrcCode": "QZHN62670941",
+      "byArtist": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf",
+      "datePublished": "2026-02-09",
+      "duration": "PT3M52S",
+      "inAlbum": {
+        "@id": "https://aliktarraf.com/#catalog-sng-255"
+      },
+      "publisher": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "copyrightHolder": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Track ID",
+          "value": "TRK-0300"
+        }
+      ]
+    },
+    {
+      "@type": "MusicAlbum",
+      "@id": "https://aliktarraf.com/#catalog-sng-256",
+      "name": "СРОК ИСТЁК",
+      "albumReleaseType": "https://schema.org/SingleRelease",
+      "byArtist": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf",
+      "numTracks": 1,
+      "datePublished": "2026-02-07",
+      "track": {
+        "@id": "https://aliktarraf.com/#catalog-trk-0301"
+      },
+      "albumRelease": {
+        "@id": "https://aliktarraf.com/#catalog-sng-256-digital-release"
+      },
+      "publisher": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "copyrightHolder": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Release ID",
+          "value": "SNG-256"
+        }
+      ]
+    },
+    {
+      "@type": "MusicRelease",
+      "@id": "https://aliktarraf.com/#catalog-sng-256-digital-release",
+      "name": "СРОК ИСТЁК — Digital Single Release",
+      "releaseOf": {
+        "@id": "https://aliktarraf.com/#catalog-sng-256"
+      },
+      "datePublished": "2026-02-07",
+      "musicReleaseFormat": "https://schema.org/DigitalFormat",
+      "creditedTo": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf",
+      "recordLabel": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "numTracks": 1,
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Release ID",
+          "value": "SNG-256"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "UPC",
+          "value": "821470325635"
+        }
+      ]
+    },
+    {
+      "@type": "MusicRecording",
+      "@id": "https://aliktarraf.com/#catalog-trk-0301",
+      "name": "СРОК ИСТЁК",
+      "isrcCode": "QZHN62666102",
+      "byArtist": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf",
+      "datePublished": "2026-02-07",
+      "duration": "PT6M7S",
+      "inAlbum": {
+        "@id": "https://aliktarraf.com/#catalog-sng-256"
+      },
+      "publisher": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "copyrightHolder": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Track ID",
+          "value": "TRK-0301"
+        }
+      ]
+    },
+    {
+      "@type": "MusicAlbum",
+      "@id": "https://aliktarraf.com/#catalog-sng-257",
+      "name": "AVE LUMEN AETERNUM (Ritual Song)",
+      "albumReleaseType": "https://schema.org/SingleRelease",
+      "byArtist": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf",
+      "numTracks": 1,
+      "datePublished": "2026-02-05",
+      "track": {
+        "@id": "https://aliktarraf.com/#catalog-trk-0302"
+      },
+      "albumRelease": {
+        "@id": "https://aliktarraf.com/#catalog-sng-257-digital-release"
+      },
+      "publisher": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "copyrightHolder": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Release ID",
+          "value": "SNG-257"
+        }
+      ]
+    },
+    {
+      "@type": "MusicRelease",
+      "@id": "https://aliktarraf.com/#catalog-sng-257-digital-release",
+      "name": "AVE LUMEN AETERNUM (Ritual Song) — Digital Single Release",
+      "releaseOf": {
+        "@id": "https://aliktarraf.com/#catalog-sng-257"
+      },
+      "datePublished": "2026-02-05",
+      "musicReleaseFormat": "https://schema.org/DigitalFormat",
+      "creditedTo": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf",
+      "recordLabel": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "numTracks": 1,
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Release ID",
+          "value": "SNG-257"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "UPC",
+          "value": "821470350026"
+        }
+      ]
+    },
+    {
+      "@type": "MusicRecording",
+      "@id": "https://aliktarraf.com/#catalog-trk-0302",
+      "name": "AVE LUMEN AETERNUM (Ritual Song)",
+      "isrcCode": "QZHN62662026",
+      "byArtist": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf",
+      "datePublished": "2026-02-05",
+      "duration": "PT3M52S",
+      "inAlbum": {
+        "@id": "https://aliktarraf.com/#catalog-sng-257"
+      },
+      "publisher": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "copyrightHolder": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Track ID",
+          "value": "TRK-0302"
+        }
+      ]
+    },
+    {
+      "@type": "MusicAlbum",
+      "@id": "https://aliktarraf.com/#catalog-sng-258",
+      "name": "Выбираю себя",
+      "albumReleaseType": "https://schema.org/SingleRelease",
+      "byArtist": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        },
+        {
+          "@id": "https://aliktarraf.com/#marina-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf & Marina Tarraf",
+      "numTracks": 1,
+      "datePublished": "2026-01-29",
+      "track": {
+        "@id": "https://aliktarraf.com/#catalog-trk-0303"
+      },
+      "albumRelease": {
+        "@id": "https://aliktarraf.com/#catalog-sng-258-digital-release"
+      },
+      "publisher": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "copyrightHolder": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Release ID",
+          "value": "SNG-258"
+        }
+      ]
+    },
+    {
+      "@type": "MusicRelease",
+      "@id": "https://aliktarraf.com/#catalog-sng-258-digital-release",
+      "name": "Выбираю себя — Digital Single Release",
+      "releaseOf": {
+        "@id": "https://aliktarraf.com/#catalog-sng-258"
+      },
+      "datePublished": "2026-01-29",
+      "musicReleaseFormat": "https://schema.org/DigitalFormat",
+      "creditedTo": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        },
+        {
+          "@id": "https://aliktarraf.com/#marina-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf & Marina Tarraf",
+      "recordLabel": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "numTracks": 1,
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Release ID",
+          "value": "SNG-258"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "UPC",
+          "value": "821470729174"
+        }
+      ]
+    },
+    {
+      "@type": "MusicRecording",
+      "@id": "https://aliktarraf.com/#catalog-trk-0303",
+      "name": "Выбираю себя",
+      "isrcCode": "QZHN52672795",
+      "byArtist": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        },
+        {
+          "@id": "https://aliktarraf.com/#marina-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf & Marina Tarraf",
+      "datePublished": "2026-01-29",
+      "duration": "PT6M31S",
+      "inAlbum": {
+        "@id": "https://aliktarraf.com/#catalog-sng-258"
+      },
+      "publisher": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "copyrightHolder": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Track ID",
+          "value": "TRK-0303"
+        }
+      ]
+    },
+    {
+      "@type": "MusicAlbum",
+      "@id": "https://aliktarraf.com/#catalog-sng-259",
+      "name": "OBARABO (TARRAF RITUAL SONG )",
+      "albumReleaseType": "https://schema.org/SingleRelease",
+      "byArtist": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf",
+      "numTracks": 1,
+      "datePublished": "2026-02-15",
+      "track": {
+        "@id": "https://aliktarraf.com/#catalog-trk-0304"
+      },
+      "albumRelease": {
+        "@id": "https://aliktarraf.com/#catalog-sng-259-digital-release"
+      },
+      "publisher": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "copyrightHolder": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Release ID",
+          "value": "SNG-259"
+        }
+      ]
+    },
+    {
+      "@type": "MusicRelease",
+      "@id": "https://aliktarraf.com/#catalog-sng-259-digital-release",
+      "name": "OBARABO (TARRAF RITUAL SONG ) — Digital Single Release",
+      "releaseOf": {
+        "@id": "https://aliktarraf.com/#catalog-sng-259"
+      },
+      "datePublished": "2026-02-15",
+      "musicReleaseFormat": "https://schema.org/DigitalFormat",
+      "creditedTo": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf",
+      "recordLabel": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "numTracks": 1,
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Release ID",
+          "value": "SNG-259"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "UPC",
+          "value": "821473122996"
+        }
+      ]
+    },
+    {
+      "@type": "MusicRecording",
+      "@id": "https://aliktarraf.com/#catalog-trk-0304",
+      "name": "OBARABO (TARRAF RITUAL SONG )",
+      "isrcCode": "QZHN42693830",
+      "byArtist": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf",
+      "datePublished": "2026-02-15",
+      "duration": "PT4M52S",
+      "inAlbum": {
+        "@id": "https://aliktarraf.com/#catalog-sng-259"
+      },
+      "publisher": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "copyrightHolder": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Track ID",
+          "value": "TRK-0304"
+        }
+      ]
+    },
+    {
+      "@type": "MusicAlbum",
+      "@id": "https://aliktarraf.com/#catalog-sng-260",
+      "name": "Жизнь не игра",
+      "albumReleaseType": "https://schema.org/SingleRelease",
+      "byArtist": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf",
+      "numTracks": 1,
+      "datePublished": "2026-02-13",
+      "track": {
+        "@id": "https://aliktarraf.com/#catalog-trk-0305"
+      },
+      "albumRelease": {
+        "@id": "https://aliktarraf.com/#catalog-sng-260-digital-release"
+      },
+      "publisher": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "copyrightHolder": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Release ID",
+          "value": "SNG-260"
+        }
+      ]
+    },
+    {
+      "@type": "MusicRelease",
+      "@id": "https://aliktarraf.com/#catalog-sng-260-digital-release",
+      "name": "Жизнь не игра — Digital Single Release",
+      "releaseOf": {
+        "@id": "https://aliktarraf.com/#catalog-sng-260"
+      },
+      "datePublished": "2026-02-13",
+      "musicReleaseFormat": "https://schema.org/DigitalFormat",
+      "creditedTo": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf",
+      "recordLabel": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "numTracks": 1,
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Release ID",
+          "value": "SNG-260"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "UPC",
+          "value": "821473147562"
+        }
+      ]
+    },
+    {
+      "@type": "MusicRecording",
+      "@id": "https://aliktarraf.com/#catalog-trk-0305",
+      "name": "Жизнь не игра",
+      "isrcCode": "QZHN42684128",
+      "byArtist": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf",
+      "datePublished": "2026-02-13",
+      "duration": "PT4M41S",
+      "inAlbum": {
+        "@id": "https://aliktarraf.com/#catalog-sng-260"
+      },
+      "publisher": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "copyrightHolder": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Track ID",
+          "value": "TRK-0305"
+        }
+      ]
+    },
+    {
+      "@type": "MusicAlbum",
+      "@id": "https://aliktarraf.com/#catalog-sng-261",
+      "name": "We are different",
+      "albumReleaseType": "https://schema.org/SingleRelease",
+      "byArtist": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf",
+      "numTracks": 1,
+      "datePublished": "2026-01-31",
+      "track": {
+        "@id": "https://aliktarraf.com/#catalog-trk-0306"
+      },
+      "albumRelease": {
+        "@id": "https://aliktarraf.com/#catalog-sng-261-digital-release"
+      },
+      "publisher": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "copyrightHolder": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Release ID",
+          "value": "SNG-261"
+        }
+      ]
+    },
+    {
+      "@type": "MusicRelease",
+      "@id": "https://aliktarraf.com/#catalog-sng-261-digital-release",
+      "name": "We are different — Digital Single Release",
+      "releaseOf": {
+        "@id": "https://aliktarraf.com/#catalog-sng-261"
+      },
+      "datePublished": "2026-01-31",
+      "musicReleaseFormat": "https://schema.org/DigitalFormat",
+      "creditedTo": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf",
+      "recordLabel": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "numTracks": 1,
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Release ID",
+          "value": "SNG-261"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "UPC",
+          "value": "821473208997"
+        }
+      ]
+    },
+    {
+      "@type": "MusicRecording",
+      "@id": "https://aliktarraf.com/#catalog-trk-0306",
+      "name": "We are different",
+      "isrcCode": "QZHN42675661",
+      "byArtist": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf",
+      "datePublished": "2026-01-31",
+      "duration": "PT4M39S",
+      "inAlbum": {
+        "@id": "https://aliktarraf.com/#catalog-sng-261"
+      },
+      "publisher": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "copyrightHolder": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Track ID",
+          "value": "TRK-0306"
+        }
+      ]
+    },
+    {
+      "@type": "MusicAlbum",
+      "@id": "https://aliktarraf.com/#catalog-sng-262",
+      "name": "ОСТАВЛЮ СЛЕД",
+      "albumReleaseType": "https://schema.org/SingleRelease",
+      "byArtist": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf",
+      "numTracks": 1,
+      "datePublished": "2026-01-29",
+      "track": {
+        "@id": "https://aliktarraf.com/#catalog-trk-0307"
+      },
+      "albumRelease": {
+        "@id": "https://aliktarraf.com/#catalog-sng-262-digital-release"
+      },
+      "publisher": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "copyrightHolder": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Release ID",
+          "value": "SNG-262"
+        }
+      ]
+    },
+    {
+      "@type": "MusicRelease",
+      "@id": "https://aliktarraf.com/#catalog-sng-262-digital-release",
+      "name": "ОСТАВЛЮ СЛЕД — Digital Single Release",
+      "releaseOf": {
+        "@id": "https://aliktarraf.com/#catalog-sng-262"
+      },
+      "datePublished": "2026-01-29",
+      "musicReleaseFormat": "https://schema.org/DigitalFormat",
+      "creditedTo": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf",
+      "recordLabel": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "numTracks": 1,
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Release ID",
+          "value": "SNG-262"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "UPC",
+          "value": "821473224478"
+        }
+      ]
+    },
+    {
+      "@type": "MusicRecording",
+      "@id": "https://aliktarraf.com/#catalog-trk-0307",
+      "name": "ОСТАВЛЮ СЛЕД",
+      "isrcCode": "QZHN42671448",
+      "byArtist": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf",
+      "datePublished": "2026-01-29",
+      "duration": "PT4M13S",
+      "inAlbum": {
+        "@id": "https://aliktarraf.com/#catalog-sng-262"
+      },
+      "publisher": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "copyrightHolder": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Track ID",
+          "value": "TRK-0307"
+        }
+      ]
+    },
+    {
+      "@type": "MusicAlbum",
+      "@id": "https://aliktarraf.com/#catalog-sng-263",
+      "name": "Still here ((TARRAF LIVE SHOW))",
+      "albumReleaseType": "https://schema.org/SingleRelease",
+      "byArtist": [
+        {
+          "@id": "https://aliktarraf.com/#marina-tarraf"
+        }
+      ],
+      "creditText": "Marina Tarraf",
+      "numTracks": 1,
+      "datePublished": "2026-02-03",
+      "track": {
+        "@id": "https://aliktarraf.com/#catalog-trk-0308"
+      },
+      "albumRelease": {
+        "@id": "https://aliktarraf.com/#catalog-sng-263-digital-release"
+      },
+      "publisher": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "copyrightHolder": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Release ID",
+          "value": "SNG-263"
+        }
+      ]
+    },
+    {
+      "@type": "MusicRelease",
+      "@id": "https://aliktarraf.com/#catalog-sng-263-digital-release",
+      "name": "Still here ((TARRAF LIVE SHOW)) — Digital Single Release",
+      "releaseOf": {
+        "@id": "https://aliktarraf.com/#catalog-sng-263"
+      },
+      "datePublished": "2026-02-03",
+      "musicReleaseFormat": "https://schema.org/DigitalFormat",
+      "creditedTo": [
+        {
+          "@id": "https://aliktarraf.com/#marina-tarraf"
+        }
+      ],
+      "creditText": "Marina Tarraf",
+      "recordLabel": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "numTracks": 1,
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Release ID",
+          "value": "SNG-263"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "UPC",
+          "value": "821473813634"
+        }
+      ]
+    },
+    {
+      "@type": "MusicRecording",
+      "@id": "https://aliktarraf.com/#catalog-trk-0308",
+      "name": "Still here ((TARRAF LIVE SHOW))",
+      "isrcCode": "QZHN42674434",
+      "byArtist": [
+        {
+          "@id": "https://aliktarraf.com/#marina-tarraf"
+        }
+      ],
+      "creditText": "Marina Tarraf",
+      "datePublished": "2026-02-03",
+      "duration": "PT3M25S",
+      "inAlbum": {
+        "@id": "https://aliktarraf.com/#catalog-sng-263"
+      },
+      "publisher": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "copyrightHolder": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Track ID",
+          "value": "TRK-0308"
+        }
+      ]
+    },
+    {
+      "@type": "MusicAlbum",
+      "@id": "https://aliktarraf.com/#catalog-sng-264",
+      "name": "Good morning world",
+      "albumReleaseType": "https://schema.org/SingleRelease",
+      "byArtist": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf",
+      "numTracks": 1,
+      "datePublished": "2026-02-01",
+      "track": {
+        "@id": "https://aliktarraf.com/#catalog-trk-0309"
+      },
+      "albumRelease": {
+        "@id": "https://aliktarraf.com/#catalog-sng-264-digital-release"
+      },
+      "publisher": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "copyrightHolder": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Release ID",
+          "value": "SNG-264"
+        }
+      ]
+    },
+    {
+      "@type": "MusicRelease",
+      "@id": "https://aliktarraf.com/#catalog-sng-264-digital-release",
+      "name": "Good morning world — Digital Single Release",
+      "releaseOf": {
+        "@id": "https://aliktarraf.com/#catalog-sng-264"
+      },
+      "datePublished": "2026-02-01",
+      "musicReleaseFormat": "https://schema.org/DigitalFormat",
+      "creditedTo": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf",
+      "recordLabel": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "numTracks": 1,
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Release ID",
+          "value": "SNG-264"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "UPC",
+          "value": "821473829871"
+        }
+      ]
+    },
+    {
+      "@type": "MusicRecording",
+      "@id": "https://aliktarraf.com/#catalog-trk-0309",
+      "name": "Good morning world",
+      "isrcCode": "QZHN32622972",
+      "byArtist": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf",
+      "datePublished": "2026-02-01",
+      "duration": "PT4M34S",
+      "inAlbum": {
+        "@id": "https://aliktarraf.com/#catalog-sng-264"
+      },
+      "publisher": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "copyrightHolder": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Track ID",
+          "value": "TRK-0309"
+        }
+      ]
+    },
+    {
+      "@type": "MusicAlbum",
+      "@id": "https://aliktarraf.com/#catalog-sng-265",
+      "name": "Detonate",
+      "albumReleaseType": "https://schema.org/SingleRelease",
+      "byArtist": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf",
+      "numTracks": 1,
+      "datePublished": "2026-02-10",
+      "track": {
+        "@id": "https://aliktarraf.com/#catalog-trk-0310"
+      },
+      "albumRelease": {
+        "@id": "https://aliktarraf.com/#catalog-sng-265-digital-release"
+      },
+      "publisher": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "copyrightHolder": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Release ID",
+          "value": "SNG-265"
+        }
+      ]
+    },
+    {
+      "@type": "MusicRelease",
+      "@id": "https://aliktarraf.com/#catalog-sng-265-digital-release",
+      "name": "Detonate — Digital Single Release",
+      "releaseOf": {
+        "@id": "https://aliktarraf.com/#catalog-sng-265"
+      },
+      "datePublished": "2026-02-10",
+      "musicReleaseFormat": "https://schema.org/DigitalFormat",
+      "creditedTo": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf",
+      "recordLabel": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "numTracks": 1,
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Release ID",
+          "value": "SNG-265"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "UPC",
+          "value": "821473835087"
+        }
+      ]
+    },
+    {
+      "@type": "MusicRecording",
+      "@id": "https://aliktarraf.com/#catalog-trk-0310",
+      "name": "Detonate",
+      "isrcCode": "QZHN32622943",
+      "byArtist": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf",
+      "datePublished": "2026-02-10",
+      "duration": "PT3M38S",
+      "inAlbum": {
+        "@id": "https://aliktarraf.com/#catalog-sng-265"
+      },
+      "publisher": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "copyrightHolder": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Track ID",
+          "value": "TRK-0310"
+        }
+      ]
+    },
+    {
+      "@type": "MusicAlbum",
+      "@id": "https://aliktarraf.com/#catalog-sng-266",
+      "name": "МАРИНА",
+      "albumReleaseType": "https://schema.org/SingleRelease",
+      "byArtist": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf",
+      "numTracks": 1,
+      "datePublished": "2026-02-02",
+      "track": {
+        "@id": "https://aliktarraf.com/#catalog-trk-0311"
+      },
+      "albumRelease": {
+        "@id": "https://aliktarraf.com/#catalog-sng-266-digital-release"
+      },
+      "publisher": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "copyrightHolder": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Release ID",
+          "value": "SNG-266"
+        }
+      ]
+    },
+    {
+      "@type": "MusicRelease",
+      "@id": "https://aliktarraf.com/#catalog-sng-266-digital-release",
+      "name": "МАРИНА — Digital Single Release",
+      "releaseOf": {
+        "@id": "https://aliktarraf.com/#catalog-sng-266"
+      },
+      "datePublished": "2026-02-02",
+      "musicReleaseFormat": "https://schema.org/DigitalFormat",
+      "creditedTo": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf",
+      "recordLabel": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "numTracks": 1,
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Release ID",
+          "value": "SNG-266"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "UPC",
+          "value": "821473841729"
+        }
+      ]
+    },
+    {
+      "@type": "MusicRecording",
+      "@id": "https://aliktarraf.com/#catalog-trk-0311",
+      "name": "МАРИНА",
+      "isrcCode": "QZHN32620913",
+      "byArtist": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf",
+      "datePublished": "2026-02-02",
+      "duration": "PT4M12S",
+      "inAlbum": {
+        "@id": "https://aliktarraf.com/#catalog-sng-266"
+      },
+      "publisher": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "copyrightHolder": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Track ID",
+          "value": "TRK-0311"
+        }
+      ]
+    },
+    {
+      "@type": "MusicAlbum",
+      "@id": "https://aliktarraf.com/#catalog-sng-267",
+      "name": "Страсть Боль Прощение",
+      "albumReleaseType": "https://schema.org/SingleRelease",
+      "byArtist": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf",
+      "numTracks": 1,
+      "datePublished": "2026-02-03",
+      "track": {
+        "@id": "https://aliktarraf.com/#catalog-trk-0312"
+      },
+      "albumRelease": {
+        "@id": "https://aliktarraf.com/#catalog-sng-267-digital-release"
+      },
+      "publisher": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "copyrightHolder": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Release ID",
+          "value": "SNG-267"
+        }
+      ]
+    },
+    {
+      "@type": "MusicRelease",
+      "@id": "https://aliktarraf.com/#catalog-sng-267-digital-release",
+      "name": "Страсть Боль Прощение — Digital Single Release",
+      "releaseOf": {
+        "@id": "https://aliktarraf.com/#catalog-sng-267"
+      },
+      "datePublished": "2026-02-03",
+      "musicReleaseFormat": "https://schema.org/DigitalFormat",
+      "creditedTo": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf",
+      "recordLabel": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "numTracks": 1,
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Release ID",
+          "value": "SNG-267"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "UPC",
+          "value": "821473846700"
+        }
+      ]
+    },
+    {
+      "@type": "MusicRecording",
+      "@id": "https://aliktarraf.com/#catalog-trk-0312",
+      "name": "Страсть Боль Прощение",
+      "isrcCode": "QZHN32620896",
+      "byArtist": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf",
+      "datePublished": "2026-02-03",
+      "duration": "PT5M5S",
+      "inAlbum": {
+        "@id": "https://aliktarraf.com/#catalog-sng-267"
+      },
+      "publisher": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "copyrightHolder": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Track ID",
+          "value": "TRK-0312"
+        }
+      ]
+    },
+    {
+      "@type": "MusicAlbum",
+      "@id": "https://aliktarraf.com/#catalog-sng-268",
+      "name": "Пока мы живы",
+      "albumReleaseType": "https://schema.org/SingleRelease",
+      "byArtist": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        }
+      ],
+      "contributor": [
+        {
+          "@id": "https://aliktarraf.com/#marina-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf (feat. Marina Tarraf)",
+      "numTracks": 1,
+      "datePublished": "2026-02-06",
+      "track": {
+        "@id": "https://aliktarraf.com/#catalog-trk-0313"
+      },
+      "albumRelease": {
+        "@id": "https://aliktarraf.com/#catalog-sng-268-digital-release"
+      },
+      "publisher": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "copyrightHolder": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Release ID",
+          "value": "SNG-268"
+        }
+      ]
+    },
+    {
+      "@type": "MusicRelease",
+      "@id": "https://aliktarraf.com/#catalog-sng-268-digital-release",
+      "name": "Пока мы живы — Digital Single Release",
+      "releaseOf": {
+        "@id": "https://aliktarraf.com/#catalog-sng-268"
+      },
+      "datePublished": "2026-02-06",
+      "musicReleaseFormat": "https://schema.org/DigitalFormat",
+      "creditedTo": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        },
+        {
+          "@id": "https://aliktarraf.com/#marina-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf (feat. Marina Tarraf)",
+      "recordLabel": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "numTracks": 1,
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Release ID",
+          "value": "SNG-268"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "UPC",
+          "value": "821473850189"
+        }
+      ]
+    },
+    {
+      "@type": "MusicRecording",
+      "@id": "https://aliktarraf.com/#catalog-trk-0313",
+      "name": "Пока мы живы",
+      "isrcCode": "QZHN42663366",
+      "byArtist": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        }
+      ],
+      "contributor": [
+        {
+          "@id": "https://aliktarraf.com/#marina-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf (feat. Marina Tarraf)",
+      "datePublished": "2026-02-06",
+      "duration": "PT4M14S",
+      "inAlbum": {
+        "@id": "https://aliktarraf.com/#catalog-sng-268"
+      },
+      "publisher": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "copyrightHolder": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Track ID",
+          "value": "TRK-0313"
+        }
+      ]
+    },
+    {
+      "@type": "MusicAlbum",
+      "@id": "https://aliktarraf.com/#catalog-sng-269",
+      "name": "Я слышу тебя",
+      "albumReleaseType": "https://schema.org/SingleRelease",
+      "byArtist": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf",
+      "numTracks": 1,
+      "datePublished": "2026-02-08",
+      "track": {
+        "@id": "https://aliktarraf.com/#catalog-trk-0314"
+      },
+      "albumRelease": {
+        "@id": "https://aliktarraf.com/#catalog-sng-269-digital-release"
+      },
+      "publisher": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "copyrightHolder": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Release ID",
+          "value": "SNG-269"
+        }
+      ]
+    },
+    {
+      "@type": "MusicRelease",
+      "@id": "https://aliktarraf.com/#catalog-sng-269-digital-release",
+      "name": "Я слышу тебя — Digital Single Release",
+      "releaseOf": {
+        "@id": "https://aliktarraf.com/#catalog-sng-269"
+      },
+      "datePublished": "2026-02-08",
+      "musicReleaseFormat": "https://schema.org/DigitalFormat",
+      "creditedTo": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf",
+      "recordLabel": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "numTracks": 1,
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Release ID",
+          "value": "SNG-269"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "UPC",
+          "value": "821473856082"
+        }
+      ]
+    },
+    {
+      "@type": "MusicRecording",
+      "@id": "https://aliktarraf.com/#catalog-trk-0314",
+      "name": "Я слышу тебя",
+      "isrcCode": "QZHN32618130",
+      "byArtist": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf",
+      "datePublished": "2026-02-08",
+      "duration": "PT3M27S",
+      "inAlbum": {
+        "@id": "https://aliktarraf.com/#catalog-sng-269"
+      },
+      "publisher": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "copyrightHolder": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Track ID",
+          "value": "TRK-0314"
+        }
+      ]
+    },
+    {
+      "@type": "MusicAlbum",
+      "@id": "https://aliktarraf.com/#catalog-sng-270",
+      "name": "ЗА ЧТО",
+      "albumReleaseType": "https://schema.org/SingleRelease",
+      "byArtist": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf",
+      "numTracks": 1,
+      "datePublished": "2026-01-25",
+      "track": {
+        "@id": "https://aliktarraf.com/#catalog-trk-0315"
+      },
+      "albumRelease": {
+        "@id": "https://aliktarraf.com/#catalog-sng-270-digital-release"
+      },
+      "publisher": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "copyrightHolder": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Release ID",
+          "value": "SNG-270"
+        }
+      ]
+    },
+    {
+      "@type": "MusicRelease",
+      "@id": "https://aliktarraf.com/#catalog-sng-270-digital-release",
+      "name": "ЗА ЧТО — Digital Single Release",
+      "releaseOf": {
+        "@id": "https://aliktarraf.com/#catalog-sng-270"
+      },
+      "datePublished": "2026-01-25",
+      "musicReleaseFormat": "https://schema.org/DigitalFormat",
+      "creditedTo": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf",
+      "recordLabel": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "numTracks": 1,
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Release ID",
+          "value": "SNG-270"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "UPC",
+          "value": "821473977428"
+        }
+      ]
+    },
+    {
+      "@type": "MusicRecording",
+      "@id": "https://aliktarraf.com/#catalog-trk-0315",
+      "name": "ЗА ЧТО",
+      "isrcCode": "QZES92694771",
+      "byArtist": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf",
+      "datePublished": "2026-01-25",
+      "duration": "PT5M0S",
+      "inAlbum": {
+        "@id": "https://aliktarraf.com/#catalog-sng-270"
+      },
+      "publisher": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "copyrightHolder": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Track ID",
+          "value": "TRK-0315"
+        }
+      ]
+    },
+    {
+      "@type": "MusicAlbum",
+      "@id": "https://aliktarraf.com/#catalog-sng-271",
+      "name": "Детство ((New Version))",
+      "albumReleaseType": "https://schema.org/SingleRelease",
+      "byArtist": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf",
+      "numTracks": 1,
+      "datePublished": "2026-02-04",
+      "track": {
+        "@id": "https://aliktarraf.com/#catalog-trk-0316"
+      },
+      "albumRelease": {
+        "@id": "https://aliktarraf.com/#catalog-sng-271-digital-release"
+      },
+      "publisher": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "copyrightHolder": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Release ID",
+          "value": "SNG-271"
+        }
+      ]
+    },
+    {
+      "@type": "MusicRelease",
+      "@id": "https://aliktarraf.com/#catalog-sng-271-digital-release",
+      "name": "Детство ((New Version)) — Digital Single Release",
+      "releaseOf": {
+        "@id": "https://aliktarraf.com/#catalog-sng-271"
+      },
+      "datePublished": "2026-02-04",
+      "musicReleaseFormat": "https://schema.org/DigitalFormat",
+      "creditedTo": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf",
+      "recordLabel": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "numTracks": 1,
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Release ID",
+          "value": "SNG-271"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "UPC",
+          "value": "821500164579"
+        }
+      ]
+    },
+    {
+      "@type": "MusicRecording",
+      "@id": "https://aliktarraf.com/#catalog-trk-0316",
+      "name": "Детство ((New Version))",
+      "isrcCode": "QZES92663296",
+      "byArtist": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf",
+      "datePublished": "2026-02-04",
+      "duration": "PT4M22S",
+      "inAlbum": {
+        "@id": "https://aliktarraf.com/#catalog-sng-271"
+      },
+      "publisher": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "copyrightHolder": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Track ID",
+          "value": "TRK-0316"
+        }
+      ]
+    },
+    {
+      "@type": "MusicAlbum",
+      "@id": "https://aliktarraf.com/#catalog-sng-272",
+      "name": "King's move",
+      "albumReleaseType": "https://schema.org/SingleRelease",
+      "byArtist": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf",
+      "numTracks": 1,
+      "datePublished": "2026-01-30",
+      "track": {
+        "@id": "https://aliktarraf.com/#catalog-trk-0317"
+      },
+      "albumRelease": {
+        "@id": "https://aliktarraf.com/#catalog-sng-272-digital-release"
+      },
+      "publisher": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "copyrightHolder": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Release ID",
+          "value": "SNG-272"
+        }
+      ]
+    },
+    {
+      "@type": "MusicRelease",
+      "@id": "https://aliktarraf.com/#catalog-sng-272-digital-release",
+      "name": "King's move — Digital Single Release",
+      "releaseOf": {
+        "@id": "https://aliktarraf.com/#catalog-sng-272"
+      },
+      "datePublished": "2026-01-30",
+      "musicReleaseFormat": "https://schema.org/DigitalFormat",
+      "creditedTo": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf",
+      "recordLabel": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "numTracks": 1,
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Release ID",
+          "value": "SNG-272"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "UPC",
+          "value": "821500845171"
+        }
+      ]
+    },
+    {
+      "@type": "MusicRecording",
+      "@id": "https://aliktarraf.com/#catalog-trk-0317",
+      "name": "King's move",
+      "isrcCode": "QZES82639913",
+      "byArtist": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf",
+      "datePublished": "2026-01-30",
+      "duration": "PT4M1S",
+      "inAlbum": {
+        "@id": "https://aliktarraf.com/#catalog-sng-272"
+      },
+      "publisher": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "copyrightHolder": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Track ID",
+          "value": "TRK-0317"
+        }
+      ]
+    },
+    {
+      "@type": "MusicAlbum",
+      "@id": "https://aliktarraf.com/#catalog-sng-273",
+      "name": "Смотри это Алик",
+      "albumReleaseType": "https://schema.org/SingleRelease",
+      "byArtist": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf",
+      "numTracks": 1,
+      "datePublished": "2026-01-28",
+      "track": {
+        "@id": "https://aliktarraf.com/#catalog-trk-0318"
+      },
+      "albumRelease": {
+        "@id": "https://aliktarraf.com/#catalog-sng-273-digital-release"
+      },
+      "publisher": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "copyrightHolder": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Release ID",
+          "value": "SNG-273"
+        }
+      ]
+    },
+    {
+      "@type": "MusicRelease",
+      "@id": "https://aliktarraf.com/#catalog-sng-273-digital-release",
+      "name": "Смотри это Алик — Digital Single Release",
+      "releaseOf": {
+        "@id": "https://aliktarraf.com/#catalog-sng-273"
+      },
+      "datePublished": "2026-01-28",
+      "musicReleaseFormat": "https://schema.org/DigitalFormat",
+      "creditedTo": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf",
+      "recordLabel": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "numTracks": 1,
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Release ID",
+          "value": "SNG-273"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "UPC",
+          "value": "821520484602"
+        }
+      ]
+    },
+    {
+      "@type": "MusicRecording",
+      "@id": "https://aliktarraf.com/#catalog-trk-0318",
+      "name": "Смотри это Алик",
+      "isrcCode": "QZDA82684848",
+      "byArtist": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf",
+      "datePublished": "2026-01-28",
+      "duration": "PT4M2S",
+      "inAlbum": {
+        "@id": "https://aliktarraf.com/#catalog-sng-273"
+      },
+      "publisher": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "copyrightHolder": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Track ID",
+          "value": "TRK-0318"
+        }
+      ]
+    },
+    {
+      "@type": "MusicAlbum",
+      "@id": "https://aliktarraf.com/#catalog-sng-274",
+      "name": "Life is not a game",
+      "albumReleaseType": "https://schema.org/SingleRelease",
+      "byArtist": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf",
+      "numTracks": 1,
+      "datePublished": "2026-01-26",
+      "track": {
+        "@id": "https://aliktarraf.com/#catalog-trk-0319"
+      },
+      "albumRelease": {
+        "@id": "https://aliktarraf.com/#catalog-sng-274-digital-release"
+      },
+      "publisher": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "copyrightHolder": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Release ID",
+          "value": "SNG-274"
+        }
+      ]
+    },
+    {
+      "@type": "MusicRelease",
+      "@id": "https://aliktarraf.com/#catalog-sng-274-digital-release",
+      "name": "Life is not a game — Digital Single Release",
+      "releaseOf": {
+        "@id": "https://aliktarraf.com/#catalog-sng-274"
+      },
+      "datePublished": "2026-01-26",
+      "musicReleaseFormat": "https://schema.org/DigitalFormat",
+      "creditedTo": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf",
+      "recordLabel": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "numTracks": 1,
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Release ID",
+          "value": "SNG-274"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "UPC",
+          "value": "821520512831"
+        }
+      ]
+    },
+    {
+      "@type": "MusicRecording",
+      "@id": "https://aliktarraf.com/#catalog-trk-0319",
+      "name": "Life is not a game",
+      "isrcCode": "QZDA82681109",
+      "byArtist": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf",
+      "datePublished": "2026-01-26",
+      "duration": "PT4M23S",
+      "inAlbum": {
+        "@id": "https://aliktarraf.com/#catalog-sng-274"
+      },
+      "publisher": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "copyrightHolder": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Track ID",
+          "value": "TRK-0319"
+        }
+      ]
+    },
+    {
+      "@type": "MusicAlbum",
+      "@id": "https://aliktarraf.com/#catalog-sng-275",
+      "name": "Огонь в крови",
+      "albumReleaseType": "https://schema.org/SingleRelease",
+      "byArtist": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf",
+      "numTracks": 1,
+      "datePublished": "2026-01-23",
+      "track": {
+        "@id": "https://aliktarraf.com/#catalog-trk-0320"
+      },
+      "albumRelease": {
+        "@id": "https://aliktarraf.com/#catalog-sng-275-digital-release"
+      },
+      "publisher": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "copyrightHolder": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Release ID",
+          "value": "SNG-275"
+        }
+      ]
+    },
+    {
+      "@type": "MusicRelease",
+      "@id": "https://aliktarraf.com/#catalog-sng-275-digital-release",
+      "name": "Огонь в крови — Digital Single Release",
+      "releaseOf": {
+        "@id": "https://aliktarraf.com/#catalog-sng-275"
+      },
+      "datePublished": "2026-01-23",
+      "musicReleaseFormat": "https://schema.org/DigitalFormat",
+      "creditedTo": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf",
+      "recordLabel": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "numTracks": 1,
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Release ID",
+          "value": "SNG-275"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "UPC",
+          "value": "821526627324"
+        }
+      ]
+    },
+    {
+      "@type": "MusicRecording",
+      "@id": "https://aliktarraf.com/#catalog-trk-0320",
+      "name": "Огонь в крови",
+      "isrcCode": "QZDA62676404",
+      "byArtist": [
+        {
+          "@id": "https://aliktarraf.com/#alik-tarraf"
+        }
+      ],
+      "creditText": "Alik Tarraf",
+      "datePublished": "2026-01-23",
+      "duration": "PT4M9S",
+      "inAlbum": {
+        "@id": "https://aliktarraf.com/#catalog-sng-275"
+      },
+      "publisher": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "copyrightHolder": {
+        "@id": "https://aliktarraf.com/#tarraf-productions"
+      },
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "TARRAF Catalog Track ID",
+          "value": "TRK-0320"
+        }
+      ]
     }
   ]
 }
