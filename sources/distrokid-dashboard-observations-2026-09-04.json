@@ -1,0 +1,674 @@
+{
+  "schemaVersion": "1.0",
+  "observedAt": "2026-09-04",
+  "source": "First-party DistroKid dashboard supplied by the catalog owner",
+  "scope": "Studio single products visible from My Heart Says Goodbye through SWINGS",
+  "status": "Evidence register only; not canonical JSON-LD",
+  "counts": {
+    "canonicalSinglesAlreadyPublished": 216,
+    "additionalSinglesObserved": 59,
+    "totalSinglesObserved": 275
+  },
+  "requiredBeforeCanonicalPublication": [
+    "releaseDate",
+    "UPC",
+    "ISRC"
+  ],
+  "notes": [
+    "Titles and artist lines preserve the DistroKid dashboard display.",
+    "No release date, UPC, ISRC, duration, language, rights split, or explicit-content value is inferred from the overview captures.",
+    "Items must be reconciled into releases/studio-singles.jsonld only after the required fields are captured from a DistroKid release detail page or equivalent first-party record."
+  ],
+  "observations": [
+    {
+      "observationId": "DK-OBS-001",
+      "displayedTitle": "My Heart Says Goodbye",
+      "displayedArtistLine": "Alik Tarraf",
+      "productType": "Single",
+      "observedInDistroKidCatalog": true,
+      "canonicalPublicationStatus": "pending_required_identifiers",
+      "evidence": [
+        "DistroKid dashboard long-page capture"
+      ]
+    },
+    {
+      "observationId": "DK-OBS-002",
+      "displayedTitle": "Jordan - الأرض المقدسة",
+      "displayedArtistLine": "Alik Tarraf, Marina Tarraf",
+      "productType": "Single",
+      "observedInDistroKidCatalog": true,
+      "canonicalPublicationStatus": "pending_required_identifiers",
+      "evidence": [
+        "DistroKid dashboard long-page capture"
+      ]
+    },
+    {
+      "observationId": "DK-OBS-003",
+      "displayedTitle": "Bite the light (Studio Live Session)",
+      "displayedArtistLine": "Marina Tarraf",
+      "productType": "Single",
+      "observedInDistroKidCatalog": true,
+      "canonicalPublicationStatus": "pending_required_identifiers",
+      "evidence": [
+        "DistroKid dashboard long-page capture"
+      ]
+    },
+    {
+      "observationId": "DK-OBS-004",
+      "displayedTitle": "Pick It Up",
+      "displayedArtistLine": "Manik Bhatheja",
+      "productType": "Single",
+      "observedInDistroKidCatalog": true,
+      "canonicalPublicationStatus": "pending_required_identifiers",
+      "evidence": [
+        "DistroKid dashboard long-page capture"
+      ]
+    },
+    {
+      "observationId": "DK-OBS-005",
+      "displayedTitle": "Живая",
+      "displayedArtistLine": "Marina Tarraf",
+      "productType": "Single",
+      "observedInDistroKidCatalog": true,
+      "canonicalPublicationStatus": "pending_required_identifiers",
+      "evidence": [
+        "DistroKid dashboard long-page capture"
+      ]
+    },
+    {
+      "observationId": "DK-OBS-006",
+      "displayedTitle": "Удаляй меня",
+      "displayedArtistLine": "Marina Tarraf",
+      "productType": "Single",
+      "observedInDistroKidCatalog": true,
+      "canonicalPublicationStatus": "pending_required_identifiers",
+      "evidence": [
+        "DistroKid dashboard long-page capture"
+      ]
+    },
+    {
+      "observationId": "DK-OBS-007",
+      "displayedTitle": "Не звони мне",
+      "displayedArtistLine": "Marina Tarraf",
+      "productType": "Single",
+      "observedInDistroKidCatalog": true,
+      "canonicalPublicationStatus": "pending_required_identifiers",
+      "evidence": [
+        "DistroKid dashboard long-page capture"
+      ]
+    },
+    {
+      "observationId": "DK-OBS-008",
+      "displayedTitle": "This is goodbye",
+      "displayedArtistLine": "Marina Tarraf",
+      "productType": "Single",
+      "observedInDistroKidCatalog": true,
+      "canonicalPublicationStatus": "pending_required_identifiers",
+      "evidence": [
+        "DistroKid dashboard long-page capture"
+      ]
+    },
+    {
+      "observationId": "DK-OBS-009",
+      "displayedTitle": "Хто ти тепер",
+      "displayedArtistLine": "Alik Tarraf",
+      "productType": "Single",
+      "observedInDistroKidCatalog": true,
+      "canonicalPublicationStatus": "pending_required_identifiers",
+      "evidence": [
+        "DistroKid dashboard long-page capture"
+      ]
+    },
+    {
+      "observationId": "DK-OBS-010",
+      "displayedTitle": "NON STOP (Soundtrack)",
+      "displayedArtistLine": "Alik Tarraf",
+      "productType": "Single",
+      "observedInDistroKidCatalog": true,
+      "canonicalPublicationStatus": "pending_required_identifiers",
+      "evidence": [
+        "DistroKid dashboard long-page capture"
+      ]
+    },
+    {
+      "observationId": "DK-OBS-011",
+      "displayedTitle": "EPIC MODE",
+      "displayedArtistLine": "Alik Tarraf",
+      "productType": "Single",
+      "observedInDistroKidCatalog": true,
+      "canonicalPublicationStatus": "pending_required_identifiers",
+      "evidence": [
+        "DistroKid dashboard long-page capture"
+      ]
+    },
+    {
+      "observationId": "DK-OBS-012",
+      "displayedTitle": "Разлом (Soundtrack)",
+      "displayedArtistLine": "Marina Tarraf",
+      "productType": "Single",
+      "observedInDistroKidCatalog": true,
+      "canonicalPublicationStatus": "pending_required_identifiers",
+      "evidence": [
+        "DistroKid dashboard long-page capture"
+      ]
+    },
+    {
+      "observationId": "DK-OBS-013",
+      "displayedTitle": "18+",
+      "displayedArtistLine": "Alik Tarraf",
+      "productType": "Single",
+      "observedInDistroKidCatalog": true,
+      "canonicalPublicationStatus": "pending_required_identifiers",
+      "evidence": [
+        "DistroKid dashboard long-page capture"
+      ]
+    },
+    {
+      "observationId": "DK-OBS-014",
+      "displayedTitle": "Школа жизни",
+      "displayedArtistLine": "Alik Tarraf",
+      "productType": "Single",
+      "observedInDistroKidCatalog": true,
+      "canonicalPublicationStatus": "pending_required_identifiers",
+      "evidence": [
+        "DistroKid dashboard long-page capture"
+      ]
+    },
+    {
+      "observationId": "DK-OBS-015",
+      "displayedTitle": "I Will Always Love You",
+      "displayedArtistLine": "Marina Tarraf",
+      "productType": "Single",
+      "observedInDistroKidCatalog": true,
+      "canonicalPublicationStatus": "pending_required_identifiers",
+      "evidence": [
+        "DistroKid dashboard long-page capture"
+      ]
+    },
+    {
+      "observationId": "DK-OBS-016",
+      "displayedTitle": "Aliana (feat. Marina Tarraf)",
+      "displayedArtistLine": "Alik Tarraf",
+      "productType": "Single",
+      "observedInDistroKidCatalog": true,
+      "canonicalPublicationStatus": "pending_required_identifiers",
+      "evidence": [
+        "DistroKid dashboard long-page capture",
+        "DistroKid dashboard screenshot sequence"
+      ]
+    },
+    {
+      "observationId": "DK-OBS-017",
+      "displayedTitle": "ОБРАТНЫЙ ОТСЧЁТ",
+      "displayedArtistLine": "Alik Tarraf",
+      "productType": "Single",
+      "observedInDistroKidCatalog": true,
+      "canonicalPublicationStatus": "pending_required_identifiers",
+      "evidence": [
+        "DistroKid dashboard screenshot sequence"
+      ]
+    },
+    {
+      "observationId": "DK-OBS-018",
+      "displayedTitle": "Coco Jamboo (feat. Marina Tarraf)",
+      "displayedArtistLine": "Alik Tarraf",
+      "productType": "Single",
+      "observedInDistroKidCatalog": true,
+      "canonicalPublicationStatus": "pending_required_identifiers",
+      "evidence": [
+        "DistroKid dashboard screenshot sequence"
+      ]
+    },
+    {
+      "observationId": "DK-OBS-019",
+      "displayedTitle": "ObaTar (Soundtrack)",
+      "displayedArtistLine": "Alik Tarraf",
+      "productType": "Single",
+      "observedInDistroKidCatalog": true,
+      "canonicalPublicationStatus": "pending_required_identifiers",
+      "evidence": [
+        "DistroKid dashboard screenshot sequence"
+      ]
+    },
+    {
+      "observationId": "DK-OBS-020",
+      "displayedTitle": "Не спрашивай потом",
+      "displayedArtistLine": "Alik Tarraf",
+      "productType": "Single",
+      "observedInDistroKidCatalog": true,
+      "canonicalPublicationStatus": "pending_required_identifiers",
+      "evidence": [
+        "DistroKid dashboard screenshot sequence"
+      ]
+    },
+    {
+      "observationId": "DK-OBS-021",
+      "displayedTitle": "Он рисует мир",
+      "displayedArtistLine": "Alik Tarraf",
+      "productType": "Single",
+      "observedInDistroKidCatalog": true,
+      "canonicalPublicationStatus": "pending_required_identifiers",
+      "evidence": [
+        "DistroKid dashboard screenshot sequence"
+      ]
+    },
+    {
+      "observationId": "DK-OBS-022",
+      "displayedTitle": "После 40",
+      "displayedArtistLine": "Alik Tarraf",
+      "productType": "Single",
+      "observedInDistroKidCatalog": true,
+      "canonicalPublicationStatus": "pending_required_identifiers",
+      "evidence": [
+        "DistroKid dashboard screenshot sequence"
+      ]
+    },
+    {
+      "observationId": "DK-OBS-023",
+      "displayedTitle": "OBARABO (الصحراء العجيبة)",
+      "displayedArtistLine": "Alik Tarraf",
+      "productType": "Single",
+      "observedInDistroKidCatalog": true,
+      "canonicalPublicationStatus": "pending_required_identifiers",
+      "evidence": [
+        "DistroKid dashboard screenshot sequence"
+      ]
+    },
+    {
+      "observationId": "DK-OBS-024",
+      "displayedTitle": "Мой путь (LIVE)",
+      "displayedArtistLine": "Alik Tarraf",
+      "productType": "Single",
+      "observedInDistroKidCatalog": true,
+      "canonicalPublicationStatus": "pending_required_identifiers",
+      "evidence": [
+        "DistroKid dashboard screenshot sequence"
+      ]
+    },
+    {
+      "observationId": "DK-OBS-025",
+      "displayedTitle": "OBARABO (DOMINÉ)",
+      "displayedArtistLine": "Alik Tarraf",
+      "productType": "Single",
+      "observedInDistroKidCatalog": true,
+      "canonicalPublicationStatus": "pending_required_identifiers",
+      "evidence": [
+        "DistroKid dashboard screenshot sequence"
+      ]
+    },
+    {
+      "observationId": "DK-OBS-026",
+      "displayedTitle": "OBARABO (ANRA LUMÉ)",
+      "displayedArtistLine": "Alik Tarraf",
+      "productType": "Single",
+      "observedInDistroKidCatalog": true,
+      "canonicalPublicationStatus": "pending_required_identifiers",
+      "evidence": [
+        "DistroKid dashboard screenshot sequence"
+      ]
+    },
+    {
+      "observationId": "DK-OBS-027",
+      "displayedTitle": "I Rise",
+      "displayedArtistLine": "Alik Tarraf",
+      "productType": "Single",
+      "observedInDistroKidCatalog": true,
+      "canonicalPublicationStatus": "pending_required_identifiers",
+      "evidence": [
+        "DistroKid dashboard screenshot sequence"
+      ]
+    },
+    {
+      "observationId": "DK-OBS-028",
+      "displayedTitle": "Любовь",
+      "displayedArtistLine": "Alik Tarraf",
+      "productType": "Single",
+      "observedInDistroKidCatalog": true,
+      "canonicalPublicationStatus": "pending_required_identifiers",
+      "evidence": [
+        "DistroKid dashboard screenshot sequence"
+      ]
+    },
+    {
+      "observationId": "DK-OBS-029",
+      "displayedTitle": "La vita",
+      "displayedArtistLine": "Alik Tarraf",
+      "productType": "Single",
+      "observedInDistroKidCatalog": true,
+      "canonicalPublicationStatus": "pending_required_identifiers",
+      "evidence": [
+        "DistroKid dashboard screenshot sequence"
+      ]
+    },
+    {
+      "observationId": "DK-OBS-030",
+      "displayedTitle": "Democrats",
+      "displayedArtistLine": "Alik Tarraf",
+      "productType": "Single",
+      "observedInDistroKidCatalog": true,
+      "canonicalPublicationStatus": "pending_required_identifiers",
+      "evidence": [
+        "DistroKid dashboard screenshot sequence"
+      ]
+    },
+    {
+      "observationId": "DK-OBS-031",
+      "displayedTitle": "Моё нутро",
+      "displayedArtistLine": "Alik Tarraf",
+      "productType": "Single",
+      "observedInDistroKidCatalog": true,
+      "canonicalPublicationStatus": "pending_required_identifiers",
+      "evidence": [
+        "DistroKid dashboard screenshot sequence"
+      ]
+    },
+    {
+      "observationId": "DK-OBS-032",
+      "displayedTitle": "حبل مولية",
+      "displayedArtistLine": "Alik Tarraf, Marina Tarraf",
+      "productType": "Single",
+      "observedInDistroKidCatalog": true,
+      "canonicalPublicationStatus": "pending_required_identifiers",
+      "evidence": [
+        "DistroKid dashboard screenshot sequence"
+      ]
+    },
+    {
+      "observationId": "DK-OBS-033",
+      "displayedTitle": "Más Cerca / Closer (feat. Marina Tarraf)",
+      "displayedArtistLine": "Alik Tarraf",
+      "productType": "Single",
+      "observedInDistroKidCatalog": true,
+      "canonicalPublicationStatus": "pending_required_identifiers",
+      "evidence": [
+        "DistroKid dashboard screenshot sequence"
+      ]
+    },
+    {
+      "observationId": "DK-OBS-034",
+      "displayedTitle": "الليلة مجنونة",
+      "displayedArtistLine": "Alik Tarraf",
+      "productType": "Single",
+      "observedInDistroKidCatalog": true,
+      "canonicalPublicationStatus": "pending_required_identifiers",
+      "evidence": [
+        "DistroKid dashboard screenshot sequence"
+      ]
+    },
+    {
+      "observationId": "DK-OBS-035",
+      "displayedTitle": "Tell me why",
+      "displayedArtistLine": "Alik Tarraf",
+      "productType": "Single",
+      "observedInDistroKidCatalog": true,
+      "canonicalPublicationStatus": "pending_required_identifiers",
+      "evidence": [
+        "DistroKid dashboard screenshot sequence"
+      ]
+    },
+    {
+      "observationId": "DK-OBS-036",
+      "displayedTitle": "Все хорошо (Live)",
+      "displayedArtistLine": "Marina Tarraf",
+      "productType": "Single",
+      "observedInDistroKidCatalog": true,
+      "canonicalPublicationStatus": "pending_required_identifiers",
+      "evidence": [
+        "DistroKid dashboard screenshot sequence"
+      ]
+    },
+    {
+      "observationId": "DK-OBS-037",
+      "displayedTitle": "OBARAE (TARRAF RITUAL SONG)",
+      "displayedArtistLine": "Alik Tarraf, Marina Tarraf",
+      "productType": "Single",
+      "observedInDistroKidCatalog": true,
+      "canonicalPublicationStatus": "pending_required_identifiers",
+      "evidence": [
+        "DistroKid dashboard screenshot sequence"
+      ]
+    },
+    {
+      "observationId": "DK-OBS-038",
+      "displayedTitle": "OBARABO STI-ME (TARRAF RITUAL SONG)",
+      "displayedArtistLine": "Marina Tarraf",
+      "productType": "Single",
+      "observedInDistroKidCatalog": true,
+      "canonicalPublicationStatus": "pending_required_identifiers",
+      "evidence": [
+        "DistroKid dashboard screenshot sequence"
+      ]
+    },
+    {
+      "observationId": "DK-OBS-039",
+      "displayedTitle": "ParaDiseDox",
+      "displayedArtistLine": "Alik Tarraf",
+      "productType": "Single",
+      "observedInDistroKidCatalog": true,
+      "canonicalPublicationStatus": "pending_required_identifiers",
+      "evidence": [
+        "DistroKid dashboard screenshot sequence"
+      ]
+    },
+    {
+      "observationId": "DK-OBS-040",
+      "displayedTitle": "СРОК ИСТЁК",
+      "displayedArtistLine": "Alik Tarraf",
+      "productType": "Single",
+      "observedInDistroKidCatalog": true,
+      "canonicalPublicationStatus": "pending_required_identifiers",
+      "evidence": [
+        "DistroKid dashboard screenshot sequence"
+      ]
+    },
+    {
+      "observationId": "DK-OBS-041",
+      "displayedTitle": "AVE LUMEN AETERNUM (Ritual Song)",
+      "displayedArtistLine": "Alik Tarraf",
+      "productType": "Single",
+      "observedInDistroKidCatalog": true,
+      "canonicalPublicationStatus": "pending_required_identifiers",
+      "evidence": [
+        "DistroKid dashboard screenshot sequence"
+      ]
+    },
+    {
+      "observationId": "DK-OBS-042",
+      "displayedTitle": "Выбираю себя",
+      "displayedArtistLine": "Alik Tarraf",
+      "productType": "Single",
+      "observedInDistroKidCatalog": true,
+      "canonicalPublicationStatus": "pending_required_identifiers",
+      "evidence": [
+        "DistroKid dashboard screenshot sequence"
+      ]
+    },
+    {
+      "observationId": "DK-OBS-043",
+      "displayedTitle": "OBARABO (TARRAF RITUAL SONG )",
+      "displayedArtistLine": "Alik Tarraf",
+      "productType": "Single",
+      "observedInDistroKidCatalog": true,
+      "canonicalPublicationStatus": "pending_required_identifiers",
+      "evidence": [
+        "DistroKid dashboard screenshot sequence"
+      ]
+    },
+    {
+      "observationId": "DK-OBS-044",
+      "displayedTitle": "Жизнь не игра",
+      "displayedArtistLine": "Alik Tarraf",
+      "productType": "Single",
+      "observedInDistroKidCatalog": true,
+      "canonicalPublicationStatus": "pending_required_identifiers",
+      "evidence": [
+        "DistroKid dashboard screenshot sequence"
+      ]
+    },
+    {
+      "observationId": "DK-OBS-045",
+      "displayedTitle": "We are different",
+      "displayedArtistLine": "Alik Tarraf",
+      "productType": "Single",
+      "observedInDistroKidCatalog": true,
+      "canonicalPublicationStatus": "pending_required_identifiers",
+      "evidence": [
+        "DistroKid dashboard screenshot sequence"
+      ]
+    },
+    {
+      "observationId": "DK-OBS-046",
+      "displayedTitle": "ОСТАВЛЮ СЛЕД",
+      "displayedArtistLine": "Alik Tarraf",
+      "productType": "Single",
+      "observedInDistroKidCatalog": true,
+      "canonicalPublicationStatus": "pending_required_identifiers",
+      "evidence": [
+        "DistroKid dashboard screenshot sequence"
+      ]
+    },
+    {
+      "observationId": "DK-OBS-047",
+      "displayedTitle": "Still here ((TARRAF LIVE SHOW))",
+      "displayedArtistLine": "Marina Tarraf",
+      "productType": "Single",
+      "observedInDistroKidCatalog": true,
+      "canonicalPublicationStatus": "pending_required_identifiers",
+      "evidence": [
+        "DistroKid dashboard screenshot sequence"
+      ]
+    },
+    {
+      "observationId": "DK-OBS-048",
+      "displayedTitle": "Good morning world",
+      "displayedArtistLine": "Alik Tarraf",
+      "productType": "Single",
+      "observedInDistroKidCatalog": true,
+      "canonicalPublicationStatus": "pending_required_identifiers",
+      "evidence": [
+        "DistroKid dashboard screenshot sequence"
+      ]
+    },
+    {
+      "observationId": "DK-OBS-049",
+      "displayedTitle": "Detonate",
+      "displayedArtistLine": "Alik Tarraf",
+      "productType": "Single",
+      "observedInDistroKidCatalog": true,
+      "canonicalPublicationStatus": "pending_required_identifiers",
+      "evidence": [
+        "DistroKid dashboard screenshot sequence"
+      ]
+    },
+    {
+      "observationId": "DK-OBS-050",
+      "displayedTitle": "МАРИНА",
+      "displayedArtistLine": "Alik Tarraf",
+      "productType": "Single",
+      "observedInDistroKidCatalog": true,
+      "canonicalPublicationStatus": "pending_required_identifiers",
+      "evidence": [
+        "DistroKid dashboard screenshot sequence"
+      ]
+    },
+    {
+      "observationId": "DK-OBS-051",
+      "displayedTitle": "Страсть Боль Прощение",
+      "displayedArtistLine": "Alik Tarraf",
+      "productType": "Single",
+      "observedInDistroKidCatalog": true,
+      "canonicalPublicationStatus": "pending_required_identifiers",
+      "evidence": [
+        "DistroKid dashboard screenshot sequence"
+      ]
+    },
+    {
+      "observationId": "DK-OBS-052",
+      "displayedTitle": "Пока мы живы (feat. Marina Tarraf)",
+      "displayedArtistLine": "Alik Tarraf",
+      "productType": "Single",
+      "observedInDistroKidCatalog": true,
+      "canonicalPublicationStatus": "pending_required_identifiers",
+      "evidence": [
+        "DistroKid dashboard screenshot sequence"
+      ]
+    },
+    {
+      "observationId": "DK-OBS-053",
+      "displayedTitle": "Я слышу тебя",
+      "displayedArtistLine": "Alik Tarraf",
+      "productType": "Single",
+      "observedInDistroKidCatalog": true,
+      "canonicalPublicationStatus": "pending_required_identifiers",
+      "evidence": [
+        "DistroKid dashboard screenshot sequence"
+      ]
+    },
+    {
+      "observationId": "DK-OBS-054",
+      "displayedTitle": "ЗА ЧТО",
+      "displayedArtistLine": "Alik Tarraf",
+      "productType": "Single",
+      "observedInDistroKidCatalog": true,
+      "canonicalPublicationStatus": "pending_required_identifiers",
+      "evidence": [
+        "DistroKid dashboard screenshot sequence"
+      ]
+    },
+    {
+      "observationId": "DK-OBS-055",
+      "displayedTitle": "Детство ((New Version))",
+      "displayedArtistLine": "Alik Tarraf",
+      "productType": "Single",
+      "observedInDistroKidCatalog": true,
+      "canonicalPublicationStatus": "pending_required_identifiers",
+      "evidence": [
+        "DistroKid dashboard screenshot sequence"
+      ]
+    },
+    {
+      "observationId": "DK-OBS-056",
+      "displayedTitle": "King's move",
+      "displayedArtistLine": "Alik Tarraf",
+      "productType": "Single",
+      "observedInDistroKidCatalog": true,
+      "canonicalPublicationStatus": "pending_required_identifiers",
+      "evidence": [
+        "DistroKid dashboard screenshot sequence"
+      ]
+    },
+    {
+      "observationId": "DK-OBS-057",
+      "displayedTitle": "Смотри это Алик",
+      "displayedArtistLine": "Alik Tarraf",
+      "productType": "Single",
+      "observedInDistroKidCatalog": true,
+      "canonicalPublicationStatus": "pending_required_identifiers",
+      "evidence": [
+        "DistroKid dashboard screenshot sequence"
+      ]
+    },
+    {
+      "observationId": "DK-OBS-058",
+      "displayedTitle": "Life is not a game",
+      "displayedArtistLine": "Alik Tarraf",
+      "productType": "Single",
+      "observedInDistroKidCatalog": true,
+      "canonicalPublicationStatus": "pending_required_identifiers",
+      "evidence": [
+        "DistroKid dashboard screenshot sequence"
+      ]
+    },
+    {
+      "observationId": "DK-OBS-059",
+      "displayedTitle": "Огонь в крови",
+      "displayedArtistLine": "Alik Tarraf",
+      "productType": "Single",
+      "observedInDistroKidCatalog": true,
+      "canonicalPublicationStatus": "pending_required_identifiers",
+      "evidence": [
+        "DistroKid dashboard screenshot sequence"
+      ]
+    }
+  ]
+}
