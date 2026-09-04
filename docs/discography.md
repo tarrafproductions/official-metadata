@@ -7,7 +7,6 @@ This document is the human-readable index of the verified partial discography pu
 - 216 reconstructed digital single release products.
 - 216 distinct studio recording rows with valid ISRC identifiers.
 - 216 single releases with valid UPC identifiers.
-- 1 single release whose release date is not yet available in the verified source package.
 - 57 additional single release products remain unresolved because the full DistroKid catalog export was not included in the source package.
 
 This is explicitly a **partial verified register**, not a claim of complete catalog coverage. Missing values are omitted rather than inferred. Search-result URLs, estimated language labels, unverified AI/explicit/instrumental flags, and provisional rights data are not published as facts.
@@ -15,12 +14,6 @@ This is explicitly a **partial verified register**, not a claim of complete cata
 The live albums and their 64 recordings are maintained separately in [`releases/live-trilogy.jsonld`](../releases/live-trilogy.jsonld) and [`releases/live-tracklists.jsonld`](../releases/live-tracklists.jsonld).
 
 GitHub provides version history and public provenance; it does not replace registrations with performing-rights organizations, mechanical-rights organizations, SoundExchange, distributors, ISRC/UPC agencies, or copyright authorities.
-
-## Missing identifier requiring source completion
-
-### Release date
-
-- SNG-216 — APOCALYPSES
 
 ## Reconstructed studio singles
 
@@ -239,13 +232,13 @@ GitHub provides version history and public provenance; it does not replace regis
 | SNG-211 | 2026-06-01 | يا روح لا تبكي - We are guests [TARRAF LIVE SHOW] | Alik Tarraf (feat. Marina Tarraf) | 882000177995 | QT3EX2647792 | Public-catalog verified |
 | SNG-212 | 2026-06-03 | Курочка ряба [TARRAF CARTOON] | Marina Tarraf (feat. Alik Tarraf) | 825233594627 | QZZ7P2640453 | Public-catalog verified |
 | SNG-213 | 2026-06-05 | أيام - Of Fire | Alik Tarraf (feat. Marina Tarraf) | 883071618028 | QT3EZ2625056 | Public-catalog verified |
-| SNG-214 | 2026-06-19 | Epic Evolution Music [Live Studio Session] | Alik Tarraf | 825192166156 | QZZ7R2695699 | Public-catalog verified |
+| SNG-214 | 2026-06-19 | Epic Evolution Music (Live Studio Session) | Alik Tarraf & Marina Tarraf | 825192166156 | QZZ7R2695699 | DistroKid dashboard verified |
 | SNG-215 | 2026-06-21 | Still Yours (LIVE) | Alik Tarraf & Marina Tarraf | 883369720266 | QT3FE2691958 | Public-catalog verified |
-| SNG-216 | — | APOCALYPSES | Alik Tarraf (feat. Marina Tarraf) | 199736865578 | QZZ7S2565863 | Source-normalized |
+| SNG-216 | 2025-09-07 | APOCALYPSES | Alik Tarraf (feat. Marina Tarraf) | 199736865578 | QZZ7S2565863 | DistroKid dashboard verified |
 
 ## Provenance
 
-Derived from the TARRAF PRODUCTIONS master discography and rights workbook supplied for this repository update. Source coverage was audited on 2026-07-25. Seven previously missing UPC values, the joint primary-artist credit for `THE END`, and the explicit-content designation for `Не продавай себя` were verified directly against first-party DistroKid dashboard records on 2026-09-04. Only public catalog facts needed for identification are published here; private source paths, correspondence, and unsupported fields are excluded.
+Derived from the TARRAF PRODUCTIONS master discography and rights workbook supplied for this repository update. Source coverage was audited on 2026-07-25. Seven previously missing UPC values, the release date for `APOCALYPSES`, the joint primary-artist credits for `THE END` and `Epic Evolution Music (Live Studio Session)`, the exact version-title punctuation for the latter release, and the explicit-content designation for `Не продавай себя` were verified directly against first-party DistroKid dashboard records on 2026-09-04. Only public catalog facts needed for identification are published here; private source paths, correspondence, and unsupported fields are excluded.
 
 ---
 

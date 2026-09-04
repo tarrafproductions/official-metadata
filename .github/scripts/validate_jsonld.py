@@ -7,6 +7,7 @@ import json
 import re
 import sys
 from collections import defaultdict
+from datetime import date
 from pathlib import Path
 from typing import Any, Iterator
 from urllib.parse import unquote, urlparse
@@ -49,6 +50,7 @@ CATALOG_RELEASE_ID_PREFIX = "https://aliktarraf.com/#catalog-sng-"
 CATALOG_RECORDING_ID_PREFIX = "https://aliktarraf.com/#catalog-trk-"
 ISRC_PATTERN = re.compile(r"^[A-Z]{2}[A-Z0-9]{3}[0-9]{7}$")
 UPC_PATTERN = re.compile(r"^[0-9]{12,14}$")
+RELEASE_DATE_PATTERN = re.compile(r"^[0-9]{4}-[0-9]{2}-[0-9]{2}$")
 FORBIDDEN_PUBLIC_VALUES = {"690", "Needs verification"}
 
 
@@ -178,6 +180,17 @@ def is_valid_gtin(value: str) -> bool:
     return (-total) % 10 == int(value[-1])
 
 
+def is_valid_release_date(value: Any) -> bool:
+    """Require a real ISO 8601 calendar date."""
+    if not isinstance(value, str) or not RELEASE_DATE_PATTERN.fullmatch(value):
+        return False
+    try:
+        date.fromisoformat(value)
+    except ValueError:
+        return False
+    return True
+
+
 def validate_studio_singles(document: Any) -> list[str]:
     """Validate the public studio-single register without inventing source gaps."""
     errors: list[str] = []
@@ -223,6 +236,11 @@ def validate_studio_singles(document: Any) -> list[str]:
         errors.append(
             f"{STUDIO_SINGLES_PATH}: release/recording layer counts differ: {counts}"
         )
+
+    for node in [*albums, *releases, *recordings]:
+        identifier = node.get("@id", "<missing @id>")
+        if not is_valid_release_date(node.get("datePublished")):
+            errors.append(f"{identifier}: missing or invalid datePublished")
 
     isrcs: list[str] = []
     for node in recordings:
