@@ -33,12 +33,13 @@ The repository is a source of truth and a version history. Publishing JSON-LD he
 - [`entities/creative-universe.jsonld`](entities/creative-universe.jsonld) — connected JSON-LD graph for Epic Evolution Music, TARRAF LIVE SHOW, TARRAF PRODUCTIONS LIVE, TARRAF EPIC CHOIR, and OBARABO.
 - [`releases/live-trilogy.jsonld`](releases/live-trilogy.jsonld) — linked JSON-LD graph for the TARRAF PRODUCTIONS LIVE recording event, its three albums, and their digital releases.
 - [`releases/live-tracklists.jsonld`](releases/live-tracklists.jsonld) — official ordered track lists for all three TARRAF PRODUCTIONS LIVE volumes (64 recordings in total).
-- [`releases/studio-singles.jsonld`](releases/studio-singles.jsonld) — verified partial register of 216 digital single releases and their 216 studio recordings, with stable internal identifiers and ISRC values.
+- [`releases/studio-singles.jsonld`](releases/studio-singles.jsonld) — verified canonical register of 216 digital single releases and their 216 studio recordings, with stable internal identifiers and ISRC values.
+- [`sources/distrokid-dashboard-observations-2026-09-04.json`](sources/distrokid-dashboard-observations-2026-09-04.json) — first-party DistroKid overview evidence for 59 additional single products awaiting release dates, UPCs, and ISRCs.
 - [`docs/discography.md`](docs/discography.md) — human-readable discography register, documented coverage limits, and unresolved source gaps.
 - [`docs/live-production-credits.md`](docs/live-production-credits.md) — verified production-credit matrix for the Fujairah recording event, live trilogy, and 64 recordings.
 - [`docs/website-integration.md`](docs/website-integration.md) — implementation contract for multilingual Vite/React pages, pre-rendering, canonical URLs, `hreflang`, and JSON-LD.
 
-The studio-single register currently covers 216 of 273 reported single release products. Fifty-seven additional singles remain intentionally unpublished until the full DistroKid export or equivalent first-party evidence is available. Missing values are never inferred.
+The DistroKid dashboard capture supplied on 2026-09-04 confirms 275 studio-single products. The canonical JSON-LD register covers 216; the remaining 59 are preserved in the observation inventory and remain intentionally unpublished as canonical release nodes until each release date, UPC, and ISRC is available. Missing values are never inferred.
 
 ## Validation
 
