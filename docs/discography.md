@@ -14,6 +14,10 @@ This is a **verified canonical register of the 275 studio-single products observ
 
 The live albums and their 64 recordings are maintained separately in [`releases/live-trilogy.jsonld`](../releases/live-trilogy.jsonld) and [`releases/live-tracklists.jsonld`](../releases/live-tracklists.jsonld).
 
+## Cover artwork
+
+The repository also preserves all 279 supplied cover-art files as web-ready WebP derivatives in [`assets/covers/archive`](../assets/covers/archive). The machine-readable [`assets/covers/manifest.json`](../assets/covers/manifest.json) records stable cover IDs, original filenames, dimensions, sizes, and checksums. Because most original filenames are camera-generated, release-to-cover links are left unassigned until visually verified rather than inferred.
+
 GitHub provides version history and public provenance; it does not replace registrations with performing-rights organizations, mechanical-rights organizations, SoundExchange, distributors, ISRC/UPC agencies, or copyright authorities.
 
 ## Reconstructed studio singles
