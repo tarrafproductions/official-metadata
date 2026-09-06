@@ -38,8 +38,11 @@ The repository is a source of truth and a version history. Publishing JSON-LD he
 - [`docs/discography.md`](docs/discography.md) — human-readable discography register with documented coverage and source provenance.
 - [`docs/live-production-credits.md`](docs/live-production-credits.md) — verified production-credit matrix for the Fujairah recording event, live trilogy, and 64 recordings.
 - [`docs/website-integration.md`](docs/website-integration.md) — implementation contract for multilingual Vite/React pages, pre-rendering, canonical URLs, `hreflang`, and JSON-LD.
+- [`assets/covers/manifest.json`](assets/covers/manifest.json) — indexed archive of all 279 supplied cover-art files, with web-ready derivatives and integrity checksums for website integration.
 
 The first-party DistroKid catalog evidence supplied on 2026-09-04 confirms 275 studio-single products. The canonical JSON-LD register now covers all 275 observed products; the 59 formerly pending items were reconciled from verified release dates, UPCs, ISRCs, durations, and explicit-content statuses. Missing values are never inferred.
+
+The artwork archive contains 279 supplied files. It preserves original filenames and source order, but does not guess release associations where the supplied filename does not identify the release.
 
 ## Validation
 
