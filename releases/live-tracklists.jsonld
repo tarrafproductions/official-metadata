@@ -22,176 +22,726 @@
           "@type": "ListItem",
           "position": 1,
           "item": {
+            "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-i-track-01",
             "@type": "MusicRecording",
-            "name": "Opening Overture"
+            "name": "Opening Overture",
+            "alternateName": "Opening Overture (LIVE)",
+            "isrcCode": "QT6EC2696826",
+            "duration": "PT3M51.36S",
+            "byArtist": [
+              {
+                "@id": "https://aliktarraf.com/#alik-tarraf"
+              },
+              {
+                "@id": "https://aliktarraf.com/#marina-tarraf"
+              }
+            ],
+            "inAlbum": {
+              "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-i-the-opening"
+            },
+            "datePublished": "2026-07-15",
+            "publisher": {
+              "@id": "https://aliktarraf.com/#tarraf-productions"
+            },
+            "copyrightHolder": {
+              "@id": "https://aliktarraf.com/#tarraf-productions"
+            },
+            "sameAs": [
+              "https://music.apple.com/ua/album/opening-overture-live/6784526211?i=6784526212"
+            ]
           }
         },
         {
           "@type": "ListItem",
           "position": 2,
           "item": {
+            "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-i-track-02",
             "@type": "MusicRecording",
-            "name": "Alik & Marina Introduction"
+            "name": "Alik & Marina Introduction",
+            "alternateName": "Alik & Marina Introduction (LIVE)",
+            "isrcCode": "QT6EC2696827",
+            "duration": "PT1M8S",
+            "byArtist": [
+              {
+                "@id": "https://aliktarraf.com/#alik-tarraf"
+              },
+              {
+                "@id": "https://aliktarraf.com/#marina-tarraf"
+              }
+            ],
+            "inAlbum": {
+              "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-i-the-opening"
+            },
+            "datePublished": "2026-07-15",
+            "publisher": {
+              "@id": "https://aliktarraf.com/#tarraf-productions"
+            },
+            "copyrightHolder": {
+              "@id": "https://aliktarraf.com/#tarraf-productions"
+            },
+            "sameAs": [
+              "https://music.apple.com/ua/album/alik-marina-introduction-live/6784526211?i=6784526214"
+            ]
           }
         },
         {
           "@type": "ListItem",
           "position": 3,
           "item": {
+            "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-i-track-03",
             "@type": "MusicRecording",
-            "name": "Abu Dhabi Nights"
+            "name": "Abu Dhabi Nights",
+            "alternateName": "Abu Dhabi Nights (LIVE)",
+            "isrcCode": "QT6EC2696828",
+            "duration": "PT5M6.68S",
+            "byArtist": [
+              {
+                "@id": "https://aliktarraf.com/#alik-tarraf"
+              },
+              {
+                "@id": "https://aliktarraf.com/#marina-tarraf"
+              }
+            ],
+            "inAlbum": {
+              "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-i-the-opening"
+            },
+            "datePublished": "2026-07-15",
+            "publisher": {
+              "@id": "https://aliktarraf.com/#tarraf-productions"
+            },
+            "copyrightHolder": {
+              "@id": "https://aliktarraf.com/#tarraf-productions"
+            },
+            "sameAs": [
+              "https://music.apple.com/ua/album/abu-dhabi-nights-live/6784526211?i=6784526215"
+            ]
           }
         },
         {
           "@type": "ListItem",
           "position": 4,
           "item": {
+            "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-i-track-04",
             "@type": "MusicRecording",
-            "name": "Eagles Not Crows"
+            "name": "Eagles Not Crows",
+            "alternateName": "Eagles Not Crows (LIVE)",
+            "isrcCode": "QT6EC2696829",
+            "duration": "PT5M44.4S",
+            "byArtist": [
+              {
+                "@id": "https://aliktarraf.com/#alik-tarraf"
+              },
+              {
+                "@id": "https://aliktarraf.com/#marina-tarraf"
+              }
+            ],
+            "inAlbum": {
+              "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-i-the-opening"
+            },
+            "datePublished": "2026-07-15",
+            "publisher": {
+              "@id": "https://aliktarraf.com/#tarraf-productions"
+            },
+            "copyrightHolder": {
+              "@id": "https://aliktarraf.com/#tarraf-productions"
+            },
+            "sameAs": [
+              "https://music.apple.com/ua/album/eagles-not-crows-live/6784526211?i=6784526216"
+            ]
           }
         },
         {
           "@type": "ListItem",
           "position": 5,
           "item": {
+            "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-i-track-05",
             "@type": "MusicRecording",
-            "name": "حبك مو لعبة"
+            "name": "حبك مو لعبة",
+            "alternateName": "حبك مو لعبة (LIVE)",
+            "isrcCode": "QT6EC2696830",
+            "duration": "PT4M26.12S",
+            "byArtist": [
+              {
+                "@id": "https://aliktarraf.com/#alik-tarraf"
+              },
+              {
+                "@id": "https://aliktarraf.com/#marina-tarraf"
+              }
+            ],
+            "inAlbum": {
+              "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-i-the-opening"
+            },
+            "datePublished": "2026-07-15",
+            "publisher": {
+              "@id": "https://aliktarraf.com/#tarraf-productions"
+            },
+            "copyrightHolder": {
+              "@id": "https://aliktarraf.com/#tarraf-productions"
+            },
+            "sameAs": [
+              "https://music.apple.com/ua/album/%D8%AD%D8%A8%D9%83-%D9%85%D9%88-%D9%84%D8%B9%D8%A8%D8%A9-live/6784526211?i=6784526217"
+            ]
           }
         },
         {
           "@type": "ListItem",
           "position": 6,
           "item": {
+            "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-i-track-06",
             "@type": "MusicRecording",
-            "name": "OBARABO الصحراء العجيبة"
+            "name": "OBARABO الصحراء العجيبة",
+            "alternateName": "OBARABO الصحراء العجيبة (LIVE)",
+            "isrcCode": "QT6EC2696831",
+            "duration": "PT5M3.12S",
+            "byArtist": [
+              {
+                "@id": "https://aliktarraf.com/#alik-tarraf"
+              },
+              {
+                "@id": "https://aliktarraf.com/#marina-tarraf"
+              }
+            ],
+            "inAlbum": {
+              "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-i-the-opening"
+            },
+            "datePublished": "2026-07-15",
+            "publisher": {
+              "@id": "https://aliktarraf.com/#tarraf-productions"
+            },
+            "copyrightHolder": {
+              "@id": "https://aliktarraf.com/#tarraf-productions"
+            },
+            "sameAs": [
+              "https://music.apple.com/ua/album/obarabo-%D8%A7%D9%84%D8%B5%D8%AD%D8%B1%D8%A7%D8%A1-%D8%A7%D9%84%D8%B9%D8%AC%D9%8A%D8%A8%D8%A9-live/6784526211?i=6784526218"
+            ]
           }
         },
         {
           "@type": "ListItem",
           "position": 7,
           "item": {
+            "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-i-track-07",
             "@type": "MusicRecording",
-            "name": "WORDS"
+            "name": "WORDS",
+            "alternateName": "WORDS (LIVE)",
+            "isrcCode": "QT6EC2696832",
+            "duration": "PT5M54.4S",
+            "byArtist": [
+              {
+                "@id": "https://aliktarraf.com/#alik-tarraf"
+              },
+              {
+                "@id": "https://aliktarraf.com/#marina-tarraf"
+              }
+            ],
+            "inAlbum": {
+              "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-i-the-opening"
+            },
+            "datePublished": "2026-07-15",
+            "publisher": {
+              "@id": "https://aliktarraf.com/#tarraf-productions"
+            },
+            "copyrightHolder": {
+              "@id": "https://aliktarraf.com/#tarraf-productions"
+            },
+            "sameAs": [
+              "https://music.apple.com/ua/album/words-live/6784526211?i=6784526219"
+            ]
           }
         },
         {
           "@type": "ListItem",
           "position": 8,
           "item": {
+            "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-i-track-08",
             "@type": "MusicRecording",
-            "name": "Tell Me Why"
+            "name": "Tell Me Why",
+            "alternateName": "Tell Me Why (LIVE)",
+            "isrcCode": "QT6EC2696833",
+            "duration": "PT4M57.64S",
+            "byArtist": [
+              {
+                "@id": "https://aliktarraf.com/#alik-tarraf"
+              },
+              {
+                "@id": "https://aliktarraf.com/#marina-tarraf"
+              }
+            ],
+            "inAlbum": {
+              "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-i-the-opening"
+            },
+            "datePublished": "2026-07-15",
+            "publisher": {
+              "@id": "https://aliktarraf.com/#tarraf-productions"
+            },
+            "copyrightHolder": {
+              "@id": "https://aliktarraf.com/#tarraf-productions"
+            },
+            "sameAs": [
+              "https://music.apple.com/ua/album/tell-me-why-live/6784526211?i=6784526220"
+            ]
           }
         },
         {
           "@type": "ListItem",
           "position": 9,
           "item": {
+            "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-i-track-09",
             "@type": "MusicRecording",
-            "name": "Desert Dominus"
+            "name": "Desert Dominus",
+            "alternateName": "Desert Dominus (LIVE)",
+            "isrcCode": "QT6EC2696834",
+            "duration": "PT5M22.44S",
+            "byArtist": [
+              {
+                "@id": "https://aliktarraf.com/#alik-tarraf"
+              },
+              {
+                "@id": "https://aliktarraf.com/#marina-tarraf"
+              }
+            ],
+            "inAlbum": {
+              "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-i-the-opening"
+            },
+            "datePublished": "2026-07-15",
+            "publisher": {
+              "@id": "https://aliktarraf.com/#tarraf-productions"
+            },
+            "copyrightHolder": {
+              "@id": "https://aliktarraf.com/#tarraf-productions"
+            },
+            "sameAs": [
+              "https://music.apple.com/ua/album/desert-dominus-live/6784526211?i=6784526221"
+            ]
           }
         },
         {
           "@type": "ListItem",
           "position": 10,
           "item": {
+            "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-i-track-10",
             "@type": "MusicRecording",
-            "name": "Мы"
+            "name": "Мы",
+            "alternateName": "Мы (LIVE)",
+            "isrcCode": "QT6EC2696835",
+            "duration": "PT4M35.4S",
+            "byArtist": [
+              {
+                "@id": "https://aliktarraf.com/#alik-tarraf"
+              },
+              {
+                "@id": "https://aliktarraf.com/#marina-tarraf"
+              }
+            ],
+            "inAlbum": {
+              "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-i-the-opening"
+            },
+            "datePublished": "2026-07-15",
+            "publisher": {
+              "@id": "https://aliktarraf.com/#tarraf-productions"
+            },
+            "copyrightHolder": {
+              "@id": "https://aliktarraf.com/#tarraf-productions"
+            },
+            "sameAs": [
+              "https://music.apple.com/ua/album/%D0%BC%D1%8B-live/6784526211?i=6784526222"
+            ]
           }
         },
         {
           "@type": "ListItem",
           "position": 11,
           "item": {
+            "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-i-track-11",
             "@type": "MusicRecording",
-            "name": "Malak Shaitan"
+            "name": "Malak Shaitan",
+            "alternateName": "Malak Shaitan (LIVE)",
+            "isrcCode": "QT6EC2696836",
+            "duration": "PT4M21.8S",
+            "byArtist": [
+              {
+                "@id": "https://aliktarraf.com/#alik-tarraf"
+              },
+              {
+                "@id": "https://aliktarraf.com/#marina-tarraf"
+              }
+            ],
+            "inAlbum": {
+              "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-i-the-opening"
+            },
+            "datePublished": "2026-07-15",
+            "publisher": {
+              "@id": "https://aliktarraf.com/#tarraf-productions"
+            },
+            "copyrightHolder": {
+              "@id": "https://aliktarraf.com/#tarraf-productions"
+            },
+            "sameAs": [
+              "https://music.apple.com/ua/album/malak-shaitan-live/6784526211?i=6784526223"
+            ]
           }
         },
         {
           "@type": "ListItem",
           "position": 12,
           "item": {
+            "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-i-track-12",
             "@type": "MusicRecording",
-            "name": "Goddess"
+            "name": "Goddess",
+            "alternateName": "Goddess (LIVE)",
+            "isrcCode": "QT6EC2696837",
+            "duration": "PT4M51.44S",
+            "byArtist": [
+              {
+                "@id": "https://aliktarraf.com/#alik-tarraf"
+              },
+              {
+                "@id": "https://aliktarraf.com/#marina-tarraf"
+              }
+            ],
+            "inAlbum": {
+              "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-i-the-opening"
+            },
+            "datePublished": "2026-07-15",
+            "publisher": {
+              "@id": "https://aliktarraf.com/#tarraf-productions"
+            },
+            "copyrightHolder": {
+              "@id": "https://aliktarraf.com/#tarraf-productions"
+            },
+            "sameAs": [
+              "https://music.apple.com/ua/album/goddess-live/6784526211?i=6784526224"
+            ]
           }
         },
         {
           "@type": "ListItem",
           "position": 13,
           "item": {
+            "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-i-track-13",
             "@type": "MusicRecording",
-            "name": "Смысл Жизни"
+            "name": "Смысл Жизни",
+            "alternateName": "Смысл Жизни (LIVE)",
+            "isrcCode": "QT6EC2696838",
+            "duration": "PT4M26.52S",
+            "byArtist": [
+              {
+                "@id": "https://aliktarraf.com/#alik-tarraf"
+              },
+              {
+                "@id": "https://aliktarraf.com/#marina-tarraf"
+              }
+            ],
+            "inAlbum": {
+              "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-i-the-opening"
+            },
+            "datePublished": "2026-07-15",
+            "publisher": {
+              "@id": "https://aliktarraf.com/#tarraf-productions"
+            },
+            "copyrightHolder": {
+              "@id": "https://aliktarraf.com/#tarraf-productions"
+            },
+            "sameAs": [
+              "https://music.apple.com/ua/album/%D1%81%D0%BC%D1%8B%D1%81%D0%BB-%D0%B6%D0%B8%D0%B7%D0%BD%D0%B8-live/6784526211?i=6784526225"
+            ]
           }
         },
         {
           "@type": "ListItem",
           "position": 14,
           "item": {
+            "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-i-track-14",
             "@type": "MusicRecording",
-            "name": "Fire Drones Show"
+            "name": "Fire Drones Show",
+            "alternateName": "Fire Drones Show (LIVE)",
+            "isrcCode": "QT6EC2696839",
+            "duration": "PT3M4.6S",
+            "byArtist": [
+              {
+                "@id": "https://aliktarraf.com/#alik-tarraf"
+              },
+              {
+                "@id": "https://aliktarraf.com/#marina-tarraf"
+              }
+            ],
+            "inAlbum": {
+              "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-i-the-opening"
+            },
+            "datePublished": "2026-07-15",
+            "publisher": {
+              "@id": "https://aliktarraf.com/#tarraf-productions"
+            },
+            "copyrightHolder": {
+              "@id": "https://aliktarraf.com/#tarraf-productions"
+            },
+            "sameAs": [
+              "https://music.apple.com/ua/album/fire-drones-show-live/6784526211?i=6784526226"
+            ]
           }
         },
         {
           "@type": "ListItem",
           "position": 15,
           "item": {
+            "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-i-track-15",
             "@type": "MusicRecording",
-            "name": "Meaning of Life"
+            "name": "Meaning of Life",
+            "alternateName": "Meaning of Life (LIVE)",
+            "isrcCode": "QT6EC2696840",
+            "duration": "PT4M39.6S",
+            "byArtist": [
+              {
+                "@id": "https://aliktarraf.com/#alik-tarraf"
+              },
+              {
+                "@id": "https://aliktarraf.com/#marina-tarraf"
+              }
+            ],
+            "inAlbum": {
+              "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-i-the-opening"
+            },
+            "datePublished": "2026-07-15",
+            "publisher": {
+              "@id": "https://aliktarraf.com/#tarraf-productions"
+            },
+            "copyrightHolder": {
+              "@id": "https://aliktarraf.com/#tarraf-productions"
+            },
+            "sameAs": [
+              "https://music.apple.com/ua/album/meaning-of-life-live/6784526211?i=6784526227"
+            ]
           }
         },
         {
           "@type": "ListItem",
           "position": 16,
           "item": {
+            "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-i-track-16",
             "@type": "MusicRecording",
-            "name": "Сум за Батьківщину"
+            "name": "Сум за Батьківщину",
+            "alternateName": "Сум за Батьківщину (LIVE)",
+            "isrcCode": "QT6EC2696841",
+            "duration": "PT4M24.32S",
+            "byArtist": [
+              {
+                "@id": "https://aliktarraf.com/#alik-tarraf"
+              },
+              {
+                "@id": "https://aliktarraf.com/#marina-tarraf"
+              }
+            ],
+            "inAlbum": {
+              "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-i-the-opening"
+            },
+            "datePublished": "2026-07-15",
+            "publisher": {
+              "@id": "https://aliktarraf.com/#tarraf-productions"
+            },
+            "copyrightHolder": {
+              "@id": "https://aliktarraf.com/#tarraf-productions"
+            },
+            "sameAs": [
+              "https://music.apple.com/ua/album/%D1%81%D1%83%D0%BC-%D0%B7%D0%B0-%D0%B1%D0%B0%D1%82%D1%8C%D0%BA%D1%96%D0%B2%D1%89%D0%B8%D0%BD%D1%83-live/6784526211?i=6784526228"
+            ]
           }
         },
         {
           "@type": "ListItem",
           "position": 17,
           "item": {
+            "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-i-track-17",
             "@type": "MusicRecording",
-            "name": "Don't Speak"
+            "name": "Don't Speak",
+            "alternateName": "Don’t Speak (LIVE)",
+            "isrcCode": "QT6EC2696842",
+            "duration": "PT3M36.88S",
+            "byArtist": [
+              {
+                "@id": "https://aliktarraf.com/#alik-tarraf"
+              },
+              {
+                "@id": "https://aliktarraf.com/#marina-tarraf"
+              }
+            ],
+            "inAlbum": {
+              "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-i-the-opening"
+            },
+            "datePublished": "2026-07-15",
+            "publisher": {
+              "@id": "https://aliktarraf.com/#tarraf-productions"
+            },
+            "copyrightHolder": {
+              "@id": "https://aliktarraf.com/#tarraf-productions"
+            },
+            "sameAs": [
+              "https://music.apple.com/ua/album/dont-speak-live/6784526211?i=6784526229"
+            ]
           }
         },
         {
           "@type": "ListItem",
           "position": 18,
           "item": {
+            "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-i-track-18",
             "@type": "MusicRecording",
-            "name": "I Rise"
+            "name": "I Rise",
+            "alternateName": "I Rise (LIVE)",
+            "isrcCode": "QT6EC2696843",
+            "duration": "PT6M5.32S",
+            "byArtist": [
+              {
+                "@id": "https://aliktarraf.com/#alik-tarraf"
+              },
+              {
+                "@id": "https://aliktarraf.com/#marina-tarraf"
+              }
+            ],
+            "inAlbum": {
+              "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-i-the-opening"
+            },
+            "datePublished": "2026-07-15",
+            "publisher": {
+              "@id": "https://aliktarraf.com/#tarraf-productions"
+            },
+            "copyrightHolder": {
+              "@id": "https://aliktarraf.com/#tarraf-productions"
+            },
+            "sameAs": [
+              "https://music.apple.com/ua/album/i-rise-live/6784526211?i=6784526230"
+            ]
           }
         },
         {
           "@type": "ListItem",
           "position": 19,
           "item": {
+            "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-i-track-19",
             "@type": "MusicRecording",
-            "name": "Добро и Зло"
+            "name": "Добро и Зло",
+            "alternateName": "Добро и Зло (LIVE)",
+            "isrcCode": "QT6EC2696844",
+            "duration": "PT4M3.72S",
+            "byArtist": [
+              {
+                "@id": "https://aliktarraf.com/#alik-tarraf"
+              },
+              {
+                "@id": "https://aliktarraf.com/#marina-tarraf"
+              }
+            ],
+            "inAlbum": {
+              "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-i-the-opening"
+            },
+            "datePublished": "2026-07-15",
+            "publisher": {
+              "@id": "https://aliktarraf.com/#tarraf-productions"
+            },
+            "copyrightHolder": {
+              "@id": "https://aliktarraf.com/#tarraf-productions"
+            },
+            "sameAs": [
+              "https://music.apple.com/ua/album/%D0%B4%D0%BE%D0%B1%D1%80%D0%BE-%D0%B8-%D0%B7%D0%BB%D0%BE-live/6784526211?i=6784526231"
+            ]
           }
         },
         {
           "@type": "ListItem",
           "position": 20,
           "item": {
+            "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-i-track-20",
             "@type": "MusicRecording",
-            "name": "The Other Side"
+            "name": "The Other Side",
+            "alternateName": "The Other Side (LIVE)",
+            "isrcCode": "QT6EC2696845",
+            "duration": "PT4M39.8S",
+            "byArtist": [
+              {
+                "@id": "https://aliktarraf.com/#alik-tarraf"
+              },
+              {
+                "@id": "https://aliktarraf.com/#marina-tarraf"
+              }
+            ],
+            "inAlbum": {
+              "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-i-the-opening"
+            },
+            "datePublished": "2026-07-15",
+            "publisher": {
+              "@id": "https://aliktarraf.com/#tarraf-productions"
+            },
+            "copyrightHolder": {
+              "@id": "https://aliktarraf.com/#tarraf-productions"
+            },
+            "sameAs": [
+              "https://music.apple.com/ua/album/the-other-side-live/6784526211?i=6784526232"
+            ]
           }
         },
         {
           "@type": "ListItem",
           "position": 21,
           "item": {
+            "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-i-track-21",
             "@type": "MusicRecording",
-            "name": "This Is Goodbye"
+            "name": "This Is Goodbye",
+            "alternateName": "This Is Goodbye (LIVE)",
+            "isrcCode": "QT6EC2696846",
+            "duration": "PT6M26.48S",
+            "byArtist": [
+              {
+                "@id": "https://aliktarraf.com/#alik-tarraf"
+              },
+              {
+                "@id": "https://aliktarraf.com/#marina-tarraf"
+              }
+            ],
+            "inAlbum": {
+              "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-i-the-opening"
+            },
+            "datePublished": "2026-07-15",
+            "publisher": {
+              "@id": "https://aliktarraf.com/#tarraf-productions"
+            },
+            "copyrightHolder": {
+              "@id": "https://aliktarraf.com/#tarraf-productions"
+            },
+            "sameAs": [
+              "https://music.apple.com/ua/album/this-is-goodbye-live/6784526211?i=6784526233"
+            ]
           }
         },
         {
           "@type": "ListItem",
           "position": 22,
           "item": {
+            "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-i-track-22",
             "@type": "MusicRecording",
-            "name": "End, Vol. 1"
+            "name": "End, Vol. 1",
+            "alternateName": "End, Vol. 1 (LIVE)",
+            "isrcCode": "QT6EC2696847",
+            "duration": "PT3M6.68S",
+            "byArtist": [
+              {
+                "@id": "https://aliktarraf.com/#alik-tarraf"
+              },
+              {
+                "@id": "https://aliktarraf.com/#marina-tarraf"
+              }
+            ],
+            "inAlbum": {
+              "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-i-the-opening"
+            },
+            "datePublished": "2026-07-15",
+            "publisher": {
+              "@id": "https://aliktarraf.com/#tarraf-productions"
+            },
+            "copyrightHolder": {
+              "@id": "https://aliktarraf.com/#tarraf-productions"
+            },
+            "sameAs": [
+              "https://music.apple.com/ua/album/end-vol-1-live/6784526211?i=6784526234"
+            ]
           }
         }
       ]
@@ -217,184 +767,759 @@
           "@type": "ListItem",
           "position": 1,
           "item": {
+            "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-ii-track-01",
             "@type": "MusicRecording",
-            "name": "Kacheli Introduction"
+            "name": "Kacheli Introduction",
+            "alternateName": "Kacheli Introduction (LIVE)",
+            "isrcCode": "QT6FG2634831",
+            "duration": "PT2M31.96S",
+            "byArtist": [
+              {
+                "@id": "https://aliktarraf.com/#alik-tarraf"
+              },
+              {
+                "@id": "https://aliktarraf.com/#marina-tarraf"
+              }
+            ],
+            "inAlbum": {
+              "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-ii-the-fire"
+            },
+            "datePublished": "2026-08-21",
+            "publisher": {
+              "@id": "https://aliktarraf.com/#tarraf-productions"
+            },
+            "copyrightHolder": {
+              "@id": "https://aliktarraf.com/#tarraf-productions"
+            },
+            "sameAs": [
+              "https://music.apple.com/ua/album/kacheli-introduction-live/6793955748?i=6793955751"
+            ]
           }
         },
         {
           "@type": "ListItem",
           "position": 2,
           "item": {
+            "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-ii-track-02",
             "@type": "MusicRecording",
-            "name": "Качели"
+            "name": "Качели",
+            "alternateName": "Качели (LIVE)",
+            "isrcCode": "QT6FG2634832",
+            "duration": "PT5M8.8S",
+            "byArtist": [
+              {
+                "@id": "https://aliktarraf.com/#alik-tarraf"
+              },
+              {
+                "@id": "https://aliktarraf.com/#marina-tarraf"
+              }
+            ],
+            "inAlbum": {
+              "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-ii-the-fire"
+            },
+            "datePublished": "2026-08-21",
+            "publisher": {
+              "@id": "https://aliktarraf.com/#tarraf-productions"
+            },
+            "copyrightHolder": {
+              "@id": "https://aliktarraf.com/#tarraf-productions"
+            },
+            "sameAs": [
+              "https://music.apple.com/ua/album/%D0%BA%D0%B0%D1%87%D0%B5%D0%BB%D0%B8-live/6793955748?i=6793955753"
+            ]
           }
         },
         {
           "@type": "ListItem",
           "position": 3,
           "item": {
+            "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-ii-track-03",
             "@type": "MusicRecording",
-            "name": "I'm Hungry"
+            "name": "I'm Hungry",
+            "alternateName": "I'm Hungry (LIVE)",
+            "isrcCode": "QT6FG2634833",
+            "duration": "PT5M17.84S",
+            "byArtist": [
+              {
+                "@id": "https://aliktarraf.com/#alik-tarraf"
+              },
+              {
+                "@id": "https://aliktarraf.com/#marina-tarraf"
+              }
+            ],
+            "inAlbum": {
+              "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-ii-the-fire"
+            },
+            "datePublished": "2026-08-21",
+            "publisher": {
+              "@id": "https://aliktarraf.com/#tarraf-productions"
+            },
+            "copyrightHolder": {
+              "@id": "https://aliktarraf.com/#tarraf-productions"
+            },
+            "sameAs": [
+              "https://music.apple.com/ua/album/im-hungry-live/6793955748?i=6793955754"
+            ]
           }
         },
         {
           "@type": "ListItem",
           "position": 4,
           "item": {
+            "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-ii-track-04",
             "@type": "MusicRecording",
-            "name": "Noise Silence"
+            "name": "Noise Silence",
+            "alternateName": "Noise Silence (LIVE)",
+            "isrcCode": "QT6FG2634834",
+            "duration": "PT5M28.72S",
+            "byArtist": [
+              {
+                "@id": "https://aliktarraf.com/#alik-tarraf"
+              },
+              {
+                "@id": "https://aliktarraf.com/#marina-tarraf"
+              }
+            ],
+            "inAlbum": {
+              "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-ii-the-fire"
+            },
+            "datePublished": "2026-08-21",
+            "publisher": {
+              "@id": "https://aliktarraf.com/#tarraf-productions"
+            },
+            "copyrightHolder": {
+              "@id": "https://aliktarraf.com/#tarraf-productions"
+            },
+            "sameAs": [
+              "https://music.apple.com/ua/album/noise-silence-live/6793955748?i=6793955755"
+            ]
           }
         },
         {
           "@type": "ListItem",
           "position": 5,
           "item": {
+            "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-ii-track-05",
             "@type": "MusicRecording",
-            "name": "Arabica Overture"
+            "name": "Arabica Overture",
+            "alternateName": "Arabica Overture (LIVE)",
+            "isrcCode": "QT6FG2634835",
+            "duration": "PT2M46.96S",
+            "byArtist": [
+              {
+                "@id": "https://aliktarraf.com/#alik-tarraf"
+              },
+              {
+                "@id": "https://aliktarraf.com/#marina-tarraf"
+              }
+            ],
+            "inAlbum": {
+              "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-ii-the-fire"
+            },
+            "datePublished": "2026-08-21",
+            "publisher": {
+              "@id": "https://aliktarraf.com/#tarraf-productions"
+            },
+            "copyrightHolder": {
+              "@id": "https://aliktarraf.com/#tarraf-productions"
+            },
+            "sameAs": [
+              "https://music.apple.com/ua/album/arabica-overture-live/6793955748?i=6793955756"
+            ]
           }
         },
         {
           "@type": "ListItem",
           "position": 6,
           "item": {
+            "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-ii-track-06",
             "@type": "MusicRecording",
-            "name": "الليلة مجنونة"
+            "name": "الليلة مجنونة",
+            "alternateName": "الليلة مجنونة (LIVE)",
+            "isrcCode": "QT6FG2634836",
+            "duration": "PT3M4.4S",
+            "byArtist": [
+              {
+                "@id": "https://aliktarraf.com/#alik-tarraf"
+              },
+              {
+                "@id": "https://aliktarraf.com/#marina-tarraf"
+              }
+            ],
+            "inAlbum": {
+              "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-ii-the-fire"
+            },
+            "datePublished": "2026-08-21",
+            "publisher": {
+              "@id": "https://aliktarraf.com/#tarraf-productions"
+            },
+            "copyrightHolder": {
+              "@id": "https://aliktarraf.com/#tarraf-productions"
+            },
+            "sameAs": [
+              "https://music.apple.com/ua/album/%D8%A7%D9%84%D9%84%D9%8A%D9%84%D8%A9-%D9%85%D8%AC%D9%86%D9%88%D9%86%D8%A9-live/6793955748?i=6793955757"
+            ]
           }
         },
         {
           "@type": "ListItem",
           "position": 7,
           "item": {
+            "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-ii-track-07",
             "@type": "MusicRecording",
-            "name": "Banina Banina Yalla Tarraf"
+            "name": "Banina Banina Yalla Tarraf",
+            "alternateName": "Banina Banina Yalla Tarraf (LIVE)",
+            "isrcCode": "QT6FG2634837",
+            "duration": "PT3M49.56S",
+            "byArtist": [
+              {
+                "@id": "https://aliktarraf.com/#alik-tarraf"
+              },
+              {
+                "@id": "https://aliktarraf.com/#marina-tarraf"
+              }
+            ],
+            "inAlbum": {
+              "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-ii-the-fire"
+            },
+            "datePublished": "2026-08-21",
+            "publisher": {
+              "@id": "https://aliktarraf.com/#tarraf-productions"
+            },
+            "copyrightHolder": {
+              "@id": "https://aliktarraf.com/#tarraf-productions"
+            },
+            "sameAs": [
+              "https://music.apple.com/ua/album/banina-banina-yalla-tarraf-live/6793955748?i=6793955758"
+            ]
           }
         },
         {
           "@type": "ListItem",
           "position": 8,
           "item": {
+            "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-ii-track-08",
             "@type": "MusicRecording",
-            "name": "Release Me"
+            "name": "Release Me",
+            "alternateName": "Release Me (LIVE)",
+            "isrcCode": "QT6FG2634838",
+            "duration": "PT4M49.4S",
+            "byArtist": [
+              {
+                "@id": "https://aliktarraf.com/#alik-tarraf"
+              },
+              {
+                "@id": "https://aliktarraf.com/#marina-tarraf"
+              }
+            ],
+            "inAlbum": {
+              "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-ii-the-fire"
+            },
+            "datePublished": "2026-08-21",
+            "publisher": {
+              "@id": "https://aliktarraf.com/#tarraf-productions"
+            },
+            "copyrightHolder": {
+              "@id": "https://aliktarraf.com/#tarraf-productions"
+            },
+            "sameAs": [
+              "https://music.apple.com/ua/album/release-me-live/6793955748?i=6793955759"
+            ]
           }
         },
         {
           "@type": "ListItem",
           "position": 9,
           "item": {
+            "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-ii-track-09",
             "@type": "MusicRecording",
-            "name": "Hello"
+            "name": "Hello",
+            "alternateName": "Hello (LIVE)",
+            "isrcCode": "QT6FG2634839",
+            "duration": "PT4M32.059S",
+            "byArtist": [
+              {
+                "@id": "https://aliktarraf.com/#alik-tarraf"
+              },
+              {
+                "@id": "https://aliktarraf.com/#marina-tarraf"
+              }
+            ],
+            "inAlbum": {
+              "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-ii-the-fire"
+            },
+            "datePublished": "2026-08-21",
+            "publisher": {
+              "@id": "https://aliktarraf.com/#tarraf-productions"
+            },
+            "copyrightHolder": {
+              "@id": "https://aliktarraf.com/#tarraf-productions"
+            },
+            "sameAs": [
+              "https://music.apple.com/ua/album/hello-live/6793955748?i=6793955760"
+            ]
           }
         },
         {
           "@type": "ListItem",
           "position": 10,
           "item": {
+            "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-ii-track-10",
             "@type": "MusicRecording",
-            "name": "Syria - سوريا"
+            "name": "Syria - سوريا",
+            "alternateName": "Syria - سوريا (LIVE)",
+            "isrcCode": "QT6FG2634840",
+            "duration": "PT4M40.72S",
+            "byArtist": [
+              {
+                "@id": "https://aliktarraf.com/#alik-tarraf"
+              },
+              {
+                "@id": "https://aliktarraf.com/#marina-tarraf"
+              }
+            ],
+            "inAlbum": {
+              "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-ii-the-fire"
+            },
+            "datePublished": "2026-08-21",
+            "publisher": {
+              "@id": "https://aliktarraf.com/#tarraf-productions"
+            },
+            "copyrightHolder": {
+              "@id": "https://aliktarraf.com/#tarraf-productions"
+            },
+            "sameAs": [
+              "https://music.apple.com/ua/album/syria-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-live/6793955748?i=6793955971"
+            ]
           }
         },
         {
           "@type": "ListItem",
           "position": 11,
           "item": {
+            "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-ii-track-11",
             "@type": "MusicRecording",
-            "name": "Animals"
+            "name": "Animals",
+            "alternateName": "Animals (LIVE)",
+            "isrcCode": "QT6FG2634841",
+            "duration": "PT5M53.96S",
+            "byArtist": [
+              {
+                "@id": "https://aliktarraf.com/#alik-tarraf"
+              },
+              {
+                "@id": "https://aliktarraf.com/#marina-tarraf"
+              }
+            ],
+            "inAlbum": {
+              "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-ii-the-fire"
+            },
+            "datePublished": "2026-08-21",
+            "publisher": {
+              "@id": "https://aliktarraf.com/#tarraf-productions"
+            },
+            "copyrightHolder": {
+              "@id": "https://aliktarraf.com/#tarraf-productions"
+            },
+            "sameAs": [
+              "https://music.apple.com/ua/album/animals-live/6793955748?i=6793955973"
+            ]
           }
         },
         {
           "@type": "ListItem",
           "position": 12,
           "item": {
+            "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-ii-track-12",
             "@type": "MusicRecording",
-            "name": "Marina Birthday Celebration"
+            "name": "Marina Birthday Celebration",
+            "alternateName": "Marina Birthday Celebration (LIVE)",
+            "isrcCode": "QT6FG2634842",
+            "duration": "PT2M42.64S",
+            "byArtist": [
+              {
+                "@id": "https://aliktarraf.com/#alik-tarraf"
+              },
+              {
+                "@id": "https://aliktarraf.com/#marina-tarraf"
+              }
+            ],
+            "inAlbum": {
+              "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-ii-the-fire"
+            },
+            "datePublished": "2026-08-21",
+            "publisher": {
+              "@id": "https://aliktarraf.com/#tarraf-productions"
+            },
+            "copyrightHolder": {
+              "@id": "https://aliktarraf.com/#tarraf-productions"
+            },
+            "sameAs": [
+              "https://music.apple.com/ua/album/marina-birthday-celebration-live/6793955748?i=6793955974"
+            ]
           }
         },
         {
           "@type": "ListItem",
           "position": 13,
           "item": {
+            "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-ii-track-13",
             "@type": "MusicRecording",
-            "name": "Ну Нина"
+            "name": "Ну Нина",
+            "alternateName": "Ну Нина (LIVE)",
+            "isrcCode": "QT6FG2634843",
+            "duration": "PT3M5.6S",
+            "byArtist": [
+              {
+                "@id": "https://aliktarraf.com/#alik-tarraf"
+              },
+              {
+                "@id": "https://aliktarraf.com/#marina-tarraf"
+              }
+            ],
+            "inAlbum": {
+              "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-ii-the-fire"
+            },
+            "datePublished": "2026-08-21",
+            "publisher": {
+              "@id": "https://aliktarraf.com/#tarraf-productions"
+            },
+            "copyrightHolder": {
+              "@id": "https://aliktarraf.com/#tarraf-productions"
+            },
+            "sameAs": [
+              "https://music.apple.com/ua/album/%D0%BD%D1%83-%D0%BD%D0%B8%D0%BD%D0%B0-live/6793955748?i=6793955975"
+            ]
           }
         },
         {
           "@type": "ListItem",
           "position": 14,
           "item": {
+            "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-ii-track-14",
             "@type": "MusicRecording",
-            "name": "Ave Lumen Aeternum"
+            "name": "Ave Lumen Aeternum",
+            "alternateName": "Ave Lumen Aeternum (LIVE)",
+            "isrcCode": "QT6FG2634844",
+            "duration": "PT4M48.72S",
+            "byArtist": [
+              {
+                "@id": "https://aliktarraf.com/#alik-tarraf"
+              },
+              {
+                "@id": "https://aliktarraf.com/#marina-tarraf"
+              }
+            ],
+            "inAlbum": {
+              "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-ii-the-fire"
+            },
+            "datePublished": "2026-08-21",
+            "publisher": {
+              "@id": "https://aliktarraf.com/#tarraf-productions"
+            },
+            "copyrightHolder": {
+              "@id": "https://aliktarraf.com/#tarraf-productions"
+            },
+            "sameAs": [
+              "https://music.apple.com/ua/album/ave-lumen-aeternum-live/6793955748?i=6793955976"
+            ]
           }
         },
         {
           "@type": "ListItem",
           "position": 15,
           "item": {
+            "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-ii-track-15",
             "@type": "MusicRecording",
-            "name": "Ad Vinculum"
+            "name": "Ad Vinculum",
+            "alternateName": "Ad Vinculum (LIVE)",
+            "isrcCode": "QT6FG2634845",
+            "duration": "PT4M32.16S",
+            "byArtist": [
+              {
+                "@id": "https://aliktarraf.com/#alik-tarraf"
+              },
+              {
+                "@id": "https://aliktarraf.com/#marina-tarraf"
+              }
+            ],
+            "inAlbum": {
+              "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-ii-the-fire"
+            },
+            "datePublished": "2026-08-21",
+            "publisher": {
+              "@id": "https://aliktarraf.com/#tarraf-productions"
+            },
+            "copyrightHolder": {
+              "@id": "https://aliktarraf.com/#tarraf-productions"
+            },
+            "sameAs": [
+              "https://music.apple.com/ua/album/ad-vinculum-live/6793955748?i=6793955977"
+            ]
           }
         },
         {
           "@type": "ListItem",
           "position": 16,
           "item": {
+            "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-ii-track-16",
             "@type": "MusicRecording",
-            "name": "Dubai Lights"
+            "name": "Dubai Lights",
+            "alternateName": "Dubai Lights (LIVE)",
+            "isrcCode": "QT6FG2634846",
+            "duration": "PT4M39.92S",
+            "byArtist": [
+              {
+                "@id": "https://aliktarraf.com/#alik-tarraf"
+              },
+              {
+                "@id": "https://aliktarraf.com/#marina-tarraf"
+              }
+            ],
+            "inAlbum": {
+              "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-ii-the-fire"
+            },
+            "datePublished": "2026-08-21",
+            "publisher": {
+              "@id": "https://aliktarraf.com/#tarraf-productions"
+            },
+            "copyrightHolder": {
+              "@id": "https://aliktarraf.com/#tarraf-productions"
+            },
+            "sameAs": [
+              "https://music.apple.com/ua/album/dubai-lights-live/6793955748?i=6793955978"
+            ]
           }
         },
         {
           "@type": "ListItem",
           "position": 17,
           "item": {
+            "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-ii-track-17",
             "@type": "MusicRecording",
-            "name": "Good and Evil"
+            "name": "Good and Evil",
+            "alternateName": "Good and Evil (LIVE)",
+            "isrcCode": "QT6FG2634847",
+            "duration": "PT5M33.32S",
+            "byArtist": [
+              {
+                "@id": "https://aliktarraf.com/#alik-tarraf"
+              },
+              {
+                "@id": "https://aliktarraf.com/#marina-tarraf"
+              }
+            ],
+            "inAlbum": {
+              "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-ii-the-fire"
+            },
+            "datePublished": "2026-08-21",
+            "publisher": {
+              "@id": "https://aliktarraf.com/#tarraf-productions"
+            },
+            "copyrightHolder": {
+              "@id": "https://aliktarraf.com/#tarraf-productions"
+            },
+            "sameAs": [
+              "https://music.apple.com/ua/album/good-and-evil-live/6793955748?i=6793955979"
+            ]
           }
         },
         {
           "@type": "ListItem",
           "position": 18,
           "item": {
+            "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-ii-track-18",
             "@type": "MusicRecording",
-            "name": "Alik Guitar Improvisation"
+            "name": "Alik Guitar Improvisation",
+            "alternateName": "Alik Guitar Improvisation (LIVE)",
+            "isrcCode": "QT6FG2634848",
+            "duration": "PT2M25S",
+            "byArtist": [
+              {
+                "@id": "https://aliktarraf.com/#alik-tarraf"
+              },
+              {
+                "@id": "https://aliktarraf.com/#marina-tarraf"
+              }
+            ],
+            "inAlbum": {
+              "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-ii-the-fire"
+            },
+            "datePublished": "2026-08-21",
+            "publisher": {
+              "@id": "https://aliktarraf.com/#tarraf-productions"
+            },
+            "copyrightHolder": {
+              "@id": "https://aliktarraf.com/#tarraf-productions"
+            },
+            "sameAs": [
+              "https://music.apple.com/ua/album/alik-guitar-improvisation-live/6793955748?i=6793955980"
+            ]
           }
         },
         {
           "@type": "ListItem",
           "position": 19,
           "item": {
+            "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-ii-track-19",
             "@type": "MusicRecording",
-            "name": "The End"
+            "name": "The End",
+            "alternateName": "The End (LIVE)",
+            "isrcCode": "QT6FG2634849",
+            "duration": "PT4M53.32S",
+            "byArtist": [
+              {
+                "@id": "https://aliktarraf.com/#alik-tarraf"
+              },
+              {
+                "@id": "https://aliktarraf.com/#marina-tarraf"
+              }
+            ],
+            "inAlbum": {
+              "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-ii-the-fire"
+            },
+            "datePublished": "2026-08-21",
+            "publisher": {
+              "@id": "https://aliktarraf.com/#tarraf-productions"
+            },
+            "copyrightHolder": {
+              "@id": "https://aliktarraf.com/#tarraf-productions"
+            },
+            "sameAs": [
+              "https://music.apple.com/ua/album/the-end-live/6793955748?i=6793955981"
+            ]
           }
         },
         {
           "@type": "ListItem",
           "position": 20,
           "item": {
+            "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-ii-track-20",
             "@type": "MusicRecording",
-            "name": "I'm Alive Prelude"
+            "name": "I'm Alive Prelude",
+            "alternateName": "I'm Alive Prelude (LIVE)",
+            "isrcCode": "QT6FG2634850",
+            "duration": "PT3M12S",
+            "byArtist": [
+              {
+                "@id": "https://aliktarraf.com/#alik-tarraf"
+              },
+              {
+                "@id": "https://aliktarraf.com/#marina-tarraf"
+              }
+            ],
+            "inAlbum": {
+              "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-ii-the-fire"
+            },
+            "datePublished": "2026-08-21",
+            "publisher": {
+              "@id": "https://aliktarraf.com/#tarraf-productions"
+            },
+            "copyrightHolder": {
+              "@id": "https://aliktarraf.com/#tarraf-productions"
+            },
+            "sameAs": [
+              "https://music.apple.com/ua/album/im-alive-prelude-live/6793955748?i=6793955982"
+            ]
           }
         },
         {
           "@type": "ListItem",
           "position": 21,
           "item": {
+            "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-ii-track-21",
             "@type": "MusicRecording",
-            "name": "I'm Alive"
+            "name": "I'm Alive",
+            "alternateName": "I'm Alive (LIVE)",
+            "isrcCode": "QT6FG2634851",
+            "duration": "PT5M18.32S",
+            "byArtist": [
+              {
+                "@id": "https://aliktarraf.com/#alik-tarraf"
+              },
+              {
+                "@id": "https://aliktarraf.com/#marina-tarraf"
+              }
+            ],
+            "inAlbum": {
+              "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-ii-the-fire"
+            },
+            "datePublished": "2026-08-21",
+            "publisher": {
+              "@id": "https://aliktarraf.com/#tarraf-productions"
+            },
+            "copyrightHolder": {
+              "@id": "https://aliktarraf.com/#tarraf-productions"
+            },
+            "sameAs": [
+              "https://music.apple.com/ua/album/im-alive-live/6793955748?i=6793955983"
+            ]
           }
         },
         {
           "@type": "ListItem",
           "position": 22,
           "item": {
+            "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-ii-track-22",
             "@type": "MusicRecording",
-            "name": "Ignis in Me"
+            "name": "Ignis in Me",
+            "alternateName": "Ignis in Me (LIVE)",
+            "isrcCode": "QT6FG2634852",
+            "duration": "PT5M2.12S",
+            "byArtist": [
+              {
+                "@id": "https://aliktarraf.com/#alik-tarraf"
+              },
+              {
+                "@id": "https://aliktarraf.com/#marina-tarraf"
+              }
+            ],
+            "inAlbum": {
+              "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-ii-the-fire"
+            },
+            "datePublished": "2026-08-21",
+            "publisher": {
+              "@id": "https://aliktarraf.com/#tarraf-productions"
+            },
+            "copyrightHolder": {
+              "@id": "https://aliktarraf.com/#tarraf-productions"
+            },
+            "sameAs": [
+              "https://music.apple.com/ua/album/ignis-in-me-live/6793955748?i=6793955984"
+            ]
           }
         },
         {
           "@type": "ListItem",
           "position": 23,
           "item": {
+            "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-ii-track-23",
             "@type": "MusicRecording",
-            "name": "Dream of Light"
+            "name": "Dream of Light",
+            "alternateName": "Dream of Light (LIVE)",
+            "isrcCode": "QT6FG2634853",
+            "duration": "PT6M3.52S",
+            "byArtist": [
+              {
+                "@id": "https://aliktarraf.com/#alik-tarraf"
+              },
+              {
+                "@id": "https://aliktarraf.com/#marina-tarraf"
+              }
+            ],
+            "inAlbum": {
+              "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-ii-the-fire"
+            },
+            "datePublished": "2026-08-21",
+            "publisher": {
+              "@id": "https://aliktarraf.com/#tarraf-productions"
+            },
+            "copyrightHolder": {
+              "@id": "https://aliktarraf.com/#tarraf-productions"
+            },
+            "sameAs": [
+              "https://music.apple.com/ua/album/dream-of-light-live/6793955748?i=6793955985"
+            ]
           }
         }
       ]
@@ -421,152 +1546,620 @@
           "@type": "ListItem",
           "position": 1,
           "item": {
+            "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-iii-track-01",
             "@type": "MusicRecording",
-            "name": "Welcome to the TARRAF UNIVERSE"
+            "name": "Welcome to the TARRAF UNIVERSE",
+            "alternateName": "Welcome to the TARRAF UNIVERSE (LIVE)",
+            "isrcCode": "QT6FK2691061",
+            "duration": "PT1M39S",
+            "byArtist": [
+              {
+                "@id": "https://aliktarraf.com/#alik-tarraf"
+              },
+              {
+                "@id": "https://aliktarraf.com/#marina-tarraf"
+              },
+              {
+                "@id": "https://aliktarraf.com/#tarraf-epic-choir"
+              }
+            ],
+            "inAlbum": {
+              "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-iii-the-encore"
+            },
+            "datePublished": "2026-09-25",
+            "publisher": {
+              "@id": "https://aliktarraf.com/#tarraf-productions"
+            },
+            "copyrightHolder": {
+              "@id": "https://aliktarraf.com/#tarraf-productions"
+            },
+            "creativeWorkStatus": "Scheduled for release"
           }
         },
         {
           "@type": "ListItem",
           "position": 2,
           "item": {
+            "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-iii-track-02",
             "@type": "MusicRecording",
-            "name": "Бумеранг"
+            "name": "Бумеранг",
+            "alternateName": "Бумеранг (LIVE)",
+            "isrcCode": "QT6FK2691062",
+            "duration": "PT5M5S",
+            "byArtist": [
+              {
+                "@id": "https://aliktarraf.com/#alik-tarraf"
+              },
+              {
+                "@id": "https://aliktarraf.com/#marina-tarraf"
+              },
+              {
+                "@id": "https://aliktarraf.com/#tarraf-epic-choir"
+              }
+            ],
+            "inAlbum": {
+              "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-iii-the-encore"
+            },
+            "datePublished": "2026-09-25",
+            "publisher": {
+              "@id": "https://aliktarraf.com/#tarraf-productions"
+            },
+            "copyrightHolder": {
+              "@id": "https://aliktarraf.com/#tarraf-productions"
+            },
+            "creativeWorkStatus": "Scheduled for release"
           }
         },
         {
           "@type": "ListItem",
           "position": 3,
           "item": {
+            "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-iii-track-03",
             "@type": "MusicRecording",
-            "name": "STAY"
+            "name": "STAY",
+            "alternateName": "STAY (LIVE)",
+            "isrcCode": "QT6FK2691063",
+            "duration": "PT5M27S",
+            "byArtist": [
+              {
+                "@id": "https://aliktarraf.com/#alik-tarraf"
+              },
+              {
+                "@id": "https://aliktarraf.com/#marina-tarraf"
+              },
+              {
+                "@id": "https://aliktarraf.com/#tarraf-epic-choir"
+              }
+            ],
+            "inAlbum": {
+              "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-iii-the-encore"
+            },
+            "datePublished": "2026-09-25",
+            "publisher": {
+              "@id": "https://aliktarraf.com/#tarraf-productions"
+            },
+            "copyrightHolder": {
+              "@id": "https://aliktarraf.com/#tarraf-productions"
+            },
+            "creativeWorkStatus": "Scheduled for release"
           }
         },
         {
           "@type": "ListItem",
           "position": 4,
           "item": {
-            "@type": "MusicRecording",
-            "name": "Still Yours"
-          }
+            "@id": "https://aliktarraf.com/#catalog-trk-0260"
+          },
+          "name": "Still Yours"
         },
         {
           "@type": "ListItem",
           "position": 5,
           "item": {
+            "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-iii-track-05",
             "@type": "MusicRecording",
-            "name": "ТЕНИ"
+            "name": "ТЕНИ",
+            "alternateName": "ТЕНИ (LIVE)",
+            "isrcCode": "QT6FK2691064",
+            "duration": "PT3M28S",
+            "byArtist": [
+              {
+                "@id": "https://aliktarraf.com/#alik-tarraf"
+              },
+              {
+                "@id": "https://aliktarraf.com/#marina-tarraf"
+              },
+              {
+                "@id": "https://aliktarraf.com/#tarraf-epic-choir"
+              }
+            ],
+            "inAlbum": {
+              "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-iii-the-encore"
+            },
+            "datePublished": "2026-09-25",
+            "publisher": {
+              "@id": "https://aliktarraf.com/#tarraf-productions"
+            },
+            "copyrightHolder": {
+              "@id": "https://aliktarraf.com/#tarraf-productions"
+            },
+            "creativeWorkStatus": "Scheduled for release"
           }
         },
         {
           "@type": "ListItem",
           "position": 6,
           "item": {
+            "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-iii-track-06",
             "@type": "MusicRecording",
-            "name": "ASH and NEON"
+            "name": "ASH and NEON",
+            "alternateName": "ASH and NEON (LIVE)",
+            "isrcCode": "QT6FK2691065",
+            "duration": "PT6M46S",
+            "byArtist": [
+              {
+                "@id": "https://aliktarraf.com/#alik-tarraf"
+              },
+              {
+                "@id": "https://aliktarraf.com/#marina-tarraf"
+              },
+              {
+                "@id": "https://aliktarraf.com/#tarraf-epic-choir"
+              }
+            ],
+            "inAlbum": {
+              "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-iii-the-encore"
+            },
+            "datePublished": "2026-09-25",
+            "publisher": {
+              "@id": "https://aliktarraf.com/#tarraf-productions"
+            },
+            "copyrightHolder": {
+              "@id": "https://aliktarraf.com/#tarraf-productions"
+            },
+            "creativeWorkStatus": "Scheduled for release"
           }
         },
         {
           "@type": "ListItem",
           "position": 7,
           "item": {
+            "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-iii-track-07",
             "@type": "MusicRecording",
-            "name": "МОЛОДОСТЬ"
+            "name": "МОЛОДОСТЬ",
+            "alternateName": "МОЛОДОСТЬ (LIVE)",
+            "isrcCode": "QT6FK2691066",
+            "duration": "PT5M28S",
+            "byArtist": [
+              {
+                "@id": "https://aliktarraf.com/#alik-tarraf"
+              },
+              {
+                "@id": "https://aliktarraf.com/#marina-tarraf"
+              },
+              {
+                "@id": "https://aliktarraf.com/#tarraf-epic-choir"
+              }
+            ],
+            "inAlbum": {
+              "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-iii-the-encore"
+            },
+            "datePublished": "2026-09-25",
+            "publisher": {
+              "@id": "https://aliktarraf.com/#tarraf-productions"
+            },
+            "copyrightHolder": {
+              "@id": "https://aliktarraf.com/#tarraf-productions"
+            },
+            "creativeWorkStatus": "Scheduled for release"
           }
         },
         {
           "@type": "ListItem",
           "position": 8,
           "item": {
+            "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-iii-track-08",
             "@type": "MusicRecording",
-            "name": "FORGET ME"
+            "name": "FORGET ME",
+            "alternateName": "FORGET ME (LIVE)",
+            "isrcCode": "QT6FK2691067",
+            "duration": "PT5M24S",
+            "byArtist": [
+              {
+                "@id": "https://aliktarraf.com/#alik-tarraf"
+              },
+              {
+                "@id": "https://aliktarraf.com/#marina-tarraf"
+              },
+              {
+                "@id": "https://aliktarraf.com/#tarraf-epic-choir"
+              }
+            ],
+            "inAlbum": {
+              "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-iii-the-encore"
+            },
+            "datePublished": "2026-09-25",
+            "publisher": {
+              "@id": "https://aliktarraf.com/#tarraf-productions"
+            },
+            "copyrightHolder": {
+              "@id": "https://aliktarraf.com/#tarraf-productions"
+            },
+            "creativeWorkStatus": "Scheduled for release"
           }
         },
         {
           "@type": "ListItem",
           "position": 9,
           "item": {
+            "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-iii-track-09",
             "@type": "MusicRecording",
-            "name": "ПРОЩАЙ"
+            "name": "ПРОЩАЙ",
+            "alternateName": "ПРОЩАЙ (LIVE)",
+            "isrcCode": "QT6FK2691068",
+            "duration": "PT4M49S",
+            "byArtist": [
+              {
+                "@id": "https://aliktarraf.com/#alik-tarraf"
+              },
+              {
+                "@id": "https://aliktarraf.com/#marina-tarraf"
+              },
+              {
+                "@id": "https://aliktarraf.com/#tarraf-epic-choir"
+              }
+            ],
+            "inAlbum": {
+              "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-iii-the-encore"
+            },
+            "datePublished": "2026-09-25",
+            "publisher": {
+              "@id": "https://aliktarraf.com/#tarraf-productions"
+            },
+            "copyrightHolder": {
+              "@id": "https://aliktarraf.com/#tarraf-productions"
+            },
+            "creativeWorkStatus": "Scheduled for release"
           }
         },
         {
           "@type": "ListItem",
           "position": 10,
           "item": {
+            "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-iii-track-10",
             "@type": "MusicRecording",
-            "name": "OBARABO BODY RITUALS"
+            "name": "OBARABO BODY RITUALS",
+            "alternateName": "OBARABO BODY RITUALS (LIVE)",
+            "isrcCode": "QT6FK2691069",
+            "duration": "PT3M4S",
+            "byArtist": [
+              {
+                "@id": "https://aliktarraf.com/#alik-tarraf"
+              },
+              {
+                "@id": "https://aliktarraf.com/#marina-tarraf"
+              },
+              {
+                "@id": "https://aliktarraf.com/#tarraf-epic-choir"
+              }
+            ],
+            "inAlbum": {
+              "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-iii-the-encore"
+            },
+            "datePublished": "2026-09-25",
+            "publisher": {
+              "@id": "https://aliktarraf.com/#tarraf-productions"
+            },
+            "copyrightHolder": {
+              "@id": "https://aliktarraf.com/#tarraf-productions"
+            },
+            "creativeWorkStatus": "Scheduled for release"
           }
         },
         {
           "@type": "ListItem",
           "position": 11,
           "item": {
+            "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-iii-track-11",
             "@type": "MusicRecording",
-            "name": "Сила Любви"
+            "name": "Сила Любви",
+            "alternateName": "Сила Любви (LIVE)",
+            "isrcCode": "QT6FK2691070",
+            "duration": "PT5M35S",
+            "byArtist": [
+              {
+                "@id": "https://aliktarraf.com/#alik-tarraf"
+              },
+              {
+                "@id": "https://aliktarraf.com/#marina-tarraf"
+              },
+              {
+                "@id": "https://aliktarraf.com/#tarraf-epic-choir"
+              }
+            ],
+            "inAlbum": {
+              "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-iii-the-encore"
+            },
+            "datePublished": "2026-09-25",
+            "publisher": {
+              "@id": "https://aliktarraf.com/#tarraf-productions"
+            },
+            "copyrightHolder": {
+              "@id": "https://aliktarraf.com/#tarraf-productions"
+            },
+            "creativeWorkStatus": "Scheduled for release"
           }
         },
         {
           "@type": "ListItem",
           "position": 12,
           "item": {
+            "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-iii-track-12",
             "@type": "MusicRecording",
-            "name": "Evolution is Alive"
+            "name": "Evolution is Alive",
+            "alternateName": "Evolution is Alive (LIVE)",
+            "isrcCode": "QT6FK2691071",
+            "duration": "PT1M7S",
+            "byArtist": [
+              {
+                "@id": "https://aliktarraf.com/#alik-tarraf"
+              },
+              {
+                "@id": "https://aliktarraf.com/#marina-tarraf"
+              },
+              {
+                "@id": "https://aliktarraf.com/#tarraf-epic-choir"
+              }
+            ],
+            "inAlbum": {
+              "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-iii-the-encore"
+            },
+            "datePublished": "2026-09-25",
+            "publisher": {
+              "@id": "https://aliktarraf.com/#tarraf-productions"
+            },
+            "copyrightHolder": {
+              "@id": "https://aliktarraf.com/#tarraf-productions"
+            },
+            "creativeWorkStatus": "Scheduled for release"
           }
         },
         {
           "@type": "ListItem",
           "position": 13,
           "item": {
+            "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-iii-track-13",
             "@type": "MusicRecording",
-            "name": "HELAH"
+            "name": "HELAH",
+            "alternateName": "HELAH (LIVE)",
+            "isrcCode": "QT6FK2691072",
+            "duration": "PT4M46S",
+            "byArtist": [
+              {
+                "@id": "https://aliktarraf.com/#alik-tarraf"
+              },
+              {
+                "@id": "https://aliktarraf.com/#marina-tarraf"
+              },
+              {
+                "@id": "https://aliktarraf.com/#tarraf-epic-choir"
+              }
+            ],
+            "inAlbum": {
+              "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-iii-the-encore"
+            },
+            "datePublished": "2026-09-25",
+            "publisher": {
+              "@id": "https://aliktarraf.com/#tarraf-productions"
+            },
+            "copyrightHolder": {
+              "@id": "https://aliktarraf.com/#tarraf-productions"
+            },
+            "creativeWorkStatus": "Scheduled for release"
           }
         },
         {
           "@type": "ListItem",
           "position": 14,
           "item": {
+            "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-iii-track-14",
             "@type": "MusicRecording",
-            "name": "Пока мы живы"
+            "name": "Пока мы живы",
+            "alternateName": "Пока мы живы (LIVE)",
+            "isrcCode": "QT6FK2691073",
+            "duration": "PT4M21S",
+            "byArtist": [
+              {
+                "@id": "https://aliktarraf.com/#alik-tarraf"
+              },
+              {
+                "@id": "https://aliktarraf.com/#marina-tarraf"
+              },
+              {
+                "@id": "https://aliktarraf.com/#tarraf-epic-choir"
+              }
+            ],
+            "inAlbum": {
+              "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-iii-the-encore"
+            },
+            "datePublished": "2026-09-25",
+            "publisher": {
+              "@id": "https://aliktarraf.com/#tarraf-productions"
+            },
+            "copyrightHolder": {
+              "@id": "https://aliktarraf.com/#tarraf-productions"
+            },
+            "creativeWorkStatus": "Scheduled for release"
           }
         },
         {
           "@type": "ListItem",
           "position": 15,
           "item": {
+            "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-iii-track-15",
             "@type": "MusicRecording",
-            "name": "Aureum Orchestra"
+            "name": "Aureum Orchestra",
+            "alternateName": "Aureum Orchestra (LIVE)",
+            "isrcCode": "QT6FK2691074",
+            "duration": "PT3M23S",
+            "byArtist": [
+              {
+                "@id": "https://aliktarraf.com/#alik-tarraf"
+              },
+              {
+                "@id": "https://aliktarraf.com/#marina-tarraf"
+              },
+              {
+                "@id": "https://aliktarraf.com/#tarraf-epic-choir"
+              }
+            ],
+            "inAlbum": {
+              "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-iii-the-encore"
+            },
+            "datePublished": "2026-09-25",
+            "publisher": {
+              "@id": "https://aliktarraf.com/#tarraf-productions"
+            },
+            "copyrightHolder": {
+              "@id": "https://aliktarraf.com/#tarraf-productions"
+            },
+            "creativeWorkStatus": "Scheduled for release"
           }
         },
         {
           "@type": "ListItem",
           "position": 16,
           "item": {
+            "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-iii-track-16",
             "@type": "MusicRecording",
-            "name": "НАЗАР"
+            "name": "НАЗАР",
+            "alternateName": "НАЗАР (LIVE)",
+            "isrcCode": "QT6FK2691075",
+            "duration": "PT5M3S",
+            "byArtist": [
+              {
+                "@id": "https://aliktarraf.com/#alik-tarraf"
+              },
+              {
+                "@id": "https://aliktarraf.com/#marina-tarraf"
+              },
+              {
+                "@id": "https://aliktarraf.com/#tarraf-epic-choir"
+              }
+            ],
+            "inAlbum": {
+              "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-iii-the-encore"
+            },
+            "datePublished": "2026-09-25",
+            "publisher": {
+              "@id": "https://aliktarraf.com/#tarraf-productions"
+            },
+            "copyrightHolder": {
+              "@id": "https://aliktarraf.com/#tarraf-productions"
+            },
+            "creativeWorkStatus": "Scheduled for release"
           }
         },
         {
           "@type": "ListItem",
           "position": 17,
           "item": {
+            "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-iii-track-17",
             "@type": "MusicRecording",
-            "name": "Запретный Вкус"
+            "name": "Запретный Вкус",
+            "alternateName": "Запретный Вкус (LIVE)",
+            "isrcCode": "QT6FK2691076",
+            "duration": "PT3M51S",
+            "byArtist": [
+              {
+                "@id": "https://aliktarraf.com/#alik-tarraf"
+              },
+              {
+                "@id": "https://aliktarraf.com/#marina-tarraf"
+              },
+              {
+                "@id": "https://aliktarraf.com/#tarraf-epic-choir"
+              }
+            ],
+            "inAlbum": {
+              "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-iii-the-encore"
+            },
+            "datePublished": "2026-09-25",
+            "publisher": {
+              "@id": "https://aliktarraf.com/#tarraf-productions"
+            },
+            "copyrightHolder": {
+              "@id": "https://aliktarraf.com/#tarraf-productions"
+            },
+            "creativeWorkStatus": "Scheduled for release"
           }
         },
         {
           "@type": "ListItem",
           "position": 18,
           "item": {
+            "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-iii-track-18",
             "@type": "MusicRecording",
-            "name": "New World"
+            "name": "New World",
+            "alternateName": "New World (LIVE)",
+            "isrcCode": "QT6FK2691077",
+            "duration": "PT5M36S",
+            "byArtist": [
+              {
+                "@id": "https://aliktarraf.com/#alik-tarraf"
+              },
+              {
+                "@id": "https://aliktarraf.com/#marina-tarraf"
+              },
+              {
+                "@id": "https://aliktarraf.com/#tarraf-epic-choir"
+              }
+            ],
+            "inAlbum": {
+              "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-iii-the-encore"
+            },
+            "datePublished": "2026-09-25",
+            "publisher": {
+              "@id": "https://aliktarraf.com/#tarraf-productions"
+            },
+            "copyrightHolder": {
+              "@id": "https://aliktarraf.com/#tarraf-productions"
+            },
+            "creativeWorkStatus": "Scheduled for release"
           }
         },
         {
           "@type": "ListItem",
           "position": 19,
           "item": {
+            "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-iii-track-19",
             "@type": "MusicRecording",
-            "name": "Thank You, Fujairah"
+            "name": "Thank You, Fujairah",
+            "alternateName": "Thank You, Fujairah (LIVE)",
+            "isrcCode": "QT6FK2691078",
+            "duration": "PT3M35S",
+            "byArtist": [
+              {
+                "@id": "https://aliktarraf.com/#alik-tarraf"
+              },
+              {
+                "@id": "https://aliktarraf.com/#marina-tarraf"
+              },
+              {
+                "@id": "https://aliktarraf.com/#tarraf-epic-choir"
+              }
+            ],
+            "inAlbum": {
+              "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-iii-the-encore"
+            },
+            "datePublished": "2026-09-25",
+            "publisher": {
+              "@id": "https://aliktarraf.com/#tarraf-productions"
+            },
+            "copyrightHolder": {
+              "@id": "https://aliktarraf.com/#tarraf-productions"
+            },
+            "creativeWorkStatus": "Scheduled for release"
           }
         }
       ]

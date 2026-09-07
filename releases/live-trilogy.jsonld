@@ -88,7 +88,7 @@
         "@id": "https://aliktarraf.com/#tarraf-epic-choir"
       },
       "numTracks": 22,
-      "duration": "PT1H39M46S",
+      "duration": "PT1H39M56.72S",
       "datePublished": "2026-07-15",
       "position": 1,
       "isPartOf": {
@@ -206,7 +206,7 @@
         "@id": "https://aliktarraf.com/#tarraf-epic-choir"
       },
       "numTracks": 23,
-      "duration": "PT1H40M22S",
+      "duration": "PT1H40M21.019S",
       "datePublished": "2026-08-21",
       "position": 2,
       "isPartOf": {
@@ -266,6 +266,9 @@
           "value": "56fd8ab3-a82b-400b-9b5a-96d99ac0b010",
           "url": "https://musicbrainz.org/release/56fd8ab3-a82b-400b-9b5a-96d99ac0b010"
         }
+      ],
+      "sameAs": [
+        "https://music.apple.com/ua/album/tarraf-productions-live-vol-ii-the-fire/6793955748"
       ]
     },
     {
@@ -323,7 +326,7 @@
         "Production and recording: TARRAF PRODUCTIONS"
       ],
       "numTracks": 19,
-      "duration": "PT1H23M51S",
+      "duration": "PT1H23M50.8S",
       "datePublished": "2026-09-25",
       "position": 3,
       "isPartOf": {

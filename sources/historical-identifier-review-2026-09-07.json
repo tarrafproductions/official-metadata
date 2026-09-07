@@ -1,0 +1,143 @@
+{
+  "reviewed_on": "2026-09-07",
+  "source_file": "Треки_ISRC_UPC_с_Live_Vol_III.xlsx",
+  "scope": "Earlier owner-supplied register. These pairs are absent from the 275-product canonical singles catalog and live trilogy. They are retained for reconciliation, not automatically treated as current releases or submitted to any registry. Distinct ISRCs must not be merged by title; a reused ISRC can belong to multiple UPCs.",
+  "items": [
+    {
+      "isrc": "QZZ7T2562881",
+      "upc": "199736344417",
+      "observed_titles": [
+        "AKFA EMPIRE"
+      ],
+      "status": "Historical identifier pair; current release status and date unconfirmed"
+    },
+    {
+      "isrc": "QZZ7T2511566",
+      "upc": "199736618259",
+      "observed_titles": [
+        "APOCALYPSE"
+      ],
+      "status": "Historical identifier pair; current release status and date unconfirmed"
+    },
+    {
+      "isrc": "QZTAV2559217",
+      "upc": "199748911409",
+      "observed_titles": [
+        "Anima Obscura (Dark Ritual Song)"
+      ],
+      "status": "Historical identifier pair; current release status and date unconfirmed"
+    },
+    {
+      "isrc": "QZTAV2559939",
+      "upc": "199748220457",
+      "observed_titles": [
+        "EAGLES NOT CROWS"
+      ],
+      "status": "Historical identifier pair; current release status and date unconfirmed"
+    },
+    {
+      "isrc": "QZTAV2558893",
+      "upc": "199747274130",
+      "observed_titles": [
+        "FORGET ME"
+      ],
+      "status": "Historical identifier pair; current release status and date unconfirmed"
+    },
+    {
+      "isrc": "QT3EZ2529962",
+      "upc": "199741696594",
+      "observed_titles": [
+        "HELA"
+      ],
+      "status": "Historical identifier pair; current release status and date unconfirmed"
+    },
+    {
+      "isrc": "QZTAV2606603",
+      "upc": "821473802539",
+      "observed_titles": [
+        "I'M HUNGRY"
+      ],
+      "status": "Historical identifier pair; current release status and date unconfirmed"
+    },
+    {
+      "isrc": "QZTAV2607666",
+      "upc": "821470173205",
+      "observed_titles": [
+        "King's move"
+      ],
+      "status": "Historical identifier pair; current release status and date unconfirmed"
+    },
+    {
+      "isrc": "QZTAV2561120",
+      "upc": "199750589269",
+      "observed_titles": [
+        "Meaning of Life"
+      ],
+      "status": "Historical identifier pair; current release status and date unconfirmed"
+    },
+    {
+      "isrc": "QZTAV2600007",
+      "upc": "199936949993",
+      "observed_titles": [
+        "New World"
+      ],
+      "status": "Historical identifier pair; current release status and date unconfirmed"
+    },
+    {
+      "isrc": "QZTAV2602639",
+      "upc": "821550779235",
+      "observed_titles": [
+        "STAY"
+      ],
+      "status": "Historical identifier pair; current release status and date unconfirmed"
+    },
+    {
+      "isrc": "QZTAV2610228",
+      "upc": "821440084081",
+      "observed_titles": [
+        "ЗА ЧТО"
+      ],
+      "status": "Historical identifier pair; current release status and date unconfirmed"
+    },
+    {
+      "isrc": "QZTAV2602403",
+      "upc": "821451730533",
+      "observed_titles": [
+        "НИКТО КРОМЕ НАС"
+      ],
+      "status": "Historical identifier pair; current release status and date unconfirmed"
+    },
+    {
+      "isrc": "QZTAV2607719",
+      "upc": "821470097952",
+      "observed_titles": [
+        "ЭТО МЕЛОЧИ"
+      ],
+      "status": "Historical identifier pair; current release status and date unconfirmed"
+    },
+    {
+      "isrc": "QZTAV2600932",
+      "upc": "199935701219",
+      "observed_titles": [
+        "Я Демон Ты Ангел"
+      ],
+      "status": "Historical identifier pair; current release status and date unconfirmed"
+    },
+    {
+      "isrc": "QZTAV2612009",
+      "upc": "821406140608",
+      "observed_titles": [
+        "Я слышу тебя"
+      ],
+      "status": "Historical identifier pair; current release status and date unconfirmed"
+    },
+    {
+      "isrc": "QT3F42531253",
+      "upc": "199741715936",
+      "observed_titles": [
+        "هيلا"
+      ],
+      "status": "Historical identifier pair; current release status and date unconfirmed"
+    }
+  ]
+}
