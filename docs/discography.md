@@ -1,18 +1,22 @@
 # TARRAF PRODUCTIONS — Official Discography Register
 
-This document is the human-readable index of the verified partial discography published in this repository. The machine-readable source is [`releases/studio-singles.jsonld`](../releases/studio-singles.jsonld).
+This document is the human-readable index of the canonical catalog of the 275 observed standalone single products published in this repository. The machine-readable source is [`releases/studio-singles.jsonld`](../releases/studio-singles.jsonld).
 
 ## Scope and status
 
 - 275 reconstructed digital single release products published as canonical JSON-LD.
-- 275 distinct studio recording rows with valid ISRC identifiers.
+- 275 distinct single recording rows with valid ISRC identifiers and durations.
 - 275 single releases with valid UPC identifiers.
 - 59 additional single products reconciled from first-party DistroKid dashboard detail records.
-- 275 studio-single products observed in total.
+- 275 standalone single products observed in total.
 
-This is a **verified canonical register of the 275 studio-single products observed in the supplied first-party DistroKid catalog evidence**. The 59 products previously awaiting identifiers are documented in [`sources/distrokid-dashboard-observations-2026-09-04.json`](../sources/distrokid-dashboard-observations-2026-09-04.json) and are now reconciled into the JSON-LD release graph using their DistroKid release date, UPC, ISRC, duration, and explicit-content status. Missing or unsupported values continue to be omitted rather than inferred.
+This is a **verified canonical register of the 275 standalone single products observed in the supplied first-party DistroKid catalog evidence**. The 59 products previously awaiting identifiers are documented in [`sources/distrokid-dashboard-observations-2026-09-04.json`](../sources/distrokid-dashboard-observations-2026-09-04.json) and are now reconciled into the JSON-LD release graph using their DistroKid release date, UPC, ISRC, duration, and explicit-content status. Missing or unsupported values continue to be omitted rather than inferred.
 
-The live albums and their 64 recordings are maintained separately in [`releases/live-trilogy.jsonld`](../releases/live-trilogy.jsonld) and [`releases/live-tracklists.jsonld`](../releases/live-tracklists.jsonld).
+The live albums and their 64 ordered track positions are maintained in [`releases/live-trilogy.jsonld`](../releases/live-trilogy.jsonld) and [`releases/live-tracklists.jsonld`](../releases/live-tracklists.jsonld).
+
+The [combined CSV](../exports/catalog.csv) and [JSON](../exports/catalog.json) exports join the singles and live trilogy by recording and release identity. The catalog has 338 unique ISRCs across 339 recording appearances: `Still Yours (LIVE)` appears on both its single and Vol. III. The [September 7 audit](catalog-audit-2026-09-07.md) documents the added durations, platform title aliases and outstanding source discrepancies.
+
+The existing `studio-singles.jsonld` filename is retained for integrations; its contents include studio, remix and live singles.
 
 ## Cover artwork
 
@@ -20,7 +24,7 @@ The repository also preserves all 279 supplied cover-art files as web-ready WebP
 
 GitHub provides version history and public provenance; it does not replace registrations with performing-rights organizations, mechanical-rights organizations, SoundExchange, distributors, ISRC/UPC agencies, or copyright authorities.
 
-## Reconstructed studio singles
+## Canonical standalone singles
 
 | Catalog ID | Date | Release | Credited artist(s) | UPC | ISRC | Verification |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -302,7 +306,7 @@ GitHub provides version history and public provenance; it does not replace regis
 
 ## Provenance
 
-Derived from the TARRAF PRODUCTIONS master discography and rights workbook supplied for this repository update. Source coverage was audited on 2026-07-25. Seven previously missing UPC values, the release date for `APOCALYPSES`, the joint primary-artist credits for `THE END` and `Epic Evolution Music (Live Studio Session)`, the exact version-title punctuation for the latter release, and the explicit-content designation for `Не продавай себя` were verified directly against first-party DistroKid dashboard records on 2026-09-04. A complete dashboard overview capture from `My Heart Says Goodbye` through `SWINGS` was reviewed the same day; after reconciliation with the 216 previously canonical singles it confirmed 59 additional distinct single products. Their first-party detail records were subsequently transcribed and validated, bringing the canonical studio-single register to 275 products. The Arabic title `حبك مو لعبة` was corrected from the detail record and remains distinct from `أيام - Of Fire`. Only public catalog facts needed for identification are published here; private source paths, correspondence, and unsupported fields are excluded.
+Derived from the TARRAF PRODUCTIONS master discography and rights workbook supplied for this repository update. Source coverage was audited on 2026-07-25. Seven previously missing UPC values, the release date for `APOCALYPSES`, the joint primary-artist credits for `THE END` and `Epic Evolution Music (Live Studio Session)`, the exact version-title punctuation for the latter release, and the explicit-content designation for `Не продавай себя` were verified directly against first-party DistroKid dashboard records on 2026-09-04. A complete dashboard overview capture from `My Heart Says Goodbye` through `SWINGS` was reviewed the same day; after reconciliation with the 216 previously canonical singles it confirmed 59 additional distinct single products. Their first-party detail records were subsequently transcribed and validated, bringing the canonical singles register to 275 products. The Arabic title `حبك مو لعبة` was corrected from the detail record and remains distinct from `أيام - Of Fire`. Only public catalog facts needed for identification are published here; private source paths, correspondence, and unsupported fields are excluded.
 
 ---
 

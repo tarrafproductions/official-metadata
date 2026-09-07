@@ -12,6 +12,8 @@ from pathlib import Path
 from typing import Any, Iterator
 from urllib.parse import unquote, urlparse
 
+from export_catalog import as_list, duration_ms
+
 
 SCHEMA_CONTEXT = "https://schema.org"
 RAW_CONTENT_HOST = "raw.githubusercontent.com"
@@ -291,6 +293,75 @@ def validate_studio_singles(document: Any) -> list[str]:
     return errors
 
 
+def validate_recordings_and_tracklists(nodes: dict[str, dict[str, Any]]) -> list[str]:
+    """Require complete identifiers/durations and preserve one identity per master."""
+    errors: list[str] = []
+    isrc_owners: dict[str, str] = {}
+    durations: dict[str, int] = {}
+    for identifier, node in nodes.items():
+        if node.get('@type') != 'MusicRecording':
+            continue
+        isrc = node.get('isrcCode')
+        if not isinstance(isrc, str) or not ISRC_PATTERN.fullmatch(isrc):
+            errors.append(f'{identifier}: recording requires a valid ISRC')
+        elif isrc in isrc_owners and isrc_owners[isrc] != identifier:
+            errors.append(f'{identifier}: ISRC {isrc} already defines {isrc_owners[isrc]}; reuse its @id')
+        else:
+            isrc_owners[isrc] = identifier
+        if not node.get('name') or not node.get('byArtist'):
+            errors.append(f'{identifier}: recording requires name and byArtist')
+        try:
+            durations[identifier] = duration_ms(node.get('duration'))
+        except ValueError as error:
+            errors.append(f'{identifier}: {error}')
+
+    upc_owners: dict[str, str] = {}
+    for identifier, node in nodes.items():
+        if node.get('@type') == 'MusicRelease':
+            upcs = property_values(node, 'UPC')
+            if len(upcs) != 1 or not is_valid_gtin(upcs[0]):
+                errors.append(f'{identifier}: release requires a valid UPC check digit')
+            elif upcs[0] in upc_owners:
+                errors.append(f'{identifier}: duplicate release UPC {upcs[0]}')
+            else:
+                upc_owners[upcs[0]] = identifier
+        if node.get('@type') != 'MusicAlbum':
+            continue
+        track_node = nodes.get(node.get('track', {}).get('@id'), {})
+        entries = track_node.get('itemListElement') if track_node.get('@type') == 'ItemList' else [{'position': 1, 'item': node.get('track', {})}]
+        if not isinstance(entries, list) or not entries:
+            errors.append(f'{identifier}: album requires a non-empty track list')
+            continue
+        if [e.get('position') for e in entries] != list(range(1, len(entries) + 1)):
+            errors.append(f'{identifier}: track positions must be consecutive and ordered')
+        if track_node.get('@type') == 'ItemList':
+            if track_node.get('numberOfItems') != len(entries) or node.get('numTracks') != len(entries):
+                errors.append(f'{identifier}: album/track-list counts do not match')
+            if track_node.get('isPartOf', {}).get('@id') != identifier:
+                errors.append(f'{identifier}: track list points to a different album')
+        seen_tracks: set[str] = set()
+        total = 0
+        for entry in entries:
+            recording_id = entry.get('item', {}).get('@id')
+            recording = nodes.get(recording_id, {})
+            if recording.get('@type') != 'MusicRecording':
+                errors.append(f'{identifier}: track item must resolve to a MusicRecording')
+                continue
+            if recording_id in seen_tracks:
+                errors.append(f'{identifier}: duplicate recording in ordered track list')
+            seen_tracks.add(recording_id)
+            if identifier not in {a.get('@id') for a in as_list(recording.get('inAlbum'))}:
+                errors.append(f'{recording_id}: missing reciprocal inAlbum relation to {identifier}')
+            total += durations.get(recording_id, 0)
+        if identifier in LIVE_ALBUM_IDS:
+            try:
+                if duration_ms(node.get('duration')) != total:
+                    errors.append(f'{identifier}: album duration must equal the sum of track durations')
+            except ValueError as error:
+                errors.append(f'{identifier}: {error}')
+    return errors
+
+
 def validate_repository(root: Path) -> list[str]:
     errors: list[str] = []
     documents: dict[Path, Any] = {}
@@ -405,6 +476,7 @@ def validate_repository(root: Path) -> list[str]:
         errors.append("catalog.jsonld contains duplicate dataset distributions")
 
     errors.extend(validate_live_production_graph(definition_nodes))
+    errors.extend(validate_recordings_and_tracklists(definition_nodes))
     studio_document = documents.get(STUDIO_SINGLES_PATH)
     if studio_document is None:
         errors.append(f"Missing studio singles dataset: {STUDIO_SINGLES_PATH}")

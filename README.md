@@ -2,7 +2,7 @@
 
 [![Validate JSON-LD](https://github.com/tarrafproductions/official-metadata/actions/workflows/validate-jsonld.yml/badge.svg?branch=main&event=push)](https://github.com/tarrafproductions/official-metadata/actions/workflows/validate-jsonld.yml)
 
-**Current version:** [v1.0.0 — TARRAF PRODUCTIONS Official Metadata](https://github.com/tarrafproductions/official-metadata/releases/tag/v1.0.0)
+**Latest tagged release:** [v1.0.0 — TARRAF PRODUCTIONS Official Metadata](https://github.com/tarrafproductions/official-metadata/releases/tag/v1.0.0)
 
 Official, version-controlled identity, project, and catalog metadata for **TARRAF PRODUCTIONS®** and its creative universe.
 
@@ -33,23 +33,29 @@ The repository is a source of truth and a version history. Publishing JSON-LD he
 - [`entities/creative-universe.jsonld`](entities/creative-universe.jsonld) — connected JSON-LD graph for Epic Evolution Music, TARRAF LIVE SHOW, TARRAF PRODUCTIONS LIVE, TARRAF EPIC CHOIR, and OBARABO.
 - [`releases/live-trilogy.jsonld`](releases/live-trilogy.jsonld) — linked JSON-LD graph for the TARRAF PRODUCTIONS LIVE recording event, its three albums, and their digital releases.
 - [`releases/live-tracklists.jsonld`](releases/live-tracklists.jsonld) — official ordered track lists for all three TARRAF PRODUCTIONS LIVE volumes (64 recordings in total).
-- [`releases/studio-singles.jsonld`](releases/studio-singles.jsonld) — verified canonical register of 275 digital single releases and their 275 studio recordings, with stable internal identifiers and ISRC values.
+- [`releases/studio-singles.jsonld`](releases/studio-singles.jsonld) — verified canonical register of 275 digital single releases and their 275 recordings, including studio, remix and live singles, with stable internal identifiers and ISRC values.
 - [`sources/distrokid-dashboard-observations-2026-09-04.json`](sources/distrokid-dashboard-observations-2026-09-04.json) — first-party DistroKid evidence and reconciled identifiers for the 59 releases added as SNG-217 through SNG-275.
 - [`docs/discography.md`](docs/discography.md) — human-readable discography register with documented coverage and source provenance.
 - [`docs/live-production-credits.md`](docs/live-production-credits.md) — verified production-credit matrix for the Fujairah recording event, live trilogy, and 64 recordings.
 - [`docs/website-integration.md`](docs/website-integration.md) — implementation contract for multilingual Vite/React pages, pre-rendering, canonical URLs, `hreflang`, and JSON-LD.
 - [`assets/covers/manifest.json`](assets/covers/manifest.json) — indexed archive of all 279 supplied cover-art files, with web-ready derivatives and integrity checksums for website integration.
 
-The first-party DistroKid catalog evidence supplied on 2026-09-04 confirms 275 studio-single products. The canonical JSON-LD register now covers all 275 observed products; the 59 formerly pending items were reconciled from verified release dates, UPCs, ISRCs, durations, and explicit-content statuses. Missing values are never inferred.
+The first-party DistroKid catalog evidence supplied on 2026-09-04 confirms 275 standalone single products. The canonical JSON-LD register now covers all 275 observed products; the 59 formerly pending items were reconciled from verified release dates, UPCs, ISRCs, durations, and explicit-content statuses. Missing values are never inferred.
 
 The artwork archive contains 279 supplied files. It preserves original filenames and source order, but does not guess release associations where the supplied filename does not identify the release.
+
+## Unified catalog export
+
+The [CSV](exports/catalog.csv) and [JSON](exports/catalog.json) exports contain 339 recording appearances across 278 release UPCs, representing 338 distinct ISRCs. All 275 single recordings and all 64 live track positions have durations. `Still Yours (LIVE)` reuses one recording identity across its single and Vol. III album appearance.
+
+See the [export format](exports/README.md) and [September 7 metadata audit](docs/catalog-audit-2026-09-07.md) for evidence, source differences and 17 historical identifier pairs awaiting reconciliation. The exports provide catalog data for recipient-specific mapping; they do not assert an external registration or rights claim.
 
 ## Validation
 
 Every JSON-LD or validator change is checked automatically on pull requests and
 matching pushes. Validation covers UTF-8 JSON syntax, Schema.org context,
 graph-node structure, unique entity definitions, internal `@id` references,
-and catalog coverage of every published dataset.
+catalog coverage of every published dataset, complete recording identifiers and durations, UPC check digits, live track ordering and totals, and exact agreement between the graph and generated exports.
 
 ## Data principles
 

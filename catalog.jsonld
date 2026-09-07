@@ -3,7 +3,7 @@
   "@type": "DataCatalog",
   "@id": "https://github.com/tarrafproductions/official-metadata#catalog",
   "name": "TARRAF PRODUCTIONS Official Metadata Catalog",
-  "description": "Machine-readable catalog of official identity, creative-universe, event, album, release, ordered track-list, and verified partial studio-discography metadata for TARRAF PRODUCTIONS.",
+  "description": "Machine-readable catalog of official identity, creative-universe, event, album, release and recording metadata for TARRAF PRODUCTIONS, covering the 275 observed standalone single products and 64 track positions across the live trilogy.",
   "url": "https://github.com/tarrafproductions/official-metadata",
   "creator": {
     "@id": "https://aliktarraf.com/#tarraf-productions"
@@ -105,7 +105,7 @@
       "@type": "Dataset",
       "@id": "https://github.com/tarrafproductions/official-metadata#live-tracklists",
       "name": "TARRAF PRODUCTIONS LIVE Official Track Lists",
-      "description": "Official ordered track lists for all three volumes of TARRAF PRODUCTIONS LIVE.",
+      "description": "64 ordered track positions with ISRC and duration across three live albums, reusing the existing Still Yours (LIVE) recording identity for its album appearance.",
       "about": [
         {
           "@id": "https://aliktarraf.com/#tarraf-productions-live-vol-i-the-opening"
@@ -121,14 +121,15 @@
         "@type": "DataDownload",
         "encodingFormat": "application/ld+json",
         "contentUrl": "https://raw.githubusercontent.com/tarrafproductions/official-metadata/main/releases/live-tracklists.jsonld"
-      }
+      },
+      "dateModified": "2026-09-07"
     },
     {
       "@type": "Dataset",
       "@id": "https://github.com/tarrafproductions/official-metadata#studio-singles",
-      "name": "TARRAF PRODUCTIONS Verified Studio Singles Register",
-      "description": "Verified canonical register of 275 digital single releases and their 275 studio recordings, reconciled from first-party catalog evidence.",
-      "dateModified": "2026-09-04",
+      "name": "TARRAF PRODUCTIONS Verified Singles Register",
+      "description": "Canonical register of 275 observed digital single releases and recordings, including studio, remix and live singles. All recordings have ISRC and duration; all products have UPC and release date.",
+      "dateModified": "2026-09-07",
       "about": [
         {
           "@id": "https://aliktarraf.com/#tarraf-productions"
@@ -141,11 +142,9 @@
         }
       ],
       "variableMeasured": [
-        "275 single release products",
-        "275 studio recordings with ISRC",
-        "275 releases with verified UPC",
-        "275 releases with verified release dates",
-        "0 unresolved observed single release products"
+        "275 observed single release products",
+        "275 recordings with ISRC and duration",
+        "275 releases with verified UPC and release dates"
       ],
       "distribution": {
         "@type": "DataDownload",
@@ -153,5 +152,6 @@
         "contentUrl": "https://raw.githubusercontent.com/tarrafproductions/official-metadata/main/releases/studio-singles.jsonld"
       }
     }
-  ]
+  ],
+  "dateModified": "2026-09-07"
 }

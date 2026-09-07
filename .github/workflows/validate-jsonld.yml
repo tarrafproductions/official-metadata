@@ -4,12 +4,16 @@ on:
   push:
     paths:
       - "**/*.jsonld"
-      - ".github/scripts/validate_jsonld.py"
+      - ".github/scripts/*.py"
+      - "exports/**"
+      - "sources/**"
       - ".github/workflows/validate-jsonld.yml"
   pull_request:
     paths:
       - "**/*.jsonld"
-      - ".github/scripts/validate_jsonld.py"
+      - ".github/scripts/*.py"
+      - "exports/**"
+      - "sources/**"
       - ".github/workflows/validate-jsonld.yml"
   workflow_dispatch:
 
@@ -28,3 +32,9 @@ jobs:
 
       - name: Validate JSON-LD
         run: python3 .github/scripts/validate_jsonld.py
+
+      - name: Check reproducible catalog exports
+        run: python3 .github/scripts/export_catalog.py --check
+
+      - name: Check catalog integrity regressions
+        run: python3 -m unittest discover -s .github/scripts -p 'test_*.py'

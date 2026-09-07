@@ -1,0 +1,4917 @@
+{
+  "source": "Apple Music public catalog metadata",
+  "retrieved_on": "2026-09-07",
+  "matching_rule": "Exact ISRC for existing recordings; exact album identity, track position and normalized title for new live recordings. Platform artist credits and dates do not automatically replace the owner-supplied catalog.",
+  "songs": [
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1841049267"
+      ],
+      "album_title": "STOP (НАРКОТИК) - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 280520,
+      "id": "1841049268",
+      "isrc": "QT3EX2572244",
+      "release_date": "2025-09-19",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "STOP (НАРКОТИК)",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/stop-%D0%BD%D0%B0%D1%80%D0%BA%D0%BE%D1%82%D0%B8%D0%BA/1841049267?i=1841049268"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [],
+      "album_title": "يا روح لا تبكي - We are guests (feat. Marina Tarraf) [TARRAF LIVE SHOW] - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [],
+      "disc_number": 1,
+      "duration_ms": 385880,
+      "id": "6773153964",
+      "isrc": "QT3EX2647792",
+      "release_date": "2026-06-01",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "يا روح لا تبكي - We are guests (feat. Marina Tarraf) [TARRAF LIVE SHOW]",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/%D9%8A%D8%A7-%D8%B1%D9%88%D8%AD-%D9%84%D8%A7-%D8%AA%D8%A8%D9%83%D9%8A-we-are-guests-feat-marina-tarraf-tarraf/6773153963?i=6773153964"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [],
+      "album_title": "New World - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [],
+      "disc_number": 1,
+      "duration_ms": 347520,
+      "id": "1841198095",
+      "isrc": "QT3EY2513941",
+      "release_date": "2025-09-19",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "New World",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/new-world/1841198094?i=1841198095"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1841263585"
+      ],
+      "album_title": "ARRIBA Y ABAJO - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 255160,
+      "id": "1841263586",
+      "isrc": "QT3EY2542532",
+      "release_date": "2025-09-20",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "ARRIBA Y ABAJO",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/arriba-y-abajo/1841263585?i=1841263586"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1841208206"
+      ],
+      "album_title": "Businka (БУСИНКА) - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 262720,
+      "id": "1841208207",
+      "isrc": "QT3EY2549935",
+      "release_date": "2025-09-20",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "Businka (БУСИНКА)",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/businka-%D0%B1%D1%83%D1%81%D0%B8%D0%BD%D0%BA%D0%B0/1841208206?i=1841208207"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1841545554"
+      ],
+      "album_title": "Youth (МОЛОДОСТЬ) - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 341160,
+      "id": "1841545555",
+      "isrc": "QT3EZ2508067",
+      "release_date": "2025-09-21",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "Youth (МОЛОДОСТЬ)",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/youth-%D0%BC%D0%BE%D0%BB%D0%BE%D0%B4%D0%BE%D1%81%D1%82%D1%8C/1841545554?i=1841545555"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1841826333"
+      ],
+      "album_title": "IBIZA FESTIVAL - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 214000,
+      "id": "1841826334",
+      "isrc": "QT3EZ2511468",
+      "release_date": "2025-09-21",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "IBIZA FESTIVAL",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/ibiza-festival/1841826333?i=1841826334"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1841643172"
+      ],
+      "album_title": "HELA - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 264960,
+      "id": "1841643173",
+      "isrc": "QT3EZ2529962",
+      "release_date": "2025-09-22",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "HELA",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/hela/1841643172?i=1841643173"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1841892669"
+      ],
+      "album_title": "ДЕТСТВО - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 284040,
+      "id": "1841892670",
+      "isrc": "QT3EZ2585905",
+      "release_date": "2025-09-23",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "ДЕТСТВО",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/%D0%B4%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%BE/1841892669?i=1841892670"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [],
+      "album_title": "أيام - Of Fire (feat. Marina Tarraf) - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [],
+      "disc_number": 1,
+      "duration_ms": 354120,
+      "id": "6774043590",
+      "isrc": "QT3EZ2625056",
+      "release_date": "2026-06-05",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "أيام - Of Fire (feat. Marina Tarraf)",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/%D8%A3%D9%8A%D8%A7%D9%85-of-fire-feat-marina-tarraf/6774043589?i=6774043590"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1842113418"
+      ],
+      "album_title": "Ukhu El (Уху Ел?) - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 209560,
+      "id": "1842113420",
+      "isrc": "QT3F22532818",
+      "release_date": "2025-09-23",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "Ukhu El (Уху Ел?)",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/ukhu-el-%D1%83%D1%85%D1%83-%D0%B5%D0%BB/1842113418?i=1842113420"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1842542057"
+      ],
+      "album_title": "ملاك و شيطان - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 239960,
+      "id": "1842542058",
+      "isrc": "QT3F32544991",
+      "release_date": "2025-09-25",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "ملاك و شيطان",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/%D9%85%D9%84%D8%A7%D9%83-%D9%88-%D8%B4%D9%8A%D8%B7%D8%A7%D9%86/1842542057?i=1842542058"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1842549034"
+      ],
+      "album_title": "ДОБРО И ЗЛО ((VIP REMIX Version)) - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 213000,
+      "id": "1842549035",
+      "isrc": "QT3F32547780",
+      "release_date": "2025-09-25",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "ДОБРО И ЗЛО (VIP REMIX Version)",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/%D0%B4%D0%BE%D0%B1%D1%80%D0%BE-%D0%B8-%D0%B7%D0%BB%D0%BE-vip-remix-version/1842549034?i=1842549035"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1842571349"
+      ],
+      "album_title": "TWINS IN FIRE (БЛИЗНЕЦЫ В ОГНЕ) - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 207440,
+      "id": "1842571350",
+      "isrc": "QT3F32554998",
+      "release_date": "2025-09-26",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "TWINS IN FIRE (БЛИЗНЕЦЫ В ОГНЕ)",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/twins-in-fire-%D0%B1%D0%BB%D0%B8%D0%B7%D0%BD%D0%B5%D1%86%D1%8B-%D0%B2-%D0%BE%D0%B3%D0%BD%D0%B5/1842571349?i=1842571350"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1842833712"
+      ],
+      "album_title": "HELAH - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 254440,
+      "id": "1842833893",
+      "isrc": "QT3F42551251",
+      "release_date": "2025-09-27",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "HELAH",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/helah/1842833712?i=1842833893"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1843039169"
+      ],
+      "album_title": "LOST (Soundtrack) - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 164960,
+      "id": "1843039170",
+      "isrc": "QT3F42592202",
+      "release_date": "2025-09-28",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "LOST (Soundtrack)",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/lost-soundtrack/1843039169?i=1843039170"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1843103001"
+      ],
+      "album_title": "DESTINATION (Soundtrack) - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 188360,
+      "id": "1843103002",
+      "isrc": "QT3F42594065",
+      "release_date": "2025-09-28",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "DESTINATION (Soundtrack)",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/destination-soundtrack/1843103001?i=1843103002"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1843151417"
+      ],
+      "album_title": "Odessa (Ай Одесса) - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 173840,
+      "id": "1843151418",
+      "isrc": "QT3F52503218",
+      "release_date": "2025-09-28",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "Odessa (Ай Одесса)",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/odessa-%D0%B0%D0%B9-%D0%BE%D0%B4%D0%B5%D1%81%D1%81%D0%B0/1843151417?i=1843151418"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1843167770"
+      ],
+      "album_title": "Odessa Mama (Гимн Одессы) - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 332600,
+      "id": "1843167775",
+      "isrc": "QT3F52518015",
+      "release_date": "2025-09-29",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "Odessa Mama (Гимн Одессы)",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/odessa-mama-%D0%B3%D0%B8%D0%BC%D0%BD-%D0%BE%D0%B4%D0%B5%D1%81%D1%81%D1%8B/1843167770?i=1843167775"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1843445100"
+      ],
+      "album_title": "HELLA - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 254880,
+      "id": "1843445101",
+      "isrc": "QT3F52572933",
+      "release_date": "2025-09-30",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "HELLA",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/hella/1843445100?i=1843445101"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1843445470"
+      ],
+      "album_title": "Wedding (Горько) - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 191920,
+      "id": "1843445471",
+      "isrc": "QT3F52575403",
+      "release_date": "2025-09-30",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "Wedding (Горько)",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/wedding-%D0%B3%D0%BE%D1%80%D1%8C%D0%BA%D0%BE/1843445470?i=1843445471"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [],
+      "album_title": "Meaning of life (Смысл Жизни) - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [],
+      "disc_number": 1,
+      "duration_ms": 232920,
+      "id": "1843524755",
+      "isrc": "QT3F52596011",
+      "release_date": "2025-09-30",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "Meaning of life (Смысл Жизни)",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/meaning-of-life-%D1%81%D0%BC%D1%8B%D1%81%D0%BB-%D0%B6%D0%B8%D0%B7%D0%BD%D0%B8/1843524754?i=1843524755"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1843772768"
+      ],
+      "album_title": "ЛЕТИ - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 257560,
+      "id": "1843772769",
+      "isrc": "QT3F62535970",
+      "release_date": "2025-10-01",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "ЛЕТИ",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/%D0%BB%D0%B5%D1%82%D0%B8/1843772768?i=1843772769"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1844025025"
+      ],
+      "album_title": "ВЛАСТЬ - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 302000,
+      "id": "1844025026",
+      "isrc": "QT3F72503137",
+      "release_date": "2025-10-02",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "ВЛАСТЬ",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/%D0%B2%D0%BB%D0%B0%D1%81%D1%82%D1%8C/1844025025?i=1844025026"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1844006449"
+      ],
+      "album_title": "Это Мои Чувства - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 244000,
+      "id": "1844006870",
+      "isrc": "QT3F72503236",
+      "release_date": "2025-10-02",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "Это Мои Чувства",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/%D1%8D%D1%82%D0%BE-%D0%BC%D0%BE%D0%B8-%D1%87%D1%83%D0%B2%D1%81%D1%82%D0%B2%D0%B0/1844006449?i=1844006870"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1843996561"
+      ],
+      "album_title": "Сум за Батьківщиною - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 231880,
+      "id": "1843996562",
+      "isrc": "QT3F72503317",
+      "release_date": "2025-10-02",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "Сум за Батьківщиною",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/%D1%81%D1%83%D0%BC-%D0%B7%D0%B0-%D0%B1%D0%B0%D1%82%D1%8C%D0%BA%D1%96%D0%B2%D1%89%D0%B8%D0%BD%D0%BE%D1%8E/1843996561?i=1843996562"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1844069622"
+      ],
+      "album_title": "ABU DHABI NIGHTS - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 314960,
+      "id": "1844069623",
+      "isrc": "QT3F72520533",
+      "release_date": "2025-10-02",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "ABU DHABI NIGHTS",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/abu-dhabi-nights/1844069622?i=1844069623"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1844170151"
+      ],
+      "album_title": "Я ПРОЩАЮ - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 254960,
+      "id": "1844170154",
+      "isrc": "QT3F72567496",
+      "release_date": "2025-10-03",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "Я ПРОЩАЮ",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/%D1%8F-%D0%BF%D1%80%D0%BE%D1%89%D0%B0%D1%8E/1844170151?i=1844170154"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1844118622"
+      ],
+      "album_title": "Я Это Ты - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 183760,
+      "id": "1844118624",
+      "isrc": "QT3F72570593",
+      "release_date": "2025-10-03",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "Я Это Ты",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/%D1%8F-%D1%8D%D1%82%D0%BE-%D1%82%D1%8B/1844118622?i=1844118624"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1844162260"
+      ],
+      "album_title": "Предназначение - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 219400,
+      "id": "1844162261",
+      "isrc": "QT3F72570597",
+      "release_date": "2025-10-03",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "Предназначение",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/%D0%BF%D1%80%D0%B5%D0%B4%D0%BD%D0%B0%D0%B7%D0%BD%D0%B0%D1%87%D0%B5%D0%BD%D0%B8%D0%B5/1844162260?i=1844162261"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1844266343"
+      ],
+      "album_title": "DistroKid - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 244400,
+      "id": "1844266345",
+      "isrc": "QT3F82541888",
+      "release_date": "2025-10-04",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "DistroKid",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/distrokid/1844266343?i=1844266345"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1844435962"
+      ],
+      "album_title": "Dubai Lights - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 247400,
+      "id": "1844436296",
+      "isrc": "QT3F82547782",
+      "release_date": "2025-10-04",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "Dubai Lights",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/dubai-lights/1844435962?i=1844436296"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1844612225"
+      ],
+      "album_title": "KYIV (КИЇВ) - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 281080,
+      "id": "1844612229",
+      "isrc": "QT3F82583937",
+      "release_date": "2025-10-05",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "KYIV (КИЇВ)",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/kyiv-%D0%BA%D0%B8%D1%97%D0%B2/1844612225?i=1844612229"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1844594060"
+      ],
+      "album_title": "ЗСУ - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 214920,
+      "id": "1844594061",
+      "isrc": "QT3F82587252",
+      "release_date": "2025-10-05",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "ЗСУ",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/%D0%B7%D1%81%D1%83/1844594060?i=1844594061"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1844608712"
+      ],
+      "album_title": "Adieus (ПРОЩАЙ) - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 227920,
+      "id": "1844608713",
+      "isrc": "QT3F82590514",
+      "release_date": "2025-10-05",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "Adieus (ПРОЩАЙ)",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/adieus-%D0%BF%D1%80%D0%BE%D1%89%D0%B0%D0%B9/1844608712?i=1844608713"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1844697321"
+      ],
+      "album_title": "Shadows (ТЕНИ) - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 175920,
+      "id": "1844697322",
+      "isrc": "QT3F92505012",
+      "release_date": "2025-10-05",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "Shadows (ТЕНИ)",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/shadows-%D1%82%D0%B5%D0%BD%D0%B8/1844697321?i=1844697322"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1844576745"
+      ],
+      "album_title": "Sanctum Fire - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 286920,
+      "id": "1844576746",
+      "isrc": "QT3F92507283",
+      "release_date": "2025-10-05",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "Sanctum Fire",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/sanctum-fire/1844576745?i=1844576746"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1844819098"
+      ],
+      "album_title": "XXX (Запретный Вкус) - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 221760,
+      "id": "1844819100",
+      "isrc": "QT3F92535289",
+      "release_date": "2025-10-06",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "XXX (Запретный Вкус)",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/xxx-%D0%B7%D0%B0%D0%BF%D1%80%D0%B5%D1%82%D0%BD%D1%8B%D0%B9-%D0%B2%D0%BA%D1%83%D1%81/1844819098?i=1844819100"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [],
+      "album_title": "POSSESSED - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [],
+      "disc_number": 1,
+      "duration_ms": 204880,
+      "id": "1845309428",
+      "isrc": "QT3F92537714",
+      "release_date": "2025-10-06",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "POSSESSED",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/possessed/1845309427?i=1845309428"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1845164494"
+      ],
+      "album_title": "Instagram (Soundtrack) - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 160880,
+      "id": "1845164495",
+      "isrc": "QT3FA2508029",
+      "release_date": "2025-10-07",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "Instagram (Soundtrack)",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/instagram-soundtrack/1845164494?i=1845164495"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1845043514"
+      ],
+      "album_title": "Pension (Пенсия Кайф) - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 194920,
+      "id": "1845043515",
+      "isrc": "QT3FA2517875",
+      "release_date": "2025-10-07",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "Pension (Пенсия Кайф)",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/pension-%D0%BF%D0%B5%D0%BD%D1%81%D0%B8%D1%8F-%D0%BA%D0%B0%D0%B9%D1%84/1845043514?i=1845043515"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1845607906"
+      ],
+      "album_title": "COSMOS LIFE СЕРИЯ 1 - ПЛАНЕТА БЕЗ ЛЮДЕЙ - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 281520,
+      "id": "1845607907",
+      "isrc": "QT3FB2522842",
+      "release_date": "2025-10-09",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "COSMOS LIFE СЕРИЯ 1 - ПЛАНЕТА БЕЗ ЛЮДЕЙ",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/cosmos-life-%D1%81%D0%B5%D1%80%D0%B8%D1%8F-1-%D0%BF%D0%BB%D0%B0%D0%BD%D0%B5%D1%82%D0%B0-%D0%B1%D0%B5%D0%B7-%D0%BB%D1%8E%D0%B4%D0%B5%D0%B9/1845607906?i=1845607907"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1845692691"
+      ],
+      "album_title": "COSMOS LIFE СЕРИЯ 2 - АДАМ И ЕВА - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 239880,
+      "id": "1845692693",
+      "isrc": "QT3FB2572738",
+      "release_date": "2025-10-10",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "COSMOS LIFE СЕРИЯ 2 - АДАМ И ЕВА",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/cosmos-life-%D1%81%D0%B5%D1%80%D0%B8%D1%8F-2-%D0%B0%D0%B4%D0%B0%D0%BC-%D0%B8-%D0%B5%D0%B2%D0%B0/1845692691?i=1845692693"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1845906996"
+      ],
+      "album_title": "COSMOS LIFE СЕРИЯ З - «РАЗРУШЕНИЕ» - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 247240,
+      "id": "1845906998",
+      "isrc": "QT3FC2537576",
+      "release_date": "2025-10-11",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "COSMOS LIFE СЕРИЯ З - «РАЗРУШЕНИЕ»",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/cosmos-life-%D1%81%D0%B5%D1%80%D0%B8%D1%8F-%D0%B7-%D1%80%D0%B0%D0%B7%D1%80%D1%83%D1%88%D0%B5%D0%BD%D0%B8%D0%B5/1845906996?i=1845906998"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1845998162"
+      ],
+      "album_title": "COSMOS LIFE СЕРИЯ 4 - «COSMOS LIFE» - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 282440,
+      "id": "1845998163",
+      "isrc": "QT3FC2583008",
+      "release_date": "2025-10-12",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "COSMOS LIFE СЕРИЯ 4 - «COSMOS LIFE»",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/cosmos-life-%D1%81%D0%B5%D1%80%D0%B8%D1%8F-4-cosmos-life/1845998162?i=1845998163"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [],
+      "album_title": "Mama - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [],
+      "disc_number": 1,
+      "duration_ms": 251760,
+      "id": "1846290782",
+      "isrc": "QT3FD2506128",
+      "release_date": "2025-10-12",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "Mama",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/mama/1846290781?i=1846290782"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1846383140"
+      ],
+      "album_title": "DREAM OF LIGHT - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 325800,
+      "id": "1846383145",
+      "isrc": "QT3FD2561541",
+      "release_date": "2025-10-13",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "DREAM OF LIGHT",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/dream-of-light/1846383140?i=1846383145"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1846602424"
+      ],
+      "album_title": "Between Orbits (Между Орбит) - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 204000,
+      "id": "1846602425",
+      "isrc": "QT3FE2509181",
+      "release_date": "2025-10-14",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "Between Orbits (Между Орбит)",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/between-orbits-%D0%BC%D0%B5%D0%B6%D0%B4%D1%83-%D0%BE%D1%80%D0%B1%D0%B8%D1%82/1846602424?i=1846602425"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf & Marina Tarraf",
+      "album_ids": [
+        "6779852581"
+      ],
+      "album_title": "Still Yours (LIVE) - Single",
+      "artist_credit": "Alik Tarraf & Marina Tarraf",
+      "artist_ids": [
+        "1834783896",
+        "1855307122"
+      ],
+      "disc_number": 1,
+      "duration_ms": 323800,
+      "id": "6779852584",
+      "isrc": "QT3FE2691958",
+      "release_date": "2026-06-21",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "Still Yours (LIVE)",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/still-yours-live/6779852581?i=6779852584"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1847127328"
+      ],
+      "album_title": "HELLO - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 218440,
+      "id": "1847127329",
+      "isrc": "QT3FF2557854",
+      "release_date": "2025-10-17",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "HELLO",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/hello/1847127328?i=1847127329"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1847457711"
+      ],
+      "album_title": "Anima Obscura (Dark Ritual Song) - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 189880,
+      "id": "1847457990",
+      "isrc": "QT3FG2507072",
+      "release_date": "2025-10-17",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "Anima Obscura (Dark Ritual Song)",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/anima-obscura-dark-ritual-song/1847457711?i=1847457990"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1847899430"
+      ],
+      "album_title": "БУМЕРАНГ - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 244880,
+      "id": "1847899431",
+      "isrc": "QT3FH2514472",
+      "release_date": "2025-10-19",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "БУМЕРАНГ",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/%D0%B1%D1%83%D0%BC%D0%B5%D1%80%D0%B0%D0%BD%D0%B3/1847899430?i=1847899431"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1848354868"
+      ],
+      "album_title": "VEVO - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 253120,
+      "id": "1848354869",
+      "isrc": "QT6E52548061",
+      "release_date": "2025-10-22",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "VEVO",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/vevo/1848354868?i=1848354869"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1848596758"
+      ],
+      "album_title": "Meaning of Life - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 198280,
+      "id": "1848596759",
+      "isrc": "QT6E52575346",
+      "release_date": "2025-10-22",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "Meaning of Life",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/meaning-of-life/1848596758?i=1848596759"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [],
+      "album_title": "BANINA BANINA YALLA TARRAF - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [],
+      "disc_number": 1,
+      "duration_ms": 237440,
+      "id": "1848684908",
+      "isrc": "QT6E62524228",
+      "release_date": "2025-10-23",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "BANINA BANINA YALLA TARRAF",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/banina-banina-yalla-tarraf/1848684907?i=1848684908"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1848794072"
+      ],
+      "album_title": "ПІСНЯ КРАКЕНА — “ВІТО І ЮТА” - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 274320,
+      "id": "1848794074",
+      "isrc": "QT6E62558415",
+      "release_date": "2025-10-23",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "ПІСНЯ КРАКЕНА — “ВІТО І ЮТА”",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/%D0%BF%D1%96%D1%81%D0%BD%D1%8F-%D0%BA%D1%80%D0%B0%D0%BA%D0%B5%D0%BD%D0%B0-%D0%B2%D1%96%D1%82%D0%BE-%D1%96-%D1%8E%D1%82%D0%B0/1848794072?i=1848794074"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1849053988"
+      ],
+      "album_title": "Time (ВРЕМЯ НЕ ПРОЩАЕТ) - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 305000,
+      "id": "1849053989",
+      "isrc": "QT6E72510455",
+      "release_date": "2025-10-24",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "Time (ВРЕМЯ НЕ ПРОЩАЕТ)",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/time-%D0%B2%D1%80%D0%B5%D0%BC%D1%8F-%D0%BD%D0%B5-%D0%BF%D1%80%D0%BE%D1%89%D0%B0%D0%B5%D1%82/1849053988?i=1849053989"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1849142236"
+      ],
+      "album_title": "ПІСНЯ КРАКЕН — ВІТО ШТОРМ - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 283600,
+      "id": "1849142243",
+      "isrc": "QT6E72527928",
+      "release_date": "2025-10-25",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "ПІСНЯ КРАКЕН — ВІТО ШТОРМ",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/%D0%BF%D1%96%D1%81%D0%BD%D1%8F-%D0%BA%D1%80%D0%B0%D0%BA%D0%B5%D0%BD-%D0%B2%D1%96%D1%82%D0%BE-%D1%88%D1%82%D0%BE%D1%80%D0%BC/1849142236?i=1849142243"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1849349554"
+      ],
+      "album_title": "НЕ ГОНИ ФУФЛО - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 189440,
+      "id": "1849349555",
+      "isrc": "QT6E72580731",
+      "release_date": "2025-10-26",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "НЕ ГОНИ ФУФЛО",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/%D0%BD%D0%B5-%D0%B3%D0%BE%D0%BD%D0%B8-%D1%84%D1%83%D1%84%D0%BB%D0%BE/1849349554?i=1849349555"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1849494012"
+      ],
+      "album_title": "Где Кончается Человек - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 179840,
+      "id": "1849494013",
+      "isrc": "QT6E82504500",
+      "release_date": "2025-10-26",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "Где Кончается Человек",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/%D0%B3%D0%B4%D0%B5-%D0%BA%D0%BE%D0%BD%D1%87%D0%B0%D0%B5%D1%82%D1%81%D1%8F-%D1%87%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D0%BA/1849494012?i=1849494013"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1849622494"
+      ],
+      "album_title": "Police - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 370960,
+      "id": "1849622500",
+      "isrc": "QT6E82542002",
+      "release_date": "2025-10-27",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "Police",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/police/1849622494?i=1849622500"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1849751237"
+      ],
+      "album_title": "КРАКЕН — ВІТО ШТОРМ ((VIP MIX)) - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 282400,
+      "id": "1849751238",
+      "isrc": "QT6E82567761",
+      "release_date": "2025-10-25",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "КРАКЕН — ВІТО ШТОРМ (VIP MIX)",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/%D0%BA%D1%80%D0%B0%D0%BA%D0%B5%D0%BD-%D0%B2%D1%96%D1%82%D0%BE-%D1%88%D1%82%D0%BE%D1%80%D0%BC-vip-mix/1849751237?i=1849751238"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1849862152"
+      ],
+      "album_title": "The Other Side - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 252480,
+      "id": "1849862153",
+      "isrc": "QT6E82591324",
+      "release_date": "2025-10-27",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "The Other Side",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/the-other-side/1849862152?i=1849862153"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1850118828"
+      ],
+      "album_title": "NORA (feat. Marina Tarraf) - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 197000,
+      "id": "1850118859",
+      "isrc": "QT6E92567897",
+      "release_date": "2025-10-28",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "NORA (feat. Marina Tarraf)",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/nora-feat-marina-tarraf/1850118828?i=1850118859"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1850255600"
+      ],
+      "album_title": "ПАМЯТЬ - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 214600,
+      "id": "1850255601",
+      "isrc": "QT6EA2526339",
+      "release_date": "2025-10-29",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "ПАМЯТЬ",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/%D0%BF%D0%B0%D0%BC%D1%8F%D1%82%D1%8C/1850255600?i=1850255601"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1850340588"
+      ],
+      "album_title": "БРАТ ОНА БЕРЕМЕННА - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 249960,
+      "id": "1850340589",
+      "isrc": "QT6EA2554382",
+      "release_date": "2025-10-30",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "БРАТ ОНА БЕРЕМЕННА",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/%D0%B1%D1%80%D0%B0%D1%82-%D0%BE%D0%BD%D0%B0-%D0%B1%D0%B5%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D0%B0/1850340588?i=1850340589"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1850314697"
+      ],
+      "album_title": "Він Малює Світ - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 210960,
+      "id": "1850314698",
+      "isrc": "QT6EB2506047",
+      "release_date": "2025-10-30",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "Він Малює Світ",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/%D0%B2%D1%96%D0%BD-%D0%BC%D0%B0%D0%BB%D1%8E%D1%94-%D1%81%D0%B2%D1%96%D1%82/1850314697?i=1850314698"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1850873591"
+      ],
+      "album_title": "Братва Не Спит - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 258960,
+      "id": "1850873742",
+      "isrc": "QT6EB2592278",
+      "release_date": "2025-11-01",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "Братва Не Спит",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/%D0%B1%D1%80%D0%B0%D1%82%D0%B2%D0%B0-%D0%BD%D0%B5-%D1%81%D0%BF%D0%B8%D1%82/1850873591?i=1850873742"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1850896441"
+      ],
+      "album_title": "HALLOWEEN - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 312320,
+      "id": "1850896442",
+      "isrc": "QT6EB2599080",
+      "release_date": "2025-11-01",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "HALLOWEEN",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/halloween/1850896441?i=1850896442"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1850879934"
+      ],
+      "album_title": "Ad Vinculum - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 262560,
+      "id": "1850879935",
+      "isrc": "QT6EC2548482",
+      "release_date": "2025-11-02",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "Ad Vinculum",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/ad-vinculum/1850879934?i=1850879935"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf & Marina Tarraf",
+      "album_ids": [
+        "6784526211"
+      ],
+      "album_title": "Tarraf Productions Live, Vol. I: The Opening",
+      "artist_credit": "Alik Tarraf & Marina Tarraf",
+      "artist_ids": [
+        "1834783896",
+        "1855307122"
+      ],
+      "disc_number": 1,
+      "duration_ms": 231360,
+      "id": "6784526212",
+      "isrc": "QT6EC2696826",
+      "release_date": "2026-07-15",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "Opening Overture (LIVE)",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/opening-overture-live/6784526211?i=6784526212"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf & Marina Tarraf",
+      "album_ids": [
+        "6784526211"
+      ],
+      "album_title": "Tarraf Productions Live, Vol. I: The Opening",
+      "artist_credit": "Alik Tarraf & Marina Tarraf",
+      "artist_ids": [
+        "1834783896",
+        "1855307122"
+      ],
+      "disc_number": 1,
+      "duration_ms": 68000,
+      "id": "6784526214",
+      "isrc": "QT6EC2696827",
+      "release_date": "2026-07-15",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "Alik & Marina Introduction (LIVE)",
+      "track_number": 2,
+      "url": "https://music.apple.com/ua/album/alik-marina-introduction-live/6784526211?i=6784526214"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf & Marina Tarraf",
+      "album_ids": [
+        "6784526211"
+      ],
+      "album_title": "Tarraf Productions Live, Vol. I: The Opening",
+      "artist_credit": "Alik Tarraf & Marina Tarraf",
+      "artist_ids": [
+        "1834783896",
+        "1855307122"
+      ],
+      "disc_number": 1,
+      "duration_ms": 306680,
+      "id": "6784526215",
+      "isrc": "QT6EC2696828",
+      "release_date": "2026-07-15",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "Abu Dhabi Nights (LIVE)",
+      "track_number": 3,
+      "url": "https://music.apple.com/ua/album/abu-dhabi-nights-live/6784526211?i=6784526215"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf & Marina Tarraf",
+      "album_ids": [
+        "6784526211"
+      ],
+      "album_title": "Tarraf Productions Live, Vol. I: The Opening",
+      "artist_credit": "Alik Tarraf & Marina Tarraf",
+      "artist_ids": [
+        "1834783896",
+        "1855307122"
+      ],
+      "disc_number": 1,
+      "duration_ms": 344400,
+      "id": "6784526216",
+      "isrc": "QT6EC2696829",
+      "release_date": "2026-07-15",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "Eagles Not Crows (LIVE)",
+      "track_number": 4,
+      "url": "https://music.apple.com/ua/album/eagles-not-crows-live/6784526211?i=6784526216"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf & Marina Tarraf",
+      "album_ids": [
+        "6784526211"
+      ],
+      "album_title": "Tarraf Productions Live, Vol. I: The Opening",
+      "artist_credit": "Alik Tarraf & Marina Tarraf",
+      "artist_ids": [
+        "1834783896",
+        "1855307122"
+      ],
+      "disc_number": 1,
+      "duration_ms": 266120,
+      "id": "6784526217",
+      "isrc": "QT6EC2696830",
+      "release_date": "2026-07-15",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "حبك مو لعبة (LIVE)",
+      "track_number": 5,
+      "url": "https://music.apple.com/ua/album/%D8%AD%D8%A8%D9%83-%D9%85%D9%88-%D9%84%D8%B9%D8%A8%D8%A9-live/6784526211?i=6784526217"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf & Marina Tarraf",
+      "album_ids": [
+        "6784526211"
+      ],
+      "album_title": "Tarraf Productions Live, Vol. I: The Opening",
+      "artist_credit": "Alik Tarraf & Marina Tarraf",
+      "artist_ids": [
+        "1834783896",
+        "1855307122"
+      ],
+      "disc_number": 1,
+      "duration_ms": 303120,
+      "id": "6784526218",
+      "isrc": "QT6EC2696831",
+      "release_date": "2026-07-15",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "OBARABO الصحراء العجيبة (LIVE)",
+      "track_number": 6,
+      "url": "https://music.apple.com/ua/album/obarabo-%D8%A7%D9%84%D8%B5%D8%AD%D8%B1%D8%A7%D8%A1-%D8%A7%D9%84%D8%B9%D8%AC%D9%8A%D8%A8%D8%A9-live/6784526211?i=6784526218"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf & Marina Tarraf",
+      "album_ids": [
+        "6784526211"
+      ],
+      "album_title": "Tarraf Productions Live, Vol. I: The Opening",
+      "artist_credit": "Alik Tarraf & Marina Tarraf",
+      "artist_ids": [
+        "1834783896",
+        "1855307122"
+      ],
+      "disc_number": 1,
+      "duration_ms": 354400,
+      "id": "6784526219",
+      "isrc": "QT6EC2696832",
+      "release_date": "2026-07-15",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "WORDS (LIVE)",
+      "track_number": 7,
+      "url": "https://music.apple.com/ua/album/words-live/6784526211?i=6784526219"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf & Marina Tarraf",
+      "album_ids": [
+        "6784526211"
+      ],
+      "album_title": "Tarraf Productions Live, Vol. I: The Opening",
+      "artist_credit": "Alik Tarraf & Marina Tarraf",
+      "artist_ids": [
+        "1834783896",
+        "1855307122"
+      ],
+      "disc_number": 1,
+      "duration_ms": 297640,
+      "id": "6784526220",
+      "isrc": "QT6EC2696833",
+      "release_date": "2026-07-15",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "Tell Me Why (LIVE)",
+      "track_number": 8,
+      "url": "https://music.apple.com/ua/album/tell-me-why-live/6784526211?i=6784526220"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf & Marina Tarraf",
+      "album_ids": [
+        "6784526211"
+      ],
+      "album_title": "Tarraf Productions Live, Vol. I: The Opening",
+      "artist_credit": "Alik Tarraf & Marina Tarraf",
+      "artist_ids": [
+        "1834783896",
+        "1855307122"
+      ],
+      "disc_number": 1,
+      "duration_ms": 322440,
+      "id": "6784526221",
+      "isrc": "QT6EC2696834",
+      "release_date": "2026-07-15",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "Desert Dominus (LIVE)",
+      "track_number": 9,
+      "url": "https://music.apple.com/ua/album/desert-dominus-live/6784526211?i=6784526221"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf & Marina Tarraf",
+      "album_ids": [
+        "6784526211"
+      ],
+      "album_title": "Tarraf Productions Live, Vol. I: The Opening",
+      "artist_credit": "Alik Tarraf & Marina Tarraf",
+      "artist_ids": [
+        "1834783896",
+        "1855307122"
+      ],
+      "disc_number": 1,
+      "duration_ms": 275400,
+      "id": "6784526222",
+      "isrc": "QT6EC2696835",
+      "release_date": "2026-07-15",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "Мы (LIVE)",
+      "track_number": 10,
+      "url": "https://music.apple.com/ua/album/%D0%BC%D1%8B-live/6784526211?i=6784526222"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf & Marina Tarraf",
+      "album_ids": [
+        "6784526211"
+      ],
+      "album_title": "Tarraf Productions Live, Vol. I: The Opening",
+      "artist_credit": "Alik Tarraf & Marina Tarraf",
+      "artist_ids": [
+        "1834783896",
+        "1855307122"
+      ],
+      "disc_number": 1,
+      "duration_ms": 261800,
+      "id": "6784526223",
+      "isrc": "QT6EC2696836",
+      "release_date": "2026-07-15",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "Malak Shaitan (LIVE)",
+      "track_number": 11,
+      "url": "https://music.apple.com/ua/album/malak-shaitan-live/6784526211?i=6784526223"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf & Marina Tarraf",
+      "album_ids": [
+        "6784526211"
+      ],
+      "album_title": "Tarraf Productions Live, Vol. I: The Opening",
+      "artist_credit": "Alik Tarraf & Marina Tarraf",
+      "artist_ids": [
+        "1834783896",
+        "1855307122"
+      ],
+      "disc_number": 1,
+      "duration_ms": 291440,
+      "id": "6784526224",
+      "isrc": "QT6EC2696837",
+      "release_date": "2026-07-15",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "Goddess (LIVE)",
+      "track_number": 12,
+      "url": "https://music.apple.com/ua/album/goddess-live/6784526211?i=6784526224"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf & Marina Tarraf",
+      "album_ids": [
+        "6784526211"
+      ],
+      "album_title": "Tarraf Productions Live, Vol. I: The Opening",
+      "artist_credit": "Alik Tarraf & Marina Tarraf",
+      "artist_ids": [
+        "1834783896",
+        "1855307122"
+      ],
+      "disc_number": 1,
+      "duration_ms": 266520,
+      "id": "6784526225",
+      "isrc": "QT6EC2696838",
+      "release_date": "2026-07-15",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "Смысл Жизни (LIVE)",
+      "track_number": 13,
+      "url": "https://music.apple.com/ua/album/%D1%81%D0%BC%D1%8B%D1%81%D0%BB-%D0%B6%D0%B8%D0%B7%D0%BD%D0%B8-live/6784526211?i=6784526225"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf & Marina Tarraf",
+      "album_ids": [
+        "6784526211"
+      ],
+      "album_title": "Tarraf Productions Live, Vol. I: The Opening",
+      "artist_credit": "Alik Tarraf & Marina Tarraf",
+      "artist_ids": [
+        "1834783896",
+        "1855307122"
+      ],
+      "disc_number": 1,
+      "duration_ms": 184600,
+      "id": "6784526226",
+      "isrc": "QT6EC2696839",
+      "release_date": "2026-07-15",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "Fire Drones Show (LIVE)",
+      "track_number": 14,
+      "url": "https://music.apple.com/ua/album/fire-drones-show-live/6784526211?i=6784526226"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf & Marina Tarraf",
+      "album_ids": [
+        "6784526211"
+      ],
+      "album_title": "Tarraf Productions Live, Vol. I: The Opening",
+      "artist_credit": "Alik Tarraf & Marina Tarraf",
+      "artist_ids": [
+        "1834783896",
+        "1855307122"
+      ],
+      "disc_number": 1,
+      "duration_ms": 279600,
+      "id": "6784526227",
+      "isrc": "QT6EC2696840",
+      "release_date": "2026-07-15",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "Meaning of Life (LIVE)",
+      "track_number": 15,
+      "url": "https://music.apple.com/ua/album/meaning-of-life-live/6784526211?i=6784526227"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf & Marina Tarraf",
+      "album_ids": [
+        "6784526211"
+      ],
+      "album_title": "Tarraf Productions Live, Vol. I: The Opening",
+      "artist_credit": "Alik Tarraf & Marina Tarraf",
+      "artist_ids": [
+        "1834783896",
+        "1855307122"
+      ],
+      "disc_number": 1,
+      "duration_ms": 264320,
+      "id": "6784526228",
+      "isrc": "QT6EC2696841",
+      "release_date": "2026-07-15",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "Сум за Батьківщину (LIVE)",
+      "track_number": 16,
+      "url": "https://music.apple.com/ua/album/%D1%81%D1%83%D0%BC-%D0%B7%D0%B0-%D0%B1%D0%B0%D1%82%D1%8C%D0%BA%D1%96%D0%B2%D1%89%D0%B8%D0%BD%D1%83-live/6784526211?i=6784526228"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf & Marina Tarraf",
+      "album_ids": [
+        "6784526211"
+      ],
+      "album_title": "Tarraf Productions Live, Vol. I: The Opening",
+      "artist_credit": "Alik Tarraf & Marina Tarraf",
+      "artist_ids": [
+        "1834783896",
+        "1855307122"
+      ],
+      "disc_number": 1,
+      "duration_ms": 216880,
+      "id": "6784526229",
+      "isrc": "QT6EC2696842",
+      "release_date": "2026-07-15",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "Don’t Speak (LIVE)",
+      "track_number": 17,
+      "url": "https://music.apple.com/ua/album/dont-speak-live/6784526211?i=6784526229"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf & Marina Tarraf",
+      "album_ids": [
+        "6784526211"
+      ],
+      "album_title": "Tarraf Productions Live, Vol. I: The Opening",
+      "artist_credit": "Alik Tarraf & Marina Tarraf",
+      "artist_ids": [
+        "1834783896",
+        "1855307122"
+      ],
+      "disc_number": 1,
+      "duration_ms": 365320,
+      "id": "6784526230",
+      "isrc": "QT6EC2696843",
+      "release_date": "2026-07-15",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "I Rise (LIVE)",
+      "track_number": 18,
+      "url": "https://music.apple.com/ua/album/i-rise-live/6784526211?i=6784526230"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf & Marina Tarraf",
+      "album_ids": [
+        "6784526211"
+      ],
+      "album_title": "Tarraf Productions Live, Vol. I: The Opening",
+      "artist_credit": "Alik Tarraf & Marina Tarraf",
+      "artist_ids": [
+        "1834783896",
+        "1855307122"
+      ],
+      "disc_number": 1,
+      "duration_ms": 243720,
+      "id": "6784526231",
+      "isrc": "QT6EC2696844",
+      "release_date": "2026-07-15",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "Добро и Зло (LIVE)",
+      "track_number": 19,
+      "url": "https://music.apple.com/ua/album/%D0%B4%D0%BE%D0%B1%D1%80%D0%BE-%D0%B8-%D0%B7%D0%BB%D0%BE-live/6784526211?i=6784526231"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf & Marina Tarraf",
+      "album_ids": [
+        "6784526211"
+      ],
+      "album_title": "Tarraf Productions Live, Vol. I: The Opening",
+      "artist_credit": "Alik Tarraf & Marina Tarraf",
+      "artist_ids": [
+        "1834783896",
+        "1855307122"
+      ],
+      "disc_number": 1,
+      "duration_ms": 279800,
+      "id": "6784526232",
+      "isrc": "QT6EC2696845",
+      "release_date": "2026-07-15",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "The Other Side (LIVE)",
+      "track_number": 20,
+      "url": "https://music.apple.com/ua/album/the-other-side-live/6784526211?i=6784526232"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf & Marina Tarraf",
+      "album_ids": [
+        "6784526211"
+      ],
+      "album_title": "Tarraf Productions Live, Vol. I: The Opening",
+      "artist_credit": "Alik Tarraf & Marina Tarraf",
+      "artist_ids": [
+        "1834783896",
+        "1855307122"
+      ],
+      "disc_number": 1,
+      "duration_ms": 386480,
+      "id": "6784526233",
+      "isrc": "QT6EC2696846",
+      "release_date": "2026-07-15",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "This Is Goodbye (LIVE)",
+      "track_number": 21,
+      "url": "https://music.apple.com/ua/album/this-is-goodbye-live/6784526211?i=6784526233"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf & Marina Tarraf",
+      "album_ids": [
+        "6784526211"
+      ],
+      "album_title": "Tarraf Productions Live, Vol. I: The Opening",
+      "artist_credit": "Alik Tarraf & Marina Tarraf",
+      "artist_ids": [
+        "1834783896",
+        "1855307122"
+      ],
+      "disc_number": 1,
+      "duration_ms": 186680,
+      "id": "6784526234",
+      "isrc": "QT6EC2696847",
+      "release_date": "2026-07-15",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "End, Vol. 1 (LIVE)",
+      "track_number": 22,
+      "url": "https://music.apple.com/ua/album/end-vol-1-live/6784526211?i=6784526234"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1851157195"
+      ],
+      "album_title": "Сухая Вода - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 269200,
+      "id": "1851157196",
+      "isrc": "QT6ED2514535",
+      "release_date": "2025-11-03",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "Сухая Вода",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/%D1%81%D1%83%D1%85%D0%B0%D1%8F-%D0%B2%D0%BE%D0%B4%D0%B0/1851157195?i=1851157196"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1851179270"
+      ],
+      "album_title": "СЕРДЦЕЕДКА - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 220440,
+      "id": "1851179271",
+      "isrc": "QT6ED2520205",
+      "release_date": "2025-11-03",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "СЕРДЦЕЕДКА",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/%D1%81%D0%B5%D1%80%D0%B4%D1%86%D0%B5%D0%B5%D0%B4%D0%BA%D0%B0/1851179270?i=1851179271"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1851767470"
+      ],
+      "album_title": "ПАПА - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 232160,
+      "id": "1851767471",
+      "isrc": "QT6EE2520051",
+      "release_date": "2025-11-04",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "ПАПА",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/%D0%BF%D0%B0%D0%BF%D0%B0/1851767470?i=1851767471"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [],
+      "album_title": "Да ... Нет - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [],
+      "disc_number": 1,
+      "duration_ms": 180760,
+      "id": "1851905151",
+      "isrc": "QT6EE2580457",
+      "release_date": "2025-11-05",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "Да ... Нет",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/%D0%B4%D0%B0-%D0%BD%D0%B5%D1%82/1851905150?i=1851905151"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1852055882"
+      ],
+      "album_title": "Совесть - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 211160,
+      "id": "1852055884",
+      "isrc": "QT6EF2516843",
+      "release_date": "2025-11-06",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "Совесть",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/%D1%81%D0%BE%D0%B2%D0%B5%D1%81%D1%82%D1%8C/1852055882?i=1852055884"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1852147702"
+      ],
+      "album_title": "UKRAINE (feat. Marina Tarraf) - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 229760,
+      "id": "1852147703",
+      "isrc": "QT6EF2541785",
+      "release_date": "2025-11-06",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "UKRAINE (feat. Marina Tarraf)",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/ukraine-feat-marina-tarraf/1852147702?i=1852147703"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1852521904"
+      ],
+      "album_title": "HE PAINTS THE WORLD - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 248240,
+      "id": "1852521905",
+      "isrc": "QT6EG2530117",
+      "release_date": "2025-11-07",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "HE PAINTS THE WORLD",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/he-paints-the-world/1852521904?i=1852521905"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1852640449"
+      ],
+      "album_title": "Full (ПОЛНЫЙ АВТОБУС БУРАТИН) - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 306520,
+      "id": "1852640750",
+      "isrc": "QT6ET2522351",
+      "release_date": "2025-11-09",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "Full (ПОЛНЫЙ АВТОБУС БУРАТИН)",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/full-%D0%BF%D0%BE%D0%BB%D0%BD%D1%8B%D0%B9-%D0%B0%D0%B2%D1%82%D0%BE%D0%B1%D1%83%D1%81-%D0%B1%D1%83%D1%80%D0%B0%D1%82%D0%B8%D0%BD/1852640449?i=1852640750"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1853126203"
+      ],
+      "album_title": "КОД ТИШІ - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 289920,
+      "id": "1853126204",
+      "isrc": "QT6ET2559362",
+      "release_date": "2025-11-10",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "КОД ТИШІ",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/%D0%BA%D0%BE%D0%B4-%D1%82%D0%B8%D1%88%D1%96/1853126203?i=1853126204"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1853221639"
+      ],
+      "album_title": "CODE OF SILENCE - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 309560,
+      "id": "1853221640",
+      "isrc": "QT6EU2504270",
+      "release_date": "2025-11-10",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "CODE OF SILENCE",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/code-of-silence/1853221639?i=1853221640"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1853220878"
+      ],
+      "album_title": "KPOB I BIPA/ BLOOD AND FAITH - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 284960,
+      "id": "1853220880",
+      "isrc": "QT6EU2556523",
+      "release_date": "2025-11-11",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "KPOB I BIPA/ BLOOD AND FAITH",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/kpob-i-bipa-blood-and-faith/1853220878?i=1853220880"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1853410834"
+      ],
+      "album_title": "BOOMERANG - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 302920,
+      "id": "1853410835",
+      "isrc": "QT6EV2526848",
+      "release_date": "2025-11-12",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "BOOMERANG",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/boomerang/1853410834?i=1853410835"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1854023540"
+      ],
+      "album_title": "THE CURE - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 292240,
+      "id": "1854023541",
+      "isrc": "QT6EW2510425",
+      "release_date": "2025-11-13",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "THE CURE",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/the-cure/1854023540?i=1854023541"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1854321938"
+      ],
+      "album_title": "RELEASE ME - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 248200,
+      "id": "1854321939",
+      "isrc": "QT6EX2543724",
+      "release_date": "2025-11-15",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "RELEASE ME",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/release-me/1854321938?i=1854321939"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1854398185"
+      ],
+      "album_title": "Матрица Лжи (Matrix of lies) - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 298000,
+      "id": "1854398188",
+      "isrc": "QT6EX2564595",
+      "release_date": "2025-11-16",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "Матрица Лжи (Matrix of lies)",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/%D0%BC%D0%B0%D1%82%D1%80%D0%B8%D1%86%D0%B0-%D0%BB%D0%B6%D0%B8-matrix-of-lies/1854398185?i=1854398188"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1854941377"
+      ],
+      "album_title": "Храм Любви - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 225920,
+      "id": "1854941378",
+      "isrc": "QT6EY2542949",
+      "release_date": "2025-11-17",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "Храм Любви",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/%D1%85%D1%80%D0%B0%D0%BC-%D0%BB%D1%8E%D0%B1%D0%B2%D0%B8/1854941377?i=1854941378"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1855078336"
+      ],
+      "album_title": "Это ты Это я - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 202280,
+      "id": "1855078337",
+      "isrc": "QT6EY2596195",
+      "release_date": "2025-11-18",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "Это ты Это я",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/%D1%8D%D1%82%D0%BE-%D1%82%D1%8B-%D1%8D%D1%82%D0%BE-%D1%8F/1855078336?i=1855078337"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1855113664"
+      ],
+      "album_title": "Не Стыдно Падать - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 274920,
+      "id": "1855113846",
+      "isrc": "QT6EZ2529225",
+      "release_date": "2025-11-18",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "Не Стыдно Падать",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/%D0%BD%D0%B5-%D1%81%D1%82%D1%8B%D0%B4%D0%BD%D0%BE-%D0%BF%D0%B0%D0%B4%D0%B0%D1%82%D1%8C/1855113664?i=1855113846"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1855149863"
+      ],
+      "album_title": "REBORN IN FIRE - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 292160,
+      "id": "1855149864",
+      "isrc": "QT6EZ2542620",
+      "release_date": "2025-12-16",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "REBORN IN FIRE",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/reborn-in-fire/1855149863?i=1855149864"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1855373301"
+      ],
+      "album_title": "Monsters (feat. Marina Tarraf) - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 217365,
+      "id": "1855373302",
+      "isrc": "QT6F22539752",
+      "release_date": "2025-11-28",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "Monsters (feat. Marina Tarraf)",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/monsters-feat-marina-tarraf/1855373301?i=1855373302"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1855523521"
+      ],
+      "album_title": "Свет во мне - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 294849,
+      "id": "1855523522",
+      "isrc": "QT6F32506966",
+      "release_date": "2025-11-21",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "Свет во мне",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/%D1%81%D0%B2%D0%B5%D1%82-%D0%B2%D0%BE-%D0%BC%D0%BD%D0%B5/1855523521?i=1855523522"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1855559882"
+      ],
+      "album_title": "Колючий, но родной - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 291963,
+      "id": "1855559888",
+      "isrc": "QT6F32560639",
+      "release_date": "2025-11-22",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "Колючий, но родной",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/%D0%BA%D0%BE%D0%BB%D1%8E%D1%87%D0%B8%D0%B9-%D0%BD%D0%BE-%D1%80%D0%BE%D0%B4%D0%BD%D0%BE%D0%B9/1855559882?i=1855559888"
+    },
+    {
+      "album_artist_credit": "Marina Tarraf",
+      "album_ids": [
+        "1856089287"
+      ],
+      "album_title": "WORDS - Single",
+      "artist_credit": "Marina Tarraf",
+      "artist_ids": [
+        "1855307122"
+      ],
+      "disc_number": 1,
+      "duration_ms": 354522,
+      "id": "1856089288",
+      "isrc": "QT6F42534566",
+      "release_date": "2025-11-23",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "WORDS",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/words/1856089287?i=1856089288"
+    },
+    {
+      "album_artist_credit": "Marina Tarraf",
+      "album_ids": [
+        "1856363847"
+      ],
+      "album_title": "Слова - Single",
+      "artist_credit": "Marina Tarraf",
+      "artist_ids": [
+        "1855307122"
+      ],
+      "disc_number": 1,
+      "duration_ms": 307842,
+      "id": "1856363849",
+      "isrc": "QT6F52509695",
+      "release_date": "2025-11-24",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "Слова",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/%D1%81%D0%BB%D0%BE%D0%B2%D0%B0/1856363847?i=1856363849"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1856275541"
+      ],
+      "album_title": "Spotify - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 157285,
+      "id": "1856275542",
+      "isrc": "QT6F52561642",
+      "release_date": "2025-11-23",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "Spotify",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/spotify/1856275541?i=1856275542"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1856799000"
+      ],
+      "album_title": "ПРАВДА - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 282640,
+      "id": "1856799001",
+      "isrc": "QT6F72520888",
+      "release_date": "2025-11-27",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "ПРАВДА",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/%D0%BF%D1%80%D0%B0%D0%B2%D0%B4%D0%B0/1856799000?i=1856799001"
+    },
+    {
+      "album_artist_credit": "Marina Tarraf",
+      "album_ids": [
+        "1857238901"
+      ],
+      "album_title": "ГIMH ЛЮБОВІ - Single",
+      "artist_credit": "Marina Tarraf",
+      "artist_ids": [
+        "1855307122"
+      ],
+      "disc_number": 1,
+      "duration_ms": 313202,
+      "id": "1857238902",
+      "isrc": "QT6F72590802",
+      "release_date": "2025-11-28",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "ГIMH ЛЮБОВІ",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/%D0%B3imh-%D0%BB%D1%8E%D0%B1%D0%BE%D0%B2%D1%96/1857238901?i=1857238902"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1857312116"
+      ],
+      "album_title": "После Жизни - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 183762,
+      "id": "1857312118",
+      "isrc": "QT6F82569652",
+      "release_date": "2025-11-29",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "После Жизни",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/%D0%BF%D0%BE%D1%81%D0%BB%D0%B5-%D0%B6%D0%B8%D0%B7%D0%BD%D0%B8/1857312116?i=1857312118"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1857687231"
+      ],
+      "album_title": "ДУША - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 274966,
+      "id": "1857687232",
+      "isrc": "QT6F92592333",
+      "release_date": "2025-12-15",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "ДУША",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/%D0%B4%D1%83%D1%88%D0%B0/1857687231?i=1857687232"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1858364654"
+      ],
+      "album_title": "Жизнь это Ринг - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 286726,
+      "id": "1858364655",
+      "isrc": "QT6FE2539776",
+      "release_date": "2025-12-03",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "Жизнь это Ринг",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/%D0%B6%D0%B8%D0%B7%D0%BD%D1%8C-%D1%8D%D1%82%D0%BE-%D1%80%D0%B8%D0%BD%D0%B3/1858364654?i=1858364655"
+    },
+    {
+      "album_artist_credit": "Marina Tarraf",
+      "album_ids": [
+        "1858377925"
+      ],
+      "album_title": "Я Свет Он Тень - Single",
+      "artist_credit": "Marina Tarraf",
+      "artist_ids": [
+        "1855307122"
+      ],
+      "disc_number": 1,
+      "duration_ms": 297522,
+      "id": "1858377926",
+      "isrc": "QT6FE2543628",
+      "release_date": "2025-12-19",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "Я Свет Он Тень",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/%D1%8F-%D1%81%D0%B2%D0%B5%D1%82-%D0%BE%D0%BD-%D1%82%D0%B5%D0%BD%D1%8C/1858377925?i=1858377926"
+    },
+    {
+      "album_artist_credit": "Marina Tarraf",
+      "album_ids": [
+        "1858401299"
+      ],
+      "album_title": "NO LIMIT ANIMAL MODE - Single",
+      "artist_credit": "Marina Tarraf",
+      "artist_ids": [
+        "1855307122"
+      ],
+      "disc_number": 1,
+      "duration_ms": 245808,
+      "id": "1858401300",
+      "isrc": "QT6FE2548157",
+      "release_date": "2025-12-04",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "NO LIMIT ANIMAL MODE",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/no-limit-animal-mode/1858401299?i=1858401300"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1858409739"
+      ],
+      "album_title": "ЛЮБОВЬ РЕЗНЯ - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 332801,
+      "id": "1858409740",
+      "isrc": "QT6FE2551286",
+      "release_date": "2025-12-04",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "ЛЮБОВЬ РЕЗНЯ",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/%D0%BB%D1%8E%D0%B1%D0%BE%D0%B2%D1%8C-%D1%80%D0%B5%D0%B7%D0%BD%D1%8F/1858409739?i=1858409740"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1858497892"
+      ],
+      "album_title": "А что если - это Сны? - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 269968,
+      "id": "1858497893",
+      "isrc": "QT6FE2583599",
+      "release_date": "2025-12-04",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "А что если - это Сны?",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/%D0%B0-%D1%87%D1%82%D0%BE-%D0%B5%D1%81%D0%BB%D0%B8-%D1%8D%D1%82%D0%BE-%D1%81%D0%BD%D1%8B/1858497892?i=1858497893"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1858929495"
+      ],
+      "album_title": "КАЧЕЛІ ((UA Version)) - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 269568,
+      "id": "1858929496",
+      "isrc": "QT6FF2584414",
+      "release_date": "2025-12-05",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "КАЧЕЛІ (UA Version)",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/%D0%BA%D0%B0%D1%87%D0%B5%D0%BB%D1%96-ua-version/1858929495?i=1858929496"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf & Marina Tarraf",
+      "album_ids": [
+        "6793955748"
+      ],
+      "album_title": "Tarraf Productions Live, Vol. II: The Fire",
+      "artist_credit": "Alik Tarraf, Marina Tarraf & Lezzy",
+      "artist_ids": [
+        "1834783896",
+        "1855307122",
+        "1274475211"
+      ],
+      "disc_number": 1,
+      "duration_ms": 151960,
+      "id": "6793955751",
+      "isrc": "QT6FG2634831",
+      "release_date": "2026-08-21",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "Kacheli Introduction (LIVE)",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/kacheli-introduction-live/6793955748?i=6793955751"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf & Marina Tarraf",
+      "album_ids": [
+        "6793955748"
+      ],
+      "album_title": "Tarraf Productions Live, Vol. II: The Fire",
+      "artist_credit": "Alik Tarraf & Marina Tarraf",
+      "artist_ids": [
+        "1834783896",
+        "1855307122"
+      ],
+      "disc_number": 1,
+      "duration_ms": 308800,
+      "id": "6793955753",
+      "isrc": "QT6FG2634832",
+      "release_date": "2026-08-21",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "Качели (LIVE)",
+      "track_number": 2,
+      "url": "https://music.apple.com/ua/album/%D0%BA%D0%B0%D1%87%D0%B5%D0%BB%D0%B8-live/6793955748?i=6793955753"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf & Marina Tarraf",
+      "album_ids": [
+        "6793955748"
+      ],
+      "album_title": "Tarraf Productions Live, Vol. II: The Fire",
+      "artist_credit": "Alik Tarraf & Marina Tarraf",
+      "artist_ids": [
+        "1834783896",
+        "1855307122"
+      ],
+      "disc_number": 1,
+      "duration_ms": 317840,
+      "id": "6793955754",
+      "isrc": "QT6FG2634833",
+      "release_date": "2026-08-21",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "I'm Hungry (LIVE)",
+      "track_number": 3,
+      "url": "https://music.apple.com/ua/album/im-hungry-live/6793955748?i=6793955754"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf & Marina Tarraf",
+      "album_ids": [
+        "6793955748"
+      ],
+      "album_title": "Tarraf Productions Live, Vol. II: The Fire",
+      "artist_credit": "Alik Tarraf & Marina Tarraf",
+      "artist_ids": [
+        "1834783896",
+        "1855307122"
+      ],
+      "disc_number": 1,
+      "duration_ms": 328720,
+      "id": "6793955755",
+      "isrc": "QT6FG2634834",
+      "release_date": "2026-08-21",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "Noise Silence (LIVE)",
+      "track_number": 4,
+      "url": "https://music.apple.com/ua/album/noise-silence-live/6793955748?i=6793955755"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf & Marina Tarraf",
+      "album_ids": [
+        "6793955748"
+      ],
+      "album_title": "Tarraf Productions Live, Vol. II: The Fire",
+      "artist_credit": "Alik Tarraf & Marina Tarraf",
+      "artist_ids": [
+        "1834783896",
+        "1855307122"
+      ],
+      "disc_number": 1,
+      "duration_ms": 166960,
+      "id": "6793955756",
+      "isrc": "QT6FG2634835",
+      "release_date": "2026-08-21",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "Arabica Overture (LIVE)",
+      "track_number": 5,
+      "url": "https://music.apple.com/ua/album/arabica-overture-live/6793955748?i=6793955756"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf & Marina Tarraf",
+      "album_ids": [
+        "6793955748"
+      ],
+      "album_title": "Tarraf Productions Live, Vol. II: The Fire",
+      "artist_credit": "Alik Tarraf & Marina Tarraf",
+      "artist_ids": [
+        "1834783896",
+        "1855307122"
+      ],
+      "disc_number": 1,
+      "duration_ms": 184400,
+      "id": "6793955757",
+      "isrc": "QT6FG2634836",
+      "release_date": "2026-08-21",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "الليلة مجنونة (LIVE)",
+      "track_number": 6,
+      "url": "https://music.apple.com/ua/album/%D8%A7%D9%84%D9%84%D9%8A%D9%84%D8%A9-%D9%85%D8%AC%D9%86%D9%88%D9%86%D8%A9-live/6793955748?i=6793955757"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf & Marina Tarraf",
+      "album_ids": [
+        "6793955748"
+      ],
+      "album_title": "Tarraf Productions Live, Vol. II: The Fire",
+      "artist_credit": "Alik Tarraf & Marina Tarraf",
+      "artist_ids": [
+        "1834783896",
+        "1855307122"
+      ],
+      "disc_number": 1,
+      "duration_ms": 229560,
+      "id": "6793955758",
+      "isrc": "QT6FG2634837",
+      "release_date": "2026-08-21",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "Banina Banina Yalla Tarraf (LIVE)",
+      "track_number": 7,
+      "url": "https://music.apple.com/ua/album/banina-banina-yalla-tarraf-live/6793955748?i=6793955758"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf & Marina Tarraf",
+      "album_ids": [
+        "6793955748"
+      ],
+      "album_title": "Tarraf Productions Live, Vol. II: The Fire",
+      "artist_credit": "Alik Tarraf & Marina Tarraf",
+      "artist_ids": [
+        "1834783896",
+        "1855307122"
+      ],
+      "disc_number": 1,
+      "duration_ms": 289400,
+      "id": "6793955759",
+      "isrc": "QT6FG2634838",
+      "release_date": "2026-08-21",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "Release Me (LIVE)",
+      "track_number": 8,
+      "url": "https://music.apple.com/ua/album/release-me-live/6793955748?i=6793955759"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf & Marina Tarraf",
+      "album_ids": [
+        "6793955748"
+      ],
+      "album_title": "Tarraf Productions Live, Vol. II: The Fire",
+      "artist_credit": "Alik Tarraf, Marina Tarraf & Lezzy",
+      "artist_ids": [
+        "1834783896",
+        "1855307122",
+        "1274475211"
+      ],
+      "disc_number": 1,
+      "duration_ms": 272059,
+      "id": "6793955760",
+      "isrc": "QT6FG2634839",
+      "release_date": "2026-08-21",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "Hello (LIVE)",
+      "track_number": 9,
+      "url": "https://music.apple.com/ua/album/hello-live/6793955748?i=6793955760"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf & Marina Tarraf",
+      "album_ids": [
+        "6793955748"
+      ],
+      "album_title": "Tarraf Productions Live, Vol. II: The Fire",
+      "artist_credit": "Alik Tarraf & Marina Tarraf",
+      "artist_ids": [
+        "1834783896",
+        "1855307122"
+      ],
+      "disc_number": 1,
+      "duration_ms": 280720,
+      "id": "6793955971",
+      "isrc": "QT6FG2634840",
+      "release_date": "2026-08-21",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "Syria - سوريا (LIVE)",
+      "track_number": 10,
+      "url": "https://music.apple.com/ua/album/syria-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-live/6793955748?i=6793955971"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf & Marina Tarraf",
+      "album_ids": [
+        "6793955748"
+      ],
+      "album_title": "Tarraf Productions Live, Vol. II: The Fire",
+      "artist_credit": "Alik Tarraf & Marina Tarraf",
+      "artist_ids": [
+        "1834783896",
+        "1855307122"
+      ],
+      "disc_number": 1,
+      "duration_ms": 353960,
+      "id": "6793955973",
+      "isrc": "QT6FG2634841",
+      "release_date": "2026-08-21",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "Animals (LIVE)",
+      "track_number": 11,
+      "url": "https://music.apple.com/ua/album/animals-live/6793955748?i=6793955973"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf & Marina Tarraf",
+      "album_ids": [
+        "6793955748"
+      ],
+      "album_title": "Tarraf Productions Live, Vol. II: The Fire",
+      "artist_credit": "Alik Tarraf, Marina Tarraf & Lezzy",
+      "artist_ids": [
+        "1834783896",
+        "1855307122",
+        "1274475211"
+      ],
+      "disc_number": 1,
+      "duration_ms": 162640,
+      "id": "6793955974",
+      "isrc": "QT6FG2634842",
+      "release_date": "2026-08-21",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "Marina Birthday Celebration (LIVE)",
+      "track_number": 12,
+      "url": "https://music.apple.com/ua/album/marina-birthday-celebration-live/6793955748?i=6793955974"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf & Marina Tarraf",
+      "album_ids": [
+        "6793955748"
+      ],
+      "album_title": "Tarraf Productions Live, Vol. II: The Fire",
+      "artist_credit": "Alik Tarraf & Marina Tarraf",
+      "artist_ids": [
+        "1834783896",
+        "1855307122"
+      ],
+      "disc_number": 1,
+      "duration_ms": 185600,
+      "id": "6793955975",
+      "isrc": "QT6FG2634843",
+      "release_date": "2026-08-21",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "Ну Нина (LIVE)",
+      "track_number": 13,
+      "url": "https://music.apple.com/ua/album/%D0%BD%D1%83-%D0%BD%D0%B8%D0%BD%D0%B0-live/6793955748?i=6793955975"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf & Marina Tarraf",
+      "album_ids": [
+        "6793955748"
+      ],
+      "album_title": "Tarraf Productions Live, Vol. II: The Fire",
+      "artist_credit": "Alik Tarraf & Marina Tarraf",
+      "artist_ids": [
+        "1834783896",
+        "1855307122"
+      ],
+      "disc_number": 1,
+      "duration_ms": 288720,
+      "id": "6793955976",
+      "isrc": "QT6FG2634844",
+      "release_date": "2026-08-21",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "Ave Lumen Aeternum (LIVE)",
+      "track_number": 14,
+      "url": "https://music.apple.com/ua/album/ave-lumen-aeternum-live/6793955748?i=6793955976"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf & Marina Tarraf",
+      "album_ids": [
+        "6793955748"
+      ],
+      "album_title": "Tarraf Productions Live, Vol. II: The Fire",
+      "artist_credit": "Alik Tarraf & Marina Tarraf",
+      "artist_ids": [
+        "1834783896",
+        "1855307122"
+      ],
+      "disc_number": 1,
+      "duration_ms": 272160,
+      "id": "6793955977",
+      "isrc": "QT6FG2634845",
+      "release_date": "2026-08-21",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "Ad Vinculum (LIVE)",
+      "track_number": 15,
+      "url": "https://music.apple.com/ua/album/ad-vinculum-live/6793955748?i=6793955977"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf & Marina Tarraf",
+      "album_ids": [
+        "6793955748"
+      ],
+      "album_title": "Tarraf Productions Live, Vol. II: The Fire",
+      "artist_credit": "Alik Tarraf & Marina Tarraf",
+      "artist_ids": [
+        "1834783896",
+        "1855307122"
+      ],
+      "disc_number": 1,
+      "duration_ms": 279920,
+      "id": "6793955978",
+      "isrc": "QT6FG2634846",
+      "release_date": "2026-08-21",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "Dubai Lights (LIVE)",
+      "track_number": 16,
+      "url": "https://music.apple.com/ua/album/dubai-lights-live/6793955748?i=6793955978"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf & Marina Tarraf",
+      "album_ids": [
+        "6793955748"
+      ],
+      "album_title": "Tarraf Productions Live, Vol. II: The Fire",
+      "artist_credit": "Alik Tarraf & Marina Tarraf",
+      "artist_ids": [
+        "1834783896",
+        "1855307122"
+      ],
+      "disc_number": 1,
+      "duration_ms": 333320,
+      "id": "6793955979",
+      "isrc": "QT6FG2634847",
+      "release_date": "2026-08-21",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "Good and Evil (LIVE)",
+      "track_number": 17,
+      "url": "https://music.apple.com/ua/album/good-and-evil-live/6793955748?i=6793955979"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf & Marina Tarraf",
+      "album_ids": [
+        "6793955748"
+      ],
+      "album_title": "Tarraf Productions Live, Vol. II: The Fire",
+      "artist_credit": "Alik Tarraf, Marina Tarraf & Lezzy",
+      "artist_ids": [
+        "1834783896",
+        "1855307122",
+        "1274475211"
+      ],
+      "disc_number": 1,
+      "duration_ms": 145000,
+      "id": "6793955980",
+      "isrc": "QT6FG2634848",
+      "release_date": "2026-08-21",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "Alik Guitar Improvisation (LIVE)",
+      "track_number": 18,
+      "url": "https://music.apple.com/ua/album/alik-guitar-improvisation-live/6793955748?i=6793955980"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf & Marina Tarraf",
+      "album_ids": [
+        "6793955748"
+      ],
+      "album_title": "Tarraf Productions Live, Vol. II: The Fire",
+      "artist_credit": "Alik Tarraf & Marina Tarraf",
+      "artist_ids": [
+        "1834783896",
+        "1855307122"
+      ],
+      "disc_number": 1,
+      "duration_ms": 293320,
+      "id": "6793955981",
+      "isrc": "QT6FG2634849",
+      "release_date": "2026-08-21",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "The End (LIVE)",
+      "track_number": 19,
+      "url": "https://music.apple.com/ua/album/the-end-live/6793955748?i=6793955981"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf & Marina Tarraf",
+      "album_ids": [
+        "6793955748"
+      ],
+      "album_title": "Tarraf Productions Live, Vol. II: The Fire",
+      "artist_credit": "Alik Tarraf, Marina Tarraf & Lezzy",
+      "artist_ids": [
+        "1834783896",
+        "1855307122",
+        "1274475211"
+      ],
+      "disc_number": 1,
+      "duration_ms": 192000,
+      "id": "6793955982",
+      "isrc": "QT6FG2634850",
+      "release_date": "2026-08-21",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "I'm Alive Prelude (LIVE)",
+      "track_number": 20,
+      "url": "https://music.apple.com/ua/album/im-alive-prelude-live/6793955748?i=6793955982"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf & Marina Tarraf",
+      "album_ids": [
+        "6793955748"
+      ],
+      "album_title": "Tarraf Productions Live, Vol. II: The Fire",
+      "artist_credit": "Alik Tarraf & Marina Tarraf",
+      "artist_ids": [
+        "1834783896",
+        "1855307122"
+      ],
+      "disc_number": 1,
+      "duration_ms": 318320,
+      "id": "6793955983",
+      "isrc": "QT6FG2634851",
+      "release_date": "2026-08-21",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "I'm Alive (LIVE)",
+      "track_number": 21,
+      "url": "https://music.apple.com/ua/album/im-alive-live/6793955748?i=6793955983"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf & Marina Tarraf",
+      "album_ids": [
+        "6793955748"
+      ],
+      "album_title": "Tarraf Productions Live, Vol. II: The Fire",
+      "artist_credit": "Alik Tarraf & Marina Tarraf",
+      "artist_ids": [
+        "1834783896",
+        "1855307122"
+      ],
+      "disc_number": 1,
+      "duration_ms": 302120,
+      "id": "6793955984",
+      "isrc": "QT6FG2634852",
+      "release_date": "2026-08-21",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "Ignis in Me (LIVE)",
+      "track_number": 22,
+      "url": "https://music.apple.com/ua/album/ignis-in-me-live/6793955748?i=6793955984"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf & Marina Tarraf",
+      "album_ids": [
+        "6793955748"
+      ],
+      "album_title": "Tarraf Productions Live, Vol. II: The Fire",
+      "artist_credit": "Alik Tarraf & Marina Tarraf",
+      "artist_ids": [
+        "1834783896",
+        "1855307122"
+      ],
+      "disc_number": 1,
+      "duration_ms": 363520,
+      "id": "6793955985",
+      "isrc": "QT6FG2634853",
+      "release_date": "2026-08-21",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "Dream of Light (LIVE)",
+      "track_number": 23,
+      "url": "https://music.apple.com/ua/album/dream-of-light-live/6793955748?i=6793955985"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1859324464"
+      ],
+      "album_title": "Хочу Люблю Живу - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 248726,
+      "id": "1859324465",
+      "isrc": "QT6FH2505815",
+      "release_date": "2025-12-07",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "Хочу Люблю Живу",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/%D1%85%D0%BE%D1%87%D1%83-%D0%BB%D1%8E%D0%B1%D0%BB%D1%8E-%D0%B6%D0%B8%D0%B2%D1%83/1859324464?i=1859324465"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1860727179"
+      ],
+      "album_title": "EISENHERZ - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 246965,
+      "id": "1860727180",
+      "isrc": "QT6FL2567189",
+      "release_date": "2025-12-12",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "EISENHERZ",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/eisenherz/1860727179?i=1860727180"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1861182124"
+      ],
+      "album_title": "Ty Angel ya Demon - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 206562,
+      "id": "1861182125",
+      "isrc": "QT6FP2502129",
+      "release_date": "2025-12-14",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "Ty Angel ya Demon",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/ty-angel-ya-demon/1861182124?i=1861182125"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1861190030"
+      ],
+      "album_title": "HAPPY NEW YEAR WORLD - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 284882,
+      "id": "1861190031",
+      "isrc": "QT6FP2505649",
+      "release_date": "2025-12-14",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "HAPPY NEW YEAR WORLD",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/happy-new-year-world/1861190030?i=1861190031"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1863496259"
+      ],
+      "album_title": "AMERICAN DREAMS - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 276282,
+      "id": "1863496260",
+      "isrc": "QT6G52547940",
+      "release_date": "2025-12-22",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "AMERICAN DREAMS",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/american-dreams/1863496259?i=1863496260"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1863880905"
+      ],
+      "album_title": "ЦЫГАНСКАЯ ДУША - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 259769,
+      "id": "1863880906",
+      "isrc": "QT6G62556719",
+      "release_date": "2025-12-23",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "ЦЫГАНСКАЯ ДУША",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/%D1%86%D1%8B%D0%B3%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F-%D0%B4%D1%83%D1%88%D0%B0/1863880905?i=1863880906"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1864174737"
+      ],
+      "album_title": "НИКТО КРОМЕ НАС - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 237486,
+      "id": "1864174738",
+      "isrc": "QT6G72538692",
+      "release_date": "2025-12-24",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "НИКТО КРОМЕ НАС",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/%D0%BD%D0%B8%D0%BA%D1%82%D0%BE-%D0%BA%D1%80%D0%BE%D0%BC%D0%B5-%D0%BD%D0%B0%D1%81/1864174737?i=1864174738"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1864248958"
+      ],
+      "album_title": "КУПИ БИЛЕТ - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 234003,
+      "id": "1864248959",
+      "isrc": "QT6G72585854",
+      "release_date": "2025-12-25",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "КУПИ БИЛЕТ",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/%D0%BA%D1%83%D0%BF%D0%B8-%D0%B1%D0%B8%D0%BB%D0%B5%D1%82/1864248958?i=1864248959"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [],
+      "album_title": "STILL YOURS - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [],
+      "disc_number": 1,
+      "duration_ms": 293082,
+      "id": "1865374437",
+      "isrc": "QT6HK2556744",
+      "release_date": "2025-12-29",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "STILL YOURS",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/still-yours/1865374436?i=1865374437"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1865503892"
+      ],
+      "album_title": "I'M ALIVE - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 251962,
+      "id": "1865503893",
+      "isrc": "QT6HL2521340",
+      "release_date": "2025-12-30",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "I'M ALIVE",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/im-alive/1865503892?i=1865503893"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1868323012"
+      ],
+      "album_title": "I'M HUNGRY - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 256967,
+      "id": "1868323013",
+      "isrc": "QZDA42650506",
+      "release_date": "2026-01-12",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "I'M HUNGRY",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/im-hungry/1868323012?i=1868323013"
+    },
+    {
+      "album_artist_credit": "Marina Tarraf",
+      "album_ids": [
+        "1868550078"
+      ],
+      "album_title": "ЧОМУ Я БЕЗ ДОМУ (feat. Aliana Tarraf) - Single",
+      "artist_credit": "Marina Tarraf",
+      "artist_ids": [
+        "1855307122"
+      ],
+      "disc_number": 1,
+      "duration_ms": 204967,
+      "id": "1868550559",
+      "isrc": "QZDA42690879",
+      "release_date": "2026-01-11",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "ЧОМУ Я БЕЗ ДОМУ (feat. Aliana Tarraf)",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/%D1%87%D0%BE%D0%BC%D1%83-%D1%8F-%D0%B1%D0%B5%D0%B7-%D0%B4%D0%BE%D0%BC%D1%83-feat-aliana-tarraf/1868550078?i=1868550559"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1865910363"
+      ],
+      "album_title": "Don't speak - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 206243,
+      "id": "1865910364",
+      "isrc": "QZFYX2677356",
+      "release_date": "2026-01-02",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "Don't speak",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/dont-speak/1865910363?i=1865910364"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1866130028"
+      ],
+      "album_title": "LIFE RACING - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 129968,
+      "id": "1866130029",
+      "isrc": "QZFYY2651675",
+      "release_date": "2026-01-02",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "LIFE RACING",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/life-racing/1866130028?i=1866130029"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1866253528"
+      ],
+      "album_title": "ASH REMEMBERS - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 217284,
+      "id": "1866253529",
+      "isrc": "QZFYZ2616937",
+      "release_date": "2026-01-03",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "ASH REMEMBERS",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/ash-remembers/1866253528?i=1866253529"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1866358286"
+      ],
+      "album_title": "STAY - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 392602,
+      "id": "1866358287",
+      "isrc": "QZFYZ2670515",
+      "release_date": "2026-01-04",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "STAY",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/stay/1866358286?i=1866358287"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [],
+      "album_title": "سوريا (Syria) - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [],
+      "disc_number": 1,
+      "duration_ms": 328085,
+      "id": "1866862696",
+      "isrc": "QZFZ32649205",
+      "release_date": "2026-01-06",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "سوريا (Syria)",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-syria/1866862695?i=1866862696"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1867101626"
+      ],
+      "album_title": "Тарраф продакшинс поздравляет с Новым Годом - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 306768,
+      "id": "1867101627",
+      "isrc": "QZFZ42614354",
+      "release_date": "2026-01-13",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "Тарраф продакшинс поздравляет с Новым Годом",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/%D1%82%D0%B0%D1%80%D1%80%D0%B0%D1%84-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%BA%D1%88%D0%B8%D0%BD%D1%81-%D0%BF%D0%BE%D0%B7%D0%B4%D1%80%D0%B0%D0%B2%D0%BB%D1%8F%D0%B5%D1%82-%D1%81-%D0%BD%D0%BE%D0%B2%D1%8B%D0%BC-%D0%B3%D0%BE%D0%B4%D0%BE%D0%BC/1867101626?i=1867101627"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1867601966"
+      ],
+      "album_title": "ПОПЛАЧЬ НА МОЕЙ ГРУДИ - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 273083,
+      "id": "1867601967",
+      "isrc": "QZFZ62631227",
+      "release_date": "2026-01-08",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "ПОПЛАЧЬ НА МОЕЙ ГРУДИ",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/%D0%BF%D0%BE%D0%BF%D0%BB%D0%B0%D1%87%D1%8C-%D0%BD%D0%B0-%D0%BC%D0%BE%D0%B5%D0%B9-%D0%B3%D1%80%D1%83%D0%B4%D0%B8/1867601966?i=1867601967"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1867807252"
+      ],
+      "album_title": "ЭТО МЕЛОЧИ - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 234969,
+      "id": "1867807254",
+      "isrc": "QZFZ62683800",
+      "release_date": "2026-01-08",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "ЭТО МЕЛОЧИ",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/%D1%8D%D1%82%D0%BE-%D0%BC%D0%B5%D0%BB%D0%BE%D1%87%D0%B8/1867807252?i=1867807254"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1872709598"
+      ],
+      "album_title": "Пока мы живы (feat. Marina Tarraf) - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 253122,
+      "id": "1872709599",
+      "isrc": "QZHN42663366",
+      "release_date": "2026-02-06",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "Пока мы живы (feat. Marina Tarraf)",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/%D0%BF%D0%BE%D0%BA%D0%B0-%D0%BC%D1%8B-%D0%B6%D0%B8%D0%B2%D1%8B-feat-marina-tarraf/1872709598?i=1872709599"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [],
+      "album_title": "Más Cerca / Closer (feat. Marina Tarraf) - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [],
+      "disc_number": 1,
+      "duration_ms": 229522,
+      "id": "1877599683",
+      "isrc": "QZK6L2688089",
+      "release_date": "2026-02-17",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "Más Cerca / Closer (feat. Marina Tarraf)",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/m%C3%A1s-cerca-closer-feat-marina-tarraf/1877599682?i=1877599683"
+    },
+    {
+      "album_artist_credit": "Marina Tarraf",
+      "album_ids": [],
+      "album_title": "Все хорошо (Live) - Single",
+      "artist_credit": "Marina Tarraf",
+      "artist_ids": [],
+      "disc_number": 1,
+      "duration_ms": 222007,
+      "id": "1876641398",
+      "isrc": "QZK6N2617663",
+      "release_date": "2026-02-16",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "Все хорошо (Live)",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/%D0%B2%D1%81%D0%B5-%D1%85%D0%BE%D1%80%D0%BE%D1%88%D0%BE-live/1876641397?i=1876641398"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [],
+      "album_title": "Он рисует мир - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [],
+      "disc_number": 1,
+      "duration_ms": 214880,
+      "id": "1880412664",
+      "isrc": "QZMEP2615493",
+      "release_date": "2026-03-01",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "Он рисует мир",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/%D0%BE%D0%BD-%D1%80%D0%B8%D1%81%D1%83%D0%B5%D1%82-%D0%BC%D0%B8%D1%80/1880412662?i=1880412664"
+    },
+    {
+      "album_artist_credit": "Marina Tarraf",
+      "album_ids": [],
+      "album_title": "Continuity / Мы- Переход (feat. Alik Tarraf) [Manifesto] - Single",
+      "artist_credit": "Marina Tarraf",
+      "artist_ids": [],
+      "disc_number": 1,
+      "duration_ms": 244960,
+      "id": "1880048965",
+      "isrc": "QZMEP2665142",
+      "release_date": "2026-02-28",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "Continuity / Мы- Переход (feat. Alik Tarraf) [Manifesto]",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/continuity-%D0%BC%D1%8B-%D0%BF%D0%B5%D1%80%D0%B5%D1%85%D0%BE%D0%B4-feat-alik-tarraf-manifesto/1880048964?i=1880048965"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1882366409"
+      ],
+      "album_title": "Aliana (feat. Marina Tarraf) - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 280960,
+      "id": "1882366411",
+      "isrc": "QZNWU2642118",
+      "release_date": "2026-03-03",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "Aliana (feat. Marina Tarraf)",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/aliana-feat-marina-tarraf/1882366409?i=1882366411"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [],
+      "album_title": "Bèsame, Ya habibi (feat. Marina Tarraf) - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [],
+      "disc_number": 1,
+      "duration_ms": 334120,
+      "id": "1890792556",
+      "isrc": "QZTB82636905",
+      "release_date": "2026-04-07",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "Bèsame, Ya habibi (feat. Marina Tarraf)",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/b%C3%A8same-ya-habibi-feat-marina-tarraf/1890792555?i=1890792556"
+    },
+    {
+      "album_artist_credit": "Marina Tarraf",
+      "album_ids": [],
+      "album_title": "Буллинг (feat. Alik Tarraf) - Single",
+      "artist_credit": "Marina Tarraf",
+      "artist_ids": [],
+      "disc_number": 1,
+      "duration_ms": 218160,
+      "id": "1891230589",
+      "isrc": "QZTBA2623452",
+      "release_date": "2026-04-12",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "Буллинг (feat. Alik Tarraf)",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/%D0%B1%D1%83%D0%BB%D0%BB%D0%B8%D0%BD%D0%B3-feat-alik-tarraf/1891230588?i=1891230589"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1894303328"
+      ],
+      "album_title": "Позвони родителям (feat. Marina Tarraf) - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 372680,
+      "id": "1894303329",
+      "isrc": "QZWFF2662937",
+      "release_date": "2026-04-17",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "Позвони родителям (feat. Marina Tarraf)",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/%D0%BF%D0%BE%D0%B7%D0%B2%D0%BE%D0%BD%D0%B8-%D1%80%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D1%8F%D0%BC-feat-marina-tarraf/1894303328?i=1894303329"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [],
+      "album_title": "VELCARON — LUX IN TENEBRIS (feat. Marina Tarraf) [Dark Ritual] - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [],
+      "disc_number": 1,
+      "duration_ms": 461120,
+      "id": "1894723404",
+      "isrc": "QZWFK2666932",
+      "release_date": "2026-05-01",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "VELCARON — LUX IN TENEBRIS (feat. Marina Tarraf) [Dark Ritual]",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/velcaron-lux-in-tenebris-feat-marina-tarraf-dark-ritual/1894723403?i=1894723404"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1835065423"
+      ],
+      "album_title": "SWINGS - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 297480,
+      "id": "1835065424",
+      "isrc": "QZZ792534259",
+      "release_date": "2025-08-20",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "SWINGS (EMO Version)",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/swings-emo-version/1835065423?i=1835065424"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1835132296"
+      ],
+      "album_title": "Kacheli (EMO Version) - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 322960,
+      "id": "1835132297",
+      "isrc": "QZZ792534374",
+      "release_date": "2025-08-25",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "Kacheli (EMO Version)",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/kacheli-emo-version/1835132296?i=1835132297"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1835132429"
+      ],
+      "album_title": "Nazar - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 288080,
+      "id": "1835132430",
+      "isrc": "QZZ792534404",
+      "release_date": "2025-08-21",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "Nazar",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/nazar/1835132429?i=1835132430"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1835058949"
+      ],
+      "album_title": "El balón siempre volará - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 203120,
+      "id": "1835058950",
+      "isrc": "QZZ792534415",
+      "release_date": "2025-08-21",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "El balón siempre volará",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/el-bal%C3%B3n-siempre-volar%C3%A1/1835058949?i=1835058950"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1835056471"
+      ],
+      "album_title": "FIFA (Мяч) - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 219760,
+      "id": "1835056472",
+      "isrc": "QZZ792534432",
+      "release_date": "2025-08-21",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "FIFA (Мяч)",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/fifa-%D0%BC%D1%8F%D1%87/1835056471?i=1835056472"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1835066026"
+      ],
+      "album_title": "UA (Це наш вайб) - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 224680,
+      "id": "1835066027",
+      "isrc": "QZZ792534435",
+      "release_date": "2025-08-21",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "UA (Це наш вайб)",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/ua-%D1%86%D0%B5-%D0%BD%D0%B0%D1%88-%D0%B2%D0%B0%D0%B9%D0%B1/1835066026?i=1835066027"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1835056478"
+      ],
+      "album_title": "Non Name Road (Безлюдная дорога) - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 238640,
+      "id": "1835056479",
+      "isrc": "QZZ792534449",
+      "release_date": "2025-08-21",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "Non Name Road (Безлюдная дорога)",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/non-name-road-%D0%B1%D0%B5%D0%B7%D0%BB%D1%8E%D0%B4%D0%BD%D0%B0%D1%8F-%D0%B4%D0%BE%D1%80%D0%BE%D0%B3%D0%B0/1835056478?i=1835056479"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1835058894"
+      ],
+      "album_title": "13 YEARS (feat. Marina Tarraf) - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 219240,
+      "id": "1835058895",
+      "isrc": "QZZ792534485",
+      "release_date": "2025-08-21",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "13 YEARS (feat. Marina Tarraf)",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/13-years-feat-marina-tarraf/1835058894?i=1835058895"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [],
+      "album_title": "Good Evil (Добро и Зло) - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [],
+      "disc_number": 1,
+      "duration_ms": 197640,
+      "id": "1835059054",
+      "isrc": "QZZ792534489",
+      "release_date": "2025-08-21",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "Good Evil (Добро и Зло)",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/good-evil-%D0%B4%D0%BE%D0%B1%D1%80%D0%BE-%D0%B8-%D0%B7%D0%BB%D0%BE/1835059053?i=1835059054"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1835058952"
+      ],
+      "album_title": "Family (Родители во мне) - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 273800,
+      "id": "1835058953",
+      "isrc": "QZZ792534493",
+      "release_date": "2025-08-21",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "Family (Родители во мне)",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/family-%D1%80%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D0%B8-%D0%B2%D0%BE-%D0%BC%D0%BD%D0%B5/1835058952?i=1835058953"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1835066120"
+      ],
+      "album_title": "Nadoelo (Надоело) - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 224120,
+      "id": "1835066121",
+      "isrc": "QZZ792534538",
+      "release_date": "2025-08-21",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "Nadoelo (Надоело)",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/nadoelo-%D0%BD%D0%B0%D0%B4%D0%BE%D0%B5%D0%BB%D0%BE/1835066120?i=1835066121"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [],
+      "album_title": "TIME (Время) - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [],
+      "disc_number": 1,
+      "duration_ms": 223880,
+      "id": "1835132832",
+      "isrc": "QZZ792534564",
+      "release_date": "2025-08-22",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "TIME (Время)",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/time-%D0%B2%D1%80%D0%B5%D0%BC%D1%8F/1835132831?i=1835132832"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1835056703"
+      ],
+      "album_title": "X (СЛОЖНО) - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 331960,
+      "id": "1835056704",
+      "isrc": "QZZ792534569",
+      "release_date": "2025-08-22",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "X (СЛОЖНО)",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/x-%D1%81%D0%BB%D0%BE%D0%B6%D0%BD%D0%BE/1835056703?i=1835056704"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [],
+      "album_title": "PROSTO - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [],
+      "disc_number": 1,
+      "duration_ms": 457560,
+      "id": "1835133498",
+      "isrc": "QZZ792534916",
+      "release_date": "2025-08-22",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "PROSTO",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/prosto/1835133497?i=1835133498"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [],
+      "album_title": "Nina (Ну Нина) - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [],
+      "disc_number": 1,
+      "duration_ms": 136640,
+      "id": "1835099017",
+      "isrc": "QZZ792546059",
+      "release_date": "2025-08-22",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "Nina (Ну Нина)",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/nina-%D0%BD%D1%83-%D0%BD%D0%B8%D0%BD%D0%B0/1835099016?i=1835099017"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1835091315"
+      ],
+      "album_title": "Vyshel Alik Pogulyat - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 237600,
+      "id": "1835091316",
+      "isrc": "QZZ792546205",
+      "release_date": "2025-08-22",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "Vyshel Alik Pogulyat",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/vyshel-alik-pogulyat/1835091315?i=1835091316"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1835101489"
+      ],
+      "album_title": "ВОСТОЧНАЯ МАРИНА ((VIP MIX)) - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 271520,
+      "id": "1835101490",
+      "isrc": "QZZ792549391",
+      "release_date": "2025-08-22",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "ВОСТОЧНАЯ МАРИНА (VIP MIX)",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/%D0%B2%D0%BE%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B0%D1%8F-%D0%BC%D0%B0%D1%80%D0%B8%D0%BD%D0%B0-vip-mix/1835101489?i=1835101490"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [],
+      "album_title": "We (Мы) - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [],
+      "disc_number": 1,
+      "duration_ms": 284960,
+      "id": "1835161146",
+      "isrc": "QZZ792549429",
+      "release_date": "2025-08-22",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "We (Мы)",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/we-%D0%BC%D1%8B/1835161145?i=1835161146"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1835161345"
+      ],
+      "album_title": "Boginya (feat. Marina Tarraf) - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 260040,
+      "id": "1835161346",
+      "isrc": "QZZ792549661",
+      "release_date": "2025-08-22",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "Boginya (feat. Marina Tarraf)",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/boginya-feat-marina-tarraf/1835161345?i=1835161346"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1835112854"
+      ],
+      "album_title": "Затмила Мы - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 188600,
+      "id": "1835112855",
+      "isrc": "QZZ792557117",
+      "release_date": "2025-08-22",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "Затмила Мы",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/%D0%B7%D0%B0%D1%82%D0%BC%D0%B8%D0%BB%D0%B0-%D0%BC%D1%8B/1835112854?i=1835112855"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1835121198"
+      ],
+      "album_title": "Зачем Зачем - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 321840,
+      "id": "1835121199",
+      "isrc": "QZZ792559514",
+      "release_date": "2025-08-22",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "Зачем Зачем",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/%D0%B7%D0%B0%D1%87%D0%B5%D0%BC-%D0%B7%D0%B0%D1%87%D0%B5%D0%BC/1835121198?i=1835121199"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1835205676"
+      ],
+      "album_title": "Ты Я Не Мы - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 284600,
+      "id": "1835205677",
+      "isrc": "QZZ792568528",
+      "release_date": "2025-08-22",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "Ты Я Не Мы",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/%D1%82%D1%8B-%D1%8F-%D0%BD%D0%B5-%D0%BC%D1%8B/1835205676?i=1835205677"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1835159747"
+      ],
+      "album_title": "Up and Down (feat. Marina Tarraf) - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 270000,
+      "id": "1835159748",
+      "isrc": "QZZ792573561",
+      "release_date": "2025-08-22",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "Up and Down (feat. Marina Tarraf)",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/up-and-down-feat-marina-tarraf/1835159747?i=1835159748"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [],
+      "album_title": "ملاكي وشيطاني - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [],
+      "disc_number": 1,
+      "duration_ms": 283563,
+      "id": "1835165976",
+      "isrc": "QZZ792576554",
+      "release_date": "2025-08-22",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "ملاكي وشيطاني",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/%D9%85%D9%84%D8%A7%D9%83%D9%8A-%D9%88%D8%B4%D9%8A%D8%B7%D8%A7%D9%86%D9%8A/1835165975?i=1835165976"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1835170700"
+      ],
+      "album_title": "Качели (REMIX) - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 235520,
+      "id": "1835171001",
+      "isrc": "QZZ792578839",
+      "release_date": "2025-08-22",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "Качели (REMIX)",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/%D0%BA%D0%B0%D1%87%D0%B5%D0%BB%D0%B8-remix/1835170700?i=1835171001"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1835378964"
+      ],
+      "album_title": "TARRAF STORY - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 240000,
+      "id": "1835378965",
+      "isrc": "QZZ7K2531050",
+      "release_date": "2025-08-23",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "TARRAF STORY",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/tarraf-story/1835378964?i=1835378965"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1835344971"
+      ],
+      "album_title": "CHOOSE YOU - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 172360,
+      "id": "1835344972",
+      "isrc": "QZZ7K2539567",
+      "release_date": "2025-08-24",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "CHOOSE YOU",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/choose-you/1835344971?i=1835344972"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1835394770"
+      ],
+      "album_title": "Silence (ШУМНАЯ ТИШИНА) - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 308040,
+      "id": "1835394892",
+      "isrc": "QZZ7K2560887",
+      "release_date": "2025-08-24",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "Silence (ШУМНАЯ ТИШИНА)",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/silence-%D1%88%D1%83%D0%BC%D0%BD%D0%B0%D1%8F-%D1%82%D0%B8%D1%88%D0%B8%D0%BD%D0%B0/1835394770?i=1835394892"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1835438195"
+      ],
+      "album_title": "NOISY SILENCE - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 355840,
+      "id": "1835438196",
+      "isrc": "QZZ7K2569335",
+      "release_date": "2025-08-24",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "NOISY SILENCE",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/noisy-silence/1835438195?i=1835438196"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1835629438"
+      ],
+      "album_title": "PROSTO (feat. Marina Tarraf) [Remix] - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 193000,
+      "id": "1835629440",
+      "isrc": "QZZ7K2583227",
+      "release_date": "2025-08-23",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "PROSTO (feat. Marina Tarraf) [Remix]",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/prosto-feat-marina-tarraf-remix/1835629438?i=1835629440"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1835767850"
+      ],
+      "album_title": "EAGLES NOT CROWS - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 338960,
+      "id": "1835767851",
+      "isrc": "QZZ7L2526027",
+      "release_date": "2025-08-25",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "EAGLES NOT CROWS",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/eagles-not-crows/1835767850?i=1835767851"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1835888091"
+      ],
+      "album_title": "ГІМН УКРАЇНИ - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 272680,
+      "id": "1835888092",
+      "isrc": "QZZ7L2537421",
+      "release_date": "2025-08-26",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "ГІМН УКРАЇНИ",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/%D0%B3%D1%96%D0%BC%D0%BD-%D1%83%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B8/1835888091?i=1835888092"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1835938056"
+      ],
+      "album_title": "GOOD AND EVIL - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 298003,
+      "id": "1835938057",
+      "isrc": "QZZ7L2573240",
+      "release_date": "2025-08-26",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "GOOD AND EVIL",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/good-and-evil/1835938056?i=1835938057"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [],
+      "album_title": "Born for more - Рождены для большего (feat. Marina Tarraf) [LIVE] - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [],
+      "disc_number": 1,
+      "duration_ms": 361880,
+      "id": "6769771167",
+      "isrc": "QZZ7L2635089",
+      "release_date": "2026-05-27",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "Born for more - Рождены для большего (feat. Marina Tarraf) [LIVE]",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/born-for-more-%D1%80%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%B1%D0%BE%D0%BB%D1%8C%D1%88%D0%B5%D0%B3%D0%BE-feat-marina-tarraf-live/6769771166?i=6769771167"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1836083504"
+      ],
+      "album_title": "Why Why - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 301920,
+      "id": "1836083505",
+      "isrc": "QZZ7M2502769",
+      "release_date": "2025-08-27",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "Why Why",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/why-why/1836083504?i=1836083505"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1836564222"
+      ],
+      "album_title": "No Forgiveness (Не Умоляй) - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 345040,
+      "id": "1836564223",
+      "isrc": "QZZ7N2502093",
+      "release_date": "2025-08-29",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "No Forgiveness (Не Умоляй)",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/no-forgiveness-%D0%BD%D0%B5-%D1%83%D0%BC%D0%BE%D0%BB%D1%8F%D0%B9/1836564222?i=1836564223"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1836571026"
+      ],
+      "album_title": "PARADOX - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 296320,
+      "id": "1836571027",
+      "isrc": "QZZ7N2505349",
+      "release_date": "2025-08-29",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "PARADOX",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/paradox/1836571026?i=1836571027"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1837448433"
+      ],
+      "album_title": "FORGET ME - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 319400,
+      "id": "1837448434",
+      "isrc": "QZZ7Q2500446",
+      "release_date": "2025-09-01",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "FORGET ME",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/forget-me/1837448433?i=1837448434"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1837338045"
+      ],
+      "album_title": "Night Alive (Ночь Оживает) - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 199760,
+      "id": "1837338046",
+      "isrc": "QZZ7Q2504670",
+      "release_date": "2025-09-01",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "Night Alive (Ночь Оживает)",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/night-alive-%D0%BD%D0%BE%D1%87%D1%8C-%D0%BE%D0%B6%D0%B8%D0%B2%D0%B0%D0%B5%D1%82/1837338045?i=1837338046"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1837705490"
+      ],
+      "album_title": "Воздушный Шар - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 412640,
+      "id": "1837705494",
+      "isrc": "QZZ7Q2550781",
+      "release_date": "2025-09-02",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "Воздушный Шар",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/%D0%B2%D0%BE%D0%B7%D0%B4%D1%83%D1%88%D0%BD%D1%8B%D0%B9-%D1%88%D0%B0%D1%80/1837705490?i=1837705494"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1837583118"
+      ],
+      "album_title": "RISING BALLOON - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 450520,
+      "id": "1837583119",
+      "isrc": "QZZ7Q2558452",
+      "release_date": "2025-09-03",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "RISING BALLOON",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/rising-balloon/1837583118?i=1837583119"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [],
+      "album_title": "Epic Evolution Music (Live Studio Session) - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [],
+      "disc_number": 1,
+      "duration_ms": 391960,
+      "id": "6770759377",
+      "isrc": "QZZ7R2695699",
+      "release_date": "2026-06-19",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "Epic Evolution Music (Live Studio Session)",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/epic-evolution-music-live-studio-session/6770759376?i=6770759377"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1838238925"
+      ],
+      "album_title": "День Birthday - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 236320,
+      "id": "1838238928",
+      "isrc": "QZZ7S2512624",
+      "release_date": "2025-09-05",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "День Birthday",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/%D0%B4%D0%B5%D0%BD%D1%8C-birthday/1838238925?i=1838238928"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1838279307"
+      ],
+      "album_title": "Narcissi (Нарцисс) - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 327760,
+      "id": "1838279309",
+      "isrc": "QZZ7S2525590",
+      "release_date": "2025-09-06",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "Narcissi (Нарцисс)",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/narcissi-%D0%BD%D0%B0%D1%80%D1%86%D0%B8%D1%81%D1%81/1838279307?i=1838279309"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1838563826"
+      ],
+      "album_title": "APOCALYPSES (feat. Marina Tarraf) - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 274800,
+      "id": "1838563827",
+      "isrc": "QZZ7S2565863",
+      "release_date": "2025-09-07",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "APOCALYPSES (feat. Marina Tarraf)",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/apocalypses-feat-marina-tarraf/1838563826?i=1838563827"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1838930604"
+      ],
+      "album_title": "Judgment Day (КОНЕЦ СВЕТА) - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 353640,
+      "id": "1838930875",
+      "isrc": "QZZ7T2578083",
+      "release_date": "2025-09-09",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "Judgment Day (КОНЕЦ СВЕТА)",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/judgment-day-%D0%BA%D0%BE%D0%BD%D0%B5%D1%86-%D1%81%D0%B2%D0%B5%D1%82%D0%B0/1838930604?i=1838930875"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [],
+      "album_title": "GODDESS - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [],
+      "disc_number": 1,
+      "duration_ms": 264560,
+      "id": "1839352235",
+      "isrc": "QZZ7U2554210",
+      "release_date": "2025-09-10",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "GODDESS",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/goddess/1839352234?i=1839352235"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1839490815"
+      ],
+      "album_title": "PARADISE - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 190120,
+      "id": "1839490816",
+      "isrc": "QZZ7U2557695",
+      "release_date": "2025-09-11",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "PARADISE",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/paradise/1839490815?i=1839490816"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1839606716"
+      ],
+      "album_title": "Shtorm i Lyubov - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 246600,
+      "id": "1839606717",
+      "isrc": "QZZ7V2520401",
+      "release_date": "2025-09-12",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "Shtorm i Lyubov",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/shtorm-i-lyubov/1839606716?i=1839606717"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1839638803"
+      ],
+      "album_title": "Sila Lyubvi - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 330000,
+      "id": "1839638804",
+      "isrc": "QZZ7V2523510",
+      "release_date": "2025-09-12",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "Sila Lyubvi",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/sila-lyubvi/1839638803?i=1839638804"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1839660948"
+      ],
+      "album_title": "Semya v Serdtse (feat. Aliana Tarraf) - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 233000,
+      "id": "1839660949",
+      "isrc": "QZZ7V2541692",
+      "release_date": "2025-09-12",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "Semya v Serdtse (feat. Aliana Tarraf)",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/semya-v-serdtse-feat-aliana-tarraf/1839660948?i=1839660949"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1839847336"
+      ],
+      "album_title": "ASH and NEON - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 394800,
+      "id": "1839847337",
+      "isrc": "QZZ7W2511469",
+      "release_date": "2025-09-13",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "ASH and NEON",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/ash-and-neon/1839847336?i=1839847337"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1840033726"
+      ],
+      "album_title": "False Love (Фальшивая Любовь) - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 358600,
+      "id": "1840033727",
+      "isrc": "QZZ7W2545487",
+      "release_date": "2025-09-14",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "False Love (Фальшивая Любовь)",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/false-love-%D1%84%D0%B0%D0%BB%D1%8C%D1%88%D0%B8%D0%B2%D0%B0%D1%8F-%D0%BB%D1%8E%D0%B1%D0%BE%D0%B2%D1%8C/1840033726?i=1840033727"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [],
+      "album_title": "Brat (Брат) - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [],
+      "disc_number": 1,
+      "duration_ms": 317320,
+      "id": "1840212136",
+      "isrc": "QZZ7X2501327",
+      "release_date": "2025-09-15",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "Brat (Брат)",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/brat-%D0%B1%D1%80%D0%B0%D1%82/1840212135?i=1840212136"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1840225079"
+      ],
+      "album_title": "Sister - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 244040,
+      "id": "1840225080",
+      "isrc": "QZZ7X2503248",
+      "release_date": "2025-09-15",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "Sister",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/sister/1840225079?i=1840225080"
+    },
+    {
+      "album_artist_credit": "Alik Tarraf",
+      "album_ids": [
+        "1840718919"
+      ],
+      "album_title": "Brother - Single",
+      "artist_credit": "Alik Tarraf",
+      "artist_ids": [
+        "1834783896"
+      ],
+      "disc_number": 1,
+      "duration_ms": 361440,
+      "id": "1840718920",
+      "isrc": "QZZ7X2594221",
+      "release_date": "2025-09-17",
+      "retrieved_on": "2026-09-07",
+      "source": "Apple Music",
+      "title": "Brother",
+      "track_number": 1,
+      "url": "https://music.apple.com/ua/album/brother/1840718919?i=1840718920"
+    }
+  ],
+  "albums": [
+    {
+      "id": "6793955748",
+      "name": "Tarraf Productions Live, Vol. II: The Fire",
+      "upc": "882197185506",
+      "artist_credit": "Alik Tarraf & Marina Tarraf",
+      "release_date": "2026-08-21",
+      "track_count": 23,
+      "url": "https://music.apple.com/ua/album/tarraf-productions-live-vol-ii-the-fire/6793955748"
+    }
+  ]
+}
