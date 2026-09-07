@@ -1,0 +1,602 @@
+{
+  "schema_version": 1,
+  "reviewed_on": "2026-09-07",
+  "base_commit": "650ac9f44551ecdbc874a5142649211515cad0c4",
+  "evidence": [
+    "sources/distrokid-reconciliation-observations-2026-09-07.json",
+    "Owner clarifications supplied with the 23 screenshots",
+    "sources/apple-music-observations-2026-09-07.json",
+    "docs/discography.md#provenance"
+  ],
+  "scope": "Artist attribution, exact displayed titles and historical identifier relationships. No external service was edited.",
+  "artist_credit_changes": [
+    {
+      "isrc": "QZZ7U2554210",
+      "upc": "199737907826",
+      "title": "GODDESS",
+      "previous_credit": "Alik Tarraf (feat. Marina Tarraf)",
+      "corrected_credit": "Alik Tarraf Marina Tarraf",
+      "primary_artist_ids": [
+        "https://aliktarraf.com/#alik-tarraf",
+        "https://aliktarraf.com/#marina-tarraf"
+      ],
+      "evidence": [
+        "owner clarification",
+        "DK-REC-006"
+      ],
+      "affected_ids": [
+        "https://aliktarraf.com/#catalog-sng-048",
+        "https://aliktarraf.com/#catalog-sng-048-digital-release",
+        "https://aliktarraf.com/#catalog-trk-0093"
+      ]
+    },
+    {
+      "isrc": "QZZ7V2523510",
+      "upc": "199737598277",
+      "title": "Sila Lyubvi",
+      "previous_credit": "Alik Tarraf (feat. Marina Tarraf)",
+      "corrected_credit": "Alik Tarraf",
+      "primary_artist_ids": [
+        "https://aliktarraf.com/#alik-tarraf"
+      ],
+      "evidence": [
+        "owner clarification",
+        "DK-REC-009"
+      ],
+      "affected_ids": [
+        "https://aliktarraf.com/#catalog-sng-052",
+        "https://aliktarraf.com/#catalog-sng-052-digital-release",
+        "https://aliktarraf.com/#catalog-trk-0097"
+      ]
+    },
+    {
+      "isrc": "QT3EY2513941",
+      "upc": "199739691075",
+      "title": "New World",
+      "previous_credit": "Alik Tarraf (feat. Marina Tarraf)",
+      "corrected_credit": "Alik Tarraf Marina Tarraf",
+      "primary_artist_ids": [
+        "https://aliktarraf.com/#alik-tarraf",
+        "https://aliktarraf.com/#marina-tarraf"
+      ],
+      "evidence": [
+        "owner clarification",
+        "DK-REC-011"
+      ],
+      "affected_ids": [
+        "https://aliktarraf.com/#catalog-sng-059",
+        "https://aliktarraf.com/#catalog-sng-059-digital-release",
+        "https://aliktarraf.com/#catalog-trk-0104"
+      ]
+    },
+    {
+      "isrc": "QT6E62524228",
+      "upc": "199748545277",
+      "title": "BANINA BANINA YALLA TARRAF",
+      "previous_credit": "Alik Tarraf (feat. Marina Tarraf)",
+      "corrected_credit": "Alik Tarraf, Marina Tarraf",
+      "primary_artist_ids": [
+        "https://aliktarraf.com/#alik-tarraf",
+        "https://aliktarraf.com/#marina-tarraf"
+      ],
+      "evidence": [
+        "owner clarification",
+        "DK-REC-021"
+      ],
+      "affected_ids": [
+        "https://aliktarraf.com/#catalog-sng-110",
+        "https://aliktarraf.com/#catalog-sng-110-digital-release",
+        "https://aliktarraf.com/#catalog-trk-0155"
+      ]
+    },
+    {
+      "isrc": "QT6HK2556744",
+      "upc": "199937820109",
+      "title": "STILL YOURS",
+      "previous_credit": "Alik Tarraf (feat. Marina Tarraf)",
+      "corrected_credit": "Alik Tarraf, Marina Tarraf",
+      "primary_artist_ids": [
+        "https://aliktarraf.com/#alik-tarraf",
+        "https://aliktarraf.com/#marina-tarraf"
+      ],
+      "evidence": [
+        "owner clarification",
+        "DK-REC-017"
+      ],
+      "affected_ids": [
+        "https://aliktarraf.com/#catalog-sng-170",
+        "https://aliktarraf.com/#catalog-sng-170-digital-release",
+        "https://aliktarraf.com/#catalog-trk-0215"
+      ]
+    }
+  ],
+  "primary_artist_confirmations": [
+    {
+      "isrc": "QZZ792534916",
+      "recording_id": "https://aliktarraf.com/#catalog-trk-0060",
+      "title": "PROSTO",
+      "primary_artist": "Marina Tarraf",
+      "owner_statement": "Marina performs the vocal. Initially distributed under Alik Tarraf, then changed in DistroKid to Marina Tarraf as primary artist after her artist account was established; the titles were changed to Latin-script forms.",
+      "evidence": [
+        "owner clarification"
+      ],
+      "action": "Retained the correct existing Marina Tarraf credit. Apple Music observation remains a separate platform discrepancy."
+    },
+    {
+      "isrc": "QZZ792546205",
+      "recording_id": "https://aliktarraf.com/#catalog-trk-0062",
+      "title": "Vyshel Alik Pogulyat",
+      "primary_artist": "Marina Tarraf",
+      "owner_statement": "Marina performs the vocal. Initially distributed under Alik Tarraf, then changed in DistroKid to Marina Tarraf as primary artist after her artist account was established; the titles were changed to Latin-script forms.",
+      "evidence": [
+        "owner clarification"
+      ],
+      "action": "Retained the correct existing Marina Tarraf credit. Apple Music observation remains a separate platform discrepancy."
+    },
+    {
+      "isrc": "QZZ7V2520401",
+      "recording_id": "https://aliktarraf.com/#catalog-trk-0096",
+      "title": "Shtorm i Lyubov",
+      "primary_artist": "Marina Tarraf",
+      "owner_statement": "Marina performs the vocal. Initially distributed under Alik Tarraf, then changed in DistroKid to Marina Tarraf as primary artist after her artist account was established; the titles were changed to Latin-script forms.",
+      "evidence": [
+        "owner clarification",
+        "DK-REC-010"
+      ],
+      "action": "Retained the correct existing Marina Tarraf credit. Apple Music observation remains a separate platform discrepancy."
+    },
+    {
+      "isrc": "QT3F92537714",
+      "recording_id": "https://aliktarraf.com/#catalog-trk-0139",
+      "title": "POSSESSED",
+      "primary_artist": "Marina Tarraf",
+      "owner_statement": "Marina performs the vocal. Initially distributed under Alik Tarraf, then changed in DistroKid to Marina Tarraf as primary artist after her artist account was established; the titles were changed to Latin-script forms.",
+      "evidence": [
+        "owner clarification",
+        "DK-REC-022"
+      ],
+      "action": "Retained the correct existing Marina Tarraf credit. Apple Music observation remains a separate platform discrepancy."
+    }
+  ],
+  "title_changes": [
+    {
+      "isrc": "QZZ7V2520401",
+      "previous_title": "Shtorm I Lyubov",
+      "corrected_title": "Shtorm i Lyubov",
+      "evidence": "DK-REC-010",
+      "previous_title_retained_as_alias": true
+    },
+    {
+      "isrc": "QZDA42650506",
+      "previous_title": "I’M HUNGRY",
+      "corrected_title": "I'M HUNGRY",
+      "evidence": "DK-REC-014",
+      "previous_title_retained_as_alias": true
+    }
+  ],
+  "display_title_aliases": [
+    {
+      "isrc": "QZZ7S2565863",
+      "title": "APOCALYPSES (feat. Marina Tarraf)",
+      "evidence": "DK-REC-007"
+    },
+    {
+      "isrc": "QZZ7W2515106",
+      "title": "More Lyubvi (feat. Marina Tarraf)",
+      "evidence": "DK-REC-008"
+    }
+  ],
+  "historical_identifier_review": "sources/historical-identifier-review-2026-09-07.json",
+  "platform_review_summary": {
+    "featured_credit_in_apple_title": 20,
+    "remaining_platform_artist_attribution_difference": 9,
+    "resolved_by_catalog_credit_correction": 1
+  },
+  "platform_review": [
+    {
+      "isrc": "QZZ792534485",
+      "recording_id": "https://aliktarraf.com/#catalog-trk-0047",
+      "title": "13 YEARS",
+      "catalog_credit_before": "Alik Tarraf (feat. Marina Tarraf)",
+      "catalog_credit_after": "Alik Tarraf (feat. Marina Tarraf)",
+      "apple_artist_field": "Alik Tarraf",
+      "apple_title": "13 YEARS (feat. Marina Tarraf)",
+      "apple_source_url": "https://music.apple.com/ua/album/13-years-feat-marina-tarraf/1835058894?i=1835058895",
+      "apple_observed_on": "2026-09-07",
+      "classification": "featured_credit_in_apple_title",
+      "decision": "The sampled Apple title explicitly carries the featured artist. A solo artistName field versus a combined catalog performance credit is not by itself a missing-credit error."
+    },
+    {
+      "isrc": "QZZ792549661",
+      "recording_id": "https://aliktarraf.com/#catalog-trk-0058",
+      "title": "Boginya",
+      "catalog_credit_before": "Alik Tarraf (feat. Marina Tarraf)",
+      "catalog_credit_after": "Alik Tarraf (feat. Marina Tarraf)",
+      "apple_artist_field": "Alik Tarraf",
+      "apple_title": "Boginya (feat. Marina Tarraf)",
+      "apple_source_url": "https://music.apple.com/ua/album/boginya-feat-marina-tarraf/1835161345?i=1835161346",
+      "apple_observed_on": "2026-09-07",
+      "classification": "featured_credit_in_apple_title",
+      "decision": "The sampled Apple title explicitly carries the featured artist. A solo artistName field versus a combined catalog performance credit is not by itself a missing-credit error."
+    },
+    {
+      "isrc": "QZZ792534916",
+      "recording_id": "https://aliktarraf.com/#catalog-trk-0060",
+      "title": "PROSTO",
+      "catalog_credit_before": "Marina Tarraf",
+      "catalog_credit_after": "Marina Tarraf",
+      "apple_artist_field": "Alik Tarraf",
+      "apple_title": "PROSTO",
+      "apple_source_url": "https://music.apple.com/ua/album/prosto/1835133497?i=1835133498",
+      "apple_observed_on": "2026-09-07",
+      "classification": "remaining_platform_artist_attribution_difference",
+      "decision": "Retain Marina Tarraf as primary artist, supported by owner clarification; sampled Apple artist field still reflects Alik Tarraf."
+    },
+    {
+      "isrc": "QZZ792573561",
+      "recording_id": "https://aliktarraf.com/#catalog-trk-0061",
+      "title": "Up and Down",
+      "catalog_credit_before": "Alik Tarraf (feat. Marina Tarraf)",
+      "catalog_credit_after": "Alik Tarraf (feat. Marina Tarraf)",
+      "apple_artist_field": "Alik Tarraf",
+      "apple_title": "Up and Down (feat. Marina Tarraf)",
+      "apple_source_url": "https://music.apple.com/ua/album/up-and-down-feat-marina-tarraf/1835159747?i=1835159748",
+      "apple_observed_on": "2026-09-07",
+      "classification": "featured_credit_in_apple_title",
+      "decision": "The sampled Apple title explicitly carries the featured artist. A solo artistName field versus a combined catalog performance credit is not by itself a missing-credit error."
+    },
+    {
+      "isrc": "QZZ792546205",
+      "recording_id": "https://aliktarraf.com/#catalog-trk-0062",
+      "title": "Vyshel Alik Pogulyat",
+      "catalog_credit_before": "Marina Tarraf",
+      "catalog_credit_after": "Marina Tarraf",
+      "apple_artist_field": "Alik Tarraf",
+      "apple_title": "Vyshel Alik Pogulyat",
+      "apple_source_url": "https://music.apple.com/ua/album/vyshel-alik-pogulyat/1835091315?i=1835091316",
+      "apple_observed_on": "2026-09-07",
+      "classification": "remaining_platform_artist_attribution_difference",
+      "decision": "Retain Marina Tarraf as primary artist, supported by owner clarification; sampled Apple artist field still reflects Alik Tarraf."
+    },
+    {
+      "isrc": "QZZ7K2583227",
+      "recording_id": "https://aliktarraf.com/#catalog-trk-0073",
+      "title": "PROSTO [Remix]",
+      "catalog_credit_before": "Alik Tarraf (feat. Marina Tarraf)",
+      "catalog_credit_after": "Alik Tarraf (feat. Marina Tarraf)",
+      "apple_artist_field": "Alik Tarraf",
+      "apple_title": "PROSTO (feat. Marina Tarraf) [Remix]",
+      "apple_source_url": "https://music.apple.com/ua/album/prosto-feat-marina-tarraf-remix/1835629438?i=1835629440",
+      "apple_observed_on": "2026-09-07",
+      "classification": "featured_credit_in_apple_title",
+      "decision": "The sampled Apple title explicitly carries the featured artist. A solo artistName field versus a combined catalog performance credit is not by itself a missing-credit error."
+    },
+    {
+      "isrc": "QZZ7U2554210",
+      "recording_id": "https://aliktarraf.com/#catalog-trk-0093",
+      "title": "GODDESS",
+      "catalog_credit_before": "Alik Tarraf (feat. Marina Tarraf)",
+      "catalog_credit_after": "Alik Tarraf Marina Tarraf",
+      "apple_artist_field": "Alik Tarraf",
+      "apple_title": "GODDESS",
+      "apple_source_url": "https://music.apple.com/ua/album/goddess/1839352234?i=1839352235",
+      "apple_observed_on": "2026-09-07",
+      "classification": "remaining_platform_artist_attribution_difference",
+      "decision": "Owner and DistroKid confirm joint primary artists and the exact display credit. The sampled Apple artist field only names Alik Tarraf."
+    },
+    {
+      "isrc": "QZZ7V2541692",
+      "recording_id": "https://aliktarraf.com/#catalog-trk-0095",
+      "title": "Semya v Serdtse",
+      "catalog_credit_before": "Alik Tarraf (feat. Aliana Tarraf)",
+      "catalog_credit_after": "Alik Tarraf (feat. Aliana Tarraf)",
+      "apple_artist_field": "Alik Tarraf",
+      "apple_title": "Semya v Serdtse (feat. Aliana Tarraf)",
+      "apple_source_url": "https://music.apple.com/ua/album/semya-v-serdtse-feat-aliana-tarraf/1839660948?i=1839660949",
+      "apple_observed_on": "2026-09-07",
+      "classification": "featured_credit_in_apple_title",
+      "decision": "The sampled Apple title explicitly carries the featured artist. A solo artistName field versus a combined catalog performance credit is not by itself a missing-credit error."
+    },
+    {
+      "isrc": "QZZ7V2520401",
+      "recording_id": "https://aliktarraf.com/#catalog-trk-0096",
+      "title": "Shtorm i Lyubov",
+      "catalog_credit_before": "Marina Tarraf",
+      "catalog_credit_after": "Marina Tarraf",
+      "apple_artist_field": "Alik Tarraf",
+      "apple_title": "Shtorm i Lyubov",
+      "apple_source_url": "https://music.apple.com/ua/album/shtorm-i-lyubov/1839606716?i=1839606717",
+      "apple_observed_on": "2026-09-07",
+      "classification": "remaining_platform_artist_attribution_difference",
+      "decision": "Retain Marina Tarraf as primary artist, supported by owner clarification; sampled Apple artist field still reflects Alik Tarraf."
+    },
+    {
+      "isrc": "QZZ7V2523510",
+      "recording_id": "https://aliktarraf.com/#catalog-trk-0097",
+      "title": "Sila Lyubvi",
+      "catalog_credit_before": "Alik Tarraf (feat. Marina Tarraf)",
+      "catalog_credit_after": "Alik Tarraf",
+      "apple_artist_field": "Alik Tarraf",
+      "apple_title": "Sila Lyubvi",
+      "apple_source_url": "https://music.apple.com/ua/album/sila-lyubvi/1839638803?i=1839638804",
+      "apple_observed_on": "2026-09-07",
+      "classification": "resolved_by_catalog_credit_correction",
+      "decision": "Owner and DistroKid confirm Alik Tarraf alone; corrected the catalog to agree with that evidence and the sampled Apple artist field."
+    },
+    {
+      "isrc": "QT3EY2513941",
+      "recording_id": "https://aliktarraf.com/#catalog-trk-0104",
+      "title": "New World",
+      "catalog_credit_before": "Alik Tarraf (feat. Marina Tarraf)",
+      "catalog_credit_after": "Alik Tarraf Marina Tarraf",
+      "apple_artist_field": "Alik Tarraf",
+      "apple_title": "New World",
+      "apple_source_url": "https://music.apple.com/ua/album/new-world/1841198094?i=1841198095",
+      "apple_observed_on": "2026-09-07",
+      "classification": "remaining_platform_artist_attribution_difference",
+      "decision": "Owner and DistroKid confirm joint primary artists and the exact display credit. The sampled Apple artist field only names Alik Tarraf."
+    },
+    {
+      "isrc": "QT3F92537714",
+      "recording_id": "https://aliktarraf.com/#catalog-trk-0139",
+      "title": "POSSESSED",
+      "catalog_credit_before": "Marina Tarraf",
+      "catalog_credit_after": "Marina Tarraf",
+      "apple_artist_field": "Alik Tarraf",
+      "apple_title": "POSSESSED",
+      "apple_source_url": "https://music.apple.com/ua/album/possessed/1845309427?i=1845309428",
+      "apple_observed_on": "2026-09-07",
+      "classification": "remaining_platform_artist_attribution_difference",
+      "decision": "Retain Marina Tarraf as primary artist, supported by owner clarification; sampled Apple artist field still reflects Alik Tarraf."
+    },
+    {
+      "isrc": "QT6E62524228",
+      "recording_id": "https://aliktarraf.com/#catalog-trk-0155",
+      "title": "BANINA BANINA YALLA TARRAF",
+      "catalog_credit_before": "Alik Tarraf (feat. Marina Tarraf)",
+      "catalog_credit_after": "Alik Tarraf, Marina Tarraf",
+      "apple_artist_field": "Alik Tarraf",
+      "apple_title": "BANINA BANINA YALLA TARRAF",
+      "apple_source_url": "https://music.apple.com/ua/album/banina-banina-yalla-tarraf/1848684907?i=1848684908",
+      "apple_observed_on": "2026-09-07",
+      "classification": "remaining_platform_artist_attribution_difference",
+      "decision": "Owner and DistroKid confirm joint primary artists and the exact display credit. The sampled Apple artist field only names Alik Tarraf."
+    },
+    {
+      "isrc": "QT6E92567897",
+      "recording_id": "https://aliktarraf.com/#catalog-trk-0164",
+      "title": "NORA",
+      "catalog_credit_before": "Alik Tarraf (feat. Marina Tarraf)",
+      "catalog_credit_after": "Alik Tarraf (feat. Marina Tarraf)",
+      "apple_artist_field": "Alik Tarraf",
+      "apple_title": "NORA (feat. Marina Tarraf)",
+      "apple_source_url": "https://music.apple.com/ua/album/nora-feat-marina-tarraf/1850118828?i=1850118859",
+      "apple_observed_on": "2026-09-07",
+      "classification": "featured_credit_in_apple_title",
+      "decision": "The sampled Apple title explicitly carries the featured artist. A solo artistName field versus a combined catalog performance credit is not by itself a missing-credit error."
+    },
+    {
+      "isrc": "QT6EF2541785",
+      "recording_id": "https://aliktarraf.com/#catalog-trk-0175",
+      "title": "UKRAINE",
+      "catalog_credit_before": "Alik Tarraf (feat. Marina Tarraf)",
+      "catalog_credit_after": "Alik Tarraf (feat. Marina Tarraf)",
+      "apple_artist_field": "Alik Tarraf",
+      "apple_title": "UKRAINE (feat. Marina Tarraf)",
+      "apple_source_url": "https://music.apple.com/ua/album/ukraine-feat-marina-tarraf/1852147702?i=1852147703",
+      "apple_observed_on": "2026-09-07",
+      "classification": "featured_credit_in_apple_title",
+      "decision": "The sampled Apple title explicitly carries the featured artist. A solo artistName field versus a combined catalog performance credit is not by itself a missing-credit error."
+    },
+    {
+      "isrc": "QT6F22539752",
+      "recording_id": "https://aliktarraf.com/#catalog-trk-0196",
+      "title": "Monsters",
+      "catalog_credit_before": "Alik Tarraf (feat. Marina Tarraf)",
+      "catalog_credit_after": "Alik Tarraf (feat. Marina Tarraf)",
+      "apple_artist_field": "Alik Tarraf",
+      "apple_title": "Monsters (feat. Marina Tarraf)",
+      "apple_source_url": "https://music.apple.com/ua/album/monsters-feat-marina-tarraf/1855373301?i=1855373302",
+      "apple_observed_on": "2026-09-07",
+      "classification": "featured_credit_in_apple_title",
+      "decision": "The sampled Apple title explicitly carries the featured artist. A solo artistName field versus a combined catalog performance credit is not by itself a missing-credit error."
+    },
+    {
+      "isrc": "QT6HK2556744",
+      "recording_id": "https://aliktarraf.com/#catalog-trk-0215",
+      "title": "STILL YOURS",
+      "catalog_credit_before": "Alik Tarraf (feat. Marina Tarraf)",
+      "catalog_credit_after": "Alik Tarraf, Marina Tarraf",
+      "apple_artist_field": "Alik Tarraf",
+      "apple_title": "STILL YOURS",
+      "apple_source_url": "https://music.apple.com/ua/album/still-yours/1865374436?i=1865374437",
+      "apple_observed_on": "2026-09-07",
+      "classification": "remaining_platform_artist_attribution_difference",
+      "decision": "Owner and DistroKid confirm joint primary artists and the exact display credit. The sampled Apple artist field only names Alik Tarraf."
+    },
+    {
+      "isrc": "QZDA42690879",
+      "recording_id": "https://aliktarraf.com/#catalog-trk-0226",
+      "title": "ЧОМУ Я БЕЗ ДОМУ",
+      "catalog_credit_before": "Marina Tarraf (feat. Aliana Tarraf)",
+      "catalog_credit_after": "Marina Tarraf (feat. Aliana Tarraf)",
+      "apple_artist_field": "Marina Tarraf",
+      "apple_title": "ЧОМУ Я БЕЗ ДОМУ (feat. Aliana Tarraf)",
+      "apple_source_url": "https://music.apple.com/ua/album/%D1%87%D0%BE%D0%BC%D1%83-%D1%8F-%D0%B1%D0%B5%D0%B7-%D0%B4%D0%BE%D0%BC%D1%83-feat-aliana-tarraf/1868550078?i=1868550559",
+      "apple_observed_on": "2026-09-07",
+      "classification": "featured_credit_in_apple_title",
+      "decision": "The sampled Apple title explicitly carries the featured artist. A solo artistName field versus a combined catalog performance credit is not by itself a missing-credit error."
+    },
+    {
+      "isrc": "QZMEP2665142",
+      "recording_id": "https://aliktarraf.com/#catalog-trk-0234",
+      "title": "Continuity / Мы- Переход [Manifesto]",
+      "catalog_credit_before": "Marina Tarraf (feat. Alik Tarraf)",
+      "catalog_credit_after": "Marina Tarraf (feat. Alik Tarraf)",
+      "apple_artist_field": "Marina Tarraf",
+      "apple_title": "Continuity / Мы- Переход (feat. Alik Tarraf) [Manifesto]",
+      "apple_source_url": "https://music.apple.com/ua/album/continuity-%D0%BC%D1%8B-%D0%BF%D0%B5%D1%80%D0%B5%D1%85%D0%BE%D0%B4-feat-alik-tarraf-manifesto/1880048964?i=1880048965",
+      "apple_observed_on": "2026-09-07",
+      "classification": "featured_credit_in_apple_title",
+      "decision": "The sampled Apple title explicitly carries the featured artist. A solo artistName field versus a combined catalog performance credit is not by itself a missing-credit error."
+    },
+    {
+      "isrc": "QZTB82636905",
+      "recording_id": "https://aliktarraf.com/#catalog-trk-0237",
+      "title": "Bèsame, Ya habibi",
+      "catalog_credit_before": "Alik Tarraf (feat. Marina Tarraf)",
+      "catalog_credit_after": "Alik Tarraf (feat. Marina Tarraf)",
+      "apple_artist_field": "Alik Tarraf",
+      "apple_title": "Bèsame, Ya habibi (feat. Marina Tarraf)",
+      "apple_source_url": "https://music.apple.com/ua/album/b%C3%A8same-ya-habibi-feat-marina-tarraf/1890792555?i=1890792556",
+      "apple_observed_on": "2026-09-07",
+      "classification": "featured_credit_in_apple_title",
+      "decision": "The sampled Apple title explicitly carries the featured artist. A solo artistName field versus a combined catalog performance credit is not by itself a missing-credit error."
+    },
+    {
+      "isrc": "QZTBA2623452",
+      "recording_id": "https://aliktarraf.com/#catalog-trk-0239",
+      "title": "Буллинг",
+      "catalog_credit_before": "Marina Tarraf (feat. Alik Tarraf)",
+      "catalog_credit_after": "Marina Tarraf (feat. Alik Tarraf)",
+      "apple_artist_field": "Marina Tarraf",
+      "apple_title": "Буллинг (feat. Alik Tarraf)",
+      "apple_source_url": "https://music.apple.com/ua/album/%D0%B1%D1%83%D0%BB%D0%BB%D0%B8%D0%BD%D0%B3-feat-alik-tarraf/1891230588?i=1891230589",
+      "apple_observed_on": "2026-09-07",
+      "classification": "featured_credit_in_apple_title",
+      "decision": "The sampled Apple title explicitly carries the featured artist. A solo artistName field versus a combined catalog performance credit is not by itself a missing-credit error."
+    },
+    {
+      "isrc": "QZWFK2666932",
+      "recording_id": "https://aliktarraf.com/#catalog-trk-0246",
+      "title": "VELCARON — LUX IN TENEBRIS [Dark Ritual]",
+      "catalog_credit_before": "Alik Tarraf (feat. Marina Tarraf)",
+      "catalog_credit_after": "Alik Tarraf (feat. Marina Tarraf)",
+      "apple_artist_field": "Alik Tarraf",
+      "apple_title": "VELCARON — LUX IN TENEBRIS (feat. Marina Tarraf) [Dark Ritual]",
+      "apple_source_url": "https://music.apple.com/ua/album/velcaron-lux-in-tenebris-feat-marina-tarraf-dark-ritual/1894723403?i=1894723404",
+      "apple_observed_on": "2026-09-07",
+      "classification": "featured_credit_in_apple_title",
+      "decision": "The sampled Apple title explicitly carries the featured artist. A solo artistName field versus a combined catalog performance credit is not by itself a missing-credit error."
+    },
+    {
+      "isrc": "QZZ7L2635089",
+      "recording_id": "https://aliktarraf.com/#catalog-trk-0254",
+      "title": "Born for more - Рождены для большего [LIVE]",
+      "catalog_credit_before": "Alik Tarraf (feat. Marina Tarraf)",
+      "catalog_credit_after": "Alik Tarraf (feat. Marina Tarraf)",
+      "apple_artist_field": "Alik Tarraf",
+      "apple_title": "Born for more - Рождены для большего (feat. Marina Tarraf) [LIVE]",
+      "apple_source_url": "https://music.apple.com/ua/album/born-for-more-%D1%80%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%B1%D0%BE%D0%BB%D1%8C%D1%88%D0%B5%D0%B3%D0%BE-feat-marina-tarraf-live/6769771166?i=6769771167",
+      "apple_observed_on": "2026-09-07",
+      "classification": "featured_credit_in_apple_title",
+      "decision": "The sampled Apple title explicitly carries the featured artist. A solo artistName field versus a combined catalog performance credit is not by itself a missing-credit error."
+    },
+    {
+      "isrc": "QT3EX2647792",
+      "recording_id": "https://aliktarraf.com/#catalog-trk-0256",
+      "title": "يا روح لا تبكي - We are guests [TARRAF LIVE SHOW]",
+      "catalog_credit_before": "Alik Tarraf (feat. Marina Tarraf)",
+      "catalog_credit_after": "Alik Tarraf (feat. Marina Tarraf)",
+      "apple_artist_field": "Alik Tarraf",
+      "apple_title": "يا روح لا تبكي - We are guests (feat. Marina Tarraf) [TARRAF LIVE SHOW]",
+      "apple_source_url": "https://music.apple.com/ua/album/%D9%8A%D8%A7-%D8%B1%D9%88%D8%AD-%D9%84%D8%A7-%D8%AA%D8%A8%D9%83%D9%8A-we-are-guests-feat-marina-tarraf-tarraf/6773153963?i=6773153964",
+      "apple_observed_on": "2026-09-07",
+      "classification": "featured_credit_in_apple_title",
+      "decision": "The sampled Apple title explicitly carries the featured artist. A solo artistName field versus a combined catalog performance credit is not by itself a missing-credit error."
+    },
+    {
+      "isrc": "QT3EZ2625056",
+      "recording_id": "https://aliktarraf.com/#catalog-trk-0258",
+      "title": "أيام - Of Fire",
+      "catalog_credit_before": "Alik Tarraf (feat. Marina Tarraf)",
+      "catalog_credit_after": "Alik Tarraf (feat. Marina Tarraf)",
+      "apple_artist_field": "Alik Tarraf",
+      "apple_title": "أيام - Of Fire (feat. Marina Tarraf)",
+      "apple_source_url": "https://music.apple.com/ua/album/%D8%A3%D9%8A%D8%A7%D9%85-of-fire-feat-marina-tarraf/6774043589?i=6774043590",
+      "apple_observed_on": "2026-09-07",
+      "classification": "featured_credit_in_apple_title",
+      "decision": "The sampled Apple title explicitly carries the featured artist. A solo artistName field versus a combined catalog performance credit is not by itself a missing-credit error."
+    },
+    {
+      "isrc": "QZZ7R2695699",
+      "recording_id": "https://aliktarraf.com/#catalog-trk-0259",
+      "title": "Epic Evolution Music (Live Studio Session)",
+      "catalog_credit_before": "Alik Tarraf & Marina Tarraf",
+      "catalog_credit_after": "Alik Tarraf & Marina Tarraf",
+      "apple_artist_field": "Alik Tarraf",
+      "apple_title": "Epic Evolution Music (Live Studio Session)",
+      "apple_source_url": "https://music.apple.com/ua/album/epic-evolution-music-live-studio-session/6770759376?i=6770759377",
+      "apple_observed_on": "2026-09-07",
+      "classification": "remaining_platform_artist_attribution_difference",
+      "decision": "Retain the joint primary-artist credit already verified in the September 4 source-provenance review; sampled Apple artist field only names Alik Tarraf."
+    },
+    {
+      "isrc": "QZZ7S2565863",
+      "recording_id": "https://aliktarraf.com/#catalog-trk-0261",
+      "title": "APOCALYPSES",
+      "catalog_credit_before": "Alik Tarraf (feat. Marina Tarraf)",
+      "catalog_credit_after": "Alik Tarraf (feat. Marina Tarraf)",
+      "apple_artist_field": "Alik Tarraf",
+      "apple_title": "APOCALYPSES (feat. Marina Tarraf)",
+      "apple_source_url": "https://music.apple.com/ua/album/apocalypses-feat-marina-tarraf/1838563826?i=1838563827",
+      "apple_observed_on": "2026-09-07",
+      "classification": "featured_credit_in_apple_title",
+      "decision": "The sampled Apple title explicitly carries the featured artist. A solo artistName field versus a combined catalog performance credit is not by itself a missing-credit error."
+    },
+    {
+      "isrc": "QZNWU2642118",
+      "recording_id": "https://aliktarraf.com/#catalog-trk-0277",
+      "title": "Aliana",
+      "catalog_credit_before": "Alik Tarraf (feat. Marina Tarraf)",
+      "catalog_credit_after": "Alik Tarraf (feat. Marina Tarraf)",
+      "apple_artist_field": "Alik Tarraf",
+      "apple_title": "Aliana (feat. Marina Tarraf)",
+      "apple_source_url": "https://music.apple.com/ua/album/aliana-feat-marina-tarraf/1882366409?i=1882366411",
+      "apple_observed_on": "2026-09-07",
+      "classification": "featured_credit_in_apple_title",
+      "decision": "The sampled Apple title explicitly carries the featured artist. A solo artistName field versus a combined catalog performance credit is not by itself a missing-credit error."
+    },
+    {
+      "isrc": "QZK6L2688089",
+      "recording_id": "https://aliktarraf.com/#catalog-trk-0294",
+      "title": "Más Cerca / Closer",
+      "catalog_credit_before": "Alik Tarraf (feat. Marina Tarraf)",
+      "catalog_credit_after": "Alik Tarraf (feat. Marina Tarraf)",
+      "apple_artist_field": "Alik Tarraf",
+      "apple_title": "Más Cerca / Closer (feat. Marina Tarraf)",
+      "apple_source_url": "https://music.apple.com/ua/album/m%C3%A1s-cerca-closer-feat-marina-tarraf/1877599682?i=1877599683",
+      "apple_observed_on": "2026-09-07",
+      "classification": "featured_credit_in_apple_title",
+      "decision": "The sampled Apple title explicitly carries the featured artist. A solo artistName field versus a combined catalog performance credit is not by itself a missing-credit error."
+    },
+    {
+      "isrc": "QZHN42663366",
+      "recording_id": "https://aliktarraf.com/#catalog-trk-0313",
+      "title": "Пока мы живы",
+      "catalog_credit_before": "Alik Tarraf (feat. Marina Tarraf)",
+      "catalog_credit_after": "Alik Tarraf (feat. Marina Tarraf)",
+      "apple_artist_field": "Alik Tarraf",
+      "apple_title": "Пока мы живы (feat. Marina Tarraf)",
+      "apple_source_url": "https://music.apple.com/ua/album/%D0%BF%D0%BE%D0%BA%D0%B0-%D0%BC%D1%8B-%D0%B6%D0%B8%D0%B2%D1%8B-feat-marina-tarraf/1872709598?i=1872709599",
+      "apple_observed_on": "2026-09-07",
+      "classification": "featured_credit_in_apple_title",
+      "decision": "The sampled Apple title explicitly carries the featured artist. A solo artistName field versus a combined catalog performance credit is not by itself a missing-credit error."
+    }
+  ],
+  "preserved": [
+    "Existing recording and release IDs",
+    "All ISRCs and UPCs",
+    "Release dates",
+    "Durations",
+    "Live recording identities and album appearances",
+    "Producer, songwriter and ownership metadata"
+  ],
+  "notes": [
+    "Exact artist strings are stored in creditText and generated exports; joint credits link the two existing people in byArtist/creditedTo.",
+    "The superseded featured-performance contributor relation is removed on the five corrected credits; no songwriting or ownership conclusion follows.",
+    "The four historical Marina attribution corrections are owner-confirmed; screenshots independently show Marina for Shtorm i Lyubov and POSSESSED. PROSTO and Vyshel Alik Pogulyat have no screenshot in this batch.",
+    "The original 30 sampled differences were all artist-credit comparisons, not release-date or duration conflicts.",
+    "Apple Music source observations are retained as captured. The nine remaining attribution differences have not been corrected at Apple by this repository update."
+  ]
+}

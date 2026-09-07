@@ -4753,14 +4753,12 @@
       "byArtist": [
         {
           "@id": "https://aliktarraf.com/#alik-tarraf"
-        }
-      ],
-      "contributor": [
+        },
         {
           "@id": "https://aliktarraf.com/#marina-tarraf"
         }
       ],
-      "creditText": "Alik Tarraf (feat. Marina Tarraf)",
+      "creditText": "Alik Tarraf Marina Tarraf",
       "numTracks": 1,
       "datePublished": "2025-09-10",
       "track": {
@@ -4800,7 +4798,7 @@
           "@id": "https://aliktarraf.com/#marina-tarraf"
         }
       ],
-      "creditText": "Alik Tarraf (feat. Marina Tarraf)",
+      "creditText": "Alik Tarraf Marina Tarraf",
       "recordLabel": {
         "@id": "https://aliktarraf.com/#tarraf-productions"
       },
@@ -4826,14 +4824,12 @@
       "byArtist": [
         {
           "@id": "https://aliktarraf.com/#alik-tarraf"
-        }
-      ],
-      "contributor": [
+        },
         {
           "@id": "https://aliktarraf.com/#marina-tarraf"
         }
       ],
-      "creditText": "Alik Tarraf (feat. Marina Tarraf)",
+      "creditText": "Alik Tarraf Marina Tarraf",
       "datePublished": "2025-09-10",
       "inAlbum": {
         "@id": "https://aliktarraf.com/#catalog-sng-048"
@@ -5074,7 +5070,7 @@
     {
       "@type": "MusicAlbum",
       "@id": "https://aliktarraf.com/#catalog-sng-051",
-      "name": "Shtorm I Lyubov",
+      "name": "Shtorm i Lyubov",
       "albumReleaseType": "https://schema.org/SingleRelease",
       "byArtist": [
         {
@@ -5102,12 +5098,15 @@
           "propertyID": "TARRAF Catalog Release ID",
           "value": "SNG-051"
         }
+      ],
+      "alternateName": [
+        "Shtorm I Lyubov"
       ]
     },
     {
       "@type": "MusicRelease",
       "@id": "https://aliktarraf.com/#catalog-sng-051-digital-release",
-      "name": "Shtorm I Lyubov — Digital Single Release",
+      "name": "Shtorm i Lyubov — Digital Single Release",
       "releaseOf": {
         "@id": "https://aliktarraf.com/#catalog-sng-051"
       },
@@ -5134,12 +5133,15 @@
           "propertyID": "UPC",
           "value": "199737612591"
         }
+      ],
+      "alternateName": [
+        "Shtorm I Lyubov — Digital Single Release"
       ]
     },
     {
       "@type": "MusicRecording",
       "@id": "https://aliktarraf.com/#catalog-trk-0096",
-      "name": "Shtorm I Lyubov",
+      "name": "Shtorm i Lyubov",
       "isrcCode": "QZZ7V2520401",
       "byArtist": [
         {
@@ -5166,7 +5168,7 @@
       ],
       "duration": "PT4M6.6S",
       "alternateName": [
-        "Shtorm i Lyubov"
+        "Shtorm I Lyubov"
       ],
       "sameAs": [
         "https://music.apple.com/ua/album/shtorm-i-lyubov/1839606716?i=1839606717"
@@ -5182,12 +5184,7 @@
           "@id": "https://aliktarraf.com/#alik-tarraf"
         }
       ],
-      "contributor": [
-        {
-          "@id": "https://aliktarraf.com/#marina-tarraf"
-        }
-      ],
-      "creditText": "Alik Tarraf (feat. Marina Tarraf)",
+      "creditText": "Alik Tarraf",
       "numTracks": 1,
       "datePublished": "2025-09-12",
       "track": {
@@ -5222,12 +5219,9 @@
       "creditedTo": [
         {
           "@id": "https://aliktarraf.com/#alik-tarraf"
-        },
-        {
-          "@id": "https://aliktarraf.com/#marina-tarraf"
         }
       ],
-      "creditText": "Alik Tarraf (feat. Marina Tarraf)",
+      "creditText": "Alik Tarraf",
       "recordLabel": {
         "@id": "https://aliktarraf.com/#tarraf-productions"
       },
@@ -5255,12 +5249,7 @@
           "@id": "https://aliktarraf.com/#alik-tarraf"
         }
       ],
-      "contributor": [
-        {
-          "@id": "https://aliktarraf.com/#marina-tarraf"
-        }
-      ],
-      "creditText": "Alik Tarraf (feat. Marina Tarraf)",
+      "creditText": "Alik Tarraf",
       "datePublished": "2025-09-12",
       "inAlbum": {
         "@id": "https://aliktarraf.com/#catalog-sng-052"
@@ -5417,6 +5406,9 @@
           "propertyID": "TARRAF Catalog Release ID",
           "value": "SNG-054"
         }
+      ],
+      "alternateName": [
+        "More Lyubvi (feat. Marina Tarraf)"
       ]
     },
     {
@@ -5487,6 +5479,9 @@
           "propertyID": "TARRAF Catalog Track ID",
           "value": "TRK-0099"
         }
+      ],
+      "alternateName": [
+        "More Lyubvi (feat. Marina Tarraf)"
       ]
     },
     {
@@ -5895,14 +5890,12 @@
       "byArtist": [
         {
           "@id": "https://aliktarraf.com/#alik-tarraf"
-        }
-      ],
-      "contributor": [
+        },
         {
           "@id": "https://aliktarraf.com/#marina-tarraf"
         }
       ],
-      "creditText": "Alik Tarraf (feat. Marina Tarraf)",
+      "creditText": "Alik Tarraf Marina Tarraf",
       "numTracks": 1,
       "datePublished": "2025-09-19",
       "track": {
@@ -5942,7 +5935,7 @@
           "@id": "https://aliktarraf.com/#marina-tarraf"
         }
       ],
-      "creditText": "Alik Tarraf (feat. Marina Tarraf)",
+      "creditText": "Alik Tarraf Marina Tarraf",
       "recordLabel": {
         "@id": "https://aliktarraf.com/#tarraf-productions"
       },
@@ -5968,14 +5961,12 @@
       "byArtist": [
         {
           "@id": "https://aliktarraf.com/#alik-tarraf"
-        }
-      ],
-      "contributor": [
+        },
         {
           "@id": "https://aliktarraf.com/#marina-tarraf"
         }
       ],
-      "creditText": "Alik Tarraf (feat. Marina Tarraf)",
+      "creditText": "Alik Tarraf Marina Tarraf",
       "datePublished": "2025-09-19",
       "inAlbum": {
         "@id": "https://aliktarraf.com/#catalog-sng-059"
@@ -10972,14 +10963,12 @@
       "byArtist": [
         {
           "@id": "https://aliktarraf.com/#alik-tarraf"
-        }
-      ],
-      "contributor": [
+        },
         {
           "@id": "https://aliktarraf.com/#marina-tarraf"
         }
       ],
-      "creditText": "Alik Tarraf (feat. Marina Tarraf)",
+      "creditText": "Alik Tarraf, Marina Tarraf",
       "numTracks": 1,
       "datePublished": "2025-10-23",
       "track": {
@@ -11019,7 +11008,7 @@
           "@id": "https://aliktarraf.com/#marina-tarraf"
         }
       ],
-      "creditText": "Alik Tarraf (feat. Marina Tarraf)",
+      "creditText": "Alik Tarraf, Marina Tarraf",
       "recordLabel": {
         "@id": "https://aliktarraf.com/#tarraf-productions"
       },
@@ -11045,14 +11034,12 @@
       "byArtist": [
         {
           "@id": "https://aliktarraf.com/#alik-tarraf"
-        }
-      ],
-      "contributor": [
+        },
         {
           "@id": "https://aliktarraf.com/#marina-tarraf"
         }
       ],
-      "creditText": "Alik Tarraf (feat. Marina Tarraf)",
+      "creditText": "Alik Tarraf, Marina Tarraf",
       "datePublished": "2025-10-23",
       "inAlbum": {
         "@id": "https://aliktarraf.com/#catalog-sng-110"
@@ -16937,14 +16924,12 @@
       "byArtist": [
         {
           "@id": "https://aliktarraf.com/#alik-tarraf"
-        }
-      ],
-      "contributor": [
+        },
         {
           "@id": "https://aliktarraf.com/#marina-tarraf"
         }
       ],
-      "creditText": "Alik Tarraf (feat. Marina Tarraf)",
+      "creditText": "Alik Tarraf, Marina Tarraf",
       "numTracks": 1,
       "datePublished": "2025-12-29",
       "track": {
@@ -16984,7 +16969,7 @@
           "@id": "https://aliktarraf.com/#marina-tarraf"
         }
       ],
-      "creditText": "Alik Tarraf (feat. Marina Tarraf)",
+      "creditText": "Alik Tarraf, Marina Tarraf",
       "recordLabel": {
         "@id": "https://aliktarraf.com/#tarraf-productions"
       },
@@ -17010,14 +16995,12 @@
       "byArtist": [
         {
           "@id": "https://aliktarraf.com/#alik-tarraf"
-        }
-      ],
-      "contributor": [
+        },
         {
           "@id": "https://aliktarraf.com/#marina-tarraf"
         }
       ],
-      "creditText": "Alik Tarraf (feat. Marina Tarraf)",
+      "creditText": "Alik Tarraf, Marina Tarraf",
       "datePublished": "2025-12-29",
       "inAlbum": {
         "@id": "https://aliktarraf.com/#catalog-sng-170"
@@ -18280,7 +18263,7 @@
     {
       "@type": "MusicAlbum",
       "@id": "https://aliktarraf.com/#catalog-sng-183",
-      "name": "I’M HUNGRY",
+      "name": "I'M HUNGRY",
       "albumReleaseType": "https://schema.org/SingleRelease",
       "byArtist": [
         {
@@ -18308,12 +18291,15 @@
           "propertyID": "TARRAF Catalog Release ID",
           "value": "SNG-183"
         }
+      ],
+      "alternateName": [
+        "I’M HUNGRY"
       ]
     },
     {
       "@type": "MusicRelease",
       "@id": "https://aliktarraf.com/#catalog-sng-183-digital-release",
-      "name": "I’M HUNGRY — Digital Single Release",
+      "name": "I'M HUNGRY — Digital Single Release",
       "releaseOf": {
         "@id": "https://aliktarraf.com/#catalog-sng-183"
       },
@@ -18340,12 +18326,15 @@
           "propertyID": "UPC",
           "value": "821530774205"
         }
+      ],
+      "alternateName": [
+        "I’M HUNGRY — Digital Single Release"
       ]
     },
     {
       "@type": "MusicRecording",
       "@id": "https://aliktarraf.com/#catalog-trk-0228",
-      "name": "I’M HUNGRY",
+      "name": "I'M HUNGRY",
       "isrcCode": "QZDA42650506",
       "byArtist": [
         {
@@ -18372,7 +18361,7 @@
       ],
       "duration": "PT4M16.967S",
       "alternateName": [
-        "I'M HUNGRY"
+        "I’M HUNGRY"
       ],
       "sameAs": [
         "https://music.apple.com/ua/album/im-hungry/1868323012?i=1868323013"
@@ -22000,7 +21989,10 @@
           "value": "SNG-216"
         }
       ],
-      "datePublished": "2025-09-07"
+      "datePublished": "2025-09-07",
+      "alternateName": [
+        "APOCALYPSES (feat. Marina Tarraf)"
+      ]
     },
     {
       "@type": "MusicRelease",

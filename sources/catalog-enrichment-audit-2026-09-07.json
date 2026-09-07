@@ -3140,5 +3140,11 @@
   ],
   "reviewed_on": "2026-09-07",
   "base_commit": "3f2792d248b3ca86cfbf143bbade7a7b4e347f78",
-  "live_artist_credit_policy": "Live recording byArtist retains the owner-supplied album principal artists. Apple Music additionally credits Lezzy on some Vol. I/II tracks; the source observations preserve those credits for distributor reconciliation without guessing identity or replacing the owner-supplied attribution."
+  "live_artist_credit_policy": "Live recording byArtist retains the owner-supplied album principal artists. Apple Music additionally credits Lezzy on some Vol. I/II tracks; the source observations preserve those credits for distributor reconciliation without guessing identity or replacing the owner-supplied attribution.",
+  "followup_review": {
+    "reviewed_on": "2026-09-07",
+    "source": "sources/owner-catalog-reconciliation-2026-09-07.json",
+    "documentation": "docs/distrokid-reconciliation-2026-09-07.md",
+    "note": "The original comparisons and baseline values above are retained as a historical audit. Consult the follow-up for corrected canonical credits and classified outcomes."
+  }
 }

@@ -9,7 +9,27 @@
       "observed_titles": [
         "AKFA EMPIRE"
       ],
-      "status": "Historical identifier pair; current release status and date unconfirmed"
+      "status": "Owner confirms AKFA EMPIRE was reuploaded the same day using the same master. The screenshot confirms current UPC 199736298130 and the shared ISRC; historical UPC 199736344417 is retained in this archive.",
+      "included_in_current_export": false,
+      "documented_current_product": {
+        "title": "AKFA EMPIRE",
+        "isrc": "QZZ7T2562881",
+        "upc": "199736298130",
+        "release_date": "2025-09-09",
+        "recording_id": "https://aliktarraf.com/#catalog-trk-0091",
+        "release_id": "https://aliktarraf.com/#catalog-sng-046-digital-release",
+        "evidence": "DK-REC-001"
+      },
+      "historical_release_status": "unconfirmed",
+      "reconciliation_status": "owner_confirmed_same_master_reupload",
+      "relationship": "same recording; different release UPC",
+      "same_master": true,
+      "same_day_reupload": true,
+      "evidence": [
+        "owner clarification",
+        "DK-REC-001"
+      ],
+      "remaining_uncertainty": "The withdrawal status of the historical UPC was not explicitly supplied."
     },
     {
       "isrc": "QZZ7T2511566",
@@ -17,7 +37,26 @@
       "observed_titles": [
         "APOCALYPSE"
       ],
-      "status": "Historical identifier pair; current release status and date unconfirmed"
+      "status": "Owner reports APOCALYPSE deleted. The Russian-language version was later renamed; the supplied current page is APOCALYPSES (feat. Marina Tarraf) with a different ISRC and UPC.",
+      "included_in_current_export": false,
+      "documented_current_product": {
+        "title": "APOCALYPSES (feat. Marina Tarraf)",
+        "isrc": "QZZ7S2565863",
+        "upc": "199736865578",
+        "release_date": "2025-09-07",
+        "recording_id": "https://aliktarraf.com/#catalog-trk-0261",
+        "release_id": "https://aliktarraf.com/#catalog-sng-216-digital-release",
+        "evidence": "DK-REC-007"
+      },
+      "historical_release_status": "owner_reported_deleted",
+      "reconciliation_status": "owner_reported_deleted",
+      "deletion_date": null,
+      "relationship": "owner-related language version; separate recording identifiers retained",
+      "evidence": [
+        "owner clarification",
+        "DK-REC-007"
+      ],
+      "same_master": null
     },
     {
       "isrc": "QZTAV2559217",
@@ -25,7 +64,21 @@
       "observed_titles": [
         "Anima Obscura (Dark Ritual Song)"
       ],
-      "status": "Historical identifier pair; current release status and date unconfirmed"
+      "status": "Current same-title product confirmed by DistroKid screenshot; historical pair release status and date remain unconfirmed.",
+      "included_in_current_export": false,
+      "documented_current_product": {
+        "title": "Anima Obscura (Dark Ritual Song)",
+        "isrc": "QT3FG2507072",
+        "upc": "199746102007",
+        "release_date": "2025-10-17",
+        "recording_id": "https://aliktarraf.com/#catalog-trk-0150",
+        "release_id": "https://aliktarraf.com/#catalog-sng-105-digital-release",
+        "evidence": "DK-REC-003"
+      },
+      "historical_release_status": "unconfirmed",
+      "reconciliation_status": "current_product_documented_historical_disposition_unconfirmed",
+      "relationship": "same title; different ISRC and UPC; master equivalence unconfirmed",
+      "same_master": null
     },
     {
       "isrc": "QZTAV2559939",
@@ -33,7 +86,21 @@
       "observed_titles": [
         "EAGLES NOT CROWS"
       ],
-      "status": "Historical identifier pair; current release status and date unconfirmed"
+      "status": "Current same-title product confirmed by DistroKid screenshot; historical pair release status and date remain unconfirmed.",
+      "included_in_current_export": false,
+      "documented_current_product": {
+        "title": "EAGLES NOT CROWS",
+        "isrc": "QZZ7L2526027",
+        "upc": "199732029332",
+        "release_date": "2025-08-25",
+        "recording_id": "https://aliktarraf.com/#catalog-trk-0078",
+        "release_id": "https://aliktarraf.com/#catalog-sng-033-digital-release",
+        "evidence": "DK-REC-002"
+      },
+      "historical_release_status": "unconfirmed",
+      "reconciliation_status": "current_product_documented_historical_disposition_unconfirmed",
+      "relationship": "same title; different ISRC and UPC; master equivalence unconfirmed",
+      "same_master": null
     },
     {
       "isrc": "QZTAV2558893",
@@ -41,7 +108,21 @@
       "observed_titles": [
         "FORGET ME"
       ],
-      "status": "Historical identifier pair; current release status and date unconfirmed"
+      "status": "Current same-title product confirmed by DistroKid screenshot; historical pair release status and date remain unconfirmed.",
+      "included_in_current_export": false,
+      "documented_current_product": {
+        "title": "FORGET ME",
+        "isrc": "QZZ7Q2500446",
+        "upc": "199734201866",
+        "release_date": "2025-09-01",
+        "recording_id": "https://aliktarraf.com/#catalog-trk-0085",
+        "release_id": "https://aliktarraf.com/#catalog-sng-040-digital-release",
+        "evidence": "DK-REC-004"
+      },
+      "historical_release_status": "unconfirmed",
+      "reconciliation_status": "current_product_documented_historical_disposition_unconfirmed",
+      "relationship": "same title; different ISRC and UPC; master equivalence unconfirmed",
+      "same_master": null
     },
     {
       "isrc": "QT3EZ2529962",
@@ -49,7 +130,21 @@
       "observed_titles": [
         "HELA"
       ],
-      "status": "Historical identifier pair; current release status and date unconfirmed"
+      "status": "Current same-title product confirmed by DistroKid screenshot; historical pair release status and date remain unconfirmed.",
+      "included_in_current_export": false,
+      "documented_current_product": {
+        "title": "HELA",
+        "isrc": "QT3EZ2529962",
+        "upc": "199739106517",
+        "release_date": "2025-09-22",
+        "recording_id": "https://aliktarraf.com/#catalog-trk-0110",
+        "release_id": "https://aliktarraf.com/#catalog-sng-065-digital-release",
+        "evidence": "DK-REC-005"
+      },
+      "historical_release_status": "unconfirmed",
+      "reconciliation_status": "current_product_documented_historical_disposition_unconfirmed",
+      "relationship": "same ISRC; different release UPC",
+      "same_master": true
     },
     {
       "isrc": "QZTAV2606603",
@@ -57,7 +152,21 @@
       "observed_titles": [
         "I'M HUNGRY"
       ],
-      "status": "Historical identifier pair; current release status and date unconfirmed"
+      "status": "Current same-title product confirmed by DistroKid screenshot; historical pair release status and date remain unconfirmed.",
+      "included_in_current_export": false,
+      "documented_current_product": {
+        "title": "I'M HUNGRY",
+        "isrc": "QZDA42650506",
+        "upc": "821530774205",
+        "release_date": "2026-01-12",
+        "recording_id": "https://aliktarraf.com/#catalog-trk-0228",
+        "release_id": "https://aliktarraf.com/#catalog-sng-183-digital-release",
+        "evidence": "DK-REC-014"
+      },
+      "historical_release_status": "unconfirmed",
+      "reconciliation_status": "current_product_documented_historical_disposition_unconfirmed",
+      "relationship": "same title; different ISRC and UPC; master equivalence unconfirmed",
+      "same_master": null
     },
     {
       "isrc": "QZTAV2607666",
@@ -65,7 +174,21 @@
       "observed_titles": [
         "King's move"
       ],
-      "status": "Historical identifier pair; current release status and date unconfirmed"
+      "status": "Current same-title product confirmed by DistroKid screenshot; historical pair release status and date remain unconfirmed.",
+      "included_in_current_export": false,
+      "documented_current_product": {
+        "title": "King's move",
+        "isrc": "QZES82639913",
+        "upc": "821500845171",
+        "release_date": "2026-01-30",
+        "recording_id": "https://aliktarraf.com/#catalog-trk-0317",
+        "release_id": "https://aliktarraf.com/#catalog-sng-272-digital-release",
+        "evidence": "DK-REC-023"
+      },
+      "historical_release_status": "unconfirmed",
+      "reconciliation_status": "current_product_documented_historical_disposition_unconfirmed",
+      "relationship": "same title; different ISRC and UPC; master equivalence unconfirmed",
+      "same_master": null
     },
     {
       "isrc": "QZTAV2561120",
@@ -73,7 +196,21 @@
       "observed_titles": [
         "Meaning of Life"
       ],
-      "status": "Historical identifier pair; current release status and date unconfirmed"
+      "status": "Current same-title product confirmed by DistroKid screenshot; historical pair release status and date remain unconfirmed.",
+      "included_in_current_export": false,
+      "documented_current_product": {
+        "title": "Meaning of Life",
+        "isrc": "QT6E52575346",
+        "upc": "199748808495",
+        "release_date": "2025-10-22",
+        "recording_id": "https://aliktarraf.com/#catalog-trk-0153",
+        "release_id": "https://aliktarraf.com/#catalog-sng-108-digital-release",
+        "evidence": "DK-REC-020"
+      },
+      "historical_release_status": "unconfirmed",
+      "reconciliation_status": "current_product_documented_historical_disposition_unconfirmed",
+      "relationship": "same title; different ISRC and UPC; master equivalence unconfirmed",
+      "same_master": null
     },
     {
       "isrc": "QZTAV2600007",
@@ -81,7 +218,21 @@
       "observed_titles": [
         "New World"
       ],
-      "status": "Historical identifier pair; current release status and date unconfirmed"
+      "status": "Current same-title product confirmed by DistroKid screenshot; historical pair release status and date remain unconfirmed.",
+      "included_in_current_export": false,
+      "documented_current_product": {
+        "title": "New World",
+        "isrc": "QT3EY2513941",
+        "upc": "199739691075",
+        "release_date": "2025-09-19",
+        "recording_id": "https://aliktarraf.com/#catalog-trk-0104",
+        "release_id": "https://aliktarraf.com/#catalog-sng-059-digital-release",
+        "evidence": "DK-REC-011"
+      },
+      "historical_release_status": "unconfirmed",
+      "reconciliation_status": "current_product_documented_historical_disposition_unconfirmed",
+      "relationship": "same title; different ISRC and UPC; master equivalence unconfirmed",
+      "same_master": null
     },
     {
       "isrc": "QZTAV2602639",
@@ -89,7 +240,21 @@
       "observed_titles": [
         "STAY"
       ],
-      "status": "Historical identifier pair; current release status and date unconfirmed"
+      "status": "Current same-title product confirmed by DistroKid screenshot; historical pair release status and date remain unconfirmed.",
+      "included_in_current_export": false,
+      "documented_current_product": {
+        "title": "STAY",
+        "isrc": "QZFYZ2670515",
+        "upc": "199935827469",
+        "release_date": "2026-01-04",
+        "recording_id": "https://aliktarraf.com/#catalog-trk-0221",
+        "release_id": "https://aliktarraf.com/#catalog-sng-176-digital-release",
+        "evidence": "DK-REC-016"
+      },
+      "historical_release_status": "unconfirmed",
+      "reconciliation_status": "current_product_documented_historical_disposition_unconfirmed",
+      "relationship": "same title; different ISRC and UPC; master equivalence unconfirmed",
+      "same_master": null
     },
     {
       "isrc": "QZTAV2610228",
@@ -97,7 +262,21 @@
       "observed_titles": [
         "ЗА ЧТО"
       ],
-      "status": "Historical identifier pair; current release status and date unconfirmed"
+      "status": "Current same-title product confirmed by DistroKid screenshot; historical pair release status and date remain unconfirmed.",
+      "included_in_current_export": false,
+      "documented_current_product": {
+        "title": "ЗА ЧТО",
+        "isrc": "QZES92694771",
+        "upc": "821473977428",
+        "release_date": "2026-01-25",
+        "recording_id": "https://aliktarraf.com/#catalog-trk-0315",
+        "release_id": "https://aliktarraf.com/#catalog-sng-270-digital-release",
+        "evidence": "DK-REC-013"
+      },
+      "historical_release_status": "unconfirmed",
+      "reconciliation_status": "current_product_documented_historical_disposition_unconfirmed",
+      "relationship": "same title; different ISRC and UPC; master equivalence unconfirmed",
+      "same_master": null
     },
     {
       "isrc": "QZTAV2602403",
@@ -105,7 +284,21 @@
       "observed_titles": [
         "НИКТО КРОМЕ НАС"
       ],
-      "status": "Historical identifier pair; current release status and date unconfirmed"
+      "status": "Current same-title product confirmed by DistroKid screenshot; historical pair release status and date remain unconfirmed.",
+      "included_in_current_export": false,
+      "documented_current_product": {
+        "title": "НИКТО КРОМЕ НАС",
+        "isrc": "QT6G72538692",
+        "upc": "199939527679",
+        "release_date": "2025-12-24",
+        "recording_id": "https://aliktarraf.com/#catalog-trk-0213",
+        "release_id": "https://aliktarraf.com/#catalog-sng-168-digital-release",
+        "evidence": "DK-REC-018"
+      },
+      "historical_release_status": "unconfirmed",
+      "reconciliation_status": "current_product_documented_historical_disposition_unconfirmed",
+      "relationship": "same title; different ISRC and UPC; master equivalence unconfirmed",
+      "same_master": null
     },
     {
       "isrc": "QZTAV2607719",
@@ -113,7 +306,21 @@
       "observed_titles": [
         "ЭТО МЕЛОЧИ"
       ],
-      "status": "Historical identifier pair; current release status and date unconfirmed"
+      "status": "Current same-title product confirmed by DistroKid screenshot; historical pair release status and date remain unconfirmed.",
+      "included_in_current_export": false,
+      "documented_current_product": {
+        "title": "ЭТО МЕЛОЧИ",
+        "isrc": "QZFZ62683800",
+        "upc": "821451719811",
+        "release_date": "2026-01-08",
+        "recording_id": "https://aliktarraf.com/#catalog-trk-0224",
+        "release_id": "https://aliktarraf.com/#catalog-sng-179-digital-release",
+        "evidence": "DK-REC-015"
+      },
+      "historical_release_status": "unconfirmed",
+      "reconciliation_status": "current_product_documented_historical_disposition_unconfirmed",
+      "relationship": "same title; different ISRC and UPC; master equivalence unconfirmed",
+      "same_master": null
     },
     {
       "isrc": "QZTAV2600932",
@@ -121,7 +328,21 @@
       "observed_titles": [
         "Я Демон Ты Ангел"
       ],
-      "status": "Historical identifier pair; current release status and date unconfirmed"
+      "status": "The screenshot confirms Ty Angel ya Demon under different identifiers. Its relationship to historical Я Демон Ты Ангел is not established by the supplied evidence.",
+      "included_in_current_export": false,
+      "documented_current_product": {
+        "title": "Ty Angel ya Demon",
+        "isrc": "QT6FP2502129",
+        "upc": "199943304211",
+        "release_date": "2025-12-14",
+        "recording_id": "https://aliktarraf.com/#catalog-trk-0207",
+        "release_id": "https://aliktarraf.com/#catalog-sng-162-digital-release",
+        "evidence": "DK-REC-019"
+      },
+      "historical_release_status": "unconfirmed",
+      "reconciliation_status": "related_title_candidate_only",
+      "relationship": "unconfirmed; not treated as a rename, replacement or same recording",
+      "same_master": null
     },
     {
       "isrc": "QZTAV2612009",
@@ -129,7 +350,21 @@
       "observed_titles": [
         "Я слышу тебя"
       ],
-      "status": "Historical identifier pair; current release status and date unconfirmed"
+      "status": "Current same-title product confirmed by DistroKid screenshot; historical pair release status and date remain unconfirmed.",
+      "included_in_current_export": false,
+      "documented_current_product": {
+        "title": "Я слышу тебя",
+        "isrc": "QZHN32618130",
+        "upc": "821473856082",
+        "release_date": "2026-02-08",
+        "recording_id": "https://aliktarraf.com/#catalog-trk-0314",
+        "release_id": "https://aliktarraf.com/#catalog-sng-269-digital-release",
+        "evidence": "DK-REC-012"
+      },
+      "historical_release_status": "unconfirmed",
+      "reconciliation_status": "current_product_documented_historical_disposition_unconfirmed",
+      "relationship": "same title; different ISRC and UPC; master equivalence unconfirmed",
+      "same_master": null
     },
     {
       "isrc": "QT3F42531253",
@@ -137,7 +372,23 @@
       "observed_titles": [
         "هيلا"
       ],
-      "status": "Historical identifier pair; current release status and date unconfirmed"
+      "status": "Historical identifier pair; current release status and date unconfirmed. No corresponding current screenshot in this batch.",
+      "included_in_current_export": false,
+      "reconciliation_status": "no_current_screenshot",
+      "historical_release_status": "unconfirmed"
     }
-  ]
+  ],
+  "followup_evidence": [
+    "sources/distrokid-reconciliation-observations-2026-09-07.json",
+    "sources/owner-catalog-reconciliation-2026-09-07.json"
+  ],
+  "reconciliation_summary": {
+    "historical_pairs": 17,
+    "owner_confirmed_same_master_reupload": 1,
+    "owner_reported_deleted": 1,
+    "same_title_current_products_documented_without_historical_disposition": 13,
+    "related_title_candidate_only": 1,
+    "no_corresponding_current_screenshot": 1,
+    "pairs_without_owner_confirmed_disposition": 15
+  }
 }

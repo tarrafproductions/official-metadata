@@ -35,6 +35,7 @@ The repository is a source of truth and a version history. Publishing JSON-LD he
 - [`releases/live-tracklists.jsonld`](releases/live-tracklists.jsonld) — official ordered track lists for all three TARRAF PRODUCTIONS LIVE volumes (64 recordings in total).
 - [`releases/studio-singles.jsonld`](releases/studio-singles.jsonld) — verified canonical register of 275 digital single releases and their 275 recordings, including studio, remix and live singles, with stable internal identifiers and ISRC values.
 - [`sources/distrokid-dashboard-observations-2026-09-04.json`](sources/distrokid-dashboard-observations-2026-09-04.json) — first-party DistroKid evidence and reconciled identifiers for the 59 releases added as SNG-217 through SNG-275.
+- [`sources/distrokid-reconciliation-observations-2026-09-07.json`](sources/distrokid-reconciliation-observations-2026-09-07.json) — selected public facts from 23 additional DistroKid screenshots, including exact artist strings and explicit visibility limits.
 - [`docs/discography.md`](docs/discography.md) — human-readable discography register with documented coverage and source provenance.
 - [`docs/live-production-credits.md`](docs/live-production-credits.md) — verified production-credit matrix for the Fujairah recording event, live trilogy, and 64 recordings.
 - [`docs/website-integration.md`](docs/website-integration.md) — implementation contract for multilingual Vite/React pages, pre-rendering, canonical URLs, `hreflang`, and JSON-LD.
@@ -48,7 +49,7 @@ The artwork archive contains 279 supplied files. It preserves original filenames
 
 The [CSV](exports/catalog.csv) and [JSON](exports/catalog.json) exports contain 339 recording appearances across 278 release UPCs, representing 338 distinct ISRCs. All 275 single recordings and all 64 live track positions have durations. `Still Yours (LIVE)` reuses one recording identity across its single and Vol. III album appearance.
 
-See the [export format](exports/README.md) and [September 7 metadata audit](docs/catalog-audit-2026-09-07.md) for evidence, source differences and 17 historical identifier pairs awaiting reconciliation. The exports provide catalog data for recipient-specific mapping; they do not assert an external registration or rights claim.
+See the [export format](exports/README.md) and [September 7 metadata audit](docs/catalog-audit-2026-09-07.md) for the initial enrichment evidence. The [DistroKid follow-up](docs/distrokid-reconciliation-2026-09-07.md) reconciles 23 screenshots and owner clarifications: five exact artist credits corrected, four Marina primary-artist credits confirmed, APOCALYPSE recorded as owner-reported deleted, and AKFA EMPIRE linked as a same-master reupload. Of 17 historical identifier pairs, 15 still lack an owner-confirmed disposition; all 17 remain outside the current export. The exports provide catalog data for recipient-specific mapping; they do not assert an external registration or rights claim.
 
 ## Validation
 
