@@ -1,0 +1,506 @@
+{
+  "schema_version": 1,
+  "reviewed_on": "2026-09-07",
+  "source": "23 first-party DistroKid release-detail screenshots supplied by the catalog owner",
+  "screenshot_capture_date": null,
+  "scope": "Selected public catalog facts; source images and account UI are not republished.",
+  "counts": {
+    "screenshots": 23,
+    "matched_canonical_products": 23,
+    "visible_upcs": 23,
+    "visible_isrcs": 22
+  },
+  "notes": [
+    "The review date is not an assertion of screenshot capture time.",
+    "The displayed distributor delivery status is recorded verbatim; it is not an independent current-availability check at each store.",
+    "Upload, preorder and release dates are separate source fields. A null preorder date means none was visible.",
+    "Artist display strings retain their exact separators. Alik Tarraf Marina Tarraf links to two existing people, not a new combined artist entity.",
+    "More Lyubvi has a visible UPC but no visible ISRC. Its existing catalog recording is linked by the exact UPC, not claimed as visually ISRC-verified.",
+    "No durations, songwriter roles, rights shares or historical deletion statuses are inferred from these screenshots."
+  ],
+  "observations": [
+    {
+      "observation_id": "DK-REC-001",
+      "source_filename": "Alik Tarraf - AKFA EMPIRE - DistroKid.png",
+      "source_sha256": "0a4eb80ce21e28ae0d820ae717612131ccf377c802360a7b7ccb310ae062b4eb",
+      "displayed_title": "AKFA EMPIRE",
+      "displayed_artist_line": "Alik Tarraf",
+      "upload_date": "2025-09-09",
+      "release_date": "2025-09-09",
+      "preorder_date": null,
+      "upc": "199736298130",
+      "isrc": "QZZ7T2562881",
+      "isrc_visibility": "visible",
+      "displayed_delivery_status": "This single was successfully processed and delivered to stores.",
+      "catalog_match": {
+        "basis": "exact UPC and ISRC",
+        "album_id": "https://aliktarraf.com/#catalog-sng-046",
+        "release_id": "https://aliktarraf.com/#catalog-sng-046-digital-release",
+        "recording_id": "https://aliktarraf.com/#catalog-trk-0091",
+        "catalog_isrc": "QZZ7T2562881"
+      }
+    },
+    {
+      "observation_id": "DK-REC-002",
+      "source_filename": "Alik Tarraf - EAGLES NOT CROWS - DistroKid.png",
+      "source_sha256": "9bd1954c22ec0d8a20594470e3663a76a0167c8e6050e8f5d6f48eedd65fc081",
+      "displayed_title": "EAGLES NOT CROWS",
+      "displayed_artist_line": "Alik Tarraf",
+      "upload_date": "2025-08-25",
+      "release_date": "2025-08-25",
+      "preorder_date": null,
+      "upc": "199732029332",
+      "isrc": "QZZ7L2526027",
+      "isrc_visibility": "visible",
+      "displayed_delivery_status": "This single was successfully processed and delivered to stores.",
+      "catalog_match": {
+        "basis": "exact UPC and ISRC",
+        "album_id": "https://aliktarraf.com/#catalog-sng-033",
+        "release_id": "https://aliktarraf.com/#catalog-sng-033-digital-release",
+        "recording_id": "https://aliktarraf.com/#catalog-trk-0078",
+        "catalog_isrc": "QZZ7L2526027"
+      }
+    },
+    {
+      "observation_id": "DK-REC-003",
+      "source_filename": "Alik Tarraf - Anima Obscura (Dark Ritual Song) - DistroKid.png",
+      "source_sha256": "7b733e1eed7568a2eca150db084ace3bceacfede56d5da63888ee9eb22192442",
+      "displayed_title": "Anima Obscura (Dark Ritual Song)",
+      "displayed_artist_line": "Alik Tarraf",
+      "upload_date": "2025-10-17",
+      "release_date": "2025-10-17",
+      "preorder_date": null,
+      "upc": "199746102007",
+      "isrc": "QT3FG2507072",
+      "isrc_visibility": "visible",
+      "displayed_delivery_status": "This single was successfully processed and delivered to stores.",
+      "catalog_match": {
+        "basis": "exact UPC and ISRC",
+        "album_id": "https://aliktarraf.com/#catalog-sng-105",
+        "release_id": "https://aliktarraf.com/#catalog-sng-105-digital-release",
+        "recording_id": "https://aliktarraf.com/#catalog-trk-0150",
+        "catalog_isrc": "QT3FG2507072"
+      }
+    },
+    {
+      "observation_id": "DK-REC-004",
+      "source_filename": "Alik Tarraf - FORGET ME - DistroKid.png",
+      "source_sha256": "2ea1cc6382f0b17227bcac75dedb61a26c771b958aa20a631ad7843babff746a",
+      "displayed_title": "FORGET ME",
+      "displayed_artist_line": "Alik Tarraf",
+      "upload_date": "2025-09-01",
+      "release_date": "2025-09-01",
+      "preorder_date": null,
+      "upc": "199734201866",
+      "isrc": "QZZ7Q2500446",
+      "isrc_visibility": "visible",
+      "displayed_delivery_status": "This single was successfully processed and delivered to stores.",
+      "catalog_match": {
+        "basis": "exact UPC and ISRC",
+        "album_id": "https://aliktarraf.com/#catalog-sng-040",
+        "release_id": "https://aliktarraf.com/#catalog-sng-040-digital-release",
+        "recording_id": "https://aliktarraf.com/#catalog-trk-0085",
+        "catalog_isrc": "QZZ7Q2500446"
+      }
+    },
+    {
+      "observation_id": "DK-REC-005",
+      "source_filename": "Alik Tarraf - HELA - DistroKid.png",
+      "source_sha256": "f0a1758c07ca37669dd22cb787447e0c6806c322361ab0fd5550ac41deab8551",
+      "displayed_title": "HELA",
+      "displayed_artist_line": "Alik Tarraf",
+      "upload_date": "2025-09-22",
+      "release_date": "2025-09-22",
+      "preorder_date": null,
+      "upc": "199739106517",
+      "isrc": "QT3EZ2529962",
+      "isrc_visibility": "visible",
+      "displayed_delivery_status": "This single was successfully processed and delivered to stores.",
+      "catalog_match": {
+        "basis": "exact UPC and ISRC",
+        "album_id": "https://aliktarraf.com/#catalog-sng-065",
+        "release_id": "https://aliktarraf.com/#catalog-sng-065-digital-release",
+        "recording_id": "https://aliktarraf.com/#catalog-trk-0110",
+        "catalog_isrc": "QT3EZ2529962"
+      }
+    },
+    {
+      "observation_id": "DK-REC-006",
+      "source_filename": "Alik Tarraf Marina Tarraf - GODDESS - DistroKid.png",
+      "source_sha256": "5855dffe5a47c7b3ab35be634bc5900e29a58fa37d06c5bed157ce661f8e055c",
+      "displayed_title": "GODDESS",
+      "displayed_artist_line": "Alik Tarraf Marina Tarraf",
+      "upload_date": "2025-09-10",
+      "release_date": "2025-09-10",
+      "preorder_date": null,
+      "upc": "199737907826",
+      "isrc": "QZZ7U2554210",
+      "isrc_visibility": "visible",
+      "displayed_delivery_status": "This single was successfully processed and delivered to stores.",
+      "catalog_match": {
+        "basis": "exact UPC and ISRC",
+        "album_id": "https://aliktarraf.com/#catalog-sng-048",
+        "release_id": "https://aliktarraf.com/#catalog-sng-048-digital-release",
+        "recording_id": "https://aliktarraf.com/#catalog-trk-0093",
+        "catalog_isrc": "QZZ7U2554210"
+      }
+    },
+    {
+      "observation_id": "DK-REC-007",
+      "source_filename": "Alik Tarraf - APOCALYPSES (feat. Marina Tarraf ) - DistroKid.png",
+      "source_sha256": "88e1f5c79614a44fcd07fd4bc9604f994a8720e607d05188d004563201127849",
+      "displayed_title": "APOCALYPSES (feat. Marina Tarraf)",
+      "displayed_artist_line": "Alik Tarraf",
+      "upload_date": "2025-09-06",
+      "release_date": "2025-09-07",
+      "preorder_date": null,
+      "upc": "199736865578",
+      "isrc": "QZZ7S2565863",
+      "isrc_visibility": "visible",
+      "displayed_delivery_status": "This single was successfully processed and delivered to stores.",
+      "catalog_match": {
+        "basis": "exact UPC and ISRC",
+        "album_id": "https://aliktarraf.com/#catalog-sng-216",
+        "release_id": "https://aliktarraf.com/#catalog-sng-216-digital-release",
+        "recording_id": "https://aliktarraf.com/#catalog-trk-0261",
+        "catalog_isrc": "QZZ7S2565863"
+      }
+    },
+    {
+      "observation_id": "DK-REC-008",
+      "source_filename": "Alik Tarraf - More Lyubvi (feat. Marina Tarraf ) - DistroKid.png",
+      "source_sha256": "28cf07b3a7e1d45c69ad5078098f5b045cfce744f5095f17c3f8663107e138d1",
+      "displayed_title": "More Lyubvi (feat. Marina Tarraf)",
+      "displayed_artist_line": "Alik Tarraf",
+      "upload_date": "2025-09-13",
+      "release_date": "2025-09-14",
+      "preorder_date": null,
+      "upc": "199737115979",
+      "isrc": null,
+      "isrc_visibility": "not visible; screenshot ends above track list",
+      "displayed_delivery_status": "This single was successfully processed and delivered to stores.",
+      "catalog_match": {
+        "basis": "exact UPC; existing catalog ISRC was not visible in screenshot",
+        "album_id": "https://aliktarraf.com/#catalog-sng-054",
+        "release_id": "https://aliktarraf.com/#catalog-sng-054-digital-release",
+        "recording_id": "https://aliktarraf.com/#catalog-trk-0099",
+        "catalog_isrc": "QZZ7W2515106"
+      }
+    },
+    {
+      "observation_id": "DK-REC-009",
+      "source_filename": "Alik Tarraf - Sila Lyubvi - DistroKid.png",
+      "source_sha256": "042fd139f0b2f1235a94497c7567da63a8024398f35f9099c9b8b95d27ba57fd",
+      "displayed_title": "Sila Lyubvi",
+      "displayed_artist_line": "Alik Tarraf",
+      "upload_date": "2025-09-12",
+      "release_date": "2025-09-12",
+      "preorder_date": null,
+      "upc": "199737598277",
+      "isrc": "QZZ7V2523510",
+      "isrc_visibility": "visible",
+      "displayed_delivery_status": "This single was successfully processed and delivered to stores.",
+      "catalog_match": {
+        "basis": "exact UPC and ISRC",
+        "album_id": "https://aliktarraf.com/#catalog-sng-052",
+        "release_id": "https://aliktarraf.com/#catalog-sng-052-digital-release",
+        "recording_id": "https://aliktarraf.com/#catalog-trk-0097",
+        "catalog_isrc": "QZZ7V2523510"
+      }
+    },
+    {
+      "observation_id": "DK-REC-010",
+      "source_filename": "Marina Tarraf - Shtorm i Lyubov - DistroKid.png",
+      "source_sha256": "e925da359b8113c28b8aff07b5f5409b9d65cbf28e9616ff72d8eeb025d98d27",
+      "displayed_title": "Shtorm i Lyubov",
+      "displayed_artist_line": "Marina Tarraf",
+      "upload_date": "2025-09-11",
+      "release_date": "2025-09-12",
+      "preorder_date": null,
+      "upc": "199737612591",
+      "isrc": "QZZ7V2520401",
+      "isrc_visibility": "visible",
+      "displayed_delivery_status": "This single was successfully processed and delivered to stores.",
+      "catalog_match": {
+        "basis": "exact UPC and ISRC",
+        "album_id": "https://aliktarraf.com/#catalog-sng-051",
+        "release_id": "https://aliktarraf.com/#catalog-sng-051-digital-release",
+        "recording_id": "https://aliktarraf.com/#catalog-trk-0096",
+        "catalog_isrc": "QZZ7V2520401"
+      }
+    },
+    {
+      "observation_id": "DK-REC-011",
+      "source_filename": "Alik Tarraf Marina Tarraf - New World - DistroKid.png",
+      "source_sha256": "f0767490b58b2aba40f1ec483b60f12d5c68cbf48ef1fdc67939a24c27af0836",
+      "displayed_title": "New World",
+      "displayed_artist_line": "Alik Tarraf Marina Tarraf",
+      "upload_date": "2025-09-19",
+      "release_date": "2025-09-19",
+      "preorder_date": null,
+      "upc": "199739691075",
+      "isrc": "QT3EY2513941",
+      "isrc_visibility": "visible",
+      "displayed_delivery_status": "This single was successfully processed and delivered to stores.",
+      "catalog_match": {
+        "basis": "exact UPC and ISRC",
+        "album_id": "https://aliktarraf.com/#catalog-sng-059",
+        "release_id": "https://aliktarraf.com/#catalog-sng-059-digital-release",
+        "recording_id": "https://aliktarraf.com/#catalog-trk-0104",
+        "catalog_isrc": "QT3EY2513941"
+      }
+    },
+    {
+      "observation_id": "DK-REC-012",
+      "source_filename": "Alik Tarraf - Я слышу тебя - DistroKid(1).png",
+      "source_sha256": "355db186bd59729073ac4d5f8e004b7f88ea9ad70c727cbab05666e39c5c8511",
+      "displayed_title": "Я слышу тебя",
+      "displayed_artist_line": "Alik Tarraf",
+      "upload_date": "2026-01-25",
+      "release_date": "2026-02-08",
+      "preorder_date": "2026-01-25",
+      "upc": "821473856082",
+      "isrc": "QZHN32618130",
+      "isrc_visibility": "visible",
+      "displayed_delivery_status": "This single was successfully processed and delivered to stores.",
+      "catalog_match": {
+        "basis": "exact UPC and ISRC",
+        "album_id": "https://aliktarraf.com/#catalog-sng-269",
+        "release_id": "https://aliktarraf.com/#catalog-sng-269-digital-release",
+        "recording_id": "https://aliktarraf.com/#catalog-trk-0314",
+        "catalog_isrc": "QZHN32618130"
+      }
+    },
+    {
+      "observation_id": "DK-REC-013",
+      "source_filename": "Alik Tarraf - ЗА ЧТО - DistroKid(1).png",
+      "source_sha256": "c07ed28e38af0553e54676925765698f8ddb3ba00f76f9061e14870a06691db0",
+      "displayed_title": "ЗА ЧТО",
+      "displayed_artist_line": "Alik Tarraf",
+      "upload_date": "2026-01-25",
+      "release_date": "2026-01-25",
+      "preorder_date": null,
+      "upc": "821473977428",
+      "isrc": "QZES92694771",
+      "isrc_visibility": "visible",
+      "displayed_delivery_status": "This single was successfully processed and delivered to stores.",
+      "catalog_match": {
+        "basis": "exact UPC and ISRC",
+        "album_id": "https://aliktarraf.com/#catalog-sng-270",
+        "release_id": "https://aliktarraf.com/#catalog-sng-270-digital-release",
+        "recording_id": "https://aliktarraf.com/#catalog-trk-0315",
+        "catalog_isrc": "QZES92694771"
+      }
+    },
+    {
+      "observation_id": "DK-REC-014",
+      "source_filename": "Alik Tarraf - I'M HUNGRY - DistroKid.png",
+      "source_sha256": "c7b3eb9d03dc87547987b02b7514c6144a4ed10ed1d27ae3579dbc255bd56fa7",
+      "displayed_title": "I'M HUNGRY",
+      "displayed_artist_line": "Alik Tarraf",
+      "upload_date": "2026-01-12",
+      "release_date": "2026-01-12",
+      "preorder_date": null,
+      "upc": "821530774205",
+      "isrc": "QZDA42650506",
+      "isrc_visibility": "visible",
+      "displayed_delivery_status": "This single was successfully processed and delivered to stores.",
+      "catalog_match": {
+        "basis": "exact UPC and ISRC",
+        "album_id": "https://aliktarraf.com/#catalog-sng-183",
+        "release_id": "https://aliktarraf.com/#catalog-sng-183-digital-release",
+        "recording_id": "https://aliktarraf.com/#catalog-trk-0228",
+        "catalog_isrc": "QZDA42650506"
+      }
+    },
+    {
+      "observation_id": "DK-REC-015",
+      "source_filename": "Alik Tarraf - ЭТО МЕЛОЧИ - DistroKid.png",
+      "source_sha256": "70ec3ce2a432e4c39410c33c6fe51bb9382968765df4f6c9ea397c407d67c243",
+      "displayed_title": "ЭТО МЕЛОЧИ",
+      "displayed_artist_line": "Alik Tarraf",
+      "upload_date": "2026-01-08",
+      "release_date": "2026-01-08",
+      "preorder_date": null,
+      "upc": "821451719811",
+      "isrc": "QZFZ62683800",
+      "isrc_visibility": "visible",
+      "displayed_delivery_status": "This single was successfully processed and delivered to stores.",
+      "catalog_match": {
+        "basis": "exact UPC and ISRC",
+        "album_id": "https://aliktarraf.com/#catalog-sng-179",
+        "release_id": "https://aliktarraf.com/#catalog-sng-179-digital-release",
+        "recording_id": "https://aliktarraf.com/#catalog-trk-0224",
+        "catalog_isrc": "QZFZ62683800"
+      }
+    },
+    {
+      "observation_id": "DK-REC-016",
+      "source_filename": "Alik Tarraf - STAY - DistroKid.png",
+      "source_sha256": "7eeb4a85c3fefd88ddaf9e2855648c9540b65e054d3d2597b74b1ab5f8803d17",
+      "displayed_title": "STAY",
+      "displayed_artist_line": "Alik Tarraf",
+      "upload_date": "2026-01-04",
+      "release_date": "2026-01-04",
+      "preorder_date": null,
+      "upc": "199935827469",
+      "isrc": "QZFYZ2670515",
+      "isrc_visibility": "visible",
+      "displayed_delivery_status": "This single was successfully processed and delivered to stores.",
+      "catalog_match": {
+        "basis": "exact UPC and ISRC",
+        "album_id": "https://aliktarraf.com/#catalog-sng-176",
+        "release_id": "https://aliktarraf.com/#catalog-sng-176-digital-release",
+        "recording_id": "https://aliktarraf.com/#catalog-trk-0221",
+        "catalog_isrc": "QZFYZ2670515"
+      }
+    },
+    {
+      "observation_id": "DK-REC-017",
+      "source_filename": "Alik Tarraf, Marina Tarraf - STILL YOURS - DistroKid.png",
+      "source_sha256": "93c717b1f6883262b6f6a41e98d6a36323e3fe9473dadfd1955cfc592ddf796a",
+      "displayed_title": "STILL YOURS",
+      "displayed_artist_line": "Alik Tarraf, Marina Tarraf",
+      "upload_date": "2025-12-29",
+      "release_date": "2025-12-29",
+      "preorder_date": null,
+      "upc": "199937820109",
+      "isrc": "QT6HK2556744",
+      "isrc_visibility": "visible",
+      "displayed_delivery_status": "This single was successfully processed and delivered to stores.",
+      "catalog_match": {
+        "basis": "exact UPC and ISRC",
+        "album_id": "https://aliktarraf.com/#catalog-sng-170",
+        "release_id": "https://aliktarraf.com/#catalog-sng-170-digital-release",
+        "recording_id": "https://aliktarraf.com/#catalog-trk-0215",
+        "catalog_isrc": "QT6HK2556744"
+      }
+    },
+    {
+      "observation_id": "DK-REC-018",
+      "source_filename": "Alik Tarraf - НИКТО КРОМЕ НАС - DistroKid.png",
+      "source_sha256": "88ec3a58ae2b8dd129fe8ac608dbe1de71ee628188e70d1a9e0fe23fe163d6aa",
+      "displayed_title": "НИКТО КРОМЕ НАС",
+      "displayed_artist_line": "Alik Tarraf",
+      "upload_date": "2025-12-24",
+      "release_date": "2025-12-24",
+      "preorder_date": null,
+      "upc": "199939527679",
+      "isrc": "QT6G72538692",
+      "isrc_visibility": "visible",
+      "displayed_delivery_status": "This single was successfully processed and delivered to stores.",
+      "catalog_match": {
+        "basis": "exact UPC and ISRC",
+        "album_id": "https://aliktarraf.com/#catalog-sng-168",
+        "release_id": "https://aliktarraf.com/#catalog-sng-168-digital-release",
+        "recording_id": "https://aliktarraf.com/#catalog-trk-0213",
+        "catalog_isrc": "QT6G72538692"
+      }
+    },
+    {
+      "observation_id": "DK-REC-019",
+      "source_filename": "Alik Tarraf - Ty Angel ya Demon - DistroKid.png",
+      "source_sha256": "39aa850acb4c6551c18002acb65ab8e2618ecdc6d2659854603bbed527b8c501",
+      "displayed_title": "Ty Angel ya Demon",
+      "displayed_artist_line": "Alik Tarraf",
+      "upload_date": "2025-12-13",
+      "release_date": "2025-12-14",
+      "preorder_date": null,
+      "upc": "199943304211",
+      "isrc": "QT6FP2502129",
+      "isrc_visibility": "visible",
+      "displayed_delivery_status": "This single was successfully processed and delivered to stores.",
+      "catalog_match": {
+        "basis": "exact UPC and ISRC",
+        "album_id": "https://aliktarraf.com/#catalog-sng-162",
+        "release_id": "https://aliktarraf.com/#catalog-sng-162-digital-release",
+        "recording_id": "https://aliktarraf.com/#catalog-trk-0207",
+        "catalog_isrc": "QT6FP2502129"
+      }
+    },
+    {
+      "observation_id": "DK-REC-020",
+      "source_filename": "Alik Tarraf - Meaning of Life - DistroKid.png",
+      "source_sha256": "d2439e9c32f7365b38e4c77509153d82b15ec816be83449c101f973dae3fbda4",
+      "displayed_title": "Meaning of Life",
+      "displayed_artist_line": "Alik Tarraf",
+      "upload_date": "2025-10-22",
+      "release_date": "2025-10-22",
+      "preorder_date": null,
+      "upc": "199748808495",
+      "isrc": "QT6E52575346",
+      "isrc_visibility": "visible",
+      "displayed_delivery_status": "This single was successfully processed and delivered to stores.",
+      "catalog_match": {
+        "basis": "exact UPC and ISRC",
+        "album_id": "https://aliktarraf.com/#catalog-sng-108",
+        "release_id": "https://aliktarraf.com/#catalog-sng-108-digital-release",
+        "recording_id": "https://aliktarraf.com/#catalog-trk-0153",
+        "catalog_isrc": "QT6E52575346"
+      }
+    },
+    {
+      "observation_id": "DK-REC-021",
+      "source_filename": "Alik Tarraf, Marina Tarraf - BANINA BANINA YALLA TARRAF - DistroKid.png",
+      "source_sha256": "1dc0668c8994acce767373fe8a51bcb68af374b4fed57bc404cb614e06eb7704",
+      "displayed_title": "BANINA BANINA YALLA TARRAF",
+      "displayed_artist_line": "Alik Tarraf, Marina Tarraf",
+      "upload_date": "2025-10-23",
+      "release_date": "2025-10-23",
+      "preorder_date": null,
+      "upc": "199748545277",
+      "isrc": "QT6E62524228",
+      "isrc_visibility": "visible",
+      "displayed_delivery_status": "This single was successfully processed and delivered to stores.",
+      "catalog_match": {
+        "basis": "exact UPC and ISRC",
+        "album_id": "https://aliktarraf.com/#catalog-sng-110",
+        "release_id": "https://aliktarraf.com/#catalog-sng-110-digital-release",
+        "recording_id": "https://aliktarraf.com/#catalog-trk-0155",
+        "catalog_isrc": "QT6E62524228"
+      }
+    },
+    {
+      "observation_id": "DK-REC-022",
+      "source_filename": "Marina Tarraf - POSSESSED - DistroKid.png",
+      "source_sha256": "e1f0cf33517cb67d505e2fdba118cf52153b81a46c1151e4f2720b7b40032401",
+      "displayed_title": "POSSESSED",
+      "displayed_artist_line": "Marina Tarraf",
+      "upload_date": "2025-10-06",
+      "release_date": "2025-10-06",
+      "preorder_date": null,
+      "upc": "199743290448",
+      "isrc": "QT3F92537714",
+      "isrc_visibility": "visible",
+      "displayed_delivery_status": "This single was successfully processed and delivered to stores.",
+      "catalog_match": {
+        "basis": "exact UPC and ISRC",
+        "album_id": "https://aliktarraf.com/#catalog-sng-094",
+        "release_id": "https://aliktarraf.com/#catalog-sng-094-digital-release",
+        "recording_id": "https://aliktarraf.com/#catalog-trk-0139",
+        "catalog_isrc": "QT3F92537714"
+      }
+    },
+    {
+      "observation_id": "DK-REC-023",
+      "source_filename": "Alik Tarraf - King's move - DistroKid(1).png",
+      "source_sha256": "c84c9aca0b2d31df994548913b6fdd1947a7ba69ca740fda3cc72896be34d947",
+      "displayed_title": "King's move",
+      "displayed_artist_line": "Alik Tarraf",
+      "upload_date": "2026-01-22",
+      "release_date": "2026-01-30",
+      "preorder_date": "2026-01-23",
+      "upc": "821500845171",
+      "isrc": "QZES82639913",
+      "isrc_visibility": "visible",
+      "displayed_delivery_status": "This single was successfully processed and delivered to stores.",
+      "catalog_match": {
+        "basis": "exact UPC and ISRC",
+        "album_id": "https://aliktarraf.com/#catalog-sng-272",
+        "release_id": "https://aliktarraf.com/#catalog-sng-272-digital-release",
+        "recording_id": "https://aliktarraf.com/#catalog-trk-0317",
+        "catalog_isrc": "QZES82639913"
+      }
+    }
+  ]
+}

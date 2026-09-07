@@ -59,24 +59,31 @@ performance credits are preserved.
 - Existing September 4 DistroKid evidence remains the source for its 59
   reconciled single products.
 
-## Outstanding reconciliation
+## Follow-up reconciliation
 
-Thirty sampled single recordings have an artist-credit, release-date or existing
-duration difference between the owner-supplied catalog and Apple Music. Some are
-display conventions such as omitted featured artists; they are not all proven
-errors. The exact differences are recorded in the enrichment audit. Owner-supplied
-canonical credits and dates were retained. Apple Music additionally lists Lezzy
-on some live tracks; the source observations retain that display credit for
-reconciliation, while the graph retains the owner-supplied principal artists.
+The original enrichment audit is preserved as a baseline snapshot. Its 30 sampled
+differences were all **artist-credit comparisons**, not release-date or duration
+conflicts. The later [DistroKid and owner review](distrokid-reconciliation-2026-09-07.md)
+classifies them as 20 cases with the featured artist present in the Apple title,
+one catalog correction resolved by crediting Sila Lyubvi to Alik Tarraf alone,
+and nine remaining platform artist-attribution differences. Five canonical artist
+credits were corrected; the earlier statement that all performance credits were
+preserved describes the initial enrichment, before this follow-up.
 
-The earlier identifier workbook also contains **17 distinct ISRC/UPC pairs**
-outside the canonical product set: 15 additional ISRCs and two additional UPC
-appearances of already known ISRCs. They are recorded in
-[`historical-identifier-review-2026-09-07.json`](../sources/historical-identifier-review-2026-09-07.json).
-Current release status and release dates are not confirmed by that workbook.
-They must not be merged into similarly named masters or declared active/deleted
-without distributor evidence. They are excluded from the current export pending
-reconciliation.
+Apple Music additionally lists Lezzy on some live tracks; those original source
+observations remain available for reconciliation. The follow-up concerns the
+supplied single screenshots and does not change live performance credits.
+
+The earlier identifier workbook contains **17 distinct ISRC/UPC pairs** outside
+the canonical product set: 15 additional ISRCs and two additional UPC appearances
+of known ISRCs. The updated [historical review](../sources/historical-identifier-review-2026-09-07.json)
+records an owner-reported APOCALYPSE deletion and an owner-confirmed same-master
+AKFA EMPIRE reupload. The historical AKFA UPC's withdrawal status was not supplied.
+The remaining 15 pairs lack an owner-confirmed disposition. Screenshots confirm
+current same-title products for 13; Ty Angel ya Demon is only a related-title
+candidate for Я Демон Ты Ангел, and no corresponding screenshot was supplied for
+هيلا. All 17 historical pairs remain outside the current export. Different ISRCs
+are not merged merely because their titles are similar.
 
 No data was submitted to MusicBrainz, SoundExchange, GS1 or other external music
 databases as part of this GitHub correction.

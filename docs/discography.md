@@ -16,6 +16,8 @@ The live albums and their 64 ordered track positions are maintained in [`release
 
 The [combined CSV](../exports/catalog.csv) and [JSON](../exports/catalog.json) exports join the singles and live trilogy by recording and release identity. The catalog has 338 unique ISRCs across 339 recording appearances: `Still Yours (LIVE)` appears on both its single and Vol. III. The [September 7 audit](catalog-audit-2026-09-07.md) documents the added durations, platform title aliases and outstanding source discrepancies.
 
+The [23-screenshot follow-up](distrokid-reconciliation-2026-09-07.md) records five exact artist-credit corrections, Marina’s historical primary-artist attribution, and the APOCALYPSE deletion / AKFA EMPIRE reupload history. It confirms 23 UPCs and 22 visible ISRCs; More Lyubvi’s ISRC is outside its screenshot.
+
 The existing `studio-singles.jsonld` filename is retained for integrations; its contents include studio, remix and live singles.
 
 ## Cover artwork
@@ -42,9 +44,9 @@ GitHub provides version history and public provenance; it does not replace regis
 | SNG-012 | 2025-08-22 | Alik | Alik Tarraf | 199732966156 | QZZ792534567 | Source-normalized |
 | SNG-013 | 2025-08-22 | Boginya | Alik Tarraf (feat. Marina Tarraf) | 199732870927 | QZZ792549661 | Source-normalized |
 | SNG-014 | 2025-08-22 | OH MAMMA MIA | Alik Tarraf (feat. Marina Tarraf) | 199732907180 | QZZ792541089 | Source-normalized |
-| SNG-015 | 2025-08-22 | PROSTO | Marina Tarraf | 199732931703 | QZZ792534916 | Source-normalized |
+| SNG-015 | 2025-08-22 | PROSTO | Marina Tarraf | 199732931703 | QZZ792534916 | Owner artist confirmation · 2026-09-07 |
 | SNG-016 | 2025-08-22 | Up and Down | Alik Tarraf (feat. Marina Tarraf) | 199732768187 | QZZ792573561 | Source-normalized |
-| SNG-017 | 2025-08-22 | Vyshel Alik Pogulyat | Marina Tarraf | 199732887307 | QZZ792546205 | Source-normalized |
+| SNG-017 | 2025-08-22 | Vyshel Alik Pogulyat | Marina Tarraf | 199732887307 | QZZ792546205 | Owner artist confirmation · 2026-09-07 |
 | SNG-018 | 2025-08-22 | ВОСТОЧНАЯ МАРИНА ((VIP MIX)) | Alik Tarraf | 199732883934 | QZZ792549391 | Source-normalized |
 | SNG-019 | 2025-08-22 | ВРЕМЯ | Alik Tarraf | 199732970443 | QZZ792534564 | Source-normalized |
 | SNG-020 | 2025-08-22 | Затмила Мы | Alik Tarraf | 199732840197 | QZZ792557117 | Source-normalized |
@@ -60,39 +62,39 @@ GitHub provides version history and public provenance; it does not replace regis
 | SNG-030 | 2025-08-24 | CHOOSE YOU | Alik Tarraf | 199732435249 | QZZ7K2539567 | Source-normalized |
 | SNG-031 | 2025-08-24 | NOISY SILENCE | Alik Tarraf | 199732298424 | QZZ7K2569335 | Source-normalized |
 | SNG-032 | 2025-08-24 | ШУМНАЯ ТИШИНА | Alik Tarraf | 199732340871 | QZZ7K2560887 | Source-normalized |
-| SNG-033 | 2025-08-25 | EAGLES NOT CROWS | Alik Tarraf | 199732029332 | QZZ7L2526027 | Source-normalized |
+| SNG-033 | 2025-08-25 | EAGLES NOT CROWS | Alik Tarraf | 199732029332 | QZZ7L2526027 | DistroKid screenshot · 2026-09-07 |
 | SNG-034 | 2025-08-25 | Качели (EMO Version) | Alik Tarraf | 199326044208 | QZZ792534374 | Source-normalized |
 | SNG-035 | 2025-08-26 | GOOD AND EVIL | Alik Tarraf | 199733796899 | QZZ7L2573240 | Source-normalized |
 | SNG-036 | 2025-08-26 | ГІМН УКРАЇНИ | Alik Tarraf | 199733968067 | QZZ7L2537421 | Source-normalized |
 | SNG-037 | 2025-08-27 | Why Why | Alik Tarraf | 199733643162 | QZZ7M2502769 | Source-normalized |
 | SNG-038 | 2025-08-29 | PARADOX | Alik Tarraf | 199733143686 | QZZ7N2505349 | Source-normalized |
 | SNG-039 | 2025-08-29 | Не Умоляй | Alik Tarraf | 199733158727 | QZZ7N2502093 | Source-normalized |
-| SNG-040 | 2025-09-01 | FORGET ME | Alik Tarraf | 199734201866 | QZZ7Q2500446 | Source-normalized |
+| SNG-040 | 2025-09-01 | FORGET ME | Alik Tarraf | 199734201866 | QZZ7Q2500446 | DistroKid screenshot · 2026-09-07 |
 | SNG-041 | 2025-09-01 | НОЧЬ ОЖИВАЕТ | Alik Tarraf | 199734180055 | QZZ7Q2504670 | Source-normalized |
 | SNG-042 | 2025-09-02 | Воздушный Шар | Alik Tarraf | 199735951869 | QZZ7Q2550781 | Source-normalized |
 | SNG-043 | 2025-09-03 | RISING BALLOON | Alik Tarraf | 199735912389 | QZZ7Q2558452 | Source-normalized |
 | SNG-044 | 2025-09-05 | День Birthday | Alik Tarraf | 199735153539 | QZZ7S2512624 | Source-normalized |
 | SNG-045 | 2025-09-06 | Я НАРЦИСС | Alik Tarraf | 199735081801 | QZZ7S2525590 | Source-normalized |
-| SNG-046 | 2025-09-09 | AKFA EMPIRE | Alik Tarraf | 199736298130 | QZZ7T2562881 | Source-normalized |
+| SNG-046 | 2025-09-09 | AKFA EMPIRE | Alik Tarraf | 199736298130 | QZZ7T2562881 | DistroKid screenshot · 2026-09-07 |
 | SNG-047 | 2025-09-09 | КОНЕЦ СВЕТА | Alik Tarraf | 199736264265 | QZZ7T2578083 | Source-normalized |
-| SNG-048 | 2025-09-10 | GODDESS | Alik Tarraf (feat. Marina Tarraf) | 199737907826 | QZZ7U2554210 | Source-normalized |
+| SNG-048 | 2025-09-10 | GODDESS | Alik Tarraf Marina Tarraf | 199737907826 | QZZ7U2554210 | DistroKid screenshot · 2026-09-07 |
 | SNG-049 | 2025-09-11 | PARADISE | Alik Tarraf | 199737886343 | QZZ7U2557695 | Source-normalized |
 | SNG-050 | 2025-09-12 | Semya v Serdtse | Alik Tarraf (feat. Aliana Tarraf) | 199737495767 | QZZ7V2541692 | Source-normalized |
-| SNG-051 | 2025-09-12 | Shtorm I Lyubov | Marina Tarraf | 199737612591 | QZZ7V2520401 | Source-normalized |
-| SNG-052 | 2025-09-12 | Sila Lyubvi | Alik Tarraf (feat. Marina Tarraf) | 199737598277 | QZZ7V2523510 | Source-normalized |
+| SNG-051 | 2025-09-12 | Shtorm i Lyubov | Marina Tarraf | 199737612591 | QZZ7V2520401 | DistroKid screenshot · 2026-09-07 |
+| SNG-052 | 2025-09-12 | Sila Lyubvi | Alik Tarraf | 199737598277 | QZZ7V2523510 | DistroKid screenshot · 2026-09-07 |
 | SNG-053 | 2025-09-13 | ASH and NEON | Alik Tarraf | 199737136721 | QZZ7W2511469 | Source-normalized |
-| SNG-054 | 2025-09-14 | More Lyubvi | Alik Tarraf (feat. Marina Tarraf) | 199737115979 | QZZ7W2515106 | Source-normalized |
+| SNG-054 | 2025-09-14 | More Lyubvi | Alik Tarraf (feat. Marina Tarraf) | 199737115979 | QZZ7W2515106 | DistroKid UPC/title · ISRC retained |
 | SNG-055 | 2025-09-14 | Фальшивая Любовь | Alik Tarraf | 199738970133 | QZZ7W2545487 | Source-normalized |
 | SNG-056 | 2025-09-15 | Sister | Alik Tarraf | 199738677605 | QZZ7X2503248 | Source-normalized |
 | SNG-057 | 2025-09-15 | Брат | Alik Tarraf | 199738685365 | QZZ7X2501327 | Source-normalized |
 | SNG-058 | 2025-09-17 | Brother | Alik Tarraf | 199738216408 | QZZ7X2594221 | Source-normalized |
-| SNG-059 | 2025-09-19 | New World | Alik Tarraf (feat. Marina Tarraf) | 199739691075 | QT3EY2513941 | Source-normalized |
+| SNG-059 | 2025-09-19 | New World | Alik Tarraf Marina Tarraf | 199739691075 | QT3EY2513941 | DistroKid screenshot · 2026-09-07 |
 | SNG-060 | 2025-09-19 | STOP НАРКОТИК | Alik Tarraf | 199739862048 | QT3EX2572244 | Source-normalized |
 | SNG-061 | 2025-09-20 | ARRIBA Y ABAJO | Alik Tarraf | 199739554028 | QT3EY2542532 | Source-normalized |
 | SNG-062 | 2025-09-20 | Бусинка | Alik Tarraf | 199739520566 | QT3EY2549935 | Source-normalized |
 | SNG-063 | 2025-09-21 | IBIZA FESTIVAL (soundtrack) | Alik Tarraf | 199739237730 | QT3EZ2511468 | Source-normalized |
 | SNG-064 | 2025-09-21 | МОЛОДОСТЬ | Alik Tarraf | 199739238287 | QT3EZ2508067 | Source-normalized |
-| SNG-065 | 2025-09-22 | HELA | Alik Tarraf | 199739106517 | QT3EZ2529962 | Source-normalized |
+| SNG-065 | 2025-09-22 | HELA | Alik Tarraf | 199739106517 | QT3EZ2529962 | DistroKid screenshot · 2026-09-07 |
 | SNG-066 | 2025-09-23 | ДЕТСТВО | Alik Tarraf | 199740856524 | QT3EZ2585905 | Source-normalized |
 | SNG-067 | 2025-09-23 | УХУ ЕЛ? | Alik Tarraf | 199740652089 | QT3F22532818 | Source-normalized |
 | SNG-068 | 2025-09-25 | ДОБРО И ЗЛО ((VIP REMIX Version)) | Alik Tarraf | 199740131089 | QT3F32547780 | Source-normalized |
@@ -121,7 +123,7 @@ GitHub provides version history and public provenance; it does not replace regis
 | SNG-091 | 2025-10-05 | КИЇВ | Alik Tarraf | 199743549454 | QT3F82583937 | Source-normalized |
 | SNG-092 | 2025-10-05 | ПРОЩАЙ | Alik Tarraf | 199743524048 | QT3F82590514 | Source-normalized |
 | SNG-093 | 2025-10-05 | ТЕНИ | Alik Tarraf | 199743452464 | QT3F92505012 | Source-normalized |
-| SNG-094 | 2025-10-06 | POSSESSED | Marina Tarraf | 199743290448 | QT3F92537714 | Source-normalized |
+| SNG-094 | 2025-10-06 | POSSESSED | Marina Tarraf | 199743290448 | QT3F92537714 | DistroKid screenshot · 2026-09-07 |
 | SNG-095 | 2025-10-06 | Запретный Вкус | Alik Tarraf | 199743292206 | QT3F92535289 | Source-normalized |
 | SNG-096 | 2025-10-07 | Instagram (soundtrack) | Alik Tarraf | 199744958323 | QT3FA2508029 | Source-normalized |
 | SNG-097 | 2025-10-07 | Пенсия Кайф | Alik Tarraf | 199744915647 | QT3FA2517875 | Source-normalized |
@@ -132,12 +134,12 @@ GitHub provides version history and public provenance; it does not replace regis
 | SNG-102 | 2025-10-12 | Мама | Alik Tarraf | 199745489772 | QT3FD2506128 | Source-normalized |
 | SNG-103 | 2025-10-13 | DREAM OF LIGHT | Alik Tarraf | 199745241905 | QT3FD2561541 | Source-normalized |
 | SNG-104 | 2025-10-14 | Между Орбит | Alik Tarraf | 199745016800 | QT3FE2509181 | Source-normalized |
-| SNG-105 | 2025-10-17 | Anima Obscura (Dark Ritual Song) | Alik Tarraf | 199746102007 | QT3FG2507072 | Source-normalized |
+| SNG-105 | 2025-10-17 | Anima Obscura (Dark Ritual Song) | Alik Tarraf | 199746102007 | QT3FG2507072 | DistroKid screenshot · 2026-09-07 |
 | SNG-106 | 2025-10-17 | HELLO | Alik Tarraf | 199746331070 | QT3FF2557854 | Source-normalized |
 | SNG-107 | 2025-10-19 | БУМЕРАНГ | Alik Tarraf | 199747546978 | QT3FH2514472 | Source-normalized |
-| SNG-108 | 2025-10-22 | Meaning of Life | Alik Tarraf | 199748808495 | QT6E52575346 | Source-normalized |
+| SNG-108 | 2025-10-22 | Meaning of Life | Alik Tarraf | 199748808495 | QT6E52575346 | DistroKid screenshot · 2026-09-07 |
 | SNG-109 | 2025-10-22 | VEVO | Alik Tarraf | 199748950453 | QT6E52548061 | Source-normalized |
-| SNG-110 | 2025-10-23 | BANINA BANINA YALLA TARRAF | Alik Tarraf (feat. Marina Tarraf) | 199748545277 | QT6E62524228 | Source-normalized |
+| SNG-110 | 2025-10-23 | BANINA BANINA YALLA TARRAF | Alik Tarraf, Marina Tarraf | 199748545277 | QT6E62524228 | DistroKid screenshot · 2026-09-07 |
 | SNG-111 | 2025-10-23 | ПІСНЯ КРАКЕНА — “ВІТО І ЮТА” | Alik Tarraf | 199748424800 | QT6E62558415 | Source-normalized |
 | SNG-112 | 2025-10-24 | ВРЕМЯ НЕ ПРОЩАЕТ | Alik Tarraf | 199748201050 | QT6E72510455 | Source-normalized |
 | SNG-113 | 2025-10-25 | КРАКЕН — ВІТО ШТОРМ ((VIP MIX)) | Alik Tarraf | 199749938153 | QT6E82567761 | Source-normalized |
@@ -189,28 +191,28 @@ GitHub provides version history and public provenance; it does not replace regis
 | SNG-159 | 2025-12-07 | Хочу Люблю Живу | Alik Tarraf | 199945630929 | QT6FH2505815 | Source-normalized |
 | SNG-160 | 2025-12-12 | EISENHERZ | Alik Tarraf | 199943938454 | QT6FL2567189 | Source-normalized |
 | SNG-161 | 2025-12-14 | HAPPY NEW YEAR WORLD | Alik Tarraf | 199943304181 | QT6FP2505649 | Source-normalized |
-| SNG-162 | 2025-12-14 | Ty Angel ya Demon | Alik Tarraf | 199943304211 | QT6FP2502129 | Source-normalized |
+| SNG-162 | 2025-12-14 | Ty Angel ya Demon | Alik Tarraf | 199943304211 | QT6FP2502129 | DistroKid screenshot · 2026-09-07 |
 | SNG-163 | 2025-12-15 | ДУША | Alik Tarraf | 199947581687 | QT6F92592333 | Source-normalized |
 | SNG-164 | 2025-12-16 | REBORN IN FIRE | Alik Tarraf | 199952858736 | QT6EZ2542620 | Source-normalized |
 | SNG-165 | 2025-12-19 | Я Свет Он Тень | Marina Tarraf | 199946812768 | QT6FE2543628 | Source-normalized |
 | SNG-166 | 2025-12-22 | AMERICAN DREAMS | Alik Tarraf | 199940314213 | QT6G52547940 | Source-normalized |
 | SNG-167 | 2025-12-23 | ЦЫГАНСКАЯ ДУША | Alik Tarraf | 199939868369 | QT6G62556719 | Source-normalized |
-| SNG-168 | 2025-12-24 | НИКТО КРОМЕ НАС | Alik Tarraf | 199939527679 | QT6G72538692 | Source-normalized |
+| SNG-168 | 2025-12-24 | НИКТО КРОМЕ НАС | Alik Tarraf | 199939527679 | QT6G72538692 | DistroKid screenshot · 2026-09-07 |
 | SNG-169 | 2025-12-25 | КУПИ БИЛЕТ | Alik Tarraf | 199939309817 | QT6G72585854 | Source-normalized |
-| SNG-170 | 2025-12-29 | STILL YOURS | Alik Tarraf (feat. Marina Tarraf) | 199937820109 | QT6HK2556744 | Source-normalized |
+| SNG-170 | 2025-12-29 | STILL YOURS | Alik Tarraf, Marina Tarraf | 199937820109 | QT6HK2556744 | DistroKid screenshot · 2026-09-07 |
 | SNG-171 | 2025-12-30 | I’M ALIVE | Alik Tarraf | 199937530510 | QT6HL2521340 | Source-normalized |
 | SNG-172 | 2025-12-31 | С НОВЫМ ГОДОМ МИР | Marina Tarraf (feat. Alik Tarraf) | 199937349631 | QT6HL2591257 | Source-normalized |
 | SNG-173 | 2026-01-02 | Don’t speak | Alik Tarraf | 199936670354 | QZFYX2677356 | Source-normalized |
 | SNG-174 | 2026-01-02 | LIFE RACING (soundtrack) | Alik Tarraf | 199936378489 | QZFYY2651675 | Source-normalized |
 | SNG-175 | 2026-01-03 | ASH REMEMBERS | Alik Tarraf | 199936085394 | QZFYZ2616937 | Source-normalized |
-| SNG-176 | 2026-01-04 | STAY | Alik Tarraf | 199935827469 | QZFYZ2670515 | Source-normalized |
+| SNG-176 | 2026-01-04 | STAY | Alik Tarraf | 199935827469 | QZFYZ2670515 | DistroKid screenshot · 2026-09-07 |
 | SNG-177 | 2026-01-06 | Syria-سوريا | Alik Tarraf | 199935071213 | QZFZ32649205 | Source-normalized |
 | SNG-178 | 2026-01-08 | ПОПЛАЧЬ НА МОЕЙ ГРУДИ | Alik Tarraf | 821451719781 | QZFZ62631227 | Source-normalized |
-| SNG-179 | 2026-01-08 | ЭТО МЕЛОЧИ | Alik Tarraf | 821451719811 | QZFZ62683800 | Source-normalized |
+| SNG-179 | 2026-01-08 | ЭТО МЕЛОЧИ | Alik Tarraf | 821451719811 | QZFZ62683800 | DistroKid screenshot · 2026-09-07 |
 | SNG-180 | 2026-01-09 | AFTER MIDNIGHT / INSTINCT MODE | Marina Tarraf (feat. Alik Tarraf) | 821550870789 | QZFZ62683941 | Source-normalized |
 | SNG-181 | 2026-01-11 | ЧОМУ Я БЕЗ ДОМУ | Marina Tarraf (feat. Aliana Tarraf) | 821550100572 | QZDA42690879 | Source-normalized |
 | SNG-182 | 2026-01-12 | DICTATOR MODE | Marina Tarraf (feat. Alik Tarraf) | 821530772225 | QZDA42696455 | Source-normalized |
-| SNG-183 | 2026-01-12 | I’M HUNGRY | Alik Tarraf | 821530774205 | QZDA42650506 | Source-normalized |
+| SNG-183 | 2026-01-12 | I'M HUNGRY | Alik Tarraf | 821530774205 | QZDA42650506 | DistroKid screenshot · 2026-09-07 |
 | SNG-184 | 2026-01-13 | Тарраф продакшинс поздравляет с Новым Годом | Alik Tarraf | 199934754469 | QZFZ42614354 | Source-normalized |
 | SNG-185 | 2026-01-27 | TARRAF LIVE SHOW (Live) | Alik Tarraf | 821473229817 | QZHN62624144 | DistroKid dashboard verified |
 | SNG-186 | 2026-02-07 | THE END | Alik Tarraf & Marina Tarraf | 821473216367 | QZHN62632358 | DistroKid dashboard verified |
@@ -243,7 +245,7 @@ GitHub provides version history and public provenance; it does not replace regis
 | SNG-213 | 2026-06-05 | أيام - Of Fire | Alik Tarraf (feat. Marina Tarraf) | 883071618028 | QT3EZ2625056 | Public-catalog verified |
 | SNG-214 | 2026-06-19 | Epic Evolution Music (Live Studio Session) | Alik Tarraf & Marina Tarraf | 825192166156 | QZZ7R2695699 | DistroKid dashboard verified |
 | SNG-215 | 2026-06-21 | Still Yours (LIVE) | Alik Tarraf & Marina Tarraf | 883369720266 | QT3FE2691958 | Public-catalog verified |
-| SNG-216 | 2025-09-07 | APOCALYPSES | Alik Tarraf (feat. Marina Tarraf) | 199736865578 | QZZ7S2565863 | DistroKid dashboard verified |
+| SNG-216 | 2025-09-07 | APOCALYPSES | Alik Tarraf (feat. Marina Tarraf) | 199736865578 | QZZ7S2565863 | DistroKid screenshot · 2026-09-07 |
 | SNG-217 | 2026-10-23 | My Heart Says Goodbye | Alik Tarraf | 881864059270 | QT6G62628340 | DistroKid detail verified |
 | SNG-218 | 2026-10-10 | Jordan - الأرض المقدسة | Alik Tarraf & Marina Tarraf | 882436167232 | QT6G22657676 | DistroKid detail verified |
 | SNG-219 | 2026-05-17 | Bite the light (Studio Live Session) | Marina Tarraf | 825254977096 | QZZ7L2614061 | DistroKid detail verified |
@@ -296,17 +298,17 @@ GitHub provides version history and public provenance; it does not replace regis
 | SNG-266 | 2026-02-02 | МАРИНА | Alik Tarraf | 821473841729 | QZHN32620913 | DistroKid detail verified |
 | SNG-267 | 2026-02-03 | Страсть Боль Прощение | Alik Tarraf | 821473846700 | QZHN32620896 | DistroKid detail verified |
 | SNG-268 | 2026-02-06 | Пока мы живы | Alik Tarraf (feat. Marina Tarraf) | 821473850189 | QZHN42663366 | DistroKid detail verified |
-| SNG-269 | 2026-02-08 | Я слышу тебя | Alik Tarraf | 821473856082 | QZHN32618130 | DistroKid detail verified |
-| SNG-270 | 2026-01-25 | ЗА ЧТО | Alik Tarraf | 821473977428 | QZES92694771 | DistroKid detail verified |
+| SNG-269 | 2026-02-08 | Я слышу тебя | Alik Tarraf | 821473856082 | QZHN32618130 | DistroKid screenshot · 2026-09-07 |
+| SNG-270 | 2026-01-25 | ЗА ЧТО | Alik Tarraf | 821473977428 | QZES92694771 | DistroKid screenshot · 2026-09-07 |
 | SNG-271 | 2026-02-04 | Детство ((New Version)) | Alik Tarraf | 821500164579 | QZES92663296 | DistroKid detail verified |
-| SNG-272 | 2026-01-30 | King's move | Alik Tarraf | 821500845171 | QZES82639913 | DistroKid detail verified |
+| SNG-272 | 2026-01-30 | King's move | Alik Tarraf | 821500845171 | QZES82639913 | DistroKid screenshot · 2026-09-07 |
 | SNG-273 | 2026-01-28 | Смотри это Алик | Alik Tarraf | 821520484602 | QZDA82684848 | DistroKid detail verified |
 | SNG-274 | 2026-01-26 | Life is not a game | Alik Tarraf | 821520512831 | QZDA82681109 | DistroKid detail verified |
 | SNG-275 | 2026-01-23 | Огонь в крови | Alik Tarraf | 821526627324 | QZDA62676404 | DistroKid detail verified |
 
 ## Provenance
 
-Derived from the TARRAF PRODUCTIONS master discography and rights workbook supplied for this repository update. Source coverage was audited on 2026-07-25. Seven previously missing UPC values, the release date for `APOCALYPSES`, the joint primary-artist credits for `THE END` and `Epic Evolution Music (Live Studio Session)`, the exact version-title punctuation for the latter release, and the explicit-content designation for `Не продавай себя` were verified directly against first-party DistroKid dashboard records on 2026-09-04. A complete dashboard overview capture from `My Heart Says Goodbye` through `SWINGS` was reviewed the same day; after reconciliation with the 216 previously canonical singles it confirmed 59 additional distinct single products. Their first-party detail records were subsequently transcribed and validated, bringing the canonical singles register to 275 products. The Arabic title `حبك مو لعبة` was corrected from the detail record and remains distinct from `أيام - Of Fire`. Only public catalog facts needed for identification are published here; private source paths, correspondence, and unsupported fields are excluded.
+Derived from the TARRAF PRODUCTIONS master discography and rights workbook supplied for this repository update. Source coverage was audited on 2026-07-25. Seven previously missing UPC values, the release date for `APOCALYPSES`, the joint primary-artist credits for `THE END` and `Epic Evolution Music (Live Studio Session)`, the exact version-title punctuation for the latter release, and the explicit-content designation for `Не продавай себя` were verified directly against first-party DistroKid dashboard records on 2026-09-04. A complete dashboard overview capture from `My Heart Says Goodbye` through `SWINGS` was reviewed the same day; after reconciliation with the 216 previously canonical singles it confirmed 59 additional distinct single products. Their first-party detail records were subsequently transcribed and validated, bringing the canonical singles register to 275 products. The Arabic title `حبك مو لعبة` was corrected from the detail record and remains distinct from `أيام - Of Fire`. On 2026-09-07, 23 additional DistroKid release-detail screenshots and owner clarifications were reconciled in the [follow-up review](distrokid-reconciliation-2026-09-07.md). The exact artist strings for GODDESS, Sila Lyubvi, New World, BANINA BANINA YALLA TARRAF and studio STILL YOURS replace the earlier featured-artist normalization. Marina’s primary-artist attribution is confirmed for PROSTO, Vyshel Alik Pogulyat, Shtorm i Lyubov and POSSESSED. Only public catalog facts needed for identification are published here; private source paths, correspondence, and unsupported fields are excluded.
 
 ---
 

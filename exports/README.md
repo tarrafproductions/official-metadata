@@ -14,14 +14,17 @@ recording for the album appearance.
 | --- | --- |
 | `recording_id` / `isrc` | Stable recording identity / assigned ISRC |
 | `recording_title` | Owner-supplied canonical title |
-| `recording_alternate_titles` | Same-ISRC platform titles, without replacing the canonical title |
-| `recording_artist_credit` | Catalog performance credit; never a songwriter or ownership inference |
+| `recording_alternate_titles` | Verified alternate titles and historical spellings for the same catalog recording |
+| `recording_artist_credit` | Exact canonical performance display credit; separators are significant; never a songwriter or ownership inference |
+| `recording_artist_ids` | Structured primary-artist IDs; a joint display string links existing people, not a new combined artist |
 | `duration_ms` / `duration_iso8601` | Duration in milliseconds / Schema.org-compatible ISO 8601 |
 | `release_id` / `upc` | Release identity / barcode; several rows can share a release UPC |
 | `release_date` / `release_status` | Product date and stated availability status |
 | `track_number` | One-based position on the release |
 | `musicbrainz_release_id` | Existing linked release MBID; blank when absent |
 | `reference_urls` | Exact source/catalog links associated with the recording |
+
+The [DistroKid follow-up](../docs/distrokid-reconciliation-2026-09-07.md) preserves `Alik Tarraf Marina Tarraf` for GODDESS and New World, `Alik Tarraf, Marina Tarraf` for BANINA BANINA YALLA TARRAF and studio STILL YOURS, and `Alik Tarraf` for Sila Lyubvi. The 17 historical identifier pairs are retained in the separate review and excluded from these exports.
 
 CSV is UTF-8 with every cell quoted. Import UPC and ISRC columns as **text**;
 spreadsheet programs can still coerce quoted identifiers into numbers. Array
