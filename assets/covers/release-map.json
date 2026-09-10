@@ -1,0 +1,4527 @@
+{
+  "schemaVersion": 1,
+  "reviewedOn": "2026-09-10",
+  "sourceCommit": "e52af4712ee3470d6c07616d6c0643fbee2915f5",
+  "pathBase": "Repository root of the same pinned snapshot",
+  "counts": {
+    "releases": 278,
+    "mappedReleases": 264,
+    "unmappedReleases": 14,
+    "archiveFiles": 279,
+    "unassignedArchiveFiles": 15
+  },
+  "releases": [
+    {
+      "catalogId": "SNG-001",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-001-digital-release",
+      "title": "SWINGS",
+      "upc": "199326055495",
+      "status": "verified",
+      "coverId": "COV-137",
+      "coverPath": "assets/covers/by-release/cover-001.webp",
+      "sourcePath": "assets/covers/archive/cover-137.webp",
+      "sha256": "9bf1120913570aa4c2d16db8dc7872e2608f8cab98ffacd30ae5e92c5e903c78",
+      "verification": {
+        "coverId": "COV-137",
+        "catalogId": "SNG-001",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-002",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-002-digital-release",
+      "title": "13 YEARS",
+      "upc": "199743998511",
+      "status": "verified",
+      "coverId": "COV-030",
+      "coverPath": "assets/covers/by-release/cover-002.webp",
+      "sourcePath": "assets/covers/archive/cover-030.webp",
+      "sha256": "73be3b4abbc51ba686f1b71a81e14d89a186b0921922ad8225f06f15de01b42f",
+      "verification": {
+        "coverId": "COV-030",
+        "catalogId": "SNG-002",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-003",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-003-digital-release",
+      "title": "El balón siempre volará",
+      "upc": "199078124739",
+      "status": "verified",
+      "coverId": "COV-003",
+      "coverPath": "assets/covers/by-release/cover-003.webp",
+      "sourcePath": "assets/covers/archive/cover-003.webp",
+      "sha256": "abdb764023fad06a00193ab4a5df055871bfb3e4f64658ebe8440eb9d3748fea",
+      "verification": {
+        "coverId": "COV-003",
+        "catalogId": "SNG-003",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-004",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-004-digital-release",
+      "title": "VVERH VNIZ",
+      "upc": "199744998510",
+      "status": "verified",
+      "coverId": "COV-029",
+      "coverPath": "assets/covers/by-release/cover-004.webp",
+      "sourcePath": "assets/covers/archive/cover-029.webp",
+      "sha256": "3ba442406ca3ef600ef74033632827846444296bc732826c4f9d256ec635b35b",
+      "verification": {
+        "coverId": "COV-029",
+        "catalogId": "SNG-004",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-005",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-005-digital-release",
+      "title": "БЕЗЛЮДНАЯ ДОРОГА",
+      "upc": "199747028191",
+      "status": "verified",
+      "coverId": "COV-140",
+      "coverPath": "assets/covers/by-release/cover-005.webp",
+      "sourcePath": "assets/covers/archive/cover-140.webp",
+      "sha256": "06e56fb10e2e6c0477338016d3d0fcd1dd7fe5fed4ca86687aad8a5189b9dbd5",
+      "verification": {
+        "coverId": "COV-140",
+        "catalogId": "SNG-005",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-006",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-006-digital-release",
+      "title": "ДОБРО И ЗЛО",
+      "upc": "199743991291",
+      "status": "verified",
+      "coverId": "COV-001",
+      "coverPath": "assets/covers/by-release/cover-006.webp",
+      "sourcePath": "assets/covers/archive/cover-001.webp",
+      "sha256": "c1d84c7433b621d24d155646289d596e31fb126a43b9ced90ed35ede40673200",
+      "verification": {
+        "coverId": "COV-001",
+        "catalogId": "SNG-006",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-007",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-007-digital-release",
+      "title": "Мяч Бифдяч",
+      "upc": "199078117762",
+      "status": "verified",
+      "coverId": "COV-139",
+      "coverPath": "assets/covers/by-release/cover-007.webp",
+      "sourcePath": "assets/covers/archive/cover-139.webp",
+      "sha256": "4478801da379184324037e46373fbe786a6362a627b0b72472de5bbbaecfcec9",
+      "verification": {
+        "coverId": "COV-139",
+        "catalogId": "SNG-007",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-008",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-008-digital-release",
+      "title": "НАДОЕЛО",
+      "upc": "199732985959",
+      "status": "verified",
+      "coverId": "COV-277",
+      "coverPath": "assets/covers/by-release/cover-008.webp",
+      "sourcePath": "assets/covers/archive/cover-277.webp",
+      "sha256": "6f8c02b88d4bb73b85bded89d71748b007afa5d297124ef86ca731b270a57522",
+      "verification": {
+        "coverId": "COV-277",
+        "catalogId": "SNG-008",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-009",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-009-digital-release",
+      "title": "Назар",
+      "upc": "199078238818",
+      "status": "verified",
+      "coverId": "COV-138",
+      "coverPath": "assets/covers/by-release/cover-009.webp",
+      "sourcePath": "assets/covers/archive/cover-138.webp",
+      "sha256": "86b997f43d386b2766c15000c01f5b1baf6962570dec7ca8d21244c6d98b3d59",
+      "verification": {
+        "coverId": "COV-138",
+        "catalogId": "SNG-009",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-010",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-010-digital-release",
+      "title": "РОДИТЕЛИ ВО МНЕ",
+      "upc": "199741999381",
+      "status": "verified",
+      "coverId": "COV-185",
+      "coverPath": "assets/covers/by-release/cover-010.webp",
+      "sourcePath": "assets/covers/archive/cover-185.webp",
+      "sha256": "e4259a386ba6c990765ef6210124f53f54a48cbe9af6e439c29926ffe0be2104",
+      "verification": {
+        "coverId": "COV-185",
+        "catalogId": "SNG-010",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-011",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-011-digital-release",
+      "title": "ЦЕ НАШ ВАЙБ",
+      "upc": "199078107558",
+      "status": "verified",
+      "coverId": "COV-060",
+      "coverPath": "assets/covers/by-release/cover-011.webp",
+      "sourcePath": "assets/covers/archive/cover-060.webp",
+      "sha256": "a70170681e2cb7980e2f0ef436dca738509d3f67629a4c360b4ed96da59551d1",
+      "verification": {
+        "coverId": "COV-060",
+        "catalogId": "SNG-011",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-012",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-012-digital-release",
+      "title": "Alik",
+      "upc": "199732966156",
+      "status": "verified",
+      "coverId": "COV-053",
+      "coverPath": "assets/covers/by-release/cover-012.webp",
+      "sourcePath": "assets/covers/archive/cover-053.webp",
+      "sha256": "96aec224f2a6f7ebcae041f3d11c7042eb939c721e92fa02e84aea894c559b14",
+      "verification": {
+        "coverId": "COV-053",
+        "catalogId": "SNG-012",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-013",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-013-digital-release",
+      "title": "Boginya",
+      "upc": "199732870927",
+      "status": "verified",
+      "coverId": "COV-033",
+      "coverPath": "assets/covers/by-release/cover-013.webp",
+      "sourcePath": "assets/covers/archive/cover-033.webp",
+      "sha256": "61670f4068b51c036dbd45b2804503c7ffd383c60906f9736d34bb928328df80",
+      "verification": {
+        "coverId": "COV-033",
+        "catalogId": "SNG-013",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-014",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-014-digital-release",
+      "title": "OH MAMMA MIA",
+      "upc": "199732907180",
+      "status": "verified",
+      "coverId": "COV-031",
+      "coverPath": "assets/covers/by-release/cover-014.webp",
+      "sourcePath": "assets/covers/archive/cover-031.webp",
+      "sha256": "c932d274e314188ec15b6e8195666c294d6a3687a4fd9225c8bff42e929761bc",
+      "verification": {
+        "coverId": "COV-031",
+        "catalogId": "SNG-014",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-015",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-015-digital-release",
+      "title": "PROSTO",
+      "upc": "199732931703",
+      "status": "needs-review",
+      "coverId": null,
+      "coverPath": null,
+      "sourcePath": null,
+      "sha256": null,
+      "verification": {
+        "note": "No verified cover association; do not infer from file order."
+      }
+    },
+    {
+      "catalogId": "SNG-016",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-016-digital-release",
+      "title": "Up and Down",
+      "upc": "199732768187",
+      "status": "verified",
+      "coverId": "COV-278",
+      "coverPath": "assets/covers/by-release/cover-016.webp",
+      "sourcePath": "assets/covers/archive/cover-278.webp",
+      "sha256": "6082193f40bfd5e7467719dab933047e666741609e0f920b2c5128f16a256d32",
+      "verification": {
+        "coverId": "COV-278",
+        "catalogId": "SNG-016",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-017",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-017-digital-release",
+      "title": "Vyshel Alik Pogulyat",
+      "upc": "199732887307",
+      "status": "verified",
+      "coverId": "COV-032",
+      "coverPath": "assets/covers/by-release/cover-017.webp",
+      "sourcePath": "assets/covers/archive/cover-032.webp",
+      "sha256": "034e0743fd411faebe80a7ab2b002b49ee1b39dc4a1b7f480e9e27ad9b09e59f",
+      "verification": {
+        "coverId": "COV-032",
+        "catalogId": "SNG-017",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-018",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-018-digital-release",
+      "title": "ВОСТОЧНАЯ МАРИНА ((VIP MIX))",
+      "upc": "199732883934",
+      "status": "verified",
+      "coverId": "COV-007",
+      "coverPath": "assets/covers/by-release/cover-018.webp",
+      "sourcePath": "assets/covers/archive/cover-007.webp",
+      "sha256": "197f06f41c38cca7670c3e1633a7e7b25ebc216e08caf3db6e7db81aa7477950",
+      "verification": {
+        "coverId": "COV-007",
+        "catalogId": "SNG-018",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-019",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-019-digital-release",
+      "title": "ВРЕМЯ",
+      "upc": "199732970443",
+      "status": "verified",
+      "coverId": "COV-219",
+      "coverPath": "assets/covers/by-release/cover-019.webp",
+      "sourcePath": "assets/covers/archive/cover-219.webp",
+      "sha256": "dc24fbd139667d3de94feab5d1be408d4d9d19fa7efbe12c616d13416a273655",
+      "verification": {
+        "coverId": "COV-219",
+        "catalogId": "SNG-019",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-020",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-020-digital-release",
+      "title": "Затмила Мы",
+      "upc": "199732840197",
+      "status": "verified",
+      "coverId": "COV-004",
+      "coverPath": "assets/covers/by-release/cover-020.webp",
+      "sourcePath": "assets/covers/archive/cover-004.webp",
+      "sha256": "90481a75a8ed412fcb2a3754063ef65f8eea2730c67da3d95d0cabd626807d1c",
+      "verification": {
+        "coverId": "COV-004",
+        "catalogId": "SNG-020",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-021",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-021-digital-release",
+      "title": "Зачем Зачем",
+      "upc": "199732834349",
+      "status": "verified",
+      "coverId": "COV-005",
+      "coverPath": "assets/covers/by-release/cover-021.webp",
+      "sourcePath": "assets/covers/archive/cover-005.webp",
+      "sha256": "acaae4a8778ea30c2f973c746601d4faea8c3dc471f83282b3806c050b935e2a",
+      "verification": {
+        "coverId": "COV-005",
+        "catalogId": "SNG-021",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-022",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-022-digital-release",
+      "title": "Качели (REMIX)",
+      "upc": "199732754234",
+      "status": "verified",
+      "coverId": "COV-009",
+      "coverPath": "assets/covers/by-release/cover-022.webp",
+      "sourcePath": "assets/covers/archive/cover-009.webp",
+      "sha256": "7f9d42a4ea2b9b627ac99fffd9bf8e7372caad6b9bb5eb54105f13152a4c531b",
+      "verification": {
+        "coverId": "COV-009",
+        "catalogId": "SNG-022",
+        "method": "apple-music-visible-artwork-match",
+        "referenceUrl": "https://music.apple.com/ua/album/%D0%BA%D0%B0%D1%87%D0%B5%D0%BB%D0%B8-remix/1835170700?i=1835171001",
+        "referenceIsrc": "QZZ792578839"
+      }
+    },
+    {
+      "catalogId": "SNG-023",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-023-digital-release",
+      "title": "Мы",
+      "upc": "199732876912",
+      "status": "verified",
+      "coverId": "COV-249",
+      "coverPath": "assets/covers/by-release/cover-023.webp",
+      "sourcePath": "assets/covers/archive/cover-249.webp",
+      "sha256": "6d5d54bc2155cc40e2f9a15652cedea6f535ba76ff9e52fd63e539a1e179a3ee",
+      "verification": {
+        "coverId": "COV-249",
+        "catalogId": "SNG-023",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-024",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-024-digital-release",
+      "title": "Ну Нина",
+      "upc": "199732891014",
+      "status": "verified",
+      "coverId": "COV-002",
+      "coverPath": "assets/covers/by-release/cover-024.webp",
+      "sourcePath": "assets/covers/archive/cover-002.webp",
+      "sha256": "6967b9a6fca32f4de84459ca79b7d50f33d3a54215d5081a0f259cafa83f8fe6",
+      "verification": {
+        "coverId": "COV-002",
+        "catalogId": "SNG-024",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-025",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-025-digital-release",
+      "title": "СЛОЖНО",
+      "upc": "199732962493",
+      "status": "verified",
+      "coverId": "COV-203",
+      "coverPath": "assets/covers/by-release/cover-025.webp",
+      "sourcePath": "assets/covers/archive/cover-203.webp",
+      "sha256": "6c406e6c0e4e4a8153a0d0992180474ea5c281c19fa1b919964e480db980a959",
+      "verification": {
+        "coverId": "COV-203",
+        "catalogId": "SNG-025",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-026",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-026-digital-release",
+      "title": "Ты Я Не Мы",
+      "upc": "199732794551",
+      "status": "verified",
+      "coverId": "COV-006",
+      "coverPath": "assets/covers/by-release/cover-026.webp",
+      "sourcePath": "assets/covers/archive/cover-006.webp",
+      "sha256": "6284ebbe1128954baff897d2cf369d44d3acb5013ae8cfb7fd4363fa88698e8e",
+      "verification": {
+        "coverId": "COV-006",
+        "catalogId": "SNG-026",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-027",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-027-digital-release",
+      "title": "ملاكي و شيطاني",
+      "upc": "199732756191",
+      "status": "verified",
+      "coverId": "COV-008",
+      "coverPath": "assets/covers/by-release/cover-027.webp",
+      "sourcePath": "assets/covers/archive/cover-008.webp",
+      "sha256": "5c3d4a6d9a7d4f54364c4afb091c0337a8f73a382714712aef56affa1a62d520",
+      "verification": {
+        "coverId": "COV-008",
+        "catalogId": "SNG-027",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-028",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-028-digital-release",
+      "title": "PROSTO [Remix]",
+      "upc": "199732478543",
+      "status": "verified",
+      "coverId": "COV-034",
+      "coverPath": "assets/covers/by-release/cover-028.webp",
+      "sourcePath": "assets/covers/archive/cover-034.webp",
+      "sha256": "c245556a98acb3e252f6f90777ef0283a1d664993f534d0539a609d24dee2a0e",
+      "verification": {
+        "coverId": "COV-034",
+        "catalogId": "SNG-028",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-029",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-029-digital-release",
+      "title": "TARRAF STORY",
+      "upc": "199732477690",
+      "status": "verified",
+      "coverId": "COV-064",
+      "coverPath": "assets/covers/by-release/cover-029.webp",
+      "sourcePath": "assets/covers/archive/cover-064.webp",
+      "sha256": "83db97ac784f2da3492ec7716e58dd29d07f606542f2fb04ee54bb500a09f576",
+      "verification": {
+        "coverId": "COV-064",
+        "catalogId": "SNG-029",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-030",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-030-digital-release",
+      "title": "CHOOSE YOU",
+      "upc": "199732435249",
+      "status": "verified",
+      "coverId": "COV-061",
+      "coverPath": "assets/covers/by-release/cover-030.webp",
+      "sourcePath": "assets/covers/archive/cover-061.webp",
+      "sha256": "d5e5dfce1a7ae4e51468ab2891164e881bd1e86123fedb4a7673c0c9148fecd8",
+      "verification": {
+        "coverId": "COV-061",
+        "catalogId": "SNG-030",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-031",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-031-digital-release",
+      "title": "NOISY SILENCE",
+      "upc": "199732298424",
+      "status": "verified",
+      "coverId": "COV-275",
+      "coverPath": "assets/covers/by-release/cover-031.webp",
+      "sourcePath": "assets/covers/archive/cover-275.webp",
+      "sha256": "b531b3d869716f43916b2f6c81f7377d7397ffd8d4480eac0b2556085bbec41a",
+      "verification": {
+        "coverId": "COV-275",
+        "catalogId": "SNG-031",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-032",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-032-digital-release",
+      "title": "ШУМНАЯ ТИШИНА",
+      "upc": "199732340871",
+      "status": "verified",
+      "coverId": "COV-058",
+      "coverPath": "assets/covers/by-release/cover-032.webp",
+      "sourcePath": "assets/covers/archive/cover-058.webp",
+      "sha256": "0d74ec66a796305a5d4488712d60fc767e60ebf1af0c88ee7c0e3dfebf5b3930",
+      "verification": {
+        "coverId": "COV-058",
+        "catalogId": "SNG-032",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-033",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-033-digital-release",
+      "title": "EAGLES NOT CROWS",
+      "upc": "199732029332",
+      "status": "verified",
+      "coverId": "COV-161",
+      "coverPath": "assets/covers/by-release/cover-033.webp",
+      "sourcePath": "assets/covers/archive/cover-161.webp",
+      "sha256": "db8f1bba61f3e880a8eccd722c9c1300b1b42d0eff4343a6e223982055de579f",
+      "verification": {
+        "coverId": "COV-161",
+        "catalogId": "SNG-033",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-034",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-034-digital-release",
+      "title": "Качели (EMO Version)",
+      "upc": "199326044208",
+      "status": "verified",
+      "coverId": "COV-234",
+      "coverPath": "assets/covers/by-release/cover-034.webp",
+      "sourcePath": "assets/covers/archive/cover-234.webp",
+      "sha256": "826bda1bb09ceed35d625128d3ddbeea448cc8da56df47fbfb610e19e9a174e2",
+      "verification": {
+        "coverId": "COV-234",
+        "catalogId": "SNG-034",
+        "method": "apple-music-visible-artwork-match",
+        "referenceUrl": "https://music.apple.com/ua/album/kacheli-emo-version/1835132296?i=1835132297",
+        "referenceIsrc": "QZZ792534374",
+        "note": "Apple Music displays this LIVE-marked artwork for the existing Kacheli (EMO Version) release; the audio version is not inferred from the artwork text."
+      }
+    },
+    {
+      "catalogId": "SNG-035",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-035-digital-release",
+      "title": "GOOD AND EVIL",
+      "upc": "199733796899",
+      "status": "verified",
+      "coverId": "COV-062",
+      "coverPath": "assets/covers/by-release/cover-035.webp",
+      "sourcePath": "assets/covers/archive/cover-062.webp",
+      "sha256": "16c0605c6ae9a049cee01ec3f004496358a06c5bddecb1612b68065cd23958a9",
+      "verification": {
+        "coverId": "COV-062",
+        "catalogId": "SNG-035",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-036",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-036-digital-release",
+      "title": "ГІМН УКРАЇНИ",
+      "upc": "199733968067",
+      "status": "verified",
+      "coverId": "COV-141",
+      "coverPath": "assets/covers/by-release/cover-036.webp",
+      "sourcePath": "assets/covers/archive/cover-141.webp",
+      "sha256": "3a9891ea30e31cbf0cf23d430416e3bc9caf67770949f2611040d90c9bda76ee",
+      "verification": {
+        "coverId": "COV-141",
+        "catalogId": "SNG-036",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-037",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-037-digital-release",
+      "title": "Why Why",
+      "upc": "199733643162",
+      "status": "verified",
+      "coverId": "COV-183",
+      "coverPath": "assets/covers/by-release/cover-037.webp",
+      "sourcePath": "assets/covers/archive/cover-183.webp",
+      "sha256": "e02f20d17b94e164575fddcd07594bf7cf2123af050e2272710a39a251481bb4",
+      "verification": {
+        "coverId": "COV-183",
+        "catalogId": "SNG-037",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-038",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-038-digital-release",
+      "title": "PARADOX",
+      "upc": "199733143686",
+      "status": "verified",
+      "coverId": "COV-178",
+      "coverPath": "assets/covers/by-release/cover-038.webp",
+      "sourcePath": "assets/covers/archive/cover-178.webp",
+      "sha256": "112aebd18e69dec5d66a9a4fb16130bf6b8df068305e382613ebf06e645a0f87",
+      "verification": {
+        "coverId": "COV-178",
+        "catalogId": "SNG-038",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-039",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-039-digital-release",
+      "title": "Не Умоляй",
+      "upc": "199733158727",
+      "status": "verified",
+      "coverId": "COV-056",
+      "coverPath": "assets/covers/by-release/cover-039.webp",
+      "sourcePath": "assets/covers/archive/cover-056.webp",
+      "sha256": "5be0f56ebee23ffceb23f46b9f9b402e4a6ce8c76135965af622a48c497dd3ff",
+      "verification": {
+        "coverId": "COV-056",
+        "catalogId": "SNG-039",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-040",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-040-digital-release",
+      "title": "FORGET ME",
+      "upc": "199734201866",
+      "status": "verified",
+      "coverId": "COV-163",
+      "coverPath": "assets/covers/by-release/cover-040.webp",
+      "sourcePath": "assets/covers/archive/cover-163.webp",
+      "sha256": "329e182885ef73586653a8ee39c62685fb8615be8f5d9408aeb4dc48bf5c1dc8",
+      "verification": {
+        "coverId": "COV-163",
+        "catalogId": "SNG-040",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-041",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-041-digital-release",
+      "title": "НОЧЬ ОЖИВАЕТ",
+      "upc": "199734180055",
+      "status": "verified",
+      "coverId": "COV-180",
+      "coverPath": "assets/covers/by-release/cover-041.webp",
+      "sourcePath": "assets/covers/archive/cover-180.webp",
+      "sha256": "28d732eab4865db0c3f5da05d57bdeb5bd7ebde4e6e384d641cf69b2ac2b6d4b",
+      "verification": {
+        "coverId": "COV-180",
+        "catalogId": "SNG-041",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-042",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-042-digital-release",
+      "title": "Воздушный Шар",
+      "upc": "199735951869",
+      "status": "verified",
+      "coverId": "COV-199",
+      "coverPath": "assets/covers/by-release/cover-042.webp",
+      "sourcePath": "assets/covers/archive/cover-199.webp",
+      "sha256": "35725d0a834376010917c7e5b54af1c1f64b9b861f71d62e4fb0d01227e9bc30",
+      "verification": {
+        "coverId": "COV-199",
+        "catalogId": "SNG-042",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-043",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-043-digital-release",
+      "title": "RISING BALLOON",
+      "upc": "199735912389",
+      "status": "verified",
+      "coverId": "COV-216",
+      "coverPath": "assets/covers/by-release/cover-043.webp",
+      "sourcePath": "assets/covers/archive/cover-216.webp",
+      "sha256": "5a87943ff7b0679fb7a9000b26694f35b0198f7f3976d2f0eec51e0de3607a59",
+      "verification": {
+        "coverId": "COV-216",
+        "catalogId": "SNG-043",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-044",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-044-digital-release",
+      "title": "День Birthday",
+      "upc": "199735153539",
+      "status": "verified",
+      "coverId": "COV-231",
+      "coverPath": "assets/covers/by-release/cover-044.webp",
+      "sourcePath": "assets/covers/archive/cover-231.webp",
+      "sha256": "92478cc3f6b6592f37ce16f3627b9168a0b697f099111ce30bf215a3dcc83ef2",
+      "verification": {
+        "coverId": "COV-231",
+        "catalogId": "SNG-044",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-045",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-045-digital-release",
+      "title": "Я НАРЦИСС",
+      "upc": "199735081801",
+      "status": "verified",
+      "coverId": "COV-246",
+      "coverPath": "assets/covers/by-release/cover-045.webp",
+      "sourcePath": "assets/covers/archive/cover-246.webp",
+      "sha256": "11214b3c3d0b025d06ad7f20d85785cfd60e3d6f5c8cecb20e723c76fc4958de",
+      "verification": {
+        "coverId": "COV-246",
+        "catalogId": "SNG-045",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-046",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-046-digital-release",
+      "title": "AKFA EMPIRE",
+      "upc": "199736298130",
+      "status": "verified",
+      "coverId": "COV-271",
+      "coverPath": "assets/covers/by-release/cover-046.webp",
+      "sourcePath": "assets/covers/archive/cover-271.webp",
+      "sha256": "34c808bf4baa65f9e6b86889c84da6f2fba23e9ef8d10039e72af095de0d785a",
+      "verification": {
+        "coverId": "COV-271",
+        "catalogId": "SNG-046",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-047",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-047-digital-release",
+      "title": "КОНЕЦ СВЕТА",
+      "upc": "199736264265",
+      "status": "verified",
+      "coverId": "COV-274",
+      "coverPath": "assets/covers/by-release/cover-047.webp",
+      "sourcePath": "assets/covers/archive/cover-274.webp",
+      "sha256": "c679d48b7147c44cc9bcd8d4e81510486013d0e2981eacd66d2f064a64960464",
+      "verification": {
+        "coverId": "COV-274",
+        "catalogId": "SNG-047",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-048",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-048-digital-release",
+      "title": "GODDESS",
+      "upc": "199737907826",
+      "status": "verified",
+      "coverId": "COV-166",
+      "coverPath": "assets/covers/by-release/cover-048.webp",
+      "sourcePath": "assets/covers/archive/cover-166.webp",
+      "sha256": "3633110ce213608c1b009fa06e7168424f923212a758d6baa63d1b3131bdc9b7",
+      "verification": {
+        "coverId": "COV-166",
+        "catalogId": "SNG-048",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-049",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-049-digital-release",
+      "title": "PARADISE",
+      "upc": "199737886343",
+      "status": "verified",
+      "coverId": "COV-168",
+      "coverPath": "assets/covers/by-release/cover-049.webp",
+      "sourcePath": "assets/covers/archive/cover-168.webp",
+      "sha256": "ef295ad14969b82bb7baf05c8f903c839fc49a4381c0d30a642f588372e8ed5b",
+      "verification": {
+        "coverId": "COV-168",
+        "catalogId": "SNG-049",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-050",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-050-digital-release",
+      "title": "Semya v Serdtse",
+      "upc": "199737495767",
+      "status": "verified",
+      "coverId": "COV-172",
+      "coverPath": "assets/covers/by-release/cover-050.webp",
+      "sourcePath": "assets/covers/archive/cover-172.webp",
+      "sha256": "02a3ad8bac9860e13d270d6194b022638df6720985f00927d183d9a73b145d82",
+      "verification": {
+        "coverId": "COV-172",
+        "catalogId": "SNG-050",
+        "method": "apple-music-visible-artwork-match",
+        "referenceUrl": "https://music.apple.com/ua/album/semya-v-serdtse-feat-aliana-tarraf/1839660948?i=1839660949",
+        "referenceIsrc": "QZZ7V2541692"
+      }
+    },
+    {
+      "catalogId": "SNG-051",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-051-digital-release",
+      "title": "Shtorm i Lyubov",
+      "upc": "199737612591",
+      "status": "needs-review",
+      "coverId": null,
+      "coverPath": null,
+      "sourcePath": null,
+      "sha256": null,
+      "verification": {
+        "note": "No verified cover association; do not infer from file order."
+      }
+    },
+    {
+      "catalogId": "SNG-052",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-052-digital-release",
+      "title": "Sila Lyubvi",
+      "upc": "199737598277",
+      "status": "needs-review",
+      "coverId": null,
+      "coverPath": null,
+      "sourcePath": null,
+      "sha256": null,
+      "verification": {
+        "note": "No verified cover association; do not infer from file order."
+      }
+    },
+    {
+      "catalogId": "SNG-053",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-053-digital-release",
+      "title": "ASH and NEON",
+      "upc": "199737136721",
+      "status": "verified",
+      "coverId": "COV-173",
+      "coverPath": "assets/covers/by-release/cover-053.webp",
+      "sourcePath": "assets/covers/archive/cover-173.webp",
+      "sha256": "2ec19df5b04dfcd43067bf77b1a2f873c537f304c2f0afc64a878a6cdb9c5f78",
+      "verification": {
+        "coverId": "COV-173",
+        "catalogId": "SNG-053",
+        "method": "apple-music-visible-artwork-match",
+        "referenceUrl": "https://music.apple.com/ua/album/ash-and-neon/1839847336?i=1839847337",
+        "referenceIsrc": "QZZ7W2511469"
+      }
+    },
+    {
+      "catalogId": "SNG-054",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-054-digital-release",
+      "title": "More Lyubvi",
+      "upc": "199737115979",
+      "status": "verified",
+      "coverId": "COV-174",
+      "coverPath": "assets/covers/by-release/cover-054.webp",
+      "sourcePath": "assets/covers/archive/cover-174.webp",
+      "sha256": "7922e43580fcf383d64bf59ae458388cdf6e9ee167ad57131e2a25b707685832",
+      "verification": {
+        "coverId": "COV-174",
+        "catalogId": "SNG-054",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-055",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-055-digital-release",
+      "title": "Фальшивая Любовь",
+      "upc": "199738970133",
+      "status": "verified",
+      "coverId": "COV-175",
+      "coverPath": "assets/covers/by-release/cover-055.webp",
+      "sourcePath": "assets/covers/archive/cover-175.webp",
+      "sha256": "406e7ac4883c582d506c942d3e0a3d5031b737c86186b4b351af555cd0eb7d91",
+      "verification": {
+        "coverId": "COV-175",
+        "catalogId": "SNG-055",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-056",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-056-digital-release",
+      "title": "Sister",
+      "upc": "199738677605",
+      "status": "verified",
+      "coverId": "COV-177",
+      "coverPath": "assets/covers/by-release/cover-056.webp",
+      "sourcePath": "assets/covers/archive/cover-177.webp",
+      "sha256": "0ae962b709a6db58df56d24a75fa96a8b132334a24d11b8691da4632663210a2",
+      "verification": {
+        "coverId": "COV-177",
+        "catalogId": "SNG-056",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-057",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-057-digital-release",
+      "title": "Брат",
+      "upc": "199738685365",
+      "status": "verified",
+      "coverId": "COV-176",
+      "coverPath": "assets/covers/by-release/cover-057.webp",
+      "sourcePath": "assets/covers/archive/cover-176.webp",
+      "sha256": "7a7b459502c383bf2549e1c8e93fe354e0ba014b3eed16c0f172f4b68b2cd3c8",
+      "verification": {
+        "coverId": "COV-176",
+        "catalogId": "SNG-057",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-058",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-058-digital-release",
+      "title": "Brother",
+      "upc": "199738216408",
+      "status": "verified",
+      "coverId": "COV-169",
+      "coverPath": "assets/covers/by-release/cover-058.webp",
+      "sourcePath": "assets/covers/archive/cover-169.webp",
+      "sha256": "894b662b74d7bbf50b1125393868468dee980c871f4ed4028112b6df892ab3de",
+      "verification": {
+        "coverId": "COV-169",
+        "catalogId": "SNG-058",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-059",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-059-digital-release",
+      "title": "New World",
+      "upc": "199739691075",
+      "status": "needs-review",
+      "coverId": null,
+      "coverPath": null,
+      "sourcePath": null,
+      "sha256": null,
+      "verification": {
+        "note": "No verified cover association; do not infer from file order."
+      }
+    },
+    {
+      "catalogId": "SNG-060",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-060-digital-release",
+      "title": "STOP НАРКОТИК",
+      "upc": "199739862048",
+      "status": "verified",
+      "coverId": "COV-187",
+      "coverPath": "assets/covers/by-release/cover-060.webp",
+      "sourcePath": "assets/covers/archive/cover-187.webp",
+      "sha256": "537a265441bd3d10abaedeb252382be9cee9e075369bb92dc228fe514f8a39bf",
+      "verification": {
+        "coverId": "COV-187",
+        "catalogId": "SNG-060",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-061",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-061-digital-release",
+      "title": "ARRIBA Y ABAJO",
+      "upc": "199739554028",
+      "status": "verified",
+      "coverId": "COV-189",
+      "coverPath": "assets/covers/by-release/cover-061.webp",
+      "sourcePath": "assets/covers/archive/cover-189.webp",
+      "sha256": "8e04a3a9670b6939adf1ebd4dee5f112fd4bf25a48b6e757469130756ccaa2c7",
+      "verification": {
+        "coverId": "COV-189",
+        "catalogId": "SNG-061",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-062",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-062-digital-release",
+      "title": "Бусинка",
+      "upc": "199739520566",
+      "status": "verified",
+      "coverId": "COV-179",
+      "coverPath": "assets/covers/by-release/cover-062.webp",
+      "sourcePath": "assets/covers/archive/cover-179.webp",
+      "sha256": "9370df7270b14297a2a89108f8470002a62d698ff6ca00f275dfb76b57cfb3c4",
+      "verification": {
+        "coverId": "COV-179",
+        "catalogId": "SNG-062",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-063",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-063-digital-release",
+      "title": "IBIZA FESTIVAL (soundtrack)",
+      "upc": "199739237730",
+      "status": "verified",
+      "coverId": "COV-190",
+      "coverPath": "assets/covers/by-release/cover-063.webp",
+      "sourcePath": "assets/covers/archive/cover-190.webp",
+      "sha256": "d79ee310d7242b7b1074de67be12ff5286b3c755008aa14e1d6499d3e8054ee0",
+      "verification": {
+        "coverId": "COV-190",
+        "catalogId": "SNG-063",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-064",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-064-digital-release",
+      "title": "МОЛОДОСТЬ",
+      "upc": "199739238287",
+      "status": "verified",
+      "coverId": "COV-063",
+      "coverPath": "assets/covers/by-release/cover-064.webp",
+      "sourcePath": "assets/covers/archive/cover-063.webp",
+      "sha256": "d6b01a38210bbcc42580b9031ec5664a9fe60f70aa7ada961bd21d6d97dd408d",
+      "verification": {
+        "coverId": "COV-063",
+        "catalogId": "SNG-064",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-065",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-065-digital-release",
+      "title": "HELA",
+      "upc": "199739106517",
+      "status": "verified",
+      "coverId": "COV-191",
+      "coverPath": "assets/covers/by-release/cover-065.webp",
+      "sourcePath": "assets/covers/archive/cover-191.webp",
+      "sha256": "f10756ffd7dc58e2999cb9d02629b401207f61eaf3b0bc651e622f5f35ecfa10",
+      "verification": {
+        "coverId": "COV-191",
+        "catalogId": "SNG-065",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-066",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-066-digital-release",
+      "title": "ДЕТСТВО",
+      "upc": "199740856524",
+      "status": "verified",
+      "coverId": "COV-192",
+      "coverPath": "assets/covers/by-release/cover-066.webp",
+      "sourcePath": "assets/covers/archive/cover-192.webp",
+      "sha256": "7e6d25aca1e2589d0d4a1ecd80bdc88ceaa8eb3bf0b387dd53fc7e63b8328733",
+      "verification": {
+        "coverId": "COV-192",
+        "catalogId": "SNG-066",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-067",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-067-digital-release",
+      "title": "УХУ ЕЛ?",
+      "upc": "199740652089",
+      "status": "verified",
+      "coverId": "COV-193",
+      "coverPath": "assets/covers/by-release/cover-067.webp",
+      "sourcePath": "assets/covers/archive/cover-193.webp",
+      "sha256": "8ad035ce7c02554c06cf1e49963c0a6b546f976eeaef8ff6fc41c7320540ad3f",
+      "verification": {
+        "coverId": "COV-193",
+        "catalogId": "SNG-067",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-068",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-068-digital-release",
+      "title": "ДОБРО И ЗЛО ((VIP REMIX Version))",
+      "upc": "199740131089",
+      "status": "verified",
+      "coverId": "COV-195",
+      "coverPath": "assets/covers/by-release/cover-068.webp",
+      "sourcePath": "assets/covers/archive/cover-195.webp",
+      "sha256": "c3b32ffec484b44c60a401d0e1c5b94c53ee0fe4107b352f3281799aef8218be",
+      "verification": {
+        "coverId": "COV-195",
+        "catalogId": "SNG-068",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-069",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-069-digital-release",
+      "title": "ملاك و شيطان",
+      "upc": "199740139177",
+      "status": "verified",
+      "coverId": "COV-194",
+      "coverPath": "assets/covers/by-release/cover-069.webp",
+      "sourcePath": "assets/covers/archive/cover-194.webp",
+      "sha256": "abda94eda9d7740d03aa0ba4d2a0cfdfc6a5869f5f0637fa15140fa3f9eee949",
+      "verification": {
+        "coverId": "COV-194",
+        "catalogId": "SNG-069",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-070",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-070-digital-release",
+      "title": "БЛИЗНЕЦЫ В ОГНЕ",
+      "upc": "199740087768",
+      "status": "verified",
+      "coverId": "COV-057",
+      "coverPath": "assets/covers/by-release/cover-070.webp",
+      "sourcePath": "assets/covers/archive/cover-057.webp",
+      "sha256": "d023da311395025fb803973f16b0831f01a8526b9a6068c7abadf61dfed4cbc7",
+      "verification": {
+        "coverId": "COV-057",
+        "catalogId": "SNG-070",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-071",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-071-digital-release",
+      "title": "HELAH",
+      "upc": "199741624603",
+      "status": "verified",
+      "coverId": "COV-196",
+      "coverPath": "assets/covers/by-release/cover-071.webp",
+      "sourcePath": "assets/covers/archive/cover-196.webp",
+      "sha256": "eef6856bddfee980785c0284ec2a86f01f782308efb9f7a4815049beddbbdfe2",
+      "verification": {
+        "coverId": "COV-196",
+        "catalogId": "SNG-071",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-072",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-072-digital-release",
+      "title": "DESTINATION (soundtrack)",
+      "upc": "199741391727",
+      "status": "verified",
+      "coverId": "COV-198",
+      "coverPath": "assets/covers/by-release/cover-072.webp",
+      "sourcePath": "assets/covers/archive/cover-198.webp",
+      "sha256": "fd9000c359bdba962285c889f2a2c0c944133ccb895cfe3940636f34440456b4",
+      "verification": {
+        "coverId": "COV-198",
+        "catalogId": "SNG-072",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-073",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-073-digital-release",
+      "title": "LOST (soundtrack)",
+      "upc": "199741393233",
+      "status": "verified",
+      "coverId": "COV-155",
+      "coverPath": "assets/covers/by-release/cover-073.webp",
+      "sourcePath": "assets/covers/archive/cover-155.webp",
+      "sha256": "b1c7bfc93b5602f54ce8819e5975f26e3636eed9c85af040c2ec613184c62f03",
+      "verification": {
+        "coverId": "COV-155",
+        "catalogId": "SNG-073",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-074",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-074-digital-release",
+      "title": "Ай Одесса",
+      "upc": "199741332973",
+      "status": "needs-review",
+      "coverId": null,
+      "coverPath": null,
+      "sourcePath": null,
+      "sha256": null,
+      "verification": {
+        "note": "No verified cover association; do not infer from file order."
+      }
+    },
+    {
+      "catalogId": "SNG-075",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-075-digital-release",
+      "title": "Гимн Одессы",
+      "upc": "199741244023",
+      "status": "verified",
+      "coverId": "COV-215",
+      "coverPath": "assets/covers/by-release/cover-075.webp",
+      "sourcePath": "assets/covers/archive/cover-215.webp",
+      "sha256": "ba7e182d77fc86c0c0b454ef04be612f675137cdb2e144d312137bcd6c0d721a",
+      "verification": {
+        "coverId": "COV-215",
+        "catalogId": "SNG-075",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-076",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-076-digital-release",
+      "title": "HELLA",
+      "upc": "199741008069",
+      "status": "verified",
+      "coverId": "COV-205",
+      "coverPath": "assets/covers/by-release/cover-076.webp",
+      "sourcePath": "assets/covers/archive/cover-205.webp",
+      "sha256": "8f740dedf79f58fe716710f68b1ed9733ee46f5df0f813e276818791975b9519",
+      "verification": {
+        "coverId": "COV-205",
+        "catalogId": "SNG-076",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-077",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-077-digital-release",
+      "title": "ГОРЬКО",
+      "upc": "199741006461",
+      "status": "verified",
+      "coverId": "COV-204",
+      "coverPath": "assets/covers/by-release/cover-077.webp",
+      "sourcePath": "assets/covers/archive/cover-204.webp",
+      "sha256": "aa0210a7acf7d123605343de5169b553a0d3d02900832e4dbf3eaeac85587843",
+      "verification": {
+        "coverId": "COV-204",
+        "catalogId": "SNG-077",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-078",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-078-digital-release",
+      "title": "Смысл Жизни",
+      "upc": "199742899222",
+      "status": "needs-review",
+      "coverId": null,
+      "coverPath": null,
+      "sourcePath": null,
+      "sha256": null,
+      "verification": {
+        "note": "No verified cover association; do not infer from file order."
+      }
+    },
+    {
+      "catalogId": "SNG-079",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-079-digital-release",
+      "title": "ЛЕТИ",
+      "upc": "199742726863",
+      "status": "verified",
+      "coverId": "COV-144",
+      "coverPath": "assets/covers/by-release/cover-079.webp",
+      "sourcePath": "assets/covers/archive/cover-144.webp",
+      "sha256": "d934c5a8d8c06a3514e182c48ca1263ab5bdc62fd8678f3f403a393964b8f3eb",
+      "verification": {
+        "coverId": "COV-144",
+        "catalogId": "SNG-079",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-080",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-080-digital-release",
+      "title": "ABU DHABI NIGHTS",
+      "upc": "199742334662",
+      "status": "verified",
+      "coverId": "COV-208",
+      "coverPath": "assets/covers/by-release/cover-080.webp",
+      "sourcePath": "assets/covers/archive/cover-208.webp",
+      "sha256": "348b1d5f3dfeaf20e67b60a50082b0123a2397f68191a7acc60727272875215a",
+      "verification": {
+        "coverId": "COV-208",
+        "catalogId": "SNG-080",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-081",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-081-digital-release",
+      "title": "ВЛАСТЬ",
+      "upc": "199742433303",
+      "status": "verified",
+      "coverId": "COV-145",
+      "coverPath": "assets/covers/by-release/cover-081.webp",
+      "sourcePath": "assets/covers/archive/cover-145.webp",
+      "sha256": "653efaafcf5608585923139509ed920bccf606db212b1f5e64471425e09379cb",
+      "verification": {
+        "coverId": "COV-145",
+        "catalogId": "SNG-081",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-082",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-082-digital-release",
+      "title": "Сум за Батьківщиною",
+      "upc": "199742427463",
+      "status": "verified",
+      "coverId": "COV-146",
+      "coverPath": "assets/covers/by-release/cover-082.webp",
+      "sourcePath": "assets/covers/archive/cover-146.webp",
+      "sha256": "94c100abfd6696724cd57ea38a637a58c5dfa6970a92be17b1c9a1e798991ba6",
+      "verification": {
+        "coverId": "COV-146",
+        "catalogId": "SNG-082",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-083",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-083-digital-release",
+      "title": "Это Мои Чувства",
+      "upc": "199742429412",
+      "status": "verified",
+      "coverId": "COV-147",
+      "coverPath": "assets/covers/by-release/cover-083.webp",
+      "sourcePath": "assets/covers/archive/cover-147.webp",
+      "sha256": "75268a73043988966aa282d0d3d24daa9e6ca88ee27a28b3f37b6176fc02ee67",
+      "verification": {
+        "coverId": "COV-147",
+        "catalogId": "SNG-083",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-084",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-084-digital-release",
+      "title": "Предназначение",
+      "upc": "199742114868",
+      "status": "verified",
+      "coverId": "COV-149",
+      "coverPath": "assets/covers/by-release/cover-084.webp",
+      "sourcePath": "assets/covers/archive/cover-149.webp",
+      "sha256": "3b583c41df0b8d87cfd800558a159f026a1280b9c99510de1947b008306cbf50",
+      "verification": {
+        "coverId": "COV-149",
+        "catalogId": "SNG-084",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-085",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-085-digital-release",
+      "title": "Я ПРОЩАЮ",
+      "upc": "199742121392",
+      "status": "verified",
+      "coverId": "COV-156",
+      "coverPath": "assets/covers/by-release/cover-085.webp",
+      "sourcePath": "assets/covers/archive/cover-156.webp",
+      "sha256": "934d89f256fe2f14664d12defc43566a8ad0f35f998dbd655a0c6c4689dc888f",
+      "verification": {
+        "coverId": "COV-156",
+        "catalogId": "SNG-085",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-086",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-086-digital-release",
+      "title": "Я Это Ты",
+      "upc": "199742118866",
+      "status": "verified",
+      "coverId": "COV-148",
+      "coverPath": "assets/covers/by-release/cover-086.webp",
+      "sourcePath": "assets/covers/archive/cover-148.webp",
+      "sha256": "487f2bdc2e2995921c1426ac023d6bb031b046fc17ee2536ddf5f3f8a8b69039",
+      "verification": {
+        "coverId": "COV-148",
+        "catalogId": "SNG-086",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-087",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-087-digital-release",
+      "title": "DistroKid (soundtrack)",
+      "upc": "199743787337",
+      "status": "verified",
+      "coverId": "COV-206",
+      "coverPath": "assets/covers/by-release/cover-087.webp",
+      "sourcePath": "assets/covers/archive/cover-206.webp",
+      "sha256": "6a6a2ba1182e129bde2fd47b95b3df65e08cb23905f24e2ab5d32d120ad1a815",
+      "verification": {
+        "coverId": "COV-206",
+        "catalogId": "SNG-087",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-088",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-088-digital-release",
+      "title": "Dubai Lights",
+      "upc": "199743751253",
+      "status": "verified",
+      "coverId": "COV-209",
+      "coverPath": "assets/covers/by-release/cover-088.webp",
+      "sourcePath": "assets/covers/archive/cover-209.webp",
+      "sha256": "74fd6a5064aa82ad799a41b7574d195b13c95d3d18169ecef5673380a3c583a6",
+      "verification": {
+        "coverId": "COV-209",
+        "catalogId": "SNG-088",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-089",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-089-digital-release",
+      "title": "Sanctum Fire",
+      "upc": "199743450811",
+      "status": "verified",
+      "coverId": "COV-245",
+      "coverPath": "assets/covers/by-release/cover-089.webp",
+      "sourcePath": "assets/covers/archive/cover-245.webp",
+      "sha256": "5305a3fffe026c13b8c1034bd67ead7f1ec4994c3dd5035d841378d0b28cb5cb",
+      "verification": {
+        "coverId": "COV-245",
+        "catalogId": "SNG-089",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-090",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-090-digital-release",
+      "title": "ЗСУ",
+      "upc": "199743546187",
+      "status": "verified",
+      "coverId": "COV-210",
+      "coverPath": "assets/covers/by-release/cover-090.webp",
+      "sourcePath": "assets/covers/archive/cover-210.webp",
+      "sha256": "c9ee8208b14cdae4f0cba103d50bae74a919501c023ea999f02abdd01e52e50f",
+      "verification": {
+        "coverId": "COV-210",
+        "catalogId": "SNG-090",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-091",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-091-digital-release",
+      "title": "КИЇВ",
+      "upc": "199743549454",
+      "status": "verified",
+      "coverId": "COV-054",
+      "coverPath": "assets/covers/by-release/cover-091.webp",
+      "sourcePath": "assets/covers/archive/cover-054.webp",
+      "sha256": "ded8bfa6bcded98e909d4a3fb0b775e594f9b1ba411a1985ca32d64fd12b32a3",
+      "verification": {
+        "coverId": "COV-054",
+        "catalogId": "SNG-091",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-092",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-092-digital-release",
+      "title": "ПРОЩАЙ",
+      "upc": "199743524048",
+      "status": "needs-review",
+      "coverId": null,
+      "coverPath": null,
+      "sourcePath": null,
+      "sha256": null,
+      "verification": {
+        "note": "No verified cover association; do not infer from file order."
+      }
+    },
+    {
+      "catalogId": "SNG-093",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-093-digital-release",
+      "title": "ТЕНИ",
+      "upc": "199743452464",
+      "status": "needs-review",
+      "coverId": null,
+      "coverPath": null,
+      "sourcePath": null,
+      "sha256": null,
+      "verification": {
+        "note": "No verified cover association; do not infer from file order."
+      }
+    },
+    {
+      "catalogId": "SNG-094",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-094-digital-release",
+      "title": "POSSESSED",
+      "upc": "199743290448",
+      "status": "verified",
+      "coverId": "COV-260",
+      "coverPath": "assets/covers/by-release/cover-094.webp",
+      "sourcePath": "assets/covers/archive/cover-260.webp",
+      "sha256": "10412103d3f95da35a047f70782f3612ccffdc8db532e20619358ce9f4eb94d2",
+      "verification": {
+        "coverId": "COV-260",
+        "catalogId": "SNG-094",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-095",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-095-digital-release",
+      "title": "Запретный Вкус",
+      "upc": "199743292206",
+      "status": "verified",
+      "coverId": "COV-055",
+      "coverPath": "assets/covers/by-release/cover-095.webp",
+      "sourcePath": "assets/covers/archive/cover-055.webp",
+      "sha256": "ccc3ed8024643b7b37736d72ee257f84b3e7b272413776880288be7a7efc66ea",
+      "verification": {
+        "coverId": "COV-055",
+        "catalogId": "SNG-095",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-096",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-096-digital-release",
+      "title": "Instagram (soundtrack)",
+      "upc": "199744958323",
+      "status": "verified",
+      "coverId": "COV-268",
+      "coverPath": "assets/covers/by-release/cover-096.webp",
+      "sourcePath": "assets/covers/archive/cover-268.webp",
+      "sha256": "e2261ba1a7a40a98d0bd7c291722e62181d8f3efe60c923e90f2f746284f58be",
+      "verification": {
+        "coverId": "COV-268",
+        "catalogId": "SNG-096",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-097",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-097-digital-release",
+      "title": "Пенсия Кайф",
+      "upc": "199744915647",
+      "status": "verified",
+      "coverId": "COV-207",
+      "coverPath": "assets/covers/by-release/cover-097.webp",
+      "sourcePath": "assets/covers/archive/cover-207.webp",
+      "sha256": "d2c8149483396cf33345b8a97ea2c0d628e11e60afcd6b968190a6cae4b421df",
+      "verification": {
+        "coverId": "COV-207",
+        "catalogId": "SNG-097",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-098",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-098-digital-release",
+      "title": "COSMOS LIFE СЕРИЯ 1 - ПЛАНЕТА БЕЗ ЛЮДЕЙ",
+      "upc": "199744399263",
+      "status": "verified",
+      "coverId": "COV-213",
+      "coverPath": "assets/covers/by-release/cover-098.webp",
+      "sourcePath": "assets/covers/archive/cover-213.webp",
+      "sha256": "ac9e6a2be89685fcc248a7b54baded8a3203c1f33b4a7af361bcb74d69a3e861",
+      "verification": {
+        "coverId": "COV-213",
+        "catalogId": "SNG-098",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-099",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-099-digital-release",
+      "title": "COSMOS LIFE СЕРИЯ 2 - АДАМ И ЕВА",
+      "upc": "199744168395",
+      "status": "verified",
+      "coverId": "COV-220",
+      "coverPath": "assets/covers/by-release/cover-099.webp",
+      "sourcePath": "assets/covers/archive/cover-220.webp",
+      "sha256": "6411477b914c2582237fe6111eccdf4e0a7ce7a7c2150f67593aa7be73722408",
+      "verification": {
+        "coverId": "COV-220",
+        "catalogId": "SNG-099",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-100",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-100-digital-release",
+      "title": "COSMOS LIFE СЕРИЯ З - «РАЗРУШЕНИЕ»",
+      "upc": "199745847077",
+      "status": "verified",
+      "coverId": "COV-221",
+      "coverPath": "assets/covers/by-release/cover-100.webp",
+      "sourcePath": "assets/covers/archive/cover-221.webp",
+      "sha256": "5afa2bbea1f3531e1da59a0d314a2f4efe1f03def04caac35f4a8c65857cd471",
+      "verification": {
+        "coverId": "COV-221",
+        "catalogId": "SNG-100",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-101",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-101-digital-release",
+      "title": "COSMOS LIFE СЕРИЯ 4 - «COSMOS LIFE»",
+      "upc": "199745608012",
+      "status": "verified",
+      "coverId": "COV-222",
+      "coverPath": "assets/covers/by-release/cover-101.webp",
+      "sourcePath": "assets/covers/archive/cover-222.webp",
+      "sha256": "69990f92b7b9ea9c2a684988620b3cdc0bda08306279cbcdad634a66974859f2",
+      "verification": {
+        "coverId": "COV-222",
+        "catalogId": "SNG-101",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-102",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-102-digital-release",
+      "title": "Мама",
+      "upc": "199745489772",
+      "status": "verified",
+      "coverId": "COV-157",
+      "coverPath": "assets/covers/by-release/cover-102.webp",
+      "sourcePath": "assets/covers/archive/cover-157.webp",
+      "sha256": "004b46d9b348760a3b18cd7b23d8c9521ab58c3d6fcea7aeca8bf676fdb5d6dc",
+      "verification": {
+        "coverId": "COV-157",
+        "catalogId": "SNG-102",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-103",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-103-digital-release",
+      "title": "DREAM OF LIGHT",
+      "upc": "199745241905",
+      "status": "verified",
+      "coverId": "COV-272",
+      "coverPath": "assets/covers/by-release/cover-103.webp",
+      "sourcePath": "assets/covers/archive/cover-272.webp",
+      "sha256": "123632802a6789942aebfa84a0d01807e5fea762538dd5130e4a6bcd33f154e9",
+      "verification": {
+        "coverId": "COV-272",
+        "catalogId": "SNG-103",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-104",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-104-digital-release",
+      "title": "Между Орбит",
+      "upc": "199745016800",
+      "status": "verified",
+      "coverId": "COV-223",
+      "coverPath": "assets/covers/by-release/cover-104.webp",
+      "sourcePath": "assets/covers/archive/cover-223.webp",
+      "sha256": "41666df054b3e679c4b5bd331d6ecafa812a34e286cf1e799bc5970ef236ba05",
+      "verification": {
+        "coverId": "COV-223",
+        "catalogId": "SNG-104",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-105",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-105-digital-release",
+      "title": "Anima Obscura (Dark Ritual Song)",
+      "upc": "199746102007",
+      "status": "verified",
+      "coverId": "COV-226",
+      "coverPath": "assets/covers/by-release/cover-105.webp",
+      "sourcePath": "assets/covers/archive/cover-226.webp",
+      "sha256": "f2b8aa0fc1bc52d6b3c2baf4354c23d3d6024350abe24c1aa5d42e5b5759a39f",
+      "verification": {
+        "coverId": "COV-226",
+        "catalogId": "SNG-105",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-106",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-106-digital-release",
+      "title": "HELLO",
+      "upc": "199746331070",
+      "status": "verified",
+      "coverId": "COV-262",
+      "coverPath": "assets/covers/by-release/cover-106.webp",
+      "sourcePath": "assets/covers/archive/cover-262.webp",
+      "sha256": "b7104c1b46897e47adcde037af389f0de085524ce37e43c98eb92cb9abef2e19",
+      "verification": {
+        "coverId": "COV-262",
+        "catalogId": "SNG-106",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-107",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-107-digital-release",
+      "title": "БУМЕРАНГ",
+      "upc": "199747546978",
+      "status": "verified",
+      "coverId": "COV-158",
+      "coverPath": "assets/covers/by-release/cover-107.webp",
+      "sourcePath": "assets/covers/archive/cover-158.webp",
+      "sha256": "bb8a022e3c99933e226e58ab0ed34c379cb52f6add913843f1af66812baa2579",
+      "verification": {
+        "coverId": "COV-158",
+        "catalogId": "SNG-107",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-108",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-108-digital-release",
+      "title": "Meaning of Life",
+      "upc": "199748808495",
+      "status": "needs-review",
+      "coverId": null,
+      "coverPath": null,
+      "sourcePath": null,
+      "sha256": null,
+      "verification": {
+        "note": "No verified cover association; do not infer from file order."
+      }
+    },
+    {
+      "catalogId": "SNG-109",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-109-digital-release",
+      "title": "VEVO",
+      "upc": "199748950453",
+      "status": "verified",
+      "coverId": "COV-227",
+      "coverPath": "assets/covers/by-release/cover-109.webp",
+      "sourcePath": "assets/covers/archive/cover-227.webp",
+      "sha256": "80abc331dbb1ce6cd85ea9ab6623508adeb1178be079ac5d05a804bccb89439b",
+      "verification": {
+        "coverId": "COV-227",
+        "catalogId": "SNG-109",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-110",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-110-digital-release",
+      "title": "BANINA BANINA YALLA TARRAF",
+      "upc": "199748545277",
+      "status": "verified",
+      "coverId": "COV-229",
+      "coverPath": "assets/covers/by-release/cover-110.webp",
+      "sourcePath": "assets/covers/archive/cover-229.webp",
+      "sha256": "016c27c2dd74bb2ff55a30049424ee9c802f6c9ba723dc72d34e35f485891308",
+      "verification": {
+        "coverId": "COV-229",
+        "catalogId": "SNG-110",
+        "method": "apple-music-visible-artwork-match",
+        "referenceUrl": "https://music.apple.com/ua/album/banina-banina-yalla-tarraf/1848684907?i=1848684908",
+        "referenceIsrc": "QT6E62524228",
+        "note": "Artwork observed in the labelled BANINA BANINA YALLA TARRAF album card on the ASH and NEON page."
+      }
+    },
+    {
+      "catalogId": "SNG-111",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-111-digital-release",
+      "title": "ПІСНЯ КРАКЕНА — “ВІТО І ЮТА”",
+      "upc": "199748424800",
+      "status": "verified",
+      "coverId": "COV-235",
+      "coverPath": "assets/covers/by-release/cover-111.webp",
+      "sourcePath": "assets/covers/archive/cover-235.webp",
+      "sha256": "ec1383c607c313d39fd3edf558a69f55e22d8937a573ac6471751077a6a78687",
+      "verification": {
+        "coverId": "COV-235",
+        "catalogId": "SNG-111",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-112",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-112-digital-release",
+      "title": "ВРЕМЯ НЕ ПРОЩАЕТ",
+      "upc": "199748201050",
+      "status": "verified",
+      "coverId": "COV-059",
+      "coverPath": "assets/covers/by-release/cover-112.webp",
+      "sourcePath": "assets/covers/archive/cover-059.webp",
+      "sha256": "ac234db671fcd86d5ae2fb8c004bfc3d677cb2860bab5fe529f022613bad228f",
+      "verification": {
+        "coverId": "COV-059",
+        "catalogId": "SNG-112",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-113",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-113-digital-release",
+      "title": "КРАКЕН — ВІТО ШТОРМ ((VIP MIX))",
+      "upc": "199749938153",
+      "status": "verified",
+      "coverId": "COV-182",
+      "coverPath": "assets/covers/by-release/cover-113.webp",
+      "sourcePath": "assets/covers/archive/cover-182.webp",
+      "sha256": "a68a19ff966c0f960794c1f55576da3a1d825d94b7be6790bec288038ba9b919",
+      "verification": {
+        "coverId": "COV-182",
+        "catalogId": "SNG-113",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-114",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-114-digital-release",
+      "title": "ПІСНЯ КРАКЕН — ВІТО ШТОРМ",
+      "upc": "199748119218",
+      "status": "verified",
+      "coverId": "COV-236",
+      "coverPath": "assets/covers/by-release/cover-114.webp",
+      "sourcePath": "assets/covers/archive/cover-236.webp",
+      "sha256": "f713b7791878817c8da61e2de4e2d5ad449ff5c63bd349ce91de41a8a3694fe7",
+      "verification": {
+        "coverId": "COV-236",
+        "catalogId": "SNG-114",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-115",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-115-digital-release",
+      "title": "Где Кончается Человек",
+      "upc": "199749709517",
+      "status": "verified",
+      "coverId": "COV-238",
+      "coverPath": "assets/covers/by-release/cover-115.webp",
+      "sourcePath": "assets/covers/archive/cover-238.webp",
+      "sha256": "105019bdf2fc842ca7d34b19f4df31435c7c743e6bd84349381ecc366bfde8b8",
+      "verification": {
+        "coverId": "COV-238",
+        "catalogId": "SNG-115",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-116",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-116-digital-release",
+      "title": "НЕ ГОНИ ФУФЛО",
+      "upc": "199749849954",
+      "status": "verified",
+      "coverId": "COV-237",
+      "coverPath": "assets/covers/by-release/cover-116.webp",
+      "sourcePath": "assets/covers/archive/cover-237.webp",
+      "sha256": "77b35fe468467cbd3a7ec476af5de31ccb506800bc473fa1a81ca6850ecf36b9",
+      "verification": {
+        "coverId": "COV-237",
+        "catalogId": "SNG-116",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-117",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-117-digital-release",
+      "title": "The Other Side",
+      "upc": "199749343308",
+      "status": "verified",
+      "coverId": "COV-239",
+      "coverPath": "assets/covers/by-release/cover-117.webp",
+      "sourcePath": "assets/covers/archive/cover-239.webp",
+      "sha256": "3185c879364fa22cd9609c9202bc39a28ffc8090b9b15425de3a098b87173236",
+      "verification": {
+        "coverId": "COV-239",
+        "catalogId": "SNG-117",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-118",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-118-digital-release",
+      "title": "ПОЛИСАЙ",
+      "upc": "199749543050",
+      "status": "verified",
+      "coverId": "COV-224",
+      "coverPath": "assets/covers/by-release/cover-118.webp",
+      "sourcePath": "assets/covers/archive/cover-224.webp",
+      "sha256": "66d8ede0bcd576123b18a116fbec393b3e516ccecd52c46636993ab850944a2e",
+      "verification": {
+        "coverId": "COV-224",
+        "catalogId": "SNG-118",
+        "method": "visual-title-and-canonical-alias-match",
+        "note": "Artwork title Police is an existing canonical alternateName of SNG-118."
+      }
+    },
+    {
+      "catalogId": "SNG-119",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-119-digital-release",
+      "title": "NORA",
+      "upc": "199749050473",
+      "status": "verified",
+      "coverId": "COV-240",
+      "coverPath": "assets/covers/by-release/cover-119.webp",
+      "sourcePath": "assets/covers/archive/cover-240.webp",
+      "sha256": "d444c81d604f81c4119b64b6dcb3d26472e7415aa3bcbc747f3e14ec2009e331",
+      "verification": {
+        "coverId": "COV-240",
+        "catalogId": "SNG-119",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-120",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-120-digital-release",
+      "title": "ПАМЯТЬ",
+      "upc": "199750780994",
+      "status": "verified",
+      "coverId": "COV-242",
+      "coverPath": "assets/covers/by-release/cover-120.webp",
+      "sourcePath": "assets/covers/archive/cover-242.webp",
+      "sha256": "fef285349645e9637b255b15818b592f7316dd1d95a1a05900ab5c2f9dccfe35",
+      "verification": {
+        "coverId": "COV-242",
+        "catalogId": "SNG-120",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-121",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-121-digital-release",
+      "title": "БРАТ ОНА БЕРЕМЕННА",
+      "upc": "199750667622",
+      "status": "verified",
+      "coverId": "COV-243",
+      "coverPath": "assets/covers/by-release/cover-121.webp",
+      "sourcePath": "assets/covers/archive/cover-243.webp",
+      "sha256": "3b46776bd27c2f5866d2890a300b2dc2a781796aa00d91afe9ff8f4be922b151",
+      "verification": {
+        "coverId": "COV-243",
+        "catalogId": "SNG-121",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-122",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-122-digital-release",
+      "title": "Він Малює Світ",
+      "upc": "199750455298",
+      "status": "verified",
+      "coverId": "COV-244",
+      "coverPath": "assets/covers/by-release/cover-122.webp",
+      "sourcePath": "assets/covers/archive/cover-244.webp",
+      "sha256": "fd6ce0be0f9775862960c8412c5873ed782f6b755af0b9c2932462cb39f8436b",
+      "verification": {
+        "coverId": "COV-244",
+        "catalogId": "SNG-122",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-123",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-123-digital-release",
+      "title": "HALLOWEEN",
+      "upc": "199750038354",
+      "status": "verified",
+      "coverId": "COV-251",
+      "coverPath": "assets/covers/by-release/cover-123.webp",
+      "sourcePath": "assets/covers/archive/cover-251.webp",
+      "sha256": "20e97d58347476521a09ed1730c7d7d374c36f0b6520416b28e20fb33b8b3854",
+      "verification": {
+        "coverId": "COV-251",
+        "catalogId": "SNG-123",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-124",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-124-digital-release",
+      "title": "Братва Не Спит",
+      "upc": "199750068924",
+      "status": "verified",
+      "coverId": "COV-250",
+      "coverPath": "assets/covers/by-release/cover-124.webp",
+      "sourcePath": "assets/covers/archive/cover-250.webp",
+      "sha256": "babbb3c70bb61674dfad204fcf4f37582bf32035f0aadf06c451085ce92cc1f7",
+      "verification": {
+        "coverId": "COV-250",
+        "catalogId": "SNG-124",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-125",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-125-digital-release",
+      "title": "Ad Vinculum",
+      "upc": "199751799032",
+      "status": "verified",
+      "coverId": "COV-252",
+      "coverPath": "assets/covers/by-release/cover-125.webp",
+      "sourcePath": "assets/covers/archive/cover-252.webp",
+      "sha256": "ed6b20eb38c5fe779e76481f9e11ec0b2dfeb4e81d06699b8064928b5d7845c9",
+      "verification": {
+        "coverId": "COV-252",
+        "catalogId": "SNG-125",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-126",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-126-digital-release",
+      "title": "СЕРДЦЕЕДКА",
+      "upc": "199751486697",
+      "status": "verified",
+      "coverId": "COV-254",
+      "coverPath": "assets/covers/by-release/cover-126.webp",
+      "sourcePath": "assets/covers/archive/cover-254.webp",
+      "sha256": "5dd0a9aa274df50e66cce460cfe2b425756065ac186cd309f23bed49332d7170",
+      "verification": {
+        "coverId": "COV-254",
+        "catalogId": "SNG-126",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-127",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-127-digital-release",
+      "title": "Сухая Вода",
+      "upc": "199751500447",
+      "status": "verified",
+      "coverId": "COV-253",
+      "coverPath": "assets/covers/by-release/cover-127.webp",
+      "sourcePath": "assets/covers/archive/cover-253.webp",
+      "sha256": "055eb4c2a3e08c78b2cc52ca8029f44abf909977db53934cefc58e78daf48464",
+      "verification": {
+        "coverId": "COV-253",
+        "catalogId": "SNG-127",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-128",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-128-digital-release",
+      "title": "ПАПА",
+      "upc": "199940998956",
+      "status": "verified",
+      "coverId": "COV-255",
+      "coverPath": "assets/covers/by-release/cover-128.webp",
+      "sourcePath": "assets/covers/archive/cover-255.webp",
+      "sha256": "5ef76fc22bade25cfb99fcecc2943786c20c5195f8c8327f01cc8a444ea304ac",
+      "verification": {
+        "coverId": "COV-255",
+        "catalogId": "SNG-128",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-129",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-129-digital-release",
+      "title": "Да … Нет",
+      "upc": "199953996604",
+      "status": "verified",
+      "coverId": "COV-256",
+      "coverPath": "assets/covers/by-release/cover-129.webp",
+      "sourcePath": "assets/covers/archive/cover-256.webp",
+      "sha256": "8ff3e0c5597fca47fa7c18ab7dbe90f3b3a4d8808da44dc44994d155c5b520e9",
+      "verification": {
+        "coverId": "COV-256",
+        "catalogId": "SNG-129",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-130",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-130-digital-release",
+      "title": "UKRAINE",
+      "upc": "199956747098",
+      "status": "verified",
+      "coverId": "COV-258",
+      "coverPath": "assets/covers/by-release/cover-130.webp",
+      "sourcePath": "assets/covers/archive/cover-258.webp",
+      "sha256": "9f6e50a4aa11de19a13a3ef9a7fc74746a091bbe169cea71d97f4b95e2b7e07c",
+      "verification": {
+        "coverId": "COV-258",
+        "catalogId": "SNG-130",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-131",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-131-digital-release",
+      "title": "Совесть",
+      "upc": "199956854468",
+      "status": "verified",
+      "coverId": "COV-257",
+      "coverPath": "assets/covers/by-release/cover-131.webp",
+      "sourcePath": "assets/covers/archive/cover-257.webp",
+      "sha256": "a533059929597af816e19ea4e3ac55627e70cd2e9f3c9c800e7bacfeee50c4c7",
+      "verification": {
+        "coverId": "COV-257",
+        "catalogId": "SNG-131",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-132",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-132-digital-release",
+      "title": "HE PAINTS THE WORLD",
+      "upc": "199956329850",
+      "status": "verified",
+      "coverId": "COV-150",
+      "coverPath": "assets/covers/by-release/cover-132.webp",
+      "sourcePath": "assets/covers/archive/cover-150.webp",
+      "sha256": "8ab8b71d201961a31c6d2e6d3f69c91b0de8947e3cc700d6bcb114432668dc62",
+      "verification": {
+        "coverId": "COV-150",
+        "catalogId": "SNG-132",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-133",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-133-digital-release",
+      "title": "ПОЛНЫЙ АВТОБУС БУРАТИН",
+      "upc": "199955872593",
+      "status": "verified",
+      "coverId": "COV-241",
+      "coverPath": "assets/covers/by-release/cover-133.webp",
+      "sourcePath": "assets/covers/archive/cover-241.webp",
+      "sha256": "86a48e311bfccf5fe7285999be6afbbd569f1da13127472bb6ffc027db82d104",
+      "verification": {
+        "coverId": "COV-241",
+        "catalogId": "SNG-133",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-134",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-134-digital-release",
+      "title": "CODE OF SILENCE",
+      "upc": "199955473660",
+      "status": "verified",
+      "coverId": "COV-152",
+      "coverPath": "assets/covers/by-release/cover-134.webp",
+      "sourcePath": "assets/covers/archive/cover-152.webp",
+      "sha256": "026019ff56a06841dc24b9d023ac352ac162d59c6a80f221511192251f364c9d",
+      "verification": {
+        "coverId": "COV-152",
+        "catalogId": "SNG-134",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-135",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-135-digital-release",
+      "title": "КОД ТИШІ",
+      "upc": "199955682536",
+      "status": "verified",
+      "coverId": "COV-151",
+      "coverPath": "assets/covers/by-release/cover-135.webp",
+      "sourcePath": "assets/covers/archive/cover-151.webp",
+      "sha256": "b4d9f0dab5b77cb2c535de83d3c6637f0412f2dcdba4ece5c1fca682a8d2d8dd",
+      "verification": {
+        "coverId": "COV-151",
+        "catalogId": "SNG-135",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-136",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-136-digital-release",
+      "title": "KPOB I BIPA / BLOOD AND FAITH",
+      "upc": "199955214348",
+      "status": "verified",
+      "coverId": "COV-259",
+      "coverPath": "assets/covers/by-release/cover-136.webp",
+      "sourcePath": "assets/covers/archive/cover-259.webp",
+      "sha256": "3deda8fe63996f4effcb201bdb053dc8d8f31ea55c37c379c5acf683db271f54",
+      "verification": {
+        "coverId": "COV-259",
+        "catalogId": "SNG-136",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-137",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-137-digital-release",
+      "title": "BOOMERANG",
+      "upc": "199954873553",
+      "status": "verified",
+      "coverId": "COV-265",
+      "coverPath": "assets/covers/by-release/cover-137.webp",
+      "sourcePath": "assets/covers/archive/cover-265.webp",
+      "sha256": "75902363593504c0345f22edcf8ce635edeb5004db222612f2425052a038deed",
+      "verification": {
+        "coverId": "COV-265",
+        "catalogId": "SNG-137",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-138",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-138-digital-release",
+      "title": "THE CURE",
+      "upc": "199954510489",
+      "status": "verified",
+      "coverId": "COV-164",
+      "coverPath": "assets/covers/by-release/cover-138.webp",
+      "sourcePath": "assets/covers/archive/cover-164.webp",
+      "sha256": "e4f0bbf041588f899f78060e7150d6add0709ed1a30639eed5fd6348569d9790",
+      "verification": {
+        "coverId": "COV-164",
+        "catalogId": "SNG-138",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-139",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-139-digital-release",
+      "title": "RELEASE ME",
+      "upc": "199953870973",
+      "status": "verified",
+      "coverId": "COV-266",
+      "coverPath": "assets/covers/by-release/cover-139.webp",
+      "sourcePath": "assets/covers/archive/cover-266.webp",
+      "sha256": "9d15d8803c39c08e7c8c7f531c98f8efdd51b28e155c5ef2c3ed5229bcf3f2a9",
+      "verification": {
+        "coverId": "COV-266",
+        "catalogId": "SNG-139",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-140",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-140-digital-release",
+      "title": "Матрица Лжи (Matrix of lies)",
+      "upc": "199953749859",
+      "status": "verified",
+      "coverId": "COV-276",
+      "coverPath": "assets/covers/by-release/cover-140.webp",
+      "sourcePath": "assets/covers/archive/cover-276.webp",
+      "sha256": "da99b19782dca0de1c75d27a4d4ce711f3944f03861554aa5bd835b0dceeab6f",
+      "verification": {
+        "coverId": "COV-276",
+        "catalogId": "SNG-140",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-141",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-141-digital-release",
+      "title": "ANIMALS",
+      "upc": "199953326517",
+      "status": "verified",
+      "coverId": "COV-184",
+      "coverPath": "assets/covers/by-release/cover-141.webp",
+      "sourcePath": "assets/covers/archive/cover-184.webp",
+      "sha256": "758baad5e30b283f065de640c687050fb637bcfa4d958f5323c0947cfb28b1dc",
+      "verification": {
+        "coverId": "COV-184",
+        "catalogId": "SNG-141",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-142",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-142-digital-release",
+      "title": "Храм Любви",
+      "upc": "199953371548",
+      "status": "verified",
+      "coverId": "COV-154",
+      "coverPath": "assets/covers/by-release/cover-142.webp",
+      "sourcePath": "assets/covers/archive/cover-154.webp",
+      "sha256": "cecc51b5dfc3d62c7001c317aac8b73e313fa9cb91b76b0487d2a4d4a2e860ae",
+      "verification": {
+        "coverId": "COV-154",
+        "catalogId": "SNG-142",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-143",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-143-digital-release",
+      "title": "Не Стыдно Падать",
+      "upc": "199952937097",
+      "status": "verified",
+      "coverId": "COV-267",
+      "coverPath": "assets/covers/by-release/cover-143.webp",
+      "sourcePath": "assets/covers/archive/cover-267.webp",
+      "sha256": "9edaac5875d0d0c2b261c6ab0f195de283476f06c80c4d03bf7ef9f165c5ce08",
+      "verification": {
+        "coverId": "COV-267",
+        "catalogId": "SNG-143",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-144",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-144-digital-release",
+      "title": "Это ты Это я",
+      "upc": "199953125486",
+      "status": "verified",
+      "coverId": "COV-153",
+      "coverPath": "assets/covers/by-release/cover-144.webp",
+      "sourcePath": "assets/covers/archive/cover-153.webp",
+      "sha256": "65572b9e5d4acea77704a8931c6a1632b9c1a43d978355868d7ed5c6e9b6b834",
+      "verification": {
+        "coverId": "COV-153",
+        "catalogId": "SNG-144",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-145",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-145-digital-release",
+      "title": "Свет во мне",
+      "upc": "199951952558",
+      "status": "verified",
+      "coverId": "COV-181",
+      "coverPath": "assets/covers/by-release/cover-145.webp",
+      "sourcePath": "assets/covers/archive/cover-181.webp",
+      "sha256": "6c78073e1458ad8839fa5c5184e2b7671d87463aac4e550e1de762da7f228fdf",
+      "verification": {
+        "coverId": "COV-181",
+        "catalogId": "SNG-145",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-146",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-146-digital-release",
+      "title": "Колючий, но родной",
+      "upc": "199951687337",
+      "status": "verified",
+      "coverId": "COV-010",
+      "coverPath": "assets/covers/by-release/cover-146.webp",
+      "sourcePath": "assets/covers/archive/cover-010.webp",
+      "sha256": "b597206945570fba73e586f5e6bea21c9f874ba5d9cb53584626d75b5b27cc0d",
+      "verification": {
+        "coverId": "COV-010",
+        "catalogId": "SNG-146",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-147",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-147-digital-release",
+      "title": "Spotify (soundtrack)",
+      "upc": "199951307655",
+      "status": "verified",
+      "coverId": "COV-012",
+      "coverPath": "assets/covers/by-release/cover-147.webp",
+      "sourcePath": "assets/covers/archive/cover-012.webp",
+      "sha256": "1c052b27035579218232b3ce9fcaecb8e69f84fd9b17eab278bda4addfc97ae7",
+      "verification": {
+        "coverId": "COV-012",
+        "catalogId": "SNG-147",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-148",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-148-digital-release",
+      "title": "WORDS",
+      "upc": "199951361480",
+      "status": "verified",
+      "coverId": "COV-011",
+      "coverPath": "assets/covers/by-release/cover-148.webp",
+      "sourcePath": "assets/covers/archive/cover-011.webp",
+      "sha256": "fb8c9f7472dadb3da24d5fe6d4185b9af33ab6764c9765f787594a0e903ef2ed",
+      "verification": {
+        "coverId": "COV-011",
+        "catalogId": "SNG-148",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-149",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-149-digital-release",
+      "title": "Слова",
+      "upc": "199949999626",
+      "status": "verified",
+      "coverId": "COV-013",
+      "coverPath": "assets/covers/by-release/cover-149.webp",
+      "sourcePath": "assets/covers/archive/cover-013.webp",
+      "sha256": "6a905972450ea13ad4433ee6d598b7f1b4e64a3c5007d87d832cd314c35f9556",
+      "verification": {
+        "coverId": "COV-013",
+        "catalogId": "SNG-149",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-150",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-150-digital-release",
+      "title": "ПРАВДА",
+      "upc": "199949067820",
+      "status": "verified",
+      "coverId": "COV-014",
+      "coverPath": "assets/covers/by-release/cover-150.webp",
+      "sourcePath": "assets/covers/archive/cover-014.webp",
+      "sha256": "2e4bf5ff2453e18a73d0f8569dcde83540c70f6aca986ed6e71073268e54cfa0",
+      "verification": {
+        "coverId": "COV-014",
+        "catalogId": "SNG-150",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-151",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-151-digital-release",
+      "title": "Monsters",
+      "upc": "199952305674",
+      "status": "verified",
+      "coverId": "COV-269",
+      "coverPath": "assets/covers/by-release/cover-151.webp",
+      "sourcePath": "assets/covers/archive/cover-269.webp",
+      "sha256": "1d64cc857cf0657d430f2fab5b52a9af3f33268edf2406fbf9e4a40fdf9039df",
+      "verification": {
+        "coverId": "COV-269",
+        "catalogId": "SNG-151",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-152",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-152-digital-release",
+      "title": "ГІМН ЛЮБОВІ",
+      "upc": "199948759245",
+      "status": "verified",
+      "coverId": "COV-015",
+      "coverPath": "assets/covers/by-release/cover-152.webp",
+      "sourcePath": "assets/covers/archive/cover-015.webp",
+      "sha256": "4d1cd9025c69f0d3dd292ba3f25a27fe3c6127556ac3f970119ad1d85cd84fbe",
+      "verification": {
+        "coverId": "COV-015",
+        "catalogId": "SNG-152",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-153",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-153-digital-release",
+      "title": "После Жизни",
+      "upc": "199948375773",
+      "status": "verified",
+      "coverId": "COV-016",
+      "coverPath": "assets/covers/by-release/cover-153.webp",
+      "sourcePath": "assets/covers/archive/cover-016.webp",
+      "sha256": "faaf8efa3754c4c86b97fd137f081b15f5e7b39b4ea863c5691bc7c29635c783",
+      "verification": {
+        "coverId": "COV-016",
+        "catalogId": "SNG-153",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-154",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-154-digital-release",
+      "title": "Жизнь это Ринг",
+      "upc": "199946818388",
+      "status": "verified",
+      "coverId": "COV-018",
+      "coverPath": "assets/covers/by-release/cover-154.webp",
+      "sourcePath": "assets/covers/archive/cover-018.webp",
+      "sha256": "37304d2e5280f1a2544445780f618d2a99637136a3acd8c3220134d85cf20d53",
+      "verification": {
+        "coverId": "COV-018",
+        "catalogId": "SNG-154",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-155",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-155-digital-release",
+      "title": "NO LIMIT ANIMAL MODE",
+      "upc": "199946783778",
+      "status": "verified",
+      "coverId": "COV-020",
+      "coverPath": "assets/covers/by-release/cover-155.webp",
+      "sourcePath": "assets/covers/archive/cover-020.webp",
+      "sha256": "8b5d9bf86fcfcc3692ccf6d636b5f2767e0d7b9f4d06c167a689664878bb6729",
+      "verification": {
+        "coverId": "COV-020",
+        "catalogId": "SNG-155",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-156",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-156-digital-release",
+      "title": "А что если - это Сны?",
+      "upc": "199946637958",
+      "status": "verified",
+      "coverId": "COV-023",
+      "coverPath": "assets/covers/by-release/cover-156.webp",
+      "sourcePath": "assets/covers/archive/cover-023.webp",
+      "sha256": "b770a6ad03748cd2a40c9ac22c2ab4b65702b2c0ffa1318417832faa21a593a3",
+      "verification": {
+        "coverId": "COV-023",
+        "catalogId": "SNG-156",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-157",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-157-digital-release",
+      "title": "ЛЮБОВЬ РЕЗНЯ",
+      "upc": "199946769482",
+      "status": "verified",
+      "coverId": "COV-022",
+      "coverPath": "assets/covers/by-release/cover-157.webp",
+      "sourcePath": "assets/covers/archive/cover-022.webp",
+      "sha256": "9d19afb2fb3d54ebd5376f018bf95191bf019848c2f7333fd7a3b75fe0c299be",
+      "verification": {
+        "coverId": "COV-022",
+        "catalogId": "SNG-157",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-158",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-158-digital-release",
+      "title": "КАЧЕЛІ ((UA Version))",
+      "upc": "199946180348",
+      "status": "needs-review",
+      "coverId": null,
+      "coverPath": null,
+      "sourcePath": null,
+      "sha256": null,
+      "verification": {
+        "note": "No verified cover association; do not infer from file order."
+      }
+    },
+    {
+      "catalogId": "SNG-159",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-159-digital-release",
+      "title": "Хочу Люблю Живу",
+      "upc": "199945630929",
+      "status": "verified",
+      "coverId": "COV-024",
+      "coverPath": "assets/covers/by-release/cover-159.webp",
+      "sourcePath": "assets/covers/archive/cover-024.webp",
+      "sha256": "533a11363cfaf4255316359b6c39738f2980b68bc9061b8d6c57f7f7f2f506c8",
+      "verification": {
+        "coverId": "COV-024",
+        "catalogId": "SNG-159",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-160",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-160-digital-release",
+      "title": "EISENHERZ",
+      "upc": "199943938454",
+      "status": "verified",
+      "coverId": "COV-025",
+      "coverPath": "assets/covers/by-release/cover-160.webp",
+      "sourcePath": "assets/covers/archive/cover-025.webp",
+      "sha256": "2f22a001af4ef43710ae1012d184171d5f2f0516625d7a62c41940994f33b448",
+      "verification": {
+        "coverId": "COV-025",
+        "catalogId": "SNG-160",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-161",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-161-digital-release",
+      "title": "HAPPY NEW YEAR WORLD",
+      "upc": "199943304181",
+      "status": "verified",
+      "coverId": "COV-202",
+      "coverPath": "assets/covers/by-release/cover-161.webp",
+      "sourcePath": "assets/covers/archive/cover-202.webp",
+      "sha256": "e3184d876d3ba564d3b482848dc3668dc2f869e203733e9d37ade0014592d4f4",
+      "verification": {
+        "coverId": "COV-202",
+        "catalogId": "SNG-161",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-162",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-162-digital-release",
+      "title": "Ty Angel ya Demon",
+      "upc": "199943304211",
+      "status": "verified",
+      "coverId": "COV-037",
+      "coverPath": "assets/covers/by-release/cover-162.webp",
+      "sourcePath": "assets/covers/archive/cover-037.webp",
+      "sha256": "8078fc727d5ef0fa83277585d0ca1bb51f392b98c7ec5de6d808efa3574d8352",
+      "verification": {
+        "coverId": "COV-037",
+        "catalogId": "SNG-162",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-163",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-163-digital-release",
+      "title": "ДУША",
+      "upc": "199947581687",
+      "status": "verified",
+      "coverId": "COV-017",
+      "coverPath": "assets/covers/by-release/cover-163.webp",
+      "sourcePath": "assets/covers/archive/cover-017.webp",
+      "sha256": "02d169de22f78f6a90fe7c07e75453c08db60fdf1cef6ad00128501e665dc431",
+      "verification": {
+        "coverId": "COV-017",
+        "catalogId": "SNG-163",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-164",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-164-digital-release",
+      "title": "REBORN IN FIRE",
+      "upc": "199952858736",
+      "status": "verified",
+      "coverId": "COV-200",
+      "coverPath": "assets/covers/by-release/cover-164.webp",
+      "sourcePath": "assets/covers/archive/cover-200.webp",
+      "sha256": "47dab35d0f13fa98dc7d016c0efd8998fa7fd6a1458992fcb3d9d91b2fe80eec",
+      "verification": {
+        "coverId": "COV-200",
+        "catalogId": "SNG-164",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-165",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-165-digital-release",
+      "title": "Я Свет Он Тень",
+      "upc": "199946812768",
+      "status": "verified",
+      "coverId": "COV-021",
+      "coverPath": "assets/covers/by-release/cover-165.webp",
+      "sourcePath": "assets/covers/archive/cover-021.webp",
+      "sha256": "880ad1ae1cd550155f12a693a33081da6f3f9fb5e2e9ae8f594deb3b26f3cdba",
+      "verification": {
+        "coverId": "COV-021",
+        "catalogId": "SNG-165",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-166",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-166-digital-release",
+      "title": "AMERICAN DREAMS",
+      "upc": "199940314213",
+      "status": "verified",
+      "coverId": "COV-065",
+      "coverPath": "assets/covers/by-release/cover-166.webp",
+      "sourcePath": "assets/covers/archive/cover-065.webp",
+      "sha256": "c6685ccbca7f072844e4f2b2da3db0f0feb545b25405c6e496b3fc22b8f80355",
+      "verification": {
+        "coverId": "COV-065",
+        "catalogId": "SNG-166",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-167",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-167-digital-release",
+      "title": "ЦЫГАНСКАЯ ДУША",
+      "upc": "199939868369",
+      "status": "verified",
+      "coverId": "COV-066",
+      "coverPath": "assets/covers/by-release/cover-167.webp",
+      "sourcePath": "assets/covers/archive/cover-066.webp",
+      "sha256": "fda7532666eb36df84b9f95283cece44857d5b5b87fdc2cf736ca17a3cc61a03",
+      "verification": {
+        "coverId": "COV-066",
+        "catalogId": "SNG-167",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-168",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-168-digital-release",
+      "title": "НИКТО КРОМЕ НАС",
+      "upc": "199939527679",
+      "status": "verified",
+      "coverId": "COV-067",
+      "coverPath": "assets/covers/by-release/cover-168.webp",
+      "sourcePath": "assets/covers/archive/cover-067.webp",
+      "sha256": "b397db21141eba68daa217ad2a860726d98d01943d8bc8f1e0cd0aac551006e2",
+      "verification": {
+        "coverId": "COV-067",
+        "catalogId": "SNG-168",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-169",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-169-digital-release",
+      "title": "КУПИ БИЛЕТ",
+      "upc": "199939309817",
+      "status": "verified",
+      "coverId": "COV-068",
+      "coverPath": "assets/covers/by-release/cover-169.webp",
+      "sourcePath": "assets/covers/archive/cover-068.webp",
+      "sha256": "5a46547e05160f0eba703120a8f9afc7fc0da71b84d5ca0fc28c731dc8b708ef",
+      "verification": {
+        "coverId": "COV-068",
+        "catalogId": "SNG-169",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-170",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-170-digital-release",
+      "title": "STILL YOURS",
+      "upc": "199937820109",
+      "status": "verified",
+      "coverId": "COV-028",
+      "coverPath": "assets/covers/by-release/cover-170.webp",
+      "sourcePath": "assets/covers/archive/cover-028.webp",
+      "sha256": "6fcedfd091fd9480ceafa41f6cbeb03dcde2329a9a1aa856fafa6270b01bce8b",
+      "verification": {
+        "coverId": "COV-028",
+        "catalogId": "SNG-170",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-171",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-171-digital-release",
+      "title": "I’M ALIVE",
+      "upc": "199937530510",
+      "status": "verified",
+      "coverId": "COV-026",
+      "coverPath": "assets/covers/by-release/cover-171.webp",
+      "sourcePath": "assets/covers/archive/cover-026.webp",
+      "sha256": "2e14250cadb9beb3d365eb628c2a95defd447133a58c3be2a850c065dd1c09f5",
+      "verification": {
+        "coverId": "COV-026",
+        "catalogId": "SNG-171",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-172",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-172-digital-release",
+      "title": "С НОВЫМ ГОДОМ МИР",
+      "upc": "199937349631",
+      "status": "verified",
+      "coverId": "COV-035",
+      "coverPath": "assets/covers/by-release/cover-172.webp",
+      "sourcePath": "assets/covers/archive/cover-035.webp",
+      "sha256": "c92ea65bdc88fbe8551371614e07b675d0ce4ee6773f6a971e21feaafe769c4f",
+      "verification": {
+        "coverId": "COV-035",
+        "catalogId": "SNG-172",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-173",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-173-digital-release",
+      "title": "Don’t speak",
+      "upc": "199936670354",
+      "status": "verified",
+      "coverId": "COV-036",
+      "coverPath": "assets/covers/by-release/cover-173.webp",
+      "sourcePath": "assets/covers/archive/cover-036.webp",
+      "sha256": "eef64226cd01815bcb2d1c6be06966a60f8a33664e88641c2419d5d8201f0fdc",
+      "verification": {
+        "coverId": "COV-036",
+        "catalogId": "SNG-173",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-174",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-174-digital-release",
+      "title": "LIFE RACING (soundtrack)",
+      "upc": "199936378489",
+      "status": "verified",
+      "coverId": "COV-069",
+      "coverPath": "assets/covers/by-release/cover-174.webp",
+      "sourcePath": "assets/covers/archive/cover-069.webp",
+      "sha256": "f2ff848d7528cae2eb293cace3a7df608748d792a8ebbdacf37c22e1b08cbbba",
+      "verification": {
+        "coverId": "COV-069",
+        "catalogId": "SNG-174",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-175",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-175-digital-release",
+      "title": "ASH REMEMBERS",
+      "upc": "199936085394",
+      "status": "verified",
+      "coverId": "COV-027",
+      "coverPath": "assets/covers/by-release/cover-175.webp",
+      "sourcePath": "assets/covers/archive/cover-027.webp",
+      "sha256": "f068f7ba05d8d390c375ca63257089c39c03157ea03a8df37702e493afe7d245",
+      "verification": {
+        "coverId": "COV-027",
+        "catalogId": "SNG-175",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-176",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-176-digital-release",
+      "title": "STAY",
+      "upc": "199935827469",
+      "status": "verified",
+      "coverId": "COV-038",
+      "coverPath": "assets/covers/by-release/cover-176.webp",
+      "sourcePath": "assets/covers/archive/cover-038.webp",
+      "sha256": "481784df72aba35910336aea19ab90e949acb9dc296a2a81fbb79f98c5eba34d",
+      "verification": {
+        "coverId": "COV-038",
+        "catalogId": "SNG-176",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-177",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-177-digital-release",
+      "title": "Syria-سوريا",
+      "upc": "199935071213",
+      "status": "verified",
+      "coverId": "COV-039",
+      "coverPath": "assets/covers/by-release/cover-177.webp",
+      "sourcePath": "assets/covers/archive/cover-039.webp",
+      "sha256": "d5e98cdf30bb76cc9a3b885425d9feacb448fc486b45ea1aff7ea1eebeb452f1",
+      "verification": {
+        "coverId": "COV-039",
+        "catalogId": "SNG-177",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-178",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-178-digital-release",
+      "title": "ПОПЛАЧЬ НА МОЕЙ ГРУДИ",
+      "upc": "821451719781",
+      "status": "verified",
+      "coverId": "COV-042",
+      "coverPath": "assets/covers/by-release/cover-178.webp",
+      "sourcePath": "assets/covers/archive/cover-042.webp",
+      "sha256": "1eca93c4bc1fa8d6c949b09aa8ab28129a2a8cb1940e190324e326e591952294",
+      "verification": {
+        "coverId": "COV-042",
+        "catalogId": "SNG-178",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-179",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-179-digital-release",
+      "title": "ЭТО МЕЛОЧИ",
+      "upc": "821451719811",
+      "status": "verified",
+      "coverId": "COV-041",
+      "coverPath": "assets/covers/by-release/cover-179.webp",
+      "sourcePath": "assets/covers/archive/cover-041.webp",
+      "sha256": "be1a219c933f9e98fe22baed776893fad269e69ac78fa794a3b7e87c64177c55",
+      "verification": {
+        "coverId": "COV-041",
+        "catalogId": "SNG-179",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-180",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-180-digital-release",
+      "title": "AFTER MIDNIGHT / INSTINCT MODE",
+      "upc": "821550870789",
+      "status": "verified",
+      "coverId": "COV-043",
+      "coverPath": "assets/covers/by-release/cover-180.webp",
+      "sourcePath": "assets/covers/archive/cover-043.webp",
+      "sha256": "365ccbfa6c308203e314bde9fe69999c250c93d4d8ddcc4291af5d7684543b61",
+      "verification": {
+        "coverId": "COV-043",
+        "catalogId": "SNG-180",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-181",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-181-digital-release",
+      "title": "ЧОМУ Я БЕЗ ДОМУ",
+      "upc": "821550100572",
+      "status": "verified",
+      "coverId": "COV-044",
+      "coverPath": "assets/covers/by-release/cover-181.webp",
+      "sourcePath": "assets/covers/archive/cover-044.webp",
+      "sha256": "510ecdfc36d26d6a504b2daed646aa06a5542f2e5b92f5c6d8bd533f21da9a23",
+      "verification": {
+        "coverId": "COV-044",
+        "catalogId": "SNG-181",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-182",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-182-digital-release",
+      "title": "DICTATOR MODE",
+      "upc": "821530772225",
+      "status": "needs-review",
+      "coverId": null,
+      "coverPath": null,
+      "sourcePath": null,
+      "sha256": null,
+      "verification": {
+        "note": "No verified cover association; do not infer from file order."
+      }
+    },
+    {
+      "catalogId": "SNG-183",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-183-digital-release",
+      "title": "I'M HUNGRY",
+      "upc": "821530774205",
+      "status": "verified",
+      "coverId": "COV-045",
+      "coverPath": "assets/covers/by-release/cover-183.webp",
+      "sourcePath": "assets/covers/archive/cover-045.webp",
+      "sha256": "609a4ffe0deb6581823cb49019d3dca67975eb430994e9f9fe9757d10c711f3b",
+      "verification": {
+        "coverId": "COV-045",
+        "catalogId": "SNG-183",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-184",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-184-digital-release",
+      "title": "Тарраф продакшинс поздравляет с Новым Годом",
+      "upc": "199934754469",
+      "status": "verified",
+      "coverId": "COV-040",
+      "coverPath": "assets/covers/by-release/cover-184.webp",
+      "sourcePath": "assets/covers/archive/cover-040.webp",
+      "sha256": "a28a3479ec95dbc2c7ef095964ddc5c6a04d108ec1e0e12424d67613fd195b28",
+      "verification": {
+        "coverId": "COV-040",
+        "catalogId": "SNG-184",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-185",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-185-digital-release",
+      "title": "TARRAF LIVE SHOW (Live)",
+      "upc": "821473229817",
+      "status": "verified",
+      "coverId": "COV-273",
+      "coverPath": "assets/covers/by-release/cover-185.webp",
+      "sourcePath": "assets/covers/archive/cover-273.webp",
+      "sha256": "3d9eb65ea385d656d662b52c17b3b5b7281e40cd9baf65971e32f6c9c4cd7700",
+      "verification": {
+        "coverId": "COV-273",
+        "catalogId": "SNG-185",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-186",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-186-digital-release",
+      "title": "THE END",
+      "upc": "821473216367",
+      "status": "verified",
+      "coverId": "COV-077",
+      "coverPath": "assets/covers/by-release/cover-186.webp",
+      "sourcePath": "assets/covers/archive/cover-077.webp",
+      "sha256": "043c5740a80e03fdc02bf560e24252f1187f8a88144bf9f498d47509baaff27c",
+      "verification": {
+        "coverId": "COV-077",
+        "catalogId": "SNG-186",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-187",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-187-digital-release",
+      "title": "GOODBYE",
+      "upc": "821460245240",
+      "status": "verified",
+      "coverId": "COV-087",
+      "coverPath": "assets/covers/by-release/cover-187.webp",
+      "sourcePath": "assets/covers/archive/cover-087.webp",
+      "sha256": "fb52a2fef4074c4275fecd9ca738af9d73783f78b9f9f88a6ecc33ea46495636",
+      "verification": {
+        "coverId": "COV-087",
+        "catalogId": "SNG-187",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-188",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-188-digital-release",
+      "title": "Не продавай себя",
+      "upc": "821317236131",
+      "status": "verified",
+      "coverId": "COV-103",
+      "coverPath": "assets/covers/by-release/cover-188.webp",
+      "sourcePath": "assets/covers/archive/cover-103.webp",
+      "sha256": "5e30320c229fcc3b79406026f90bb1e98fac35d416b29d65bb85e1277519ed4c",
+      "verification": {
+        "coverId": "COV-103",
+        "catalogId": "SNG-188",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-189",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-189-digital-release",
+      "title": "Continuity / Мы- Переход [Manifesto]",
+      "upc": "821300929286",
+      "status": "verified",
+      "coverId": "COV-104",
+      "coverPath": "assets/covers/by-release/cover-189.webp",
+      "sourcePath": "assets/covers/archive/cover-104.webp",
+      "sha256": "2e7a2d7677caf2154aead10654a69702e745fbc4f605e77a6a689c23233efb9f",
+      "verification": {
+        "coverId": "COV-104",
+        "catalogId": "SNG-189",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-190",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-190-digital-release",
+      "title": "Детская боль",
+      "upc": "825715730314",
+      "status": "verified",
+      "coverId": "COV-113",
+      "coverPath": "assets/covers/by-release/cover-190.webp",
+      "sourcePath": "assets/covers/archive/cover-113.webp",
+      "sha256": "9d6fa23048675779f8d702e559228faf45ddba050055b0982592af1d150a4ef6",
+      "verification": {
+        "coverId": "COV-113",
+        "catalogId": "SNG-190",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-191",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-191-digital-release",
+      "title": "Я не став поганим",
+      "upc": "825626325975",
+      "status": "verified",
+      "coverId": "COV-119",
+      "coverPath": "assets/covers/by-release/cover-191.webp",
+      "sourcePath": "assets/covers/archive/cover-119.webp",
+      "sha256": "35ae1bf88be4b03ea48cef04e543926c3f58b57c6004f1464283d59b19d24a5d",
+      "verification": {
+        "coverId": "COV-119",
+        "catalogId": "SNG-191",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-192",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-192-digital-release",
+      "title": "Bèsame, Ya habibi",
+      "upc": "825626671508",
+      "status": "verified",
+      "coverId": "COV-114",
+      "coverPath": "assets/covers/by-release/cover-192.webp",
+      "sourcePath": "assets/covers/archive/cover-114.webp",
+      "sha256": "e01683a580797e503e2a3567331d11ca7bd4d15d8cb5bd6cd96e04a0e42cfbd2",
+      "verification": {
+        "coverId": "COV-114",
+        "catalogId": "SNG-192",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-193",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-193-digital-release",
+      "title": "Ignis in me",
+      "upc": "825583082898",
+      "status": "verified",
+      "coverId": "COV-120",
+      "coverPath": "assets/covers/by-release/cover-193.webp",
+      "sourcePath": "assets/covers/archive/cover-120.webp",
+      "sha256": "b4f5c992ebca71df07680bf09a5648c3d330479831d2df12fe376292351cc30d",
+      "verification": {
+        "coverId": "COV-120",
+        "catalogId": "SNG-193",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-194",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-194-digital-release",
+      "title": "Буллинг",
+      "upc": "825583066386",
+      "status": "verified",
+      "coverId": "COV-121",
+      "coverPath": "assets/covers/by-release/cover-194.webp",
+      "sourcePath": "assets/covers/archive/cover-121.webp",
+      "sha256": "831c0c20628d15983134dc275b1dc0ae7722d344e3cce03199f42e28190bdc62",
+      "verification": {
+        "coverId": "COV-121",
+        "catalogId": "SNG-194",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-195",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-195-digital-release",
+      "title": "Más Cerca / Closer [PART II]",
+      "upc": "825628112610",
+      "status": "verified",
+      "coverId": "COV-165",
+      "coverPath": "assets/covers/by-release/cover-195.webp",
+      "sourcePath": "assets/covers/archive/cover-165.webp",
+      "sha256": "3d2a0917f3ae47f6f0b27b149ab18a54b88116f627e47a15dbcaad52c5f72118",
+      "verification": {
+        "coverId": "COV-165",
+        "catalogId": "SNG-195",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-196",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-196-digital-release",
+      "title": "Позвони родителям",
+      "upc": "825484105085",
+      "status": "verified",
+      "coverId": "COV-126",
+      "coverPath": "assets/covers/by-release/cover-196.webp",
+      "sourcePath": "assets/covers/archive/cover-126.webp",
+      "sha256": "381a769cdd2edb2460ff6595b161402fcb3ef1282dc8770f2c52fce588a84f44",
+      "verification": {
+        "coverId": "COV-126",
+        "catalogId": "SNG-196",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-197",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-197-digital-release",
+      "title": "Desert Dominus",
+      "upc": "825484097878",
+      "status": "verified",
+      "coverId": "COV-075",
+      "coverPath": "assets/covers/by-release/cover-197.webp",
+      "sourcePath": "assets/covers/archive/cover-075.webp",
+      "sha256": "2c8b57e5b5df0ad5543834d683c7bb356ffb743e5a1b0fd27e559b1d94f6840f",
+      "verification": {
+        "coverId": "COV-075",
+        "catalogId": "SNG-197",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-198",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-198-digital-release",
+      "title": "Ой, не спи",
+      "upc": "825484093344",
+      "status": "verified",
+      "coverId": "COV-125",
+      "coverPath": "assets/covers/by-release/cover-198.webp",
+      "sourcePath": "assets/covers/archive/cover-125.webp",
+      "sha256": "f36f6a687d9fea072fcbfeedb386151b68d43fac36296af9bbc51c7040f2703f",
+      "verification": {
+        "coverId": "COV-125",
+        "catalogId": "SNG-198",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-199",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-199-digital-release",
+      "title": "Переплавленный",
+      "upc": "825353086262",
+      "status": "verified",
+      "coverId": "COV-128",
+      "coverPath": "assets/covers/by-release/cover-199.webp",
+      "sourcePath": "assets/covers/archive/cover-128.webp",
+      "sha256": "7c4475748b727f7e7f3322cbb9fd7d4b0e48e85048f85edc40c31ddc86bec8d5",
+      "verification": {
+        "coverId": "COV-128",
+        "catalogId": "SNG-199",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-200",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-200-digital-release",
+      "title": "Fuego",
+      "upc": "825353054346",
+      "status": "verified",
+      "coverId": "COV-132",
+      "coverPath": "assets/covers/by-release/cover-200.webp",
+      "sourcePath": "assets/covers/archive/cover-132.webp",
+      "sha256": "1ea777fe698d7af0a2b89ac2bee4304edd3e1dce34c59c4e452edd74856782e8",
+      "verification": {
+        "coverId": "COV-132",
+        "catalogId": "SNG-200",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-201",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-201-digital-release",
+      "title": "VELCARON — LUX IN TENEBRIS [Dark Ritual]",
+      "upc": "825393870173",
+      "status": "verified",
+      "coverId": "COV-127",
+      "coverPath": "assets/covers/by-release/cover-201.webp",
+      "sourcePath": "assets/covers/archive/cover-127.webp",
+      "sha256": "bb94db7e5c09238a28351af3e47ffa636544da104a1773bf6b834153e66490db",
+      "verification": {
+        "coverId": "COV-127",
+        "catalogId": "SNG-201",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-202",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-202-digital-release",
+      "title": "Bullying [TARRAF CARTOON]",
+      "upc": "825353078342",
+      "status": "verified",
+      "coverId": "COV-129",
+      "coverPath": "assets/covers/by-release/cover-202.webp",
+      "sourcePath": "assets/covers/archive/cover-129.webp",
+      "sha256": "abb6394bd83d6d8100d50e26bfb8e7718b6a6c4495b01ba3d6ba00e7994ce001",
+      "verification": {
+        "coverId": "COV-129",
+        "catalogId": "SNG-202",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-203",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-203-digital-release",
+      "title": "Комар",
+      "upc": "825393904656",
+      "status": "verified",
+      "coverId": "COV-076",
+      "coverPath": "assets/covers/by-release/cover-203.webp",
+      "sourcePath": "assets/covers/archive/cover-076.webp",
+      "sha256": "685f1e4f1a40f5d9f814932379b62d21a9f57bad6b5562715a1d0d459443d577",
+      "verification": {
+        "coverId": "COV-076",
+        "catalogId": "SNG-203",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-204",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-204-digital-release",
+      "title": "Пробка [TARRAF CARTOON]",
+      "upc": "825324142805",
+      "status": "verified",
+      "coverId": "COV-131",
+      "coverPath": "assets/covers/by-release/cover-204.webp",
+      "sourcePath": "assets/covers/archive/cover-131.webp",
+      "sha256": "5432bc747d7b0126a94abebcb3d72a14b635a6ebec86c638f5e5e41579114eb6",
+      "verification": {
+        "coverId": "COV-131",
+        "catalogId": "SNG-204",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-205",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-205-digital-release",
+      "title": "دربي — Путь Истины",
+      "upc": "825293507599",
+      "status": "verified",
+      "coverId": "COV-089",
+      "coverPath": "assets/covers/by-release/cover-205.webp",
+      "sourcePath": "assets/covers/archive/cover-089.webp",
+      "sha256": "5754e2f3e776f7388e11c3f2101a2f0a83c225234618e6b6b876cf93f19388a2",
+      "verification": {
+        "coverId": "COV-089",
+        "catalogId": "SNG-205",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-206",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-206-digital-release",
+      "title": "Марина мій темний вогонь",
+      "upc": "825259307911",
+      "status": "verified",
+      "coverId": "COV-088",
+      "coverPath": "assets/covers/by-release/cover-206.webp",
+      "sourcePath": "assets/covers/archive/cover-088.webp",
+      "sha256": "14c7de74c011fa6151638ed25a520fb7ef3ac5ea5f8b882845d421256365a0ae",
+      "verification": {
+        "coverId": "COV-088",
+        "catalogId": "SNG-206",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-207",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-207-digital-release",
+      "title": "Відповідай мені",
+      "upc": "825259288326",
+      "status": "verified",
+      "coverId": "COV-090",
+      "coverPath": "assets/covers/by-release/cover-207.webp",
+      "sourcePath": "assets/covers/archive/cover-090.webp",
+      "sha256": "81a507a64bb8c4391087705fd7f57ca3a70d4aaa24f55ee181ed038f7d2c8226",
+      "verification": {
+        "coverId": "COV-090",
+        "catalogId": "SNG-207",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-208",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-208-digital-release",
+      "title": "البوميرانغ",
+      "upc": "825233033034",
+      "status": "verified",
+      "coverId": "COV-112",
+      "coverPath": "assets/covers/by-release/cover-208.webp",
+      "sourcePath": "assets/covers/archive/cover-112.webp",
+      "sha256": "fba8ed8885c30e6b2a5a9acca0cbf5422bcc11dcb7dc4fa7ad7d9f4d29b3ce2c",
+      "verification": {
+        "coverId": "COV-112",
+        "catalogId": "SNG-208",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-209",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-209-digital-release",
+      "title": "Born for more - Рождены для большего [LIVE]",
+      "upc": "825254965307",
+      "status": "verified",
+      "coverId": "COV-092",
+      "coverPath": "assets/covers/by-release/cover-209.webp",
+      "sourcePath": "assets/covers/archive/cover-092.webp",
+      "sha256": "0bbf423c690a95492ce4ce83e6715e80fe40c34a2e3559298b258316cc34f0b5",
+      "verification": {
+        "coverId": "COV-092",
+        "catalogId": "SNG-209",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-210",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-210-digital-release",
+      "title": "Inside",
+      "upc": "825233680368",
+      "status": "needs-review",
+      "coverId": null,
+      "coverPath": null,
+      "sourcePath": null,
+      "sha256": null,
+      "verification": {
+        "note": "No verified cover association; do not infer from file order."
+      }
+    },
+    {
+      "catalogId": "SNG-211",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-211-digital-release",
+      "title": "يا روح لا تبكي - We are guests [TARRAF LIVE SHOW]",
+      "upc": "882000177995",
+      "status": "verified",
+      "coverId": "COV-217",
+      "coverPath": "assets/covers/by-release/cover-211.webp",
+      "sourcePath": "assets/covers/archive/cover-217.webp",
+      "sha256": "5889106bb48bae31669ded4a32d0f9127f93d6ee9905c041b57746a465b8fe75",
+      "verification": {
+        "coverId": "COV-217",
+        "catalogId": "SNG-211",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-212",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-212-digital-release",
+      "title": "Курочка ряба [TARRAF CARTOON]",
+      "upc": "825233594627",
+      "status": "verified",
+      "coverId": "COV-247",
+      "coverPath": "assets/covers/by-release/cover-212.webp",
+      "sourcePath": "assets/covers/archive/cover-247.webp",
+      "sha256": "f2ccc501acb65771336d2a5d040492d0f54d05d5262cf2d1b52f1fb787741aca",
+      "verification": {
+        "coverId": "COV-247",
+        "catalogId": "SNG-212",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-213",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-213-digital-release",
+      "title": "أيام - Of Fire",
+      "upc": "883071618028",
+      "status": "verified",
+      "coverId": "COV-142",
+      "coverPath": "assets/covers/by-release/cover-213.webp",
+      "sourcePath": "assets/covers/archive/cover-142.webp",
+      "sha256": "16a0076dde408adaecd9b8221d45cf6edbd9037fcfa01c8466e339384014f347",
+      "verification": {
+        "coverId": "COV-142",
+        "catalogId": "SNG-213",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-214",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-214-digital-release",
+      "title": "Epic Evolution Music (Live Studio Session)",
+      "upc": "825192166156",
+      "status": "verified",
+      "coverId": "COV-134",
+      "coverPath": "assets/covers/by-release/cover-214.webp",
+      "sourcePath": "assets/covers/archive/cover-134.webp",
+      "sha256": "c673c50b935a4f8d28aaa2206a665ae8d5192c35d6342fec9c6c131f5a17c7fe",
+      "verification": {
+        "coverId": "COV-134",
+        "catalogId": "SNG-214",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-215",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-215-digital-release",
+      "title": "Still Yours (LIVE)",
+      "upc": "883369720266",
+      "status": "verified",
+      "coverId": "COV-135",
+      "coverPath": "assets/covers/by-release/cover-215.webp",
+      "sourcePath": "assets/covers/archive/cover-135.webp",
+      "sha256": "2b9b7002860b3f53550ca3a43b2d519946c21579a6eab7c6c38ab7410786db81",
+      "verification": {
+        "coverId": "COV-135",
+        "catalogId": "SNG-215",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-216",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-216-digital-release",
+      "title": "APOCALYPSES",
+      "upc": "199736865578",
+      "status": "verified",
+      "coverId": "COV-261",
+      "coverPath": "assets/covers/by-release/cover-216.webp",
+      "sourcePath": "assets/covers/archive/cover-261.webp",
+      "sha256": "94707e378d0c4a33fd5aa6c95673bc28945768405ec376e45e3acde42ebb976e",
+      "verification": {
+        "coverId": "COV-261",
+        "catalogId": "SNG-216",
+        "method": "visual-title-and-owner-title-history-match",
+        "referencePath": "docs/distrokid-reconciliation-2026-09-07.md",
+        "note": "Owner evidence records the renamed Russian APOCALYPSES version, distinct from deleted historical APOCALYPSE identifiers."
+      }
+    },
+    {
+      "catalogId": "SNG-217",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-217-digital-release",
+      "title": "My Heart Says Goodbye",
+      "upc": "881864059270",
+      "status": "verified",
+      "coverId": "COV-143",
+      "coverPath": "assets/covers/by-release/cover-217.webp",
+      "sourcePath": "assets/covers/archive/cover-143.webp",
+      "sha256": "a3d07ce3b871743d784b93b7d61196fbc731702e5d195865f6fe7aec394ec08d",
+      "verification": {
+        "coverId": "COV-143",
+        "catalogId": "SNG-217",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-218",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-218-digital-release",
+      "title": "Jordan - الأرض المقدسة",
+      "upc": "882436167232",
+      "status": "verified",
+      "coverId": "COV-160",
+      "coverPath": "assets/covers/by-release/cover-218.webp",
+      "sourcePath": "assets/covers/archive/cover-160.webp",
+      "sha256": "9b767dcd055feff0b78ac22f96282cdb8986e9d744aa050673ea1771a079c31d",
+      "verification": {
+        "coverId": "COV-160",
+        "catalogId": "SNG-218",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-219",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-219-digital-release",
+      "title": "Bite the light (Studio Live Session)",
+      "upc": "825254977096",
+      "status": "verified",
+      "coverId": "COV-091",
+      "coverPath": "assets/covers/by-release/cover-219.webp",
+      "sourcePath": "assets/covers/archive/cover-091.webp",
+      "sha256": "dbae75bf6770993259a523487305572dd67563e70030f87ef2d46de12e6e5b76",
+      "verification": {
+        "coverId": "COV-091",
+        "catalogId": "SNG-219",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-220",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-220-digital-release",
+      "title": "Pick It Up",
+      "upc": "825293554333",
+      "status": "verified",
+      "coverId": "COV-162",
+      "coverPath": "assets/covers/by-release/cover-220.webp",
+      "sourcePath": "assets/covers/archive/cover-162.webp",
+      "sha256": "43b6237de7d3009f05b948090a27ecc1eea751d5ab88757f4d3fc8dc2f151246",
+      "verification": {
+        "coverId": "COV-162",
+        "catalogId": "SNG-220",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-221",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-221-digital-release",
+      "title": "Живая",
+      "upc": "825353069494",
+      "status": "verified",
+      "coverId": "COV-130",
+      "coverPath": "assets/covers/by-release/cover-221.webp",
+      "sourcePath": "assets/covers/archive/cover-130.webp",
+      "sha256": "604091fb52ebd52668621178aef72e019682630abf1555efe007c12613d1ab04",
+      "verification": {
+        "coverId": "COV-130",
+        "catalogId": "SNG-221",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-222",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-222-digital-release",
+      "title": "Удаляй меня",
+      "upc": "825500873585",
+      "status": "verified",
+      "coverId": "COV-124",
+      "coverPath": "assets/covers/by-release/cover-222.webp",
+      "sourcePath": "assets/covers/archive/cover-124.webp",
+      "sha256": "c67eccf1ee73d2d08a7900c412181cf417bda39a32afa4da48ec8d69dcbf0d55",
+      "verification": {
+        "coverId": "COV-124",
+        "catalogId": "SNG-222",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-223",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-223-digital-release",
+      "title": "Не звони мне",
+      "upc": "825500876043",
+      "status": "verified",
+      "coverId": "COV-123",
+      "coverPath": "assets/covers/by-release/cover-223.webp",
+      "sourcePath": "assets/covers/archive/cover-123.webp",
+      "sha256": "dd39a2b6eddbd1802c05538f80b71a0fbf841644ad63093f9174cf2eef978e89",
+      "verification": {
+        "coverId": "COV-123",
+        "catalogId": "SNG-223",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-224",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-224-digital-release",
+      "title": "This is goodbye",
+      "upc": "825583038222",
+      "status": "verified",
+      "coverId": "COV-122",
+      "coverPath": "assets/covers/by-release/cover-224.webp",
+      "sourcePath": "assets/covers/archive/cover-122.webp",
+      "sha256": "8c8fe580e04ed6b0380ff7b077ba0aba68cc3aec432d23e293d955f7e42cc2d5",
+      "verification": {
+        "coverId": "COV-122",
+        "catalogId": "SNG-224",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-225",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-225-digital-release",
+      "title": "Хто ти тепер",
+      "upc": "825626537774",
+      "status": "verified",
+      "coverId": "COV-118",
+      "coverPath": "assets/covers/by-release/cover-225.webp",
+      "sourcePath": "assets/covers/archive/cover-118.webp",
+      "sha256": "cb23bc0f07d2aab4531257387f73b96588ed95870a8afdea8a4f4b5a15219296",
+      "verification": {
+        "coverId": "COV-118",
+        "catalogId": "SNG-225",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-226",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-226-digital-release",
+      "title": "NON STOP (Soundtrack)",
+      "upc": "825626650879",
+      "status": "verified",
+      "coverId": "COV-116",
+      "coverPath": "assets/covers/by-release/cover-226.webp",
+      "sourcePath": "assets/covers/archive/cover-116.webp",
+      "sha256": "209b7f49eee024028ff6a99c1c0ff146f4cc3d5a138522dece8a36ad461e911c",
+      "verification": {
+        "coverId": "COV-116",
+        "catalogId": "SNG-226",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-227",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-227-digital-release",
+      "title": "EPIC MODE",
+      "upc": "825626657786",
+      "status": "verified",
+      "coverId": "COV-117",
+      "coverPath": "assets/covers/by-release/cover-227.webp",
+      "sourcePath": "assets/covers/archive/cover-117.webp",
+      "sha256": "629f48e67eaf018da7739ede9825ff11200bdee87bad130172e6a06d2bde191d",
+      "verification": {
+        "coverId": "COV-117",
+        "catalogId": "SNG-227",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-228",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-228-digital-release",
+      "title": "Разлом (Soundtrack)",
+      "upc": "825626696211",
+      "status": "verified",
+      "coverId": "COV-115",
+      "coverPath": "assets/covers/by-release/cover-228.webp",
+      "sourcePath": "assets/covers/archive/cover-115.webp",
+      "sha256": "92ac5f06574594cfb6e54e1f0b4048852c6a535dfa941142b4688e877567248a",
+      "verification": {
+        "coverId": "COV-115",
+        "catalogId": "SNG-228",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-229",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-229-digital-release",
+      "title": "18+",
+      "upc": "825628100518",
+      "status": "verified",
+      "coverId": "COV-167",
+      "coverPath": "assets/covers/by-release/cover-229.webp",
+      "sourcePath": "assets/covers/archive/cover-167.webp",
+      "sha256": "05f6176937f430caa70ca0b626162ddffbac74b78c816f7b60c0efdc7a40c0f5",
+      "verification": {
+        "coverId": "COV-167",
+        "catalogId": "SNG-229",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-230",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-230-digital-release",
+      "title": "Школа жизни",
+      "upc": "825682070222",
+      "status": "verified",
+      "coverId": "COV-232",
+      "coverPath": "assets/covers/by-release/cover-230.webp",
+      "sourcePath": "assets/covers/archive/cover-232.webp",
+      "sha256": "6c93912804490960bd04e9ed2a28cea8a616b9cf82e045e191ad442ed93c7b67",
+      "verification": {
+        "coverId": "COV-232",
+        "catalogId": "SNG-230",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-231",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-231-digital-release",
+      "title": "I Will Always Love You",
+      "upc": "825758987270",
+      "status": "verified",
+      "coverId": "COV-111",
+      "coverPath": "assets/covers/by-release/cover-231.webp",
+      "sourcePath": "assets/covers/archive/cover-111.webp",
+      "sha256": "a470dd86651f632228ae29590e45ba58c55a239b204fc20ffd8f623476920f50",
+      "verification": {
+        "coverId": "COV-111",
+        "catalogId": "SNG-231",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-232",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-232-digital-release",
+      "title": "Aliana",
+      "upc": "821201623535",
+      "status": "verified",
+      "coverId": "COV-110",
+      "coverPath": "assets/covers/by-release/cover-232.webp",
+      "sourcePath": "assets/covers/archive/cover-110.webp",
+      "sha256": "951c15ab2c0ead3b507d61ce1fc8336fa4117cf0d8f5461648bbeee19ea9cffa",
+      "verification": {
+        "coverId": "COV-110",
+        "catalogId": "SNG-232",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-233",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-233-digital-release",
+      "title": "ОБРАТНЫЙ ОТСЧЁТ",
+      "upc": "821275786952",
+      "status": "verified",
+      "coverId": "COV-109",
+      "coverPath": "assets/covers/by-release/cover-233.webp",
+      "sourcePath": "assets/covers/archive/cover-109.webp",
+      "sha256": "842bda004931963d550450b8e2ed8d520c826825e776f9c564b916a754e7ff73",
+      "verification": {
+        "coverId": "COV-109",
+        "catalogId": "SNG-233",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-234",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-234-digital-release",
+      "title": "Coco Jamboo",
+      "upc": "821300139999",
+      "status": "verified",
+      "coverId": "COV-108",
+      "coverPath": "assets/covers/by-release/cover-234.webp",
+      "sourcePath": "assets/covers/archive/cover-108.webp",
+      "sha256": "22e431b6b2749cad3b2d24399a328bc766cfb535d6c33e475f91f8d338408481",
+      "verification": {
+        "coverId": "COV-108",
+        "catalogId": "SNG-234",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-235",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-235-digital-release",
+      "title": "ObaTar (Soundtrack)",
+      "upc": "821300143590",
+      "status": "verified",
+      "coverId": "COV-107",
+      "coverPath": "assets/covers/by-release/cover-235.webp",
+      "sourcePath": "assets/covers/archive/cover-107.webp",
+      "sha256": "5624f300086339875358ba8e018287f8ca83f0644a63fd4b3765a50f41eb224e",
+      "verification": {
+        "coverId": "COV-107",
+        "catalogId": "SNG-235",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-236",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-236-digital-release",
+      "title": "Не спрашивай потом",
+      "upc": "821300623306",
+      "status": "verified",
+      "coverId": "COV-106",
+      "coverPath": "assets/covers/by-release/cover-236.webp",
+      "sourcePath": "assets/covers/archive/cover-106.webp",
+      "sha256": "7eb57ae85855f5724305a2ea8bab0809782b16452565ed3e3b4f8167646c174b",
+      "verification": {
+        "coverId": "COV-106",
+        "catalogId": "SNG-236",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-237",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-237-digital-release",
+      "title": "Он рисует мир",
+      "upc": "821300919539",
+      "status": "verified",
+      "coverId": "COV-105",
+      "coverPath": "assets/covers/by-release/cover-237.webp",
+      "sourcePath": "assets/covers/archive/cover-105.webp",
+      "sha256": "2c9427026bfa4d8c16869682c5df3a262c5bc845a829eb6ec96f7fb0afd205b4",
+      "verification": {
+        "coverId": "COV-105",
+        "catalogId": "SNG-237",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-238",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-238-digital-release",
+      "title": "После 40",
+      "upc": "821406369436",
+      "status": "verified",
+      "coverId": "COV-102",
+      "coverPath": "assets/covers/by-release/cover-238.webp",
+      "sourcePath": "assets/covers/archive/cover-102.webp",
+      "sha256": "6e642698b9bd55b3ce36ef68b1b69db3fd9a4ecb8e518a03f9d5c57bfb65727a",
+      "verification": {
+        "coverId": "COV-102",
+        "catalogId": "SNG-238",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-239",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-239-digital-release",
+      "title": "OBARABO (الصحراء العجيبة)",
+      "upc": "821406526259",
+      "status": "verified",
+      "coverId": "COV-101",
+      "coverPath": "assets/covers/by-release/cover-239.webp",
+      "sourcePath": "assets/covers/archive/cover-101.webp",
+      "sha256": "30235479507c5525a141a55a374ffc2ef3096ce0483486dfb0fc7bb4a8ee48a6",
+      "verification": {
+        "coverId": "COV-101",
+        "catalogId": "SNG-239",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-240",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-240-digital-release",
+      "title": "Мой путь (LIVE)",
+      "upc": "821430004266",
+      "status": "needs-review",
+      "coverId": null,
+      "coverPath": null,
+      "sourcePath": null,
+      "sha256": null,
+      "verification": {
+        "note": "No verified cover association; do not infer from file order."
+      }
+    },
+    {
+      "catalogId": "SNG-241",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-241-digital-release",
+      "title": "OBARABO (DOMINÉ)",
+      "upc": "821430010977",
+      "status": "verified",
+      "coverId": "COV-098",
+      "coverPath": "assets/covers/by-release/cover-241.webp",
+      "sourcePath": "assets/covers/archive/cover-098.webp",
+      "sha256": "1ce83e435efa86eb31ef55cd166b09932a483a8b153d83661bfdd90c95ac39da",
+      "verification": {
+        "coverId": "COV-098",
+        "catalogId": "SNG-241",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-242",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-242-digital-release",
+      "title": "OBARABO (ANRA LUMÉ)",
+      "upc": "821430023823",
+      "status": "verified",
+      "coverId": "COV-097",
+      "coverPath": "assets/covers/by-release/cover-242.webp",
+      "sourcePath": "assets/covers/archive/cover-097.webp",
+      "sha256": "e5fdf6e4aa0f2f6c55f5708a6f7b5c92f2fba8cacdd7a54f039ca583208609cc",
+      "verification": {
+        "coverId": "COV-097",
+        "catalogId": "SNG-242",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-243",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-243-digital-release",
+      "title": "I Rise",
+      "upc": "821430038339",
+      "status": "verified",
+      "coverId": "COV-096",
+      "coverPath": "assets/covers/by-release/cover-243.webp",
+      "sourcePath": "assets/covers/archive/cover-096.webp",
+      "sha256": "439fc9be2eb3e9e87f36a0ef7de82d2220e6ab023f2c50f83068cc5474a8dbf9",
+      "verification": {
+        "coverId": "COV-096",
+        "catalogId": "SNG-243",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-244",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-244-digital-release",
+      "title": "Любовь",
+      "upc": "821430041100",
+      "status": "verified",
+      "coverId": "COV-100",
+      "coverPath": "assets/covers/by-release/cover-244.webp",
+      "sourcePath": "assets/covers/archive/cover-100.webp",
+      "sha256": "4080879fc806db845a3e62f5e9861209293c0d79a58f9799674360777adb97a4",
+      "verification": {
+        "coverId": "COV-100",
+        "catalogId": "SNG-244",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-245",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-245-digital-release",
+      "title": "La vita",
+      "upc": "821438386760",
+      "status": "verified",
+      "coverId": "COV-074",
+      "coverPath": "assets/covers/by-release/cover-245.webp",
+      "sourcePath": "assets/covers/archive/cover-074.webp",
+      "sha256": "07e7c0e6d35f9b9afaf41b2245da80ebba95e4e20b253e744f56bc61912b597d",
+      "verification": {
+        "coverId": "COV-074",
+        "catalogId": "SNG-245",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-246",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-246-digital-release",
+      "title": "Democrats",
+      "upc": "821438394826",
+      "status": "verified",
+      "coverId": "COV-095",
+      "coverPath": "assets/covers/by-release/cover-246.webp",
+      "sourcePath": "assets/covers/archive/cover-095.webp",
+      "sha256": "a993e4418ff3fe0787ff27a958fb6765c77f8daad33b58f14864c4b41a022017",
+      "verification": {
+        "coverId": "COV-095",
+        "catalogId": "SNG-246",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-247",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-247-digital-release",
+      "title": "Моё нутро",
+      "upc": "821438401593",
+      "status": "verified",
+      "coverId": "COV-214",
+      "coverPath": "assets/covers/by-release/cover-247.webp",
+      "sourcePath": "assets/covers/archive/cover-214.webp",
+      "sha256": "0e71154785bdc66c6bd145531328bc08faed062f873d3b748f537011b802b900",
+      "verification": {
+        "coverId": "COV-214",
+        "catalogId": "SNG-247",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-248",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-248-digital-release",
+      "title": "حبك مو لعبة",
+      "upc": "821438418959",
+      "status": "verified",
+      "coverId": "COV-094",
+      "coverPath": "assets/covers/by-release/cover-248.webp",
+      "sourcePath": "assets/covers/archive/cover-094.webp",
+      "sha256": "cde3199aabd4a0c30c4a2d7bfb11e25cd0eec345e4e0bdfc2d6539b876eb3b1d",
+      "verification": {
+        "coverId": "COV-094",
+        "catalogId": "SNG-248",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-249",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-249-digital-release",
+      "title": "Más Cerca / Closer",
+      "upc": "821438428491",
+      "status": "verified",
+      "coverId": "COV-073",
+      "coverPath": "assets/covers/by-release/cover-249.webp",
+      "sourcePath": "assets/covers/archive/cover-073.webp",
+      "sha256": "2470204e77295e8c76cead7be9a928bc2cc44eb7b7c9c02d48b838c4658d8339",
+      "verification": {
+        "coverId": "COV-073",
+        "catalogId": "SNG-249",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-250",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-250-digital-release",
+      "title": "الليلة مجنونة",
+      "upc": "821438443043",
+      "status": "verified",
+      "coverId": "COV-093",
+      "coverPath": "assets/covers/by-release/cover-250.webp",
+      "sourcePath": "assets/covers/archive/cover-093.webp",
+      "sha256": "9e8faeba3eb89be06a9aa1f68bdfc12f19946bb67134ef710c1d4f4861eb1d46",
+      "verification": {
+        "coverId": "COV-093",
+        "catalogId": "SNG-250",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-251",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-251-digital-release",
+      "title": "Tell me why",
+      "upc": "821438452847",
+      "status": "verified",
+      "coverId": "COV-072",
+      "coverPath": "assets/covers/by-release/cover-251.webp",
+      "sourcePath": "assets/covers/archive/cover-072.webp",
+      "sha256": "f8f7449e4c8963913ba92d4142e794ea9f232f0aa89d39db4c60be6739878c5b",
+      "verification": {
+        "coverId": "COV-072",
+        "catalogId": "SNG-251",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-252",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-252-digital-release",
+      "title": "Все хорошо (Live)",
+      "upc": "821440980352",
+      "status": "verified",
+      "coverId": "COV-201",
+      "coverPath": "assets/covers/by-release/cover-252.webp",
+      "sourcePath": "assets/covers/archive/cover-201.webp",
+      "sha256": "6a9c69eeff81a731310793a25b938bbeb96891af316c3574dae317da3f7c41a8",
+      "verification": {
+        "coverId": "COV-201",
+        "catalogId": "SNG-252",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-253",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-253-digital-release",
+      "title": "OBARAE (TARRAF RITUAL SONG)",
+      "upc": "821460277760",
+      "status": "verified",
+      "coverId": "COV-082",
+      "coverPath": "assets/covers/by-release/cover-253.webp",
+      "sourcePath": "assets/covers/archive/cover-082.webp",
+      "sha256": "fa7344efaa245dd10a91d9259bfdd3e58bfd049ada578c1ef10fdea80c82908d",
+      "verification": {
+        "coverId": "COV-082",
+        "catalogId": "SNG-253",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-254",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-254-digital-release",
+      "title": "OBARABO STI-ME (TARRAF RITUAL SONG)",
+      "upc": "821460278200",
+      "status": "verified",
+      "coverId": "COV-086",
+      "coverPath": "assets/covers/by-release/cover-254.webp",
+      "sourcePath": "assets/covers/archive/cover-086.webp",
+      "sha256": "2459e19cb8771dda939650174ca66a5a8bd702cb3185beeb0531c1f615e7ce9a",
+      "verification": {
+        "coverId": "COV-086",
+        "catalogId": "SNG-254",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-255",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-255-digital-release",
+      "title": "ParaDiseDox",
+      "upc": "821470289883",
+      "status": "verified",
+      "coverId": "COV-085",
+      "coverPath": "assets/covers/by-release/cover-255.webp",
+      "sourcePath": "assets/covers/archive/cover-085.webp",
+      "sha256": "972d2fd1e475cf494d4eb471a16539b8831bd771a34bd1630570f96c10427418",
+      "verification": {
+        "coverId": "COV-085",
+        "catalogId": "SNG-255",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-256",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-256-digital-release",
+      "title": "СРОК ИСТЁК",
+      "upc": "821470325635",
+      "status": "verified",
+      "coverId": "COV-084",
+      "coverPath": "assets/covers/by-release/cover-256.webp",
+      "sourcePath": "assets/covers/archive/cover-084.webp",
+      "sha256": "d10819815289c698f6e8c032a5375a43c87b16e8df6dcde20398bf71c9c877f5",
+      "verification": {
+        "coverId": "COV-084",
+        "catalogId": "SNG-256",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-257",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-257-digital-release",
+      "title": "AVE LUMEN AETERNUM (Ritual Song)",
+      "upc": "821470350026",
+      "status": "verified",
+      "coverId": "COV-083",
+      "coverPath": "assets/covers/by-release/cover-257.webp",
+      "sourcePath": "assets/covers/archive/cover-083.webp",
+      "sha256": "f0b05d3b8cbc47b439dddef8831ec7fde86a628ae1c4b105556ff27fdc09f9a3",
+      "verification": {
+        "coverId": "COV-083",
+        "catalogId": "SNG-257",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-258",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-258-digital-release",
+      "title": "Выбираю себя",
+      "upc": "821470729174",
+      "status": "verified",
+      "coverId": "COV-081",
+      "coverPath": "assets/covers/by-release/cover-258.webp",
+      "sourcePath": "assets/covers/archive/cover-081.webp",
+      "sha256": "1f6e7ec083c11975b95481b67c071cc2e31b6a8bd6774c6be22c691ea4ae1a3d",
+      "verification": {
+        "coverId": "COV-081",
+        "catalogId": "SNG-258",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-259",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-259-digital-release",
+      "title": "OBARABO (TARRAF RITUAL SONG )",
+      "upc": "821473122996",
+      "status": "verified",
+      "coverId": "COV-080",
+      "coverPath": "assets/covers/by-release/cover-259.webp",
+      "sourcePath": "assets/covers/archive/cover-080.webp",
+      "sha256": "9c62cb4049dfb5d3c47ccbdbd4e3dab26d25462470b001e694098f1d1223c73c",
+      "verification": {
+        "coverId": "COV-080",
+        "catalogId": "SNG-259",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-260",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-260-digital-release",
+      "title": "Жизнь не игра",
+      "upc": "821473147562",
+      "status": "verified",
+      "coverId": "COV-079",
+      "coverPath": "assets/covers/by-release/cover-260.webp",
+      "sourcePath": "assets/covers/archive/cover-079.webp",
+      "sha256": "0034fd8ab453aaa639ee83e7c9397a988918f78c2275a52f7ea9b58df66041bf",
+      "verification": {
+        "coverId": "COV-079",
+        "catalogId": "SNG-260",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-261",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-261-digital-release",
+      "title": "We are different",
+      "upc": "821473208997",
+      "status": "verified",
+      "coverId": "COV-078",
+      "coverPath": "assets/covers/by-release/cover-261.webp",
+      "sourcePath": "assets/covers/archive/cover-078.webp",
+      "sha256": "b7661f28b38d60e78a3123f9e6d3b394272ace11d0744812f2227cc9cceff4c7",
+      "verification": {
+        "coverId": "COV-078",
+        "catalogId": "SNG-261",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-262",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-262-digital-release",
+      "title": "ОСТАВЛЮ СЛЕД",
+      "upc": "821473224478",
+      "status": "verified",
+      "coverId": "COV-264",
+      "coverPath": "assets/covers/by-release/cover-262.webp",
+      "sourcePath": "assets/covers/archive/cover-264.webp",
+      "sha256": "1519650615a61e88fa18959046742e8307b2329520acc75a0f0f0699aa62735c",
+      "verification": {
+        "coverId": "COV-264",
+        "catalogId": "SNG-262",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-263",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-263-digital-release",
+      "title": "Still here ((TARRAF LIVE SHOW))",
+      "upc": "821473813634",
+      "status": "verified",
+      "coverId": "COV-270",
+      "coverPath": "assets/covers/by-release/cover-263.webp",
+      "sourcePath": "assets/covers/archive/cover-270.webp",
+      "sha256": "38ccf8cf014251bd4a774da2c032324c238f2c7a0c389c66d0b376c1efddc646",
+      "verification": {
+        "coverId": "COV-270",
+        "catalogId": "SNG-263",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-264",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-264-digital-release",
+      "title": "Good morning world",
+      "upc": "821473829871",
+      "status": "verified",
+      "coverId": "COV-233",
+      "coverPath": "assets/covers/by-release/cover-264.webp",
+      "sourcePath": "assets/covers/archive/cover-233.webp",
+      "sha256": "48bf8df2221b7bd2349301e03a71d4d72644519e38e776098fb4939b74f33b75",
+      "verification": {
+        "coverId": "COV-233",
+        "catalogId": "SNG-264",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-265",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-265-digital-release",
+      "title": "Detonate",
+      "upc": "821473835087",
+      "status": "verified",
+      "coverId": "COV-218",
+      "coverPath": "assets/covers/by-release/cover-265.webp",
+      "sourcePath": "assets/covers/archive/cover-218.webp",
+      "sha256": "8fcf582d36d7ead8f85f49bd955cd966e20fff289d5810a8aa1835053f784e20",
+      "verification": {
+        "coverId": "COV-218",
+        "catalogId": "SNG-265",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-266",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-266-digital-release",
+      "title": "МАРИНА",
+      "upc": "821473841729",
+      "status": "verified",
+      "coverId": "COV-052",
+      "coverPath": "assets/covers/by-release/cover-266.webp",
+      "sourcePath": "assets/covers/archive/cover-052.webp",
+      "sha256": "aeb81c39931a6457861c8c95ae1adc7e5089344f1d5964455fd605a38f0899b0",
+      "verification": {
+        "coverId": "COV-052",
+        "catalogId": "SNG-266",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-267",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-267-digital-release",
+      "title": "Страсть Боль Прощение",
+      "upc": "821473846700",
+      "status": "verified",
+      "coverId": "COV-263",
+      "coverPath": "assets/covers/by-release/cover-267.webp",
+      "sourcePath": "assets/covers/archive/cover-263.webp",
+      "sha256": "dc6dcf5b21c2503865b89cfa99386184c0a3090bb73d2bbf44ba5dac061385f4",
+      "verification": {
+        "coverId": "COV-263",
+        "catalogId": "SNG-267",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-268",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-268-digital-release",
+      "title": "Пока мы живы",
+      "upc": "821473850189",
+      "status": "verified",
+      "coverId": "COV-248",
+      "coverPath": "assets/covers/by-release/cover-268.webp",
+      "sourcePath": "assets/covers/archive/cover-248.webp",
+      "sha256": "97f8eaa7a4bc71a48c550e82b9321ccea4611efe3a3c78d885ac38670dd7028f",
+      "verification": {
+        "coverId": "COV-248",
+        "catalogId": "SNG-268",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-269",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-269-digital-release",
+      "title": "Я слышу тебя",
+      "upc": "821473856082",
+      "status": "verified",
+      "coverId": "COV-051",
+      "coverPath": "assets/covers/by-release/cover-269.webp",
+      "sourcePath": "assets/covers/archive/cover-051.webp",
+      "sha256": "cdd5f3100a0a441f0e55e28bc2132f90b0d868ba17070dbb96c70ad3b0592d4b",
+      "verification": {
+        "coverId": "COV-051",
+        "catalogId": "SNG-269",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-270",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-270-digital-release",
+      "title": "ЗА ЧТО",
+      "upc": "821473977428",
+      "status": "verified",
+      "coverId": "COV-197",
+      "coverPath": "assets/covers/by-release/cover-270.webp",
+      "sourcePath": "assets/covers/archive/cover-197.webp",
+      "sha256": "bd823fc122587485d76e97e6e7b38b3bb4211484c9fb583ca9bf680f950cc275",
+      "verification": {
+        "coverId": "COV-197",
+        "catalogId": "SNG-270",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-271",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-271-digital-release",
+      "title": "Детство ((New Version))",
+      "upc": "821500164579",
+      "status": "verified",
+      "coverId": "COV-070",
+      "coverPath": "assets/covers/by-release/cover-271.webp",
+      "sourcePath": "assets/covers/archive/cover-070.webp",
+      "sha256": "17a0ddfa9df768806f327025044ec38bfc438a93221e04578bfd0751708ffbb6",
+      "verification": {
+        "coverId": "COV-070",
+        "catalogId": "SNG-271",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-272",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-272-digital-release",
+      "title": "King's move",
+      "upc": "821500845171",
+      "status": "needs-review",
+      "coverId": null,
+      "coverPath": null,
+      "sourcePath": null,
+      "sha256": null,
+      "verification": {
+        "note": "No verified cover association; do not infer from file order."
+      }
+    },
+    {
+      "catalogId": "SNG-273",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-273-digital-release",
+      "title": "Смотри это Алик",
+      "upc": "821520484602",
+      "status": "verified",
+      "coverId": "COV-049",
+      "coverPath": "assets/covers/by-release/cover-273.webp",
+      "sourcePath": "assets/covers/archive/cover-049.webp",
+      "sha256": "5f7b147094a8bc52218bd7bdce9befef02dda0d68f371a71ec7959aab3b8e102",
+      "verification": {
+        "coverId": "COV-049",
+        "catalogId": "SNG-273",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-274",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-274-digital-release",
+      "title": "Life is not a game",
+      "upc": "821520512831",
+      "status": "verified",
+      "coverId": "COV-048",
+      "coverPath": "assets/covers/by-release/cover-274.webp",
+      "sourcePath": "assets/covers/archive/cover-048.webp",
+      "sha256": "f47cf034900776f3c45d19a04b1382087098c03a7b1e88012e27bb790b61d2b4",
+      "verification": {
+        "coverId": "COV-048",
+        "catalogId": "SNG-274",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "SNG-275",
+      "releaseId": "https://aliktarraf.com/#catalog-sng-275-digital-release",
+      "title": "Огонь в крови",
+      "upc": "821526627324",
+      "status": "verified",
+      "coverId": "COV-047",
+      "coverPath": "assets/covers/by-release/cover-275.webp",
+      "sourcePath": "assets/covers/archive/cover-047.webp",
+      "sha256": "c78f3f8c27d7c2f3943a57cc860e64023ad274ef22d64ec9b5beb7514d63e4ca",
+      "verification": {
+        "coverId": "COV-047",
+        "catalogId": "SNG-275",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "LIVE-I",
+      "releaseId": "https://aliktarraf.com/#tarraf-productions-live-vol-i-digital-release",
+      "title": "Tarraf Productions Live, Vol. I: The Opening",
+      "upc": "882614979497",
+      "status": "verified",
+      "coverId": "COV-136",
+      "coverPath": "assets/covers/by-release/live-vol-i.webp",
+      "sourcePath": "assets/covers/archive/cover-136.webp",
+      "sha256": "863029b7c084a5ccd3b3c58fd9d6704fb9eef9bfb9224cca766c980e5fb5c39f",
+      "verification": {
+        "coverId": "COV-136",
+        "catalogId": "LIVE-I",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "LIVE-II",
+      "releaseId": "https://aliktarraf.com/#tarraf-productions-live-vol-ii-digital-release",
+      "title": "Tarraf Productions Live, Vol. II: The Fire",
+      "upc": "882197185506",
+      "status": "verified",
+      "coverId": "COV-071",
+      "coverPath": "assets/covers/by-release/live-vol-ii.webp",
+      "sourcePath": "assets/covers/archive/cover-071.webp",
+      "sha256": "f6e943a8e3702fd22a1bf5ed880e1d5e003c815cebbacc1804bf98f6c69030ef",
+      "verification": {
+        "coverId": "COV-071",
+        "catalogId": "LIVE-II",
+        "method": "visual-title-and-version-match"
+      }
+    },
+    {
+      "catalogId": "LIVE-III",
+      "releaseId": "https://aliktarraf.com/#tarraf-productions-live-vol-iii-digital-release",
+      "title": "Tarraf Productions Live, Vol. III: The Encore",
+      "upc": "882321270177",
+      "status": "verified",
+      "coverId": "COV-279",
+      "coverPath": "assets/covers/by-release/live-vol-iii.webp",
+      "sourcePath": "assets/covers/archive/cover-279.webp",
+      "sha256": "e179ebd17e09dede3d9755d0585bf57f81965ae6591d38ae890550aa91dd2534",
+      "verification": {
+        "coverId": "COV-279",
+        "catalogId": "LIVE-III",
+        "method": "visual-title-and-version-match"
+      }
+    }
+  ],
+  "unassignedCovers": [
+    {
+      "coverId": "COV-019",
+      "status": "duplicate",
+      "note": "Побайтовый дубликат COV-018: Жизнь это Ринг (SNG-154)."
+    },
+    {
+      "coverId": "COV-046",
+      "status": "needs-review",
+      "note": "Название песни на обложке не указано: Алик и Марина в белом."
+    },
+    {
+      "coverId": "COV-050",
+      "status": "needs-review",
+      "note": "Название песни не указано: Алик в чёрной куртке, надпись TARRAF PRODUCTIONS."
+    },
+    {
+      "coverId": "COV-099",
+      "status": "needs-review",
+      "note": "Есть пометка VIP LIVE, но название песни не указано."
+    },
+    {
+      "coverId": "COV-133",
+      "status": "needs-review",
+      "note": "На обложке написано Insaid; в реестре есть Inside (SNG-210). Нужно подтвердить соответствие."
+    },
+    {
+      "coverId": "COV-159",
+      "status": "alternate-artwork",
+      "note": "Второй файл обложки Колючий, но родной (SNG-146); основным выбран COV-010."
+    },
+    {
+      "coverId": "COV-170",
+      "status": "needs-review",
+      "note": "Портрет Марины у водопада; название песни не указано."
+    },
+    {
+      "coverId": "COV-171",
+      "status": "needs-review",
+      "note": "Алик в помещении у окна; название песни не указано."
+    },
+    {
+      "coverId": "COV-186",
+      "status": "alternate-artwork",
+      "note": "Второй вариант Просто (remix), SNG-028; основным выбран COV-034. Не назначен обычному PROSTO."
+    },
+    {
+      "coverId": "COV-188",
+      "status": "needs-review",
+      "note": "Алик и Марина, короны и сценическая композиция; название песни не указано."
+    },
+    {
+      "coverId": "COV-211",
+      "status": "needs-review",
+      "note": "Алик поёт на сцене при фиолетовом свете; название песни не указано."
+    },
+    {
+      "coverId": "COV-212",
+      "status": "needs-review",
+      "note": "Тёмная иллюстрация с медведем; название песни не указано."
+    },
+    {
+      "coverId": "COV-225",
+      "status": "alternate-artwork",
+      "note": "Второй файл обложки Мама (SNG-102); основным выбран COV-157."
+    },
+    {
+      "coverId": "COV-228",
+      "status": "needs-review",
+      "note": "Алик в наушниках у микрофона; название песни не указано."
+    },
+    {
+      "coverId": "COV-230",
+      "status": "needs-review",
+      "note": "На обложке Смысл жизни (live). Требуется подтвердить использование для SNG-078 или отдельного live-релиза."
+    }
+  ]
+}
