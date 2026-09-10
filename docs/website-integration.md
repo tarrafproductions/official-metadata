@@ -94,6 +94,25 @@ pre-rendered HTML with HTTP 200.
 The general Netlify fallback may still serve application-only routes, but it
 must not replace the pre-rendered entity pages with one shared `index.html`.
 
+## Release artwork
+
+For a reviewed snapshot containing the artwork mapping, import
+[`assets/covers/release-map.json`](../assets/covers/release-map.json) at build time.
+Join its `releases` entries to the catalog by `catalogId`, `releaseId` or UPC.
+Resolve `coverPath` relative to that same pinned snapshot and copy the referenced
+files into the website build. This addition does not change the existing
+`v1.0.0` snapshot; adopting the new artwork requires updating the reviewed pin.
+
+For verified singles, `assets/covers/by-release/cover-004.webp` corresponds to
+`SNG-004`. Archive filenames identify source files and use a different order.
+Use a placeholder for `status: "needs-review"` with `coverPath: null`; do not
+construct an artwork URL from an ID without checking the mapping.
+
+The [mapping table](cover-mapping.md) and [review record](cover-review-needed.md)
+show complete coverage of all 278 release products. Run
+`python3 .github/scripts/build_cover_mapping.py --check --require-complete`
+to validate the mapping and require artwork for every release. CI enforces this gate.
+
 ## Release gate
 
 Before a production deployment, verify the Netlify Deploy Preview by checking:

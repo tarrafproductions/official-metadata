@@ -1,0 +1,1481 @@
+{
+  "schemaVersion": 1,
+  "reviewedOn": "2026-09-10",
+  "reviewedBy": "Codex visual review; owner-confirmed entries explicitly attributed to Alik Tarraf.",
+  "sourceCommit": "e52af4712ee3470d6c07616d6c0643fbee2915f5",
+  "methodology": "Every supplied archive image was visually inspected. Explicit artwork titles and versions were matched to the canonical register; selected ambiguous artwork was compared with the linked Apple Music pages. Unresolved cases are not assigned by ordinal position or elimination. On 2026-09-10, catalog owner Alik Tarraf supplied explicit cover-to-title associations for all 11 previously ambiguous archive images; those entries are separately marked catalog-owner-confirmation. The owner subsequently supplied three additional images for SNG-015, SNG-074 and SNG-158 on 2026-09-10. They were appended as COV-280 to COV-282 and converted to lossless WebP with identical decoded RGB pixels, completing all 278 release associations.",
+  "matches": [
+    {
+      "coverId": "COV-001",
+      "catalogId": "SNG-006",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-002",
+      "catalogId": "SNG-024",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-003",
+      "catalogId": "SNG-003",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-004",
+      "catalogId": "SNG-020",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-005",
+      "catalogId": "SNG-021",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-006",
+      "catalogId": "SNG-026",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-007",
+      "catalogId": "SNG-018",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-008",
+      "catalogId": "SNG-027",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-009",
+      "catalogId": "SNG-022",
+      "method": "apple-music-visible-artwork-match",
+      "referenceUrl": "https://music.apple.com/ua/album/%D0%BA%D0%B0%D1%87%D0%B5%D0%BB%D0%B8-remix/1835170700?i=1835171001",
+      "referenceIsrc": "QZZ792578839"
+    },
+    {
+      "coverId": "COV-010",
+      "catalogId": "SNG-146",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-011",
+      "catalogId": "SNG-148",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-012",
+      "catalogId": "SNG-147",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-013",
+      "catalogId": "SNG-149",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-014",
+      "catalogId": "SNG-150",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-015",
+      "catalogId": "SNG-152",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-016",
+      "catalogId": "SNG-153",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-017",
+      "catalogId": "SNG-163",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-018",
+      "catalogId": "SNG-154",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-020",
+      "catalogId": "SNG-155",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-021",
+      "catalogId": "SNG-165",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-022",
+      "catalogId": "SNG-157",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-023",
+      "catalogId": "SNG-156",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-024",
+      "catalogId": "SNG-159",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-025",
+      "catalogId": "SNG-160",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-026",
+      "catalogId": "SNG-171",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-027",
+      "catalogId": "SNG-175",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-028",
+      "catalogId": "SNG-170",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-029",
+      "catalogId": "SNG-004",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-030",
+      "catalogId": "SNG-002",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-031",
+      "catalogId": "SNG-014",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-032",
+      "catalogId": "SNG-017",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-033",
+      "catalogId": "SNG-013",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-034",
+      "catalogId": "SNG-028",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-035",
+      "catalogId": "SNG-172",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-036",
+      "catalogId": "SNG-173",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-037",
+      "catalogId": "SNG-162",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-038",
+      "catalogId": "SNG-176",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-039",
+      "catalogId": "SNG-177",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-040",
+      "catalogId": "SNG-184",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-041",
+      "catalogId": "SNG-179",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-042",
+      "catalogId": "SNG-178",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-043",
+      "catalogId": "SNG-180",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-044",
+      "catalogId": "SNG-181",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-045",
+      "catalogId": "SNG-183",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-046",
+      "catalogId": "SNG-182",
+      "method": "catalog-owner-confirmation",
+      "confirmedBy": "Alik Tarraf",
+      "confirmedOn": "2026-09-10",
+      "ownerProvidedTitle": "Dictator mode"
+    },
+    {
+      "coverId": "COV-047",
+      "catalogId": "SNG-275",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-048",
+      "catalogId": "SNG-274",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-049",
+      "catalogId": "SNG-273",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-050",
+      "catalogId": "SNG-272",
+      "method": "catalog-owner-confirmation",
+      "confirmedBy": "Alik Tarraf",
+      "confirmedOn": "2026-09-10",
+      "ownerProvidedTitle": "King’s move"
+    },
+    {
+      "coverId": "COV-051",
+      "catalogId": "SNG-269",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-052",
+      "catalogId": "SNG-266",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-053",
+      "catalogId": "SNG-012",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-054",
+      "catalogId": "SNG-091",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-055",
+      "catalogId": "SNG-095",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-056",
+      "catalogId": "SNG-039",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-057",
+      "catalogId": "SNG-070",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-058",
+      "catalogId": "SNG-032",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-059",
+      "catalogId": "SNG-112",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-060",
+      "catalogId": "SNG-011",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-061",
+      "catalogId": "SNG-030",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-062",
+      "catalogId": "SNG-035",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-063",
+      "catalogId": "SNG-064",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-064",
+      "catalogId": "SNG-029",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-065",
+      "catalogId": "SNG-166",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-066",
+      "catalogId": "SNG-167",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-067",
+      "catalogId": "SNG-168",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-068",
+      "catalogId": "SNG-169",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-069",
+      "catalogId": "SNG-174",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-070",
+      "catalogId": "SNG-271",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-071",
+      "catalogId": "LIVE-II",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-072",
+      "catalogId": "SNG-251",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-073",
+      "catalogId": "SNG-249",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-074",
+      "catalogId": "SNG-245",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-075",
+      "catalogId": "SNG-197",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-076",
+      "catalogId": "SNG-203",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-077",
+      "catalogId": "SNG-186",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-078",
+      "catalogId": "SNG-261",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-079",
+      "catalogId": "SNG-260",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-080",
+      "catalogId": "SNG-259",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-081",
+      "catalogId": "SNG-258",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-082",
+      "catalogId": "SNG-253",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-083",
+      "catalogId": "SNG-257",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-084",
+      "catalogId": "SNG-256",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-085",
+      "catalogId": "SNG-255",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-086",
+      "catalogId": "SNG-254",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-087",
+      "catalogId": "SNG-187",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-088",
+      "catalogId": "SNG-206",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-089",
+      "catalogId": "SNG-205",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-090",
+      "catalogId": "SNG-207",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-091",
+      "catalogId": "SNG-219",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-092",
+      "catalogId": "SNG-209",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-093",
+      "catalogId": "SNG-250",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-094",
+      "catalogId": "SNG-248",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-095",
+      "catalogId": "SNG-246",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-096",
+      "catalogId": "SNG-243",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-097",
+      "catalogId": "SNG-242",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-098",
+      "catalogId": "SNG-241",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-099",
+      "catalogId": "SNG-240",
+      "method": "catalog-owner-confirmation",
+      "confirmedBy": "Alik Tarraf",
+      "confirmedOn": "2026-09-10",
+      "ownerProvidedTitle": "Мой путь"
+    },
+    {
+      "coverId": "COV-100",
+      "catalogId": "SNG-244",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-101",
+      "catalogId": "SNG-239",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-102",
+      "catalogId": "SNG-238",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-103",
+      "catalogId": "SNG-188",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-104",
+      "catalogId": "SNG-189",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-105",
+      "catalogId": "SNG-237",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-106",
+      "catalogId": "SNG-236",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-107",
+      "catalogId": "SNG-235",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-108",
+      "catalogId": "SNG-234",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-109",
+      "catalogId": "SNG-233",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-110",
+      "catalogId": "SNG-232",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-111",
+      "catalogId": "SNG-231",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-112",
+      "catalogId": "SNG-208",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-113",
+      "catalogId": "SNG-190",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-114",
+      "catalogId": "SNG-192",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-115",
+      "catalogId": "SNG-228",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-116",
+      "catalogId": "SNG-226",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-117",
+      "catalogId": "SNG-227",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-118",
+      "catalogId": "SNG-225",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-119",
+      "catalogId": "SNG-191",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-120",
+      "catalogId": "SNG-193",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-121",
+      "catalogId": "SNG-194",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-122",
+      "catalogId": "SNG-224",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-123",
+      "catalogId": "SNG-223",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-124",
+      "catalogId": "SNG-222",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-125",
+      "catalogId": "SNG-198",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-126",
+      "catalogId": "SNG-196",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-127",
+      "catalogId": "SNG-201",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-128",
+      "catalogId": "SNG-199",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-129",
+      "catalogId": "SNG-202",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-130",
+      "catalogId": "SNG-221",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-131",
+      "catalogId": "SNG-204",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-132",
+      "catalogId": "SNG-200",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-133",
+      "catalogId": "SNG-210",
+      "method": "catalog-owner-confirmation",
+      "confirmedBy": "Alik Tarraf",
+      "confirmedOn": "2026-09-10",
+      "ownerProvidedTitle": "Inside"
+    },
+    {
+      "coverId": "COV-134",
+      "catalogId": "SNG-214",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-135",
+      "catalogId": "SNG-215",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-136",
+      "catalogId": "LIVE-I",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-137",
+      "catalogId": "SNG-001",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-138",
+      "catalogId": "SNG-009",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-139",
+      "catalogId": "SNG-007",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-140",
+      "catalogId": "SNG-005",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-141",
+      "catalogId": "SNG-036",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-142",
+      "catalogId": "SNG-213",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-143",
+      "catalogId": "SNG-217",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-144",
+      "catalogId": "SNG-079",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-145",
+      "catalogId": "SNG-081",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-146",
+      "catalogId": "SNG-082",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-147",
+      "catalogId": "SNG-083",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-148",
+      "catalogId": "SNG-086",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-149",
+      "catalogId": "SNG-084",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-150",
+      "catalogId": "SNG-132",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-151",
+      "catalogId": "SNG-135",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-152",
+      "catalogId": "SNG-134",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-153",
+      "catalogId": "SNG-144",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-154",
+      "catalogId": "SNG-142",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-155",
+      "catalogId": "SNG-073",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-156",
+      "catalogId": "SNG-085",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-157",
+      "catalogId": "SNG-102",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-158",
+      "catalogId": "SNG-107",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-160",
+      "catalogId": "SNG-218",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-161",
+      "catalogId": "SNG-033",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-162",
+      "catalogId": "SNG-220",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-163",
+      "catalogId": "SNG-040",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-164",
+      "catalogId": "SNG-138",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-165",
+      "catalogId": "SNG-195",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-166",
+      "catalogId": "SNG-048",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-167",
+      "catalogId": "SNG-229",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-168",
+      "catalogId": "SNG-049",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-169",
+      "catalogId": "SNG-058",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-170",
+      "catalogId": "SNG-051",
+      "method": "catalog-owner-confirmation",
+      "confirmedBy": "Alik Tarraf",
+      "confirmedOn": "2026-09-10",
+      "ownerProvidedTitle": "шторм и любовь"
+    },
+    {
+      "coverId": "COV-171",
+      "catalogId": "SNG-052",
+      "method": "catalog-owner-confirmation",
+      "confirmedBy": "Alik Tarraf",
+      "confirmedOn": "2026-09-10",
+      "ownerProvidedTitle": "Сила любви"
+    },
+    {
+      "coverId": "COV-172",
+      "catalogId": "SNG-050",
+      "method": "apple-music-visible-artwork-match",
+      "referenceUrl": "https://music.apple.com/ua/album/semya-v-serdtse-feat-aliana-tarraf/1839660948?i=1839660949",
+      "referenceIsrc": "QZZ7V2541692"
+    },
+    {
+      "coverId": "COV-173",
+      "catalogId": "SNG-053",
+      "method": "apple-music-visible-artwork-match",
+      "referenceUrl": "https://music.apple.com/ua/album/ash-and-neon/1839847336?i=1839847337",
+      "referenceIsrc": "QZZ7W2511469"
+    },
+    {
+      "coverId": "COV-174",
+      "catalogId": "SNG-054",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-175",
+      "catalogId": "SNG-055",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-176",
+      "catalogId": "SNG-057",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-177",
+      "catalogId": "SNG-056",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-178",
+      "catalogId": "SNG-038",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-179",
+      "catalogId": "SNG-062",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-180",
+      "catalogId": "SNG-041",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-181",
+      "catalogId": "SNG-145",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-182",
+      "catalogId": "SNG-113",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-183",
+      "catalogId": "SNG-037",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-184",
+      "catalogId": "SNG-141",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-185",
+      "catalogId": "SNG-010",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-187",
+      "catalogId": "SNG-060",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-188",
+      "catalogId": "SNG-059",
+      "method": "catalog-owner-confirmation",
+      "confirmedBy": "Alik Tarraf",
+      "confirmedOn": "2026-09-10",
+      "ownerProvidedTitle": "New world"
+    },
+    {
+      "coverId": "COV-189",
+      "catalogId": "SNG-061",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-190",
+      "catalogId": "SNG-063",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-191",
+      "catalogId": "SNG-065",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-192",
+      "catalogId": "SNG-066",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-193",
+      "catalogId": "SNG-067",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-194",
+      "catalogId": "SNG-069",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-195",
+      "catalogId": "SNG-068",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-196",
+      "catalogId": "SNG-071",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-197",
+      "catalogId": "SNG-270",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-198",
+      "catalogId": "SNG-072",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-199",
+      "catalogId": "SNG-042",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-200",
+      "catalogId": "SNG-164",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-201",
+      "catalogId": "SNG-252",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-202",
+      "catalogId": "SNG-161",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-203",
+      "catalogId": "SNG-025",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-204",
+      "catalogId": "SNG-077",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-205",
+      "catalogId": "SNG-076",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-206",
+      "catalogId": "SNG-087",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-207",
+      "catalogId": "SNG-097",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-208",
+      "catalogId": "SNG-080",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-209",
+      "catalogId": "SNG-088",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-210",
+      "catalogId": "SNG-090",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-211",
+      "catalogId": "SNG-092",
+      "method": "catalog-owner-confirmation",
+      "confirmedBy": "Alik Tarraf",
+      "confirmedOn": "2026-09-10",
+      "ownerProvidedTitle": "прощай"
+    },
+    {
+      "coverId": "COV-212",
+      "catalogId": "SNG-093",
+      "method": "catalog-owner-confirmation",
+      "confirmedBy": "Alik Tarraf",
+      "confirmedOn": "2026-09-10",
+      "ownerProvidedTitle": "Тени"
+    },
+    {
+      "coverId": "COV-213",
+      "catalogId": "SNG-098",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-214",
+      "catalogId": "SNG-247",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-215",
+      "catalogId": "SNG-075",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-216",
+      "catalogId": "SNG-043",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-217",
+      "catalogId": "SNG-211",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-218",
+      "catalogId": "SNG-265",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-219",
+      "catalogId": "SNG-019",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-220",
+      "catalogId": "SNG-099",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-221",
+      "catalogId": "SNG-100",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-222",
+      "catalogId": "SNG-101",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-223",
+      "catalogId": "SNG-104",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-224",
+      "catalogId": "SNG-118",
+      "method": "visual-title-and-canonical-alias-match",
+      "note": "Artwork title Police is an existing canonical alternateName of SNG-118."
+    },
+    {
+      "coverId": "COV-226",
+      "catalogId": "SNG-105",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-227",
+      "catalogId": "SNG-109",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-228",
+      "catalogId": "SNG-108",
+      "method": "catalog-owner-confirmation",
+      "confirmedBy": "Alik Tarraf",
+      "confirmedOn": "2026-09-10",
+      "ownerProvidedTitle": "Meaning of life"
+    },
+    {
+      "coverId": "COV-229",
+      "catalogId": "SNG-110",
+      "method": "apple-music-visible-artwork-match",
+      "referenceUrl": "https://music.apple.com/ua/album/banina-banina-yalla-tarraf/1848684907?i=1848684908",
+      "referenceIsrc": "QT6E62524228",
+      "note": "Artwork observed in the labelled BANINA BANINA YALLA TARRAF album card on the ASH and NEON page."
+    },
+    {
+      "coverId": "COV-230",
+      "catalogId": "SNG-078",
+      "method": "catalog-owner-confirmation",
+      "confirmedBy": "Alik Tarraf",
+      "confirmedOn": "2026-09-10",
+      "ownerProvidedTitle": "Смысл жизни"
+    },
+    {
+      "coverId": "COV-231",
+      "catalogId": "SNG-044",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-232",
+      "catalogId": "SNG-230",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-233",
+      "catalogId": "SNG-264",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-234",
+      "catalogId": "SNG-034",
+      "method": "apple-music-visible-artwork-match",
+      "referenceUrl": "https://music.apple.com/ua/album/kacheli-emo-version/1835132296?i=1835132297",
+      "referenceIsrc": "QZZ792534374",
+      "note": "Apple Music displays this LIVE-marked artwork for the existing Kacheli (EMO Version) release; the audio version is not inferred from the artwork text."
+    },
+    {
+      "coverId": "COV-235",
+      "catalogId": "SNG-111",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-236",
+      "catalogId": "SNG-114",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-237",
+      "catalogId": "SNG-116",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-238",
+      "catalogId": "SNG-115",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-239",
+      "catalogId": "SNG-117",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-240",
+      "catalogId": "SNG-119",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-241",
+      "catalogId": "SNG-133",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-242",
+      "catalogId": "SNG-120",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-243",
+      "catalogId": "SNG-121",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-244",
+      "catalogId": "SNG-122",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-245",
+      "catalogId": "SNG-089",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-246",
+      "catalogId": "SNG-045",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-247",
+      "catalogId": "SNG-212",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-248",
+      "catalogId": "SNG-268",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-249",
+      "catalogId": "SNG-023",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-250",
+      "catalogId": "SNG-124",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-251",
+      "catalogId": "SNG-123",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-252",
+      "catalogId": "SNG-125",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-253",
+      "catalogId": "SNG-127",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-254",
+      "catalogId": "SNG-126",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-255",
+      "catalogId": "SNG-128",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-256",
+      "catalogId": "SNG-129",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-257",
+      "catalogId": "SNG-131",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-258",
+      "catalogId": "SNG-130",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-259",
+      "catalogId": "SNG-136",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-260",
+      "catalogId": "SNG-094",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-261",
+      "catalogId": "SNG-216",
+      "method": "visual-title-and-owner-title-history-match",
+      "referencePath": "docs/distrokid-reconciliation-2026-09-07.md",
+      "note": "Owner evidence records the renamed Russian APOCALYPSES version, distinct from deleted historical APOCALYPSE identifiers."
+    },
+    {
+      "coverId": "COV-262",
+      "catalogId": "SNG-106",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-263",
+      "catalogId": "SNG-267",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-264",
+      "catalogId": "SNG-262",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-265",
+      "catalogId": "SNG-137",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-266",
+      "catalogId": "SNG-139",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-267",
+      "catalogId": "SNG-143",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-268",
+      "catalogId": "SNG-096",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-269",
+      "catalogId": "SNG-151",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-270",
+      "catalogId": "SNG-263",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-271",
+      "catalogId": "SNG-046",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-272",
+      "catalogId": "SNG-103",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-273",
+      "catalogId": "SNG-185",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-274",
+      "catalogId": "SNG-047",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-275",
+      "catalogId": "SNG-031",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-276",
+      "catalogId": "SNG-140",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-277",
+      "catalogId": "SNG-008",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-278",
+      "catalogId": "SNG-016",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-279",
+      "catalogId": "LIVE-III",
+      "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-280",
+      "catalogId": "SNG-074",
+      "method": "catalog-owner-confirmation",
+      "confirmedBy": "Alik Tarraf",
+      "confirmedOn": "2026-09-10",
+      "ownerProvidedTitle": "АЙ, ОДЕССА",
+      "note": "The catalog owner supplied this image in response to the request for the remaining artwork of SNG-074."
+    },
+    {
+      "coverId": "COV-281",
+      "catalogId": "SNG-158",
+      "method": "catalog-owner-confirmation",
+      "confirmedBy": "Alik Tarraf",
+      "confirmedOn": "2026-09-10",
+      "ownerProvidedTitle": "КАЧЕЛІ",
+      "note": "The catalog owner supplied this image in response to the request for the remaining artwork of SNG-158."
+    },
+    {
+      "coverId": "COV-282",
+      "catalogId": "SNG-015",
+      "method": "catalog-owner-confirmation",
+      "confirmedBy": "Alik Tarraf",
+      "confirmedOn": "2026-09-10",
+      "ownerProvidedTitle": "ПРОСТО",
+      "note": "The catalog owner supplied this image in response to the request for the remaining artwork of SNG-015."
+    }
+  ],
+  "unassignedCovers": [
+    {
+      "coverId": "COV-019",
+      "status": "duplicate",
+      "note": "Побайтовый дубликат COV-018: Жизнь это Ринг (SNG-154)."
+    },
+    {
+      "coverId": "COV-159",
+      "status": "alternate-artwork",
+      "note": "Второй файл обложки Колючий, но родной (SNG-146); основным выбран COV-010."
+    },
+    {
+      "coverId": "COV-186",
+      "status": "alternate-artwork",
+      "note": "Второй вариант Просто (remix), SNG-028; основным выбран COV-034. Не назначен обычному PROSTO."
+    },
+    {
+      "coverId": "COV-225",
+      "status": "alternate-artwork",
+      "note": "Второй файл обложки Мама (SNG-102); основным выбран COV-157."
+    }
+  ]
+}

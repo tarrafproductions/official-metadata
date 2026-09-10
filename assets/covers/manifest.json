@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "coverCount": 279,
-  "generatedFrom": "TARRAF PRODUCTIONS first-party OneDrive artwork archive",
+  "coverCount": 282,
+  "generatedFrom": "TARRAF PRODUCTIONS first-party OneDrive artwork archive (COV-001 to COV-279), plus three catalog-owner-supplied additions on 2026-09-10 (COV-280 to COV-282)",
   "mappingStatus": "source-order-indexed",
   "covers": [
     {
@@ -3631,6 +3631,54 @@
       "bytes": 237160,
       "sha256": "e179ebd17e09dede3d9755d0585bf57f81965ae6591d38ae890550aa91dd2534",
       "sourceSha256": "81735ec0dd982eaaddedf9c117cd7f2c999bc27ba42596426b7558407e793720"
+    },
+    {
+      "coverId": "COV-280",
+      "position": 280,
+      "originalFilename": "IMG_5573.jpeg",
+      "path": "assets/covers/archive/cover-280.webp",
+      "width": 800,
+      "height": 800,
+      "sourceWidth": 800,
+      "sourceHeight": 800,
+      "bytes": 439904,
+      "sha256": "0f69a0739525397247993e78f57a9c2ca4d465b1baacbdae9253bc33e7e822bb",
+      "sourceSha256": "bc145c22f42e08dd485ace4a4ec5ab00d2204d306505651115bc376bdd2a6ce4",
+      "sourceKind": "catalog-owner-supplied-addition",
+      "receivedOn": "2026-09-10",
+      "encoding": "WebP lossless; decoded RGB pixels preserved"
+    },
+    {
+      "coverId": "COV-281",
+      "position": 281,
+      "originalFilename": "IMG_5572.jpeg",
+      "path": "assets/covers/archive/cover-281.webp",
+      "width": 800,
+      "height": 800,
+      "sourceWidth": 800,
+      "sourceHeight": 800,
+      "bytes": 408476,
+      "sha256": "3d3b8ede4233fb26fec98bdc9a0de617e86a37cd95c20196f86797493eb4927c",
+      "sourceSha256": "3cbaae57fdca2b125e32f12926f9ed13d84936808efa600973d46a27611a1b4b",
+      "sourceKind": "catalog-owner-supplied-addition",
+      "receivedOn": "2026-09-10",
+      "encoding": "WebP lossless; decoded RGB pixels preserved"
+    },
+    {
+      "coverId": "COV-282",
+      "position": 282,
+      "originalFilename": "IMG_5571.jpeg",
+      "path": "assets/covers/archive/cover-282.webp",
+      "width": 800,
+      "height": 800,
+      "sourceWidth": 800,
+      "sourceHeight": 800,
+      "bytes": 338212,
+      "sha256": "fead90d14f186d8926cdd3041907dbf695e1f07a375eb369d617b444a710b1f9",
+      "sourceSha256": "579050132691c424f8e147dc34a957719e07d7eb4525dd84806535a19cc19101",
+      "sourceKind": "catalog-owner-supplied-addition",
+      "receivedOn": "2026-09-10",
+      "encoding": "WebP lossless; decoded RGB pixels preserved"
     }
   ]
 }

@@ -7,6 +7,9 @@ on:
       - ".github/scripts/*.py"
       - "exports/**"
       - "sources/**"
+      - "assets/covers/**"
+      - "docs/discography.md"
+      - "docs/cover-*.md"
       - ".github/workflows/validate-jsonld.yml"
   pull_request:
     paths:
@@ -14,6 +17,9 @@ on:
       - ".github/scripts/*.py"
       - "exports/**"
       - "sources/**"
+      - "assets/covers/**"
+      - "docs/discography.md"
+      - "docs/cover-*.md"
       - ".github/workflows/validate-jsonld.yml"
   workflow_dispatch:
 
@@ -35,6 +41,9 @@ jobs:
 
       - name: Check reproducible catalog exports
         run: python3 .github/scripts/export_catalog.py --check
+
+      - name: Check release artwork mapping and checksums
+        run: python3 .github/scripts/build_cover_mapping.py --check --require-complete
 
       - name: Check catalog integrity regressions
         run: python3 -m unittest discover -s .github/scripts -p 'test_*.py'
