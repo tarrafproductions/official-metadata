@@ -1,6 +1,6 @@
 # Release artwork mapping
 
-275 of 278 release products have a verified artwork association; 3 remain explicitly unassigned.
+278 of 278 release products have a verified artwork association; 0 remain explicitly unassigned.
 
 Generated from the [visual review](../sources/cover-art-review-2026-09-10.json). Archive filenames are source-order IDs, not release IDs.
 
@@ -22,7 +22,7 @@ Use `coverPath` from [release-map.json](../assets/covers/release-map.json), join
 | SNG-012 | Alik | 199732966156 | [cover-012.webp](../assets/covers/by-release/cover-012.webp) |
 | SNG-013 | Boginya | 199732870927 | [cover-013.webp](../assets/covers/by-release/cover-013.webp) |
 | SNG-014 | OH MAMMA MIA | 199732907180 | [cover-014.webp](../assets/covers/by-release/cover-014.webp) |
-| SNG-015 | PROSTO | 199732931703 | **Needs review** |
+| SNG-015 | PROSTO | 199732931703 | [cover-015.webp](../assets/covers/by-release/cover-015.webp) |
 | SNG-016 | Up and Down | 199732768187 | [cover-016.webp](../assets/covers/by-release/cover-016.webp) |
 | SNG-017 | Vyshel Alik Pogulyat | 199732887307 | [cover-017.webp](../assets/covers/by-release/cover-017.webp) |
 | SNG-018 | ВОСТОЧНАЯ МАРИНА ((VIP MIX)) | 199732883934 | [cover-018.webp](../assets/covers/by-release/cover-018.webp) |
@@ -81,7 +81,7 @@ Use `coverPath` from [release-map.json](../assets/covers/release-map.json), join
 | SNG-071 | HELAH | 199741624603 | [cover-071.webp](../assets/covers/by-release/cover-071.webp) |
 | SNG-072 | DESTINATION (soundtrack) | 199741391727 | [cover-072.webp](../assets/covers/by-release/cover-072.webp) |
 | SNG-073 | LOST (soundtrack) | 199741393233 | [cover-073.webp](../assets/covers/by-release/cover-073.webp) |
-| SNG-074 | Ай Одесса | 199741332973 | **Needs review** |
+| SNG-074 | Ай Одесса | 199741332973 | [cover-074.webp](../assets/covers/by-release/cover-074.webp) |
 | SNG-075 | Гимн Одессы | 199741244023 | [cover-075.webp](../assets/covers/by-release/cover-075.webp) |
 | SNG-076 | HELLA | 199741008069 | [cover-076.webp](../assets/covers/by-release/cover-076.webp) |
 | SNG-077 | ГОРЬКО | 199741006461 | [cover-077.webp](../assets/covers/by-release/cover-077.webp) |
@@ -165,7 +165,7 @@ Use `coverPath` from [release-map.json](../assets/covers/release-map.json), join
 | SNG-155 | NO LIMIT ANIMAL MODE | 199946783778 | [cover-155.webp](../assets/covers/by-release/cover-155.webp) |
 | SNG-156 | А что если - это Сны? | 199946637958 | [cover-156.webp](../assets/covers/by-release/cover-156.webp) |
 | SNG-157 | ЛЮБОВЬ РЕЗНЯ | 199946769482 | [cover-157.webp](../assets/covers/by-release/cover-157.webp) |
-| SNG-158 | КАЧЕЛІ ((UA Version)) | 199946180348 | **Needs review** |
+| SNG-158 | КАЧЕЛІ ((UA Version)) | 199946180348 | [cover-158.webp](../assets/covers/by-release/cover-158.webp) |
 | SNG-159 | Хочу Люблю Живу | 199945630929 | [cover-159.webp](../assets/covers/by-release/cover-159.webp) |
 | SNG-160 | EISENHERZ | 199943938454 | [cover-160.webp](../assets/covers/by-release/cover-160.webp) |
 | SNG-161 | HAPPY NEW YEAR WORLD | 199943304181 | [cover-161.webp](../assets/covers/by-release/cover-161.webp) |

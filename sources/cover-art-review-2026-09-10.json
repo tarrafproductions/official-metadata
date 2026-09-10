@@ -3,7 +3,7 @@
   "reviewedOn": "2026-09-10",
   "reviewedBy": "Codex visual review; owner-confirmed entries explicitly attributed to Alik Tarraf.",
   "sourceCommit": "e52af4712ee3470d6c07616d6c0643fbee2915f5",
-  "methodology": "Every supplied archive image was visually inspected. Explicit artwork titles and versions were matched to the canonical register; selected ambiguous artwork was compared with the linked Apple Music pages. Unresolved cases are not assigned by ordinal position or elimination. On 2026-09-10, catalog owner Alik Tarraf supplied explicit cover-to-title associations for all 11 previously ambiguous archive images; those entries are separately marked catalog-owner-confirmation.",
+  "methodology": "Every supplied archive image was visually inspected. Explicit artwork titles and versions were matched to the canonical register; selected ambiguous artwork was compared with the linked Apple Music pages. Unresolved cases are not assigned by ordinal position or elimination. On 2026-09-10, catalog owner Alik Tarraf supplied explicit cover-to-title associations for all 11 previously ambiguous archive images; those entries are separately marked catalog-owner-confirmation. The owner subsequently supplied three additional images for SNG-015, SNG-074 and SNG-158 on 2026-09-10. They were appended as COV-280 to COV-282 and converted to lossless WebP with identical decoded RGB pixels, completing all 278 release associations.",
   "matches": [
     {
       "coverId": "COV-001",
@@ -1427,6 +1427,33 @@
       "coverId": "COV-279",
       "catalogId": "LIVE-III",
       "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-280",
+      "catalogId": "SNG-074",
+      "method": "catalog-owner-confirmation",
+      "confirmedBy": "Alik Tarraf",
+      "confirmedOn": "2026-09-10",
+      "ownerProvidedTitle": "АЙ, ОДЕССА",
+      "note": "The catalog owner supplied this image in response to the request for the remaining artwork of SNG-074."
+    },
+    {
+      "coverId": "COV-281",
+      "catalogId": "SNG-158",
+      "method": "catalog-owner-confirmation",
+      "confirmedBy": "Alik Tarraf",
+      "confirmedOn": "2026-09-10",
+      "ownerProvidedTitle": "КАЧЕЛІ",
+      "note": "The catalog owner supplied this image in response to the request for the remaining artwork of SNG-158."
+    },
+    {
+      "coverId": "COV-282",
+      "catalogId": "SNG-015",
+      "method": "catalog-owner-confirmation",
+      "confirmedBy": "Alik Tarraf",
+      "confirmedOn": "2026-09-10",
+      "ownerProvidedTitle": "ПРОСТО",
+      "note": "The catalog owner supplied this image in response to the request for the remaining artwork of SNG-015."
     }
   ],
   "unassignedCovers": [

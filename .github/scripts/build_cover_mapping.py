@@ -117,7 +117,7 @@ def build(root):
         f"{counts['mappedReleases']} of {counts['releases']} release products have a verified cover association "
         f"({counts['unmappedReleases']} still need review). "
         'The [complete mapping](cover-mapping.md) includes singles and all three live albums; '
-        'the [review list](cover-review-needed.md) shows unresolved artwork.\n'
+        'the [review record](cover-review-needed.md) documents owner confirmations and any unresolved artwork.\n'
         '<!-- END GENERATED ARTWORK STATUS -->'
     )
     discography, replaced = re.subn(
@@ -150,13 +150,16 @@ def build(root):
     if seen != {r['catalogId'] for r in rows if r['catalogId'].startswith('SNG-')}:
         raise ValueError('Discography does not contain every canonical single')
     files[discography_path] = ('\n'.join(lines) + '\n').encode('utf-8')
-    pending = ['# Обложки: что осталось подтвердить', '',
-               'Проверенные пары уже включены в `assets/covers/release-map.json`. Оставшиеся вопросы и подтверждения владельца приведены ниже. Номер COV относится к исходному архиву, номер SNG — к релизу.', '',
-               '## Релизы без подтверждённой обложки', '',
-               '| ID | Название | UPC |', '| --- | --- | --- |']
-    for r in rows:
-        if not r['coverPath']:
-            pending.append('| %s | %s | %s |' % (r['catalogId'], r['title'], r['upc']))
+    pending = ['# Обложки: результаты проверки', '',
+               'Проверенные пары включены в `assets/covers/release-map.json`. Номер COV относится к исходному архиву, номер SNG — к релизу. Подтверждения владельца и результаты сверки приведены ниже.']
+    if counts['unmappedReleases']:
+        pending += ['', '## Релизы без подтверждённой обложки', '',
+                    '| ID | Название | UPC |', '| --- | --- | --- |']
+        for r in rows:
+            if not r['coverPath']:
+                pending.append('| %s | %s | %s |' % (r['catalogId'], r['title'], r['upc']))
+    else:
+        pending += ['', f"**Проверка завершена: у всех {counts['releases']} релизов есть подтверждённая обложка. Нерешённых соответствий нет.**"]
     needs_review = [item for item in review['unassignedCovers']
                     if item['status'] not in ('duplicate', 'alternate-artwork')]
     if needs_review:
@@ -166,7 +169,9 @@ def build(root):
         for item in needs_review:
             pending.append('| **%s** ![%s](../%s) | %s |' % (item['coverId'], item['coverId'], covers[item['coverId']]['path'], item['note']))
     else:
-        pending += ['', 'Все архивные файлы сопоставлены с релизами либо отмечены как дубликаты или альтернативные варианты. Для релизов из списка выше нужны их обложки или подтверждение, какой из имеющихся файлов использовать.']
+        pending += ['', 'Все архивные файлы сопоставлены с релизами либо отмечены как дубликаты или альтернативные варианты.']
+        if counts['unmappedReleases']:
+            pending += ['', 'Для релизов из списка выше нужны их обложки или подтверждение, какой из имеющихся файлов использовать.']
     owner_matches = [m for m in review['matches'] if m['method'] == 'catalog-owner-confirmation']
     if owner_matches:
         pending += ['', '## Подтверждения владельца', '',

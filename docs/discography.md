@@ -22,10 +22,10 @@ The existing `studio-singles.jsonld` filename is retained for integrations; its 
 
 ## Cover artwork
 
-The repository preserves all 279 supplied cover-art files in [`assets/covers/archive`](../assets/covers/archive), with source filenames and checksums in [`manifest.json`](../assets/covers/manifest.json). The archive uses source-order numbering. Verified release artwork is in [`assets/covers/by-release`](../assets/covers/by-release), where `cover-004.webp` corresponds to `SNG-004`, and so on.
+The repository preserves 282 supplied cover-art files (the original 279 plus three owner-supplied additions) in [`assets/covers/archive`](../assets/covers/archive), with source filenames and checksums in [`manifest.json`](../assets/covers/manifest.json). The archive uses source-order numbering. Verified release artwork is in [`assets/covers/by-release`](../assets/covers/by-release), where `cover-004.webp` corresponds to `SNG-004`, and so on.
 
 <!-- BEGIN GENERATED ARTWORK STATUS -->
-275 of 278 release products have a verified cover association (3 still need review). The [complete mapping](cover-mapping.md) includes singles and all three live albums; the [review list](cover-review-needed.md) shows unresolved artwork.
+278 of 278 release products have a verified cover association (0 still need review). The [complete mapping](cover-mapping.md) includes singles and all three live albums; the [review record](cover-review-needed.md) documents owner confirmations and any unresolved artwork.
 <!-- END GENERATED ARTWORK STATUS -->
 
 Website integrations should use the explicit `coverPath` in [`release-map.json`](../assets/covers/release-map.json), joined by catalog ID, release identity or UPC. Unverified associations have a null path. The Artwork column below uses the same mapping.
@@ -50,7 +50,7 @@ GitHub provides version history and public provenance; it does not replace regis
 | SNG-012 | 2025-08-22 | Alik | Alik Tarraf | 199732966156 | QZZ792534567 | Source-normalized | [cover-012.webp](../assets/covers/by-release/cover-012.webp) |
 | SNG-013 | 2025-08-22 | Boginya | Alik Tarraf (feat. Marina Tarraf) | 199732870927 | QZZ792549661 | Source-normalized | [cover-013.webp](../assets/covers/by-release/cover-013.webp) |
 | SNG-014 | 2025-08-22 | OH MAMMA MIA | Alik Tarraf (feat. Marina Tarraf) | 199732907180 | QZZ792541089 | Source-normalized | [cover-014.webp](../assets/covers/by-release/cover-014.webp) |
-| SNG-015 | 2025-08-22 | PROSTO | Marina Tarraf | 199732931703 | QZZ792534916 | Owner artist confirmation · 2026-09-07 | **Needs review** |
+| SNG-015 | 2025-08-22 | PROSTO | Marina Tarraf | 199732931703 | QZZ792534916 | Owner artist confirmation · 2026-09-07 | [cover-015.webp](../assets/covers/by-release/cover-015.webp) |
 | SNG-016 | 2025-08-22 | Up and Down | Alik Tarraf (feat. Marina Tarraf) | 199732768187 | QZZ792573561 | Source-normalized | [cover-016.webp](../assets/covers/by-release/cover-016.webp) |
 | SNG-017 | 2025-08-22 | Vyshel Alik Pogulyat | Marina Tarraf | 199732887307 | QZZ792546205 | Owner artist confirmation · 2026-09-07 | [cover-017.webp](../assets/covers/by-release/cover-017.webp) |
 | SNG-018 | 2025-08-22 | ВОСТОЧНАЯ МАРИНА ((VIP MIX)) | Alik Tarraf | 199732883934 | QZZ792549391 | Source-normalized | [cover-018.webp](../assets/covers/by-release/cover-018.webp) |
@@ -109,7 +109,7 @@ GitHub provides version history and public provenance; it does not replace regis
 | SNG-071 | 2025-09-27 | HELAH | Alik Tarraf | 199741624603 | QT3F42551251 | Source-normalized | [cover-071.webp](../assets/covers/by-release/cover-071.webp) |
 | SNG-072 | 2025-09-28 | DESTINATION (soundtrack) | Alik Tarraf | 199741391727 | QT3F42594065 | Source-normalized | [cover-072.webp](../assets/covers/by-release/cover-072.webp) |
 | SNG-073 | 2025-09-28 | LOST (soundtrack) | Alik Tarraf | 199741393233 | QT3F42592202 | Source-normalized | [cover-073.webp](../assets/covers/by-release/cover-073.webp) |
-| SNG-074 | 2025-09-28 | Ай Одесса | Alik Tarraf | 199741332973 | QT3F52503218 | Source-normalized | **Needs review** |
+| SNG-074 | 2025-09-28 | Ай Одесса | Alik Tarraf | 199741332973 | QT3F52503218 | Source-normalized | [cover-074.webp](../assets/covers/by-release/cover-074.webp) |
 | SNG-075 | 2025-09-29 | Гимн Одессы | Alik Tarraf | 199741244023 | QT3F52518015 | Source-normalized | [cover-075.webp](../assets/covers/by-release/cover-075.webp) |
 | SNG-076 | 2025-09-30 | HELLA | Alik Tarraf | 199741008069 | QT3F52572933 | Source-normalized | [cover-076.webp](../assets/covers/by-release/cover-076.webp) |
 | SNG-077 | 2025-09-30 | ГОРЬКО | Alik Tarraf | 199741006461 | QT3F52575403 | Source-normalized | [cover-077.webp](../assets/covers/by-release/cover-077.webp) |
@@ -193,7 +193,7 @@ GitHub provides version history and public provenance; it does not replace regis
 | SNG-155 | 2025-12-04 | NO LIMIT ANIMAL MODE | Marina Tarraf | 199946783778 | QT6FE2548157 | Source-normalized | [cover-155.webp](../assets/covers/by-release/cover-155.webp) |
 | SNG-156 | 2025-12-04 | А что если - это Сны? | Alik Tarraf | 199946637958 | QT6FE2583599 | Source-normalized | [cover-156.webp](../assets/covers/by-release/cover-156.webp) |
 | SNG-157 | 2025-12-04 | ЛЮБОВЬ РЕЗНЯ | Alik Tarraf | 199946769482 | QT6FE2551286 | Source-normalized | [cover-157.webp](../assets/covers/by-release/cover-157.webp) |
-| SNG-158 | 2025-12-05 | КАЧЕЛІ ((UA Version)) | Alik Tarraf | 199946180348 | QT6FF2584414 | Source-normalized | **Needs review** |
+| SNG-158 | 2025-12-05 | КАЧЕЛІ ((UA Version)) | Alik Tarraf | 199946180348 | QT6FF2584414 | Source-normalized | [cover-158.webp](../assets/covers/by-release/cover-158.webp) |
 | SNG-159 | 2025-12-07 | Хочу Люблю Живу | Alik Tarraf | 199945630929 | QT6FH2505815 | Source-normalized | [cover-159.webp](../assets/covers/by-release/cover-159.webp) |
 | SNG-160 | 2025-12-12 | EISENHERZ | Alik Tarraf | 199943938454 | QT6FL2567189 | Source-normalized | [cover-160.webp](../assets/covers/by-release/cover-160.webp) |
 | SNG-161 | 2025-12-14 | HAPPY NEW YEAR WORLD | Alik Tarraf | 199943304181 | QT6FP2505649 | Source-normalized | [cover-161.webp](../assets/covers/by-release/cover-161.webp) |

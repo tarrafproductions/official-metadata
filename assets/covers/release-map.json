@@ -5,9 +5,9 @@
   "pathBase": "Repository root of the same pinned snapshot",
   "counts": {
     "releases": 278,
-    "mappedReleases": 275,
-    "unmappedReleases": 3,
-    "archiveFiles": 279,
+    "mappedReleases": 278,
+    "unmappedReleases": 0,
+    "archiveFiles": 282,
     "unassignedArchiveFiles": 4
   },
   "releases": [
@@ -240,13 +240,19 @@
       "releaseId": "https://aliktarraf.com/#catalog-sng-015-digital-release",
       "title": "PROSTO",
       "upc": "199732931703",
-      "status": "needs-review",
-      "coverId": null,
-      "coverPath": null,
-      "sourcePath": null,
-      "sha256": null,
+      "status": "verified",
+      "coverId": "COV-282",
+      "coverPath": "assets/covers/by-release/cover-015.webp",
+      "sourcePath": "assets/covers/archive/cover-282.webp",
+      "sha256": "fead90d14f186d8926cdd3041907dbf695e1f07a375eb369d617b444a710b1f9",
       "verification": {
-        "note": "No verified cover association; do not infer from file order."
+        "coverId": "COV-282",
+        "catalogId": "SNG-015",
+        "method": "catalog-owner-confirmation",
+        "confirmedBy": "Alik Tarraf",
+        "confirmedOn": "2026-09-10",
+        "ownerProvidedTitle": "ПРОСТО",
+        "note": "The catalog owner supplied this image in response to the request for the remaining artwork of SNG-015."
       }
     },
     {
@@ -1200,13 +1206,19 @@
       "releaseId": "https://aliktarraf.com/#catalog-sng-074-digital-release",
       "title": "Ай Одесса",
       "upc": "199741332973",
-      "status": "needs-review",
-      "coverId": null,
-      "coverPath": null,
-      "sourcePath": null,
-      "sha256": null,
+      "status": "verified",
+      "coverId": "COV-280",
+      "coverPath": "assets/covers/by-release/cover-074.webp",
+      "sourcePath": "assets/covers/archive/cover-280.webp",
+      "sha256": "0f69a0739525397247993e78f57a9c2ca4d465b1baacbdae9253bc33e7e822bb",
       "verification": {
-        "note": "No verified cover association; do not infer from file order."
+        "coverId": "COV-280",
+        "catalogId": "SNG-074",
+        "method": "catalog-owner-confirmation",
+        "confirmedBy": "Alik Tarraf",
+        "confirmedOn": "2026-09-10",
+        "ownerProvidedTitle": "АЙ, ОДЕССА",
+        "note": "The catalog owner supplied this image in response to the request for the remaining artwork of SNG-074."
       }
     },
     {
@@ -2558,13 +2570,19 @@
       "releaseId": "https://aliktarraf.com/#catalog-sng-158-digital-release",
       "title": "КАЧЕЛІ ((UA Version))",
       "upc": "199946180348",
-      "status": "needs-review",
-      "coverId": null,
-      "coverPath": null,
-      "sourcePath": null,
-      "sha256": null,
+      "status": "verified",
+      "coverId": "COV-281",
+      "coverPath": "assets/covers/by-release/cover-158.webp",
+      "sourcePath": "assets/covers/archive/cover-281.webp",
+      "sha256": "3d3b8ede4233fb26fec98bdc9a0de617e86a37cd95c20196f86797493eb4927c",
       "verification": {
-        "note": "No verified cover association; do not infer from file order."
+        "coverId": "COV-281",
+        "catalogId": "SNG-158",
+        "method": "catalog-owner-confirmation",
+        "confirmedBy": "Alik Tarraf",
+        "confirmedOn": "2026-09-10",
+        "ownerProvidedTitle": "КАЧЕЛІ",
+        "note": "The catalog owner supplied this image in response to the request for the remaining artwork of SNG-158."
       }
     },
     {

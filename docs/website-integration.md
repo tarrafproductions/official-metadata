@@ -108,10 +108,10 @@ For verified singles, `assets/covers/by-release/cover-004.webp` corresponds to
 Use a placeholder for `status: "needs-review"` with `coverPath: null`; do not
 construct an artwork URL from an ID without checking the mapping.
 
-The [mapping table](cover-mapping.md) and [remaining review list](cover-review-needed.md)
-show current coverage. Run `python3 .github/scripts/build_cover_mapping.py --check`
-to validate the mapping. Add `--require-complete` if publication requires verified
-artwork for every release product.
+The [mapping table](cover-mapping.md) and [review record](cover-review-needed.md)
+show complete coverage of all 278 release products. Run
+`python3 .github/scripts/build_cover_mapping.py --check --require-complete`
+to validate the mapping and require artwork for every release. CI enforces this gate.
 
 ## Release gate
 
