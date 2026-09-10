@@ -5,10 +5,10 @@
   "pathBase": "Repository root of the same pinned snapshot",
   "counts": {
     "releases": 278,
-    "mappedReleases": 264,
-    "unmappedReleases": 14,
+    "mappedReleases": 275,
+    "unmappedReleases": 3,
     "archiveFiles": 279,
-    "unassignedArchiveFiles": 15
+    "unassignedArchiveFiles": 4
   },
   "releases": [
     {
@@ -821,13 +821,18 @@
       "releaseId": "https://aliktarraf.com/#catalog-sng-051-digital-release",
       "title": "Shtorm i Lyubov",
       "upc": "199737612591",
-      "status": "needs-review",
-      "coverId": null,
-      "coverPath": null,
-      "sourcePath": null,
-      "sha256": null,
+      "status": "verified",
+      "coverId": "COV-170",
+      "coverPath": "assets/covers/by-release/cover-051.webp",
+      "sourcePath": "assets/covers/archive/cover-170.webp",
+      "sha256": "78b31ce7271ecd49d16f81d18aa3cd420acf48335013f69441b5fc054f0fda44",
       "verification": {
-        "note": "No verified cover association; do not infer from file order."
+        "coverId": "COV-170",
+        "catalogId": "SNG-051",
+        "method": "catalog-owner-confirmation",
+        "confirmedBy": "Alik Tarraf",
+        "confirmedOn": "2026-09-10",
+        "ownerProvidedTitle": "шторм и любовь"
       }
     },
     {
@@ -835,13 +840,18 @@
       "releaseId": "https://aliktarraf.com/#catalog-sng-052-digital-release",
       "title": "Sila Lyubvi",
       "upc": "199737598277",
-      "status": "needs-review",
-      "coverId": null,
-      "coverPath": null,
-      "sourcePath": null,
-      "sha256": null,
+      "status": "verified",
+      "coverId": "COV-171",
+      "coverPath": "assets/covers/by-release/cover-052.webp",
+      "sourcePath": "assets/covers/archive/cover-171.webp",
+      "sha256": "77122e654eb3089d983a5a26a5ef4b7824e828a43df7c0c9c7d12a03cf13071e",
       "verification": {
-        "note": "No verified cover association; do not infer from file order."
+        "coverId": "COV-171",
+        "catalogId": "SNG-052",
+        "method": "catalog-owner-confirmation",
+        "confirmedBy": "Alik Tarraf",
+        "confirmedOn": "2026-09-10",
+        "ownerProvidedTitle": "Сила любви"
       }
     },
     {
@@ -947,13 +957,18 @@
       "releaseId": "https://aliktarraf.com/#catalog-sng-059-digital-release",
       "title": "New World",
       "upc": "199739691075",
-      "status": "needs-review",
-      "coverId": null,
-      "coverPath": null,
-      "sourcePath": null,
-      "sha256": null,
+      "status": "verified",
+      "coverId": "COV-188",
+      "coverPath": "assets/covers/by-release/cover-059.webp",
+      "sourcePath": "assets/covers/archive/cover-188.webp",
+      "sha256": "89029ea48b656b7cc6f7c2d0bf380b76fdcab5c4488fac28649bd8ce78394ffc",
       "verification": {
-        "note": "No verified cover association; do not infer from file order."
+        "coverId": "COV-188",
+        "catalogId": "SNG-059",
+        "method": "catalog-owner-confirmation",
+        "confirmedBy": "Alik Tarraf",
+        "confirmedOn": "2026-09-10",
+        "ownerProvidedTitle": "New world"
       }
     },
     {
@@ -1247,13 +1262,18 @@
       "releaseId": "https://aliktarraf.com/#catalog-sng-078-digital-release",
       "title": "Смысл Жизни",
       "upc": "199742899222",
-      "status": "needs-review",
-      "coverId": null,
-      "coverPath": null,
-      "sourcePath": null,
-      "sha256": null,
+      "status": "verified",
+      "coverId": "COV-230",
+      "coverPath": "assets/covers/by-release/cover-078.webp",
+      "sourcePath": "assets/covers/archive/cover-230.webp",
+      "sha256": "520a863869ac4f9d9e5485101f5d2091517ae536145c403729cd8d7f85a91841",
       "verification": {
-        "note": "No verified cover association; do not infer from file order."
+        "coverId": "COV-230",
+        "catalogId": "SNG-078",
+        "method": "catalog-owner-confirmation",
+        "confirmedBy": "Alik Tarraf",
+        "confirmedOn": "2026-09-10",
+        "ownerProvidedTitle": "Смысл жизни"
       }
     },
     {
@@ -1469,13 +1489,18 @@
       "releaseId": "https://aliktarraf.com/#catalog-sng-092-digital-release",
       "title": "ПРОЩАЙ",
       "upc": "199743524048",
-      "status": "needs-review",
-      "coverId": null,
-      "coverPath": null,
-      "sourcePath": null,
-      "sha256": null,
+      "status": "verified",
+      "coverId": "COV-211",
+      "coverPath": "assets/covers/by-release/cover-092.webp",
+      "sourcePath": "assets/covers/archive/cover-211.webp",
+      "sha256": "cec9740675d49c3e2d13f6e5a17cbfffd687de1d1a67dbf1ecf253381c847a40",
       "verification": {
-        "note": "No verified cover association; do not infer from file order."
+        "coverId": "COV-211",
+        "catalogId": "SNG-092",
+        "method": "catalog-owner-confirmation",
+        "confirmedBy": "Alik Tarraf",
+        "confirmedOn": "2026-09-10",
+        "ownerProvidedTitle": "прощай"
       }
     },
     {
@@ -1483,13 +1508,18 @@
       "releaseId": "https://aliktarraf.com/#catalog-sng-093-digital-release",
       "title": "ТЕНИ",
       "upc": "199743452464",
-      "status": "needs-review",
-      "coverId": null,
-      "coverPath": null,
-      "sourcePath": null,
-      "sha256": null,
+      "status": "verified",
+      "coverId": "COV-212",
+      "coverPath": "assets/covers/by-release/cover-093.webp",
+      "sourcePath": "assets/covers/archive/cover-212.webp",
+      "sha256": "67a5b98a4ac609231be7ad2d3ac6d8a1bba609fbc5dc3b93e2d47408d1115543",
       "verification": {
-        "note": "No verified cover association; do not infer from file order."
+        "coverId": "COV-212",
+        "catalogId": "SNG-093",
+        "method": "catalog-owner-confirmation",
+        "confirmedBy": "Alik Tarraf",
+        "confirmedOn": "2026-09-10",
+        "ownerProvidedTitle": "Тени"
       }
     },
     {
@@ -1721,13 +1751,18 @@
       "releaseId": "https://aliktarraf.com/#catalog-sng-108-digital-release",
       "title": "Meaning of Life",
       "upc": "199748808495",
-      "status": "needs-review",
-      "coverId": null,
-      "coverPath": null,
-      "sourcePath": null,
-      "sha256": null,
+      "status": "verified",
+      "coverId": "COV-228",
+      "coverPath": "assets/covers/by-release/cover-108.webp",
+      "sourcePath": "assets/covers/archive/cover-228.webp",
+      "sha256": "e2f3becde3dcdbfbbc82c548131759948d5a1f679f6147b530888818141963b8",
       "verification": {
-        "note": "No verified cover association; do not infer from file order."
+        "coverId": "COV-228",
+        "catalogId": "SNG-108",
+        "method": "catalog-owner-confirmation",
+        "confirmedBy": "Alik Tarraf",
+        "confirmedOn": "2026-09-10",
+        "ownerProvidedTitle": "Meaning of life"
       }
     },
     {
@@ -2905,13 +2940,18 @@
       "releaseId": "https://aliktarraf.com/#catalog-sng-182-digital-release",
       "title": "DICTATOR MODE",
       "upc": "821530772225",
-      "status": "needs-review",
-      "coverId": null,
-      "coverPath": null,
-      "sourcePath": null,
-      "sha256": null,
+      "status": "verified",
+      "coverId": "COV-046",
+      "coverPath": "assets/covers/by-release/cover-182.webp",
+      "sourcePath": "assets/covers/archive/cover-046.webp",
+      "sha256": "fa4f1b52b6a2950ab067385e20d95df12dce83e2bbb13cc63cd96e6d17597a2f",
       "verification": {
-        "note": "No verified cover association; do not infer from file order."
+        "coverId": "COV-046",
+        "catalogId": "SNG-182",
+        "method": "catalog-owner-confirmation",
+        "confirmedBy": "Alik Tarraf",
+        "confirmedOn": "2026-09-10",
+        "ownerProvidedTitle": "Dictator mode"
       }
     },
     {
@@ -3351,13 +3391,18 @@
       "releaseId": "https://aliktarraf.com/#catalog-sng-210-digital-release",
       "title": "Inside",
       "upc": "825233680368",
-      "status": "needs-review",
-      "coverId": null,
-      "coverPath": null,
-      "sourcePath": null,
-      "sha256": null,
+      "status": "verified",
+      "coverId": "COV-133",
+      "coverPath": "assets/covers/by-release/cover-210.webp",
+      "sourcePath": "assets/covers/archive/cover-133.webp",
+      "sha256": "6e551ffdbec848e8885b39f7fc289480e3d93141f6a7e674ab68d533bf548b15",
       "verification": {
-        "note": "No verified cover association; do not infer from file order."
+        "coverId": "COV-133",
+        "catalogId": "SNG-210",
+        "method": "catalog-owner-confirmation",
+        "confirmedBy": "Alik Tarraf",
+        "confirmedOn": "2026-09-10",
+        "ownerProvidedTitle": "Inside"
       }
     },
     {
@@ -3831,13 +3876,18 @@
       "releaseId": "https://aliktarraf.com/#catalog-sng-240-digital-release",
       "title": "Мой путь (LIVE)",
       "upc": "821430004266",
-      "status": "needs-review",
-      "coverId": null,
-      "coverPath": null,
-      "sourcePath": null,
-      "sha256": null,
+      "status": "verified",
+      "coverId": "COV-099",
+      "coverPath": "assets/covers/by-release/cover-240.webp",
+      "sourcePath": "assets/covers/archive/cover-099.webp",
+      "sha256": "99d10d09bbfce3a8b93e2c29fdd6c4bbbd0626f392647f1f8ed4457e8515258a",
       "verification": {
-        "note": "No verified cover association; do not infer from file order."
+        "coverId": "COV-099",
+        "catalogId": "SNG-240",
+        "method": "catalog-owner-confirmation",
+        "confirmedBy": "Alik Tarraf",
+        "confirmedOn": "2026-09-10",
+        "ownerProvidedTitle": "Мой путь"
       }
     },
     {
@@ -4341,13 +4391,18 @@
       "releaseId": "https://aliktarraf.com/#catalog-sng-272-digital-release",
       "title": "King's move",
       "upc": "821500845171",
-      "status": "needs-review",
-      "coverId": null,
-      "coverPath": null,
-      "sourcePath": null,
-      "sha256": null,
+      "status": "verified",
+      "coverId": "COV-050",
+      "coverPath": "assets/covers/by-release/cover-272.webp",
+      "sourcePath": "assets/covers/archive/cover-050.webp",
+      "sha256": "e0f677051835cb1a58eb0944ea2f4ff56dfd7f97c1b20429bb507c167bd99abf",
       "verification": {
-        "note": "No verified cover association; do not infer from file order."
+        "coverId": "COV-050",
+        "catalogId": "SNG-272",
+        "method": "catalog-owner-confirmation",
+        "confirmedBy": "Alik Tarraf",
+        "confirmedOn": "2026-09-10",
+        "ownerProvidedTitle": "King’s move"
       }
     },
     {
@@ -4454,39 +4509,9 @@
       "note": "Побайтовый дубликат COV-018: Жизнь это Ринг (SNG-154)."
     },
     {
-      "coverId": "COV-046",
-      "status": "needs-review",
-      "note": "Название песни на обложке не указано: Алик и Марина в белом."
-    },
-    {
-      "coverId": "COV-050",
-      "status": "needs-review",
-      "note": "Название песни не указано: Алик в чёрной куртке, надпись TARRAF PRODUCTIONS."
-    },
-    {
-      "coverId": "COV-099",
-      "status": "needs-review",
-      "note": "Есть пометка VIP LIVE, но название песни не указано."
-    },
-    {
-      "coverId": "COV-133",
-      "status": "needs-review",
-      "note": "На обложке написано Insaid; в реестре есть Inside (SNG-210). Нужно подтвердить соответствие."
-    },
-    {
       "coverId": "COV-159",
       "status": "alternate-artwork",
       "note": "Второй файл обложки Колючий, но родной (SNG-146); основным выбран COV-010."
-    },
-    {
-      "coverId": "COV-170",
-      "status": "needs-review",
-      "note": "Портрет Марины у водопада; название песни не указано."
-    },
-    {
-      "coverId": "COV-171",
-      "status": "needs-review",
-      "note": "Алик в помещении у окна; название песни не указано."
     },
     {
       "coverId": "COV-186",
@@ -4494,34 +4519,9 @@
       "note": "Второй вариант Просто (remix), SNG-028; основным выбран COV-034. Не назначен обычному PROSTO."
     },
     {
-      "coverId": "COV-188",
-      "status": "needs-review",
-      "note": "Алик и Марина, короны и сценическая композиция; название песни не указано."
-    },
-    {
-      "coverId": "COV-211",
-      "status": "needs-review",
-      "note": "Алик поёт на сцене при фиолетовом свете; название песни не указано."
-    },
-    {
-      "coverId": "COV-212",
-      "status": "needs-review",
-      "note": "Тёмная иллюстрация с медведем; название песни не указано."
-    },
-    {
       "coverId": "COV-225",
       "status": "alternate-artwork",
       "note": "Второй файл обложки Мама (SNG-102); основным выбран COV-157."
-    },
-    {
-      "coverId": "COV-228",
-      "status": "needs-review",
-      "note": "Алик в наушниках у микрофона; название песни не указано."
-    },
-    {
-      "coverId": "COV-230",
-      "status": "needs-review",
-      "note": "На обложке Смысл жизни (live). Требуется подтвердить использование для SNG-078 или отдельного live-релиза."
     }
   ]
 }

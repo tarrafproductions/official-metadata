@@ -25,7 +25,7 @@ The existing `studio-singles.jsonld` filename is retained for integrations; its 
 The repository preserves all 279 supplied cover-art files in [`assets/covers/archive`](../assets/covers/archive), with source filenames and checksums in [`manifest.json`](../assets/covers/manifest.json). The archive uses source-order numbering. Verified release artwork is in [`assets/covers/by-release`](../assets/covers/by-release), where `cover-004.webp` corresponds to `SNG-004`, and so on.
 
 <!-- BEGIN GENERATED ARTWORK STATUS -->
-264 of 278 release products have a verified cover association (14 still need review). The [complete mapping](cover-mapping.md) includes singles and all three live albums; the [review list](cover-review-needed.md) shows unresolved artwork.
+275 of 278 release products have a verified cover association (3 still need review). The [complete mapping](cover-mapping.md) includes singles and all three live albums; the [review list](cover-review-needed.md) shows unresolved artwork.
 <!-- END GENERATED ARTWORK STATUS -->
 
 Website integrations should use the explicit `coverPath` in [`release-map.json`](../assets/covers/release-map.json), joined by catalog ID, release identity or UPC. Unverified associations have a null path. The Artwork column below uses the same mapping.
@@ -86,15 +86,15 @@ GitHub provides version history and public provenance; it does not replace regis
 | SNG-048 | 2025-09-10 | GODDESS | Alik Tarraf Marina Tarraf | 199737907826 | QZZ7U2554210 | DistroKid screenshot · 2026-09-07 | [cover-048.webp](../assets/covers/by-release/cover-048.webp) |
 | SNG-049 | 2025-09-11 | PARADISE | Alik Tarraf | 199737886343 | QZZ7U2557695 | Source-normalized | [cover-049.webp](../assets/covers/by-release/cover-049.webp) |
 | SNG-050 | 2025-09-12 | Semya v Serdtse | Alik Tarraf (feat. Aliana Tarraf) | 199737495767 | QZZ7V2541692 | Source-normalized | [cover-050.webp](../assets/covers/by-release/cover-050.webp) |
-| SNG-051 | 2025-09-12 | Shtorm i Lyubov | Marina Tarraf | 199737612591 | QZZ7V2520401 | DistroKid screenshot · 2026-09-07 | **Needs review** |
-| SNG-052 | 2025-09-12 | Sila Lyubvi | Alik Tarraf | 199737598277 | QZZ7V2523510 | DistroKid screenshot · 2026-09-07 | **Needs review** |
+| SNG-051 | 2025-09-12 | Shtorm i Lyubov | Marina Tarraf | 199737612591 | QZZ7V2520401 | DistroKid screenshot · 2026-09-07 | [cover-051.webp](../assets/covers/by-release/cover-051.webp) |
+| SNG-052 | 2025-09-12 | Sila Lyubvi | Alik Tarraf | 199737598277 | QZZ7V2523510 | DistroKid screenshot · 2026-09-07 | [cover-052.webp](../assets/covers/by-release/cover-052.webp) |
 | SNG-053 | 2025-09-13 | ASH and NEON | Alik Tarraf | 199737136721 | QZZ7W2511469 | Source-normalized | [cover-053.webp](../assets/covers/by-release/cover-053.webp) |
 | SNG-054 | 2025-09-14 | More Lyubvi | Alik Tarraf (feat. Marina Tarraf) | 199737115979 | QZZ7W2515106 | DistroKid UPC/title · ISRC retained | [cover-054.webp](../assets/covers/by-release/cover-054.webp) |
 | SNG-055 | 2025-09-14 | Фальшивая Любовь | Alik Tarraf | 199738970133 | QZZ7W2545487 | Source-normalized | [cover-055.webp](../assets/covers/by-release/cover-055.webp) |
 | SNG-056 | 2025-09-15 | Sister | Alik Tarraf | 199738677605 | QZZ7X2503248 | Source-normalized | [cover-056.webp](../assets/covers/by-release/cover-056.webp) |
 | SNG-057 | 2025-09-15 | Брат | Alik Tarraf | 199738685365 | QZZ7X2501327 | Source-normalized | [cover-057.webp](../assets/covers/by-release/cover-057.webp) |
 | SNG-058 | 2025-09-17 | Brother | Alik Tarraf | 199738216408 | QZZ7X2594221 | Source-normalized | [cover-058.webp](../assets/covers/by-release/cover-058.webp) |
-| SNG-059 | 2025-09-19 | New World | Alik Tarraf Marina Tarraf | 199739691075 | QT3EY2513941 | DistroKid screenshot · 2026-09-07 | **Needs review** |
+| SNG-059 | 2025-09-19 | New World | Alik Tarraf Marina Tarraf | 199739691075 | QT3EY2513941 | DistroKid screenshot · 2026-09-07 | [cover-059.webp](../assets/covers/by-release/cover-059.webp) |
 | SNG-060 | 2025-09-19 | STOP НАРКОТИК | Alik Tarraf | 199739862048 | QT3EX2572244 | Source-normalized | [cover-060.webp](../assets/covers/by-release/cover-060.webp) |
 | SNG-061 | 2025-09-20 | ARRIBA Y ABAJO | Alik Tarraf | 199739554028 | QT3EY2542532 | Source-normalized | [cover-061.webp](../assets/covers/by-release/cover-061.webp) |
 | SNG-062 | 2025-09-20 | Бусинка | Alik Tarraf | 199739520566 | QT3EY2549935 | Source-normalized | [cover-062.webp](../assets/covers/by-release/cover-062.webp) |
@@ -113,7 +113,7 @@ GitHub provides version history and public provenance; it does not replace regis
 | SNG-075 | 2025-09-29 | Гимн Одессы | Alik Tarraf | 199741244023 | QT3F52518015 | Source-normalized | [cover-075.webp](../assets/covers/by-release/cover-075.webp) |
 | SNG-076 | 2025-09-30 | HELLA | Alik Tarraf | 199741008069 | QT3F52572933 | Source-normalized | [cover-076.webp](../assets/covers/by-release/cover-076.webp) |
 | SNG-077 | 2025-09-30 | ГОРЬКО | Alik Tarraf | 199741006461 | QT3F52575403 | Source-normalized | [cover-077.webp](../assets/covers/by-release/cover-077.webp) |
-| SNG-078 | 2025-09-30 | Смысл Жизни | Alik Tarraf | 199742899222 | QT3F52596011 | Source-normalized | **Needs review** |
+| SNG-078 | 2025-09-30 | Смысл Жизни | Alik Tarraf | 199742899222 | QT3F52596011 | Source-normalized | [cover-078.webp](../assets/covers/by-release/cover-078.webp) |
 | SNG-079 | 2025-10-01 | ЛЕТИ | Alik Tarraf | 199742726863 | QT3F62535970 | Source-normalized | [cover-079.webp](../assets/covers/by-release/cover-079.webp) |
 | SNG-080 | 2025-10-02 | ABU DHABI NIGHTS | Alik Tarraf | 199742334662 | QT3F72520533 | Source-normalized | [cover-080.webp](../assets/covers/by-release/cover-080.webp) |
 | SNG-081 | 2025-10-02 | ВЛАСТЬ | Alik Tarraf | 199742433303 | QT3F72503137 | Source-normalized | [cover-081.webp](../assets/covers/by-release/cover-081.webp) |
@@ -127,8 +127,8 @@ GitHub provides version history and public provenance; it does not replace regis
 | SNG-089 | 2025-10-05 | Sanctum Fire | Alik Tarraf | 199743450811 | QT3F92507283 | Source-normalized | [cover-089.webp](../assets/covers/by-release/cover-089.webp) |
 | SNG-090 | 2025-10-05 | ЗСУ | Alik Tarraf | 199743546187 | QT3F82587252 | Source-normalized | [cover-090.webp](../assets/covers/by-release/cover-090.webp) |
 | SNG-091 | 2025-10-05 | КИЇВ | Alik Tarraf | 199743549454 | QT3F82583937 | Source-normalized | [cover-091.webp](../assets/covers/by-release/cover-091.webp) |
-| SNG-092 | 2025-10-05 | ПРОЩАЙ | Alik Tarraf | 199743524048 | QT3F82590514 | Source-normalized | **Needs review** |
-| SNG-093 | 2025-10-05 | ТЕНИ | Alik Tarraf | 199743452464 | QT3F92505012 | Source-normalized | **Needs review** |
+| SNG-092 | 2025-10-05 | ПРОЩАЙ | Alik Tarraf | 199743524048 | QT3F82590514 | Source-normalized | [cover-092.webp](../assets/covers/by-release/cover-092.webp) |
+| SNG-093 | 2025-10-05 | ТЕНИ | Alik Tarraf | 199743452464 | QT3F92505012 | Source-normalized | [cover-093.webp](../assets/covers/by-release/cover-093.webp) |
 | SNG-094 | 2025-10-06 | POSSESSED | Marina Tarraf | 199743290448 | QT3F92537714 | DistroKid screenshot · 2026-09-07 | [cover-094.webp](../assets/covers/by-release/cover-094.webp) |
 | SNG-095 | 2025-10-06 | Запретный Вкус | Alik Tarraf | 199743292206 | QT3F92535289 | Source-normalized | [cover-095.webp](../assets/covers/by-release/cover-095.webp) |
 | SNG-096 | 2025-10-07 | Instagram (soundtrack) | Alik Tarraf | 199744958323 | QT3FA2508029 | Source-normalized | [cover-096.webp](../assets/covers/by-release/cover-096.webp) |
@@ -143,7 +143,7 @@ GitHub provides version history and public provenance; it does not replace regis
 | SNG-105 | 2025-10-17 | Anima Obscura (Dark Ritual Song) | Alik Tarraf | 199746102007 | QT3FG2507072 | DistroKid screenshot · 2026-09-07 | [cover-105.webp](../assets/covers/by-release/cover-105.webp) |
 | SNG-106 | 2025-10-17 | HELLO | Alik Tarraf | 199746331070 | QT3FF2557854 | Source-normalized | [cover-106.webp](../assets/covers/by-release/cover-106.webp) |
 | SNG-107 | 2025-10-19 | БУМЕРАНГ | Alik Tarraf | 199747546978 | QT3FH2514472 | Source-normalized | [cover-107.webp](../assets/covers/by-release/cover-107.webp) |
-| SNG-108 | 2025-10-22 | Meaning of Life | Alik Tarraf | 199748808495 | QT6E52575346 | DistroKid screenshot · 2026-09-07 | **Needs review** |
+| SNG-108 | 2025-10-22 | Meaning of Life | Alik Tarraf | 199748808495 | QT6E52575346 | DistroKid screenshot · 2026-09-07 | [cover-108.webp](../assets/covers/by-release/cover-108.webp) |
 | SNG-109 | 2025-10-22 | VEVO | Alik Tarraf | 199748950453 | QT6E52548061 | Source-normalized | [cover-109.webp](../assets/covers/by-release/cover-109.webp) |
 | SNG-110 | 2025-10-23 | BANINA BANINA YALLA TARRAF | Alik Tarraf, Marina Tarraf | 199748545277 | QT6E62524228 | DistroKid screenshot · 2026-09-07 | [cover-110.webp](../assets/covers/by-release/cover-110.webp) |
 | SNG-111 | 2025-10-23 | ПІСНЯ КРАКЕНА — “ВІТО І ЮТА” | Alik Tarraf | 199748424800 | QT6E62558415 | Source-normalized | [cover-111.webp](../assets/covers/by-release/cover-111.webp) |
@@ -217,7 +217,7 @@ GitHub provides version history and public provenance; it does not replace regis
 | SNG-179 | 2026-01-08 | ЭТО МЕЛОЧИ | Alik Tarraf | 821451719811 | QZFZ62683800 | DistroKid screenshot · 2026-09-07 | [cover-179.webp](../assets/covers/by-release/cover-179.webp) |
 | SNG-180 | 2026-01-09 | AFTER MIDNIGHT / INSTINCT MODE | Marina Tarraf (feat. Alik Tarraf) | 821550870789 | QZFZ62683941 | Source-normalized | [cover-180.webp](../assets/covers/by-release/cover-180.webp) |
 | SNG-181 | 2026-01-11 | ЧОМУ Я БЕЗ ДОМУ | Marina Tarraf (feat. Aliana Tarraf) | 821550100572 | QZDA42690879 | Source-normalized | [cover-181.webp](../assets/covers/by-release/cover-181.webp) |
-| SNG-182 | 2026-01-12 | DICTATOR MODE | Marina Tarraf (feat. Alik Tarraf) | 821530772225 | QZDA42696455 | Source-normalized | **Needs review** |
+| SNG-182 | 2026-01-12 | DICTATOR MODE | Marina Tarraf (feat. Alik Tarraf) | 821530772225 | QZDA42696455 | Source-normalized | [cover-182.webp](../assets/covers/by-release/cover-182.webp) |
 | SNG-183 | 2026-01-12 | I'M HUNGRY | Alik Tarraf | 821530774205 | QZDA42650506 | DistroKid screenshot · 2026-09-07 | [cover-183.webp](../assets/covers/by-release/cover-183.webp) |
 | SNG-184 | 2026-01-13 | Тарраф продакшинс поздравляет с Новым Годом | Alik Tarraf | 199934754469 | QZFZ42614354 | Source-normalized | [cover-184.webp](../assets/covers/by-release/cover-184.webp) |
 | SNG-185 | 2026-01-27 | TARRAF LIVE SHOW (Live) | Alik Tarraf | 821473229817 | QZHN62624144 | DistroKid dashboard verified | [cover-185.webp](../assets/covers/by-release/cover-185.webp) |
@@ -245,7 +245,7 @@ GitHub provides version history and public provenance; it does not replace regis
 | SNG-207 | 2026-05-21 | Відповідай мені | Alik Tarraf (feat. Marina Tarraf) | 825259288326 | QZZ7L2628726 | Public-catalog verified | [cover-207.webp](../assets/covers/by-release/cover-207.webp) |
 | SNG-208 | 2026-05-25 | البوميرانغ | Alik Tarraf | 825233033034 | QZZ7P2610480 | Public-catalog verified | [cover-208.webp](../assets/covers/by-release/cover-208.webp) |
 | SNG-209 | 2026-05-27 | Born for more - Рождены для большего [LIVE] | Alik Tarraf (feat. Marina Tarraf) | 825254965307 | QZZ7L2635089 | Public-catalog verified | [cover-209.webp](../assets/covers/by-release/cover-209.webp) |
-| SNG-210 | 2026-05-29 | Inside | Alik Tarraf | 825233680368 | QZZ7M2682636 | Public-catalog verified | **Needs review** |
+| SNG-210 | 2026-05-29 | Inside | Alik Tarraf | 825233680368 | QZZ7M2682636 | Public-catalog verified | [cover-210.webp](../assets/covers/by-release/cover-210.webp) |
 | SNG-211 | 2026-06-01 | يا روح لا تبكي - We are guests [TARRAF LIVE SHOW] | Alik Tarraf (feat. Marina Tarraf) | 882000177995 | QT3EX2647792 | Public-catalog verified | [cover-211.webp](../assets/covers/by-release/cover-211.webp) |
 | SNG-212 | 2026-06-03 | Курочка ряба [TARRAF CARTOON] | Marina Tarraf (feat. Alik Tarraf) | 825233594627 | QZZ7P2640453 | Public-catalog verified | [cover-212.webp](../assets/covers/by-release/cover-212.webp) |
 | SNG-213 | 2026-06-05 | أيام - Of Fire | Alik Tarraf (feat. Marina Tarraf) | 883071618028 | QT3EZ2625056 | Public-catalog verified | [cover-213.webp](../assets/covers/by-release/cover-213.webp) |
@@ -275,7 +275,7 @@ GitHub provides version history and public provenance; it does not replace regis
 | SNG-237 | 2026-03-01 | Он рисует мир | Alik Tarraf | 821300919539 | QZMEP2615493 | DistroKid detail verified | [cover-237.webp](../assets/covers/by-release/cover-237.webp) |
 | SNG-238 | 2026-02-26 | После 40 | Alik Tarraf | 821406369436 | QZK6J2673410 | DistroKid detail verified | [cover-238.webp](../assets/covers/by-release/cover-238.webp) |
 | SNG-239 | 2026-03-15 | OBARABO (الصحراء العجيبة) | Alik Tarraf | 821406526259 | QZK6J2642099 | DistroKid detail verified | [cover-239.webp](../assets/covers/by-release/cover-239.webp) |
-| SNG-240 | 2026-02-24 | Мой путь (LIVE) | Alik Tarraf | 821430004266 | QZK6H2644131 | DistroKid detail verified | **Needs review** |
+| SNG-240 | 2026-02-24 | Мой путь (LIVE) | Alik Tarraf | 821430004266 | QZK6H2644131 | DistroKid detail verified | [cover-240.webp](../assets/covers/by-release/cover-240.webp) |
 | SNG-241 | 2026-03-11 | OBARABO (DOMINÉ) | Alik Tarraf | 821430010977 | QZK6K2667471 | DistroKid detail verified | [cover-241.webp](../assets/covers/by-release/cover-241.webp) |
 | SNG-242 | 2026-03-03 | OBARABO (ANRA LUMÉ) | Alik Tarraf | 821430023823 | QZK6K2667447 | DistroKid detail verified | [cover-242.webp](../assets/covers/by-release/cover-242.webp) |
 | SNG-243 | 2026-02-24 | I Rise | Alik Tarraf | 821430038339 | QZK6K2665001 | DistroKid detail verified | [cover-243.webp](../assets/covers/by-release/cover-243.webp) |
@@ -307,7 +307,7 @@ GitHub provides version history and public provenance; it does not replace regis
 | SNG-269 | 2026-02-08 | Я слышу тебя | Alik Tarraf | 821473856082 | QZHN32618130 | DistroKid screenshot · 2026-09-07 | [cover-269.webp](../assets/covers/by-release/cover-269.webp) |
 | SNG-270 | 2026-01-25 | ЗА ЧТО | Alik Tarraf | 821473977428 | QZES92694771 | DistroKid screenshot · 2026-09-07 | [cover-270.webp](../assets/covers/by-release/cover-270.webp) |
 | SNG-271 | 2026-02-04 | Детство ((New Version)) | Alik Tarraf | 821500164579 | QZES92663296 | DistroKid detail verified | [cover-271.webp](../assets/covers/by-release/cover-271.webp) |
-| SNG-272 | 2026-01-30 | King's move | Alik Tarraf | 821500845171 | QZES82639913 | DistroKid screenshot · 2026-09-07 | **Needs review** |
+| SNG-272 | 2026-01-30 | King's move | Alik Tarraf | 821500845171 | QZES82639913 | DistroKid screenshot · 2026-09-07 | [cover-272.webp](../assets/covers/by-release/cover-272.webp) |
 | SNG-273 | 2026-01-28 | Смотри это Алик | Alik Tarraf | 821520484602 | QZDA82684848 | DistroKid detail verified | [cover-273.webp](../assets/covers/by-release/cover-273.webp) |
 | SNG-274 | 2026-01-26 | Life is not a game | Alik Tarraf | 821520512831 | QZDA82681109 | DistroKid detail verified | [cover-274.webp](../assets/covers/by-release/cover-274.webp) |
 | SNG-275 | 2026-01-23 | Огонь в крови | Alik Tarraf | 821526627324 | QZDA62676404 | DistroKid detail verified | [cover-275.webp](../assets/covers/by-release/cover-275.webp) |

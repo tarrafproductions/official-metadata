@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "reviewedOn": "2026-09-10",
-  "reviewedBy": "Codex visual review; not an owner approval claim",
+  "reviewedBy": "Codex visual review; owner-confirmed entries explicitly attributed to Alik Tarraf.",
   "sourceCommit": "e52af4712ee3470d6c07616d6c0643fbee2915f5",
-  "methodology": "Every supplied archive image was visually inspected. Explicit artwork titles and versions were matched to the canonical register; selected ambiguous artwork was compared with the linked Apple Music pages. Unresolved cases are not assigned by ordinal position or elimination.",
+  "methodology": "Every supplied archive image was visually inspected. Explicit artwork titles and versions were matched to the canonical register; selected ambiguous artwork was compared with the linked Apple Music pages. Unresolved cases are not assigned by ordinal position or elimination. On 2026-09-10, catalog owner Alik Tarraf supplied explicit cover-to-title associations for all 11 previously ambiguous archive images; those entries are separately marked catalog-owner-confirmation.",
   "matches": [
     {
       "coverId": "COV-001",
@@ -228,6 +228,14 @@
       "method": "visual-title-and-version-match"
     },
     {
+      "coverId": "COV-046",
+      "catalogId": "SNG-182",
+      "method": "catalog-owner-confirmation",
+      "confirmedBy": "Alik Tarraf",
+      "confirmedOn": "2026-09-10",
+      "ownerProvidedTitle": "Dictator mode"
+    },
+    {
       "coverId": "COV-047",
       "catalogId": "SNG-275",
       "method": "visual-title-and-version-match"
@@ -241,6 +249,14 @@
       "coverId": "COV-049",
       "catalogId": "SNG-273",
       "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-050",
+      "catalogId": "SNG-272",
+      "method": "catalog-owner-confirmation",
+      "confirmedBy": "Alik Tarraf",
+      "confirmedOn": "2026-09-10",
+      "ownerProvidedTitle": "King’s move"
     },
     {
       "coverId": "COV-051",
@@ -483,6 +499,14 @@
       "method": "visual-title-and-version-match"
     },
     {
+      "coverId": "COV-099",
+      "catalogId": "SNG-240",
+      "method": "catalog-owner-confirmation",
+      "confirmedBy": "Alik Tarraf",
+      "confirmedOn": "2026-09-10",
+      "ownerProvidedTitle": "Мой путь"
+    },
+    {
       "coverId": "COV-100",
       "catalogId": "SNG-244",
       "method": "visual-title-and-version-match"
@@ -646,6 +670,14 @@
       "coverId": "COV-132",
       "catalogId": "SNG-200",
       "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-133",
+      "catalogId": "SNG-210",
+      "method": "catalog-owner-confirmation",
+      "confirmedBy": "Alik Tarraf",
+      "confirmedOn": "2026-09-10",
+      "ownerProvidedTitle": "Inside"
     },
     {
       "coverId": "COV-134",
@@ -823,6 +855,22 @@
       "method": "visual-title-and-version-match"
     },
     {
+      "coverId": "COV-170",
+      "catalogId": "SNG-051",
+      "method": "catalog-owner-confirmation",
+      "confirmedBy": "Alik Tarraf",
+      "confirmedOn": "2026-09-10",
+      "ownerProvidedTitle": "шторм и любовь"
+    },
+    {
+      "coverId": "COV-171",
+      "catalogId": "SNG-052",
+      "method": "catalog-owner-confirmation",
+      "confirmedBy": "Alik Tarraf",
+      "confirmedOn": "2026-09-10",
+      "ownerProvidedTitle": "Сила любви"
+    },
+    {
       "coverId": "COV-172",
       "catalogId": "SNG-050",
       "method": "apple-music-visible-artwork-match",
@@ -900,6 +948,14 @@
       "coverId": "COV-187",
       "catalogId": "SNG-060",
       "method": "visual-title-and-version-match"
+    },
+    {
+      "coverId": "COV-188",
+      "catalogId": "SNG-059",
+      "method": "catalog-owner-confirmation",
+      "confirmedBy": "Alik Tarraf",
+      "confirmedOn": "2026-09-10",
+      "ownerProvidedTitle": "New world"
     },
     {
       "coverId": "COV-189",
@@ -1012,6 +1068,22 @@
       "method": "visual-title-and-version-match"
     },
     {
+      "coverId": "COV-211",
+      "catalogId": "SNG-092",
+      "method": "catalog-owner-confirmation",
+      "confirmedBy": "Alik Tarraf",
+      "confirmedOn": "2026-09-10",
+      "ownerProvidedTitle": "прощай"
+    },
+    {
+      "coverId": "COV-212",
+      "catalogId": "SNG-093",
+      "method": "catalog-owner-confirmation",
+      "confirmedBy": "Alik Tarraf",
+      "confirmedOn": "2026-09-10",
+      "ownerProvidedTitle": "Тени"
+    },
+    {
       "coverId": "COV-213",
       "catalogId": "SNG-098",
       "method": "visual-title-and-version-match"
@@ -1083,12 +1155,28 @@
       "method": "visual-title-and-version-match"
     },
     {
+      "coverId": "COV-228",
+      "catalogId": "SNG-108",
+      "method": "catalog-owner-confirmation",
+      "confirmedBy": "Alik Tarraf",
+      "confirmedOn": "2026-09-10",
+      "ownerProvidedTitle": "Meaning of life"
+    },
+    {
       "coverId": "COV-229",
       "catalogId": "SNG-110",
       "method": "apple-music-visible-artwork-match",
       "referenceUrl": "https://music.apple.com/ua/album/banina-banina-yalla-tarraf/1848684907?i=1848684908",
       "referenceIsrc": "QT6E62524228",
       "note": "Artwork observed in the labelled BANINA BANINA YALLA TARRAF album card on the ASH and NEON page."
+    },
+    {
+      "coverId": "COV-230",
+      "catalogId": "SNG-078",
+      "method": "catalog-owner-confirmation",
+      "confirmedBy": "Alik Tarraf",
+      "confirmedOn": "2026-09-10",
+      "ownerProvidedTitle": "Смысл жизни"
     },
     {
       "coverId": "COV-231",
@@ -1348,39 +1436,9 @@
       "note": "Побайтовый дубликат COV-018: Жизнь это Ринг (SNG-154)."
     },
     {
-      "coverId": "COV-046",
-      "status": "needs-review",
-      "note": "Название песни на обложке не указано: Алик и Марина в белом."
-    },
-    {
-      "coverId": "COV-050",
-      "status": "needs-review",
-      "note": "Название песни не указано: Алик в чёрной куртке, надпись TARRAF PRODUCTIONS."
-    },
-    {
-      "coverId": "COV-099",
-      "status": "needs-review",
-      "note": "Есть пометка VIP LIVE, но название песни не указано."
-    },
-    {
-      "coverId": "COV-133",
-      "status": "needs-review",
-      "note": "На обложке написано Insaid; в реестре есть Inside (SNG-210). Нужно подтвердить соответствие."
-    },
-    {
       "coverId": "COV-159",
       "status": "alternate-artwork",
       "note": "Второй файл обложки Колючий, но родной (SNG-146); основным выбран COV-010."
-    },
-    {
-      "coverId": "COV-170",
-      "status": "needs-review",
-      "note": "Портрет Марины у водопада; название песни не указано."
-    },
-    {
-      "coverId": "COV-171",
-      "status": "needs-review",
-      "note": "Алик в помещении у окна; название песни не указано."
     },
     {
       "coverId": "COV-186",
@@ -1388,34 +1446,9 @@
       "note": "Второй вариант Просто (remix), SNG-028; основным выбран COV-034. Не назначен обычному PROSTO."
     },
     {
-      "coverId": "COV-188",
-      "status": "needs-review",
-      "note": "Алик и Марина, короны и сценическая композиция; название песни не указано."
-    },
-    {
-      "coverId": "COV-211",
-      "status": "needs-review",
-      "note": "Алик поёт на сцене при фиолетовом свете; название песни не указано."
-    },
-    {
-      "coverId": "COV-212",
-      "status": "needs-review",
-      "note": "Тёмная иллюстрация с медведем; название песни не указано."
-    },
-    {
       "coverId": "COV-225",
       "status": "alternate-artwork",
       "note": "Второй файл обложки Мама (SNG-102); основным выбран COV-157."
-    },
-    {
-      "coverId": "COV-228",
-      "status": "needs-review",
-      "note": "Алик в наушниках у микрофона; название песни не указано."
-    },
-    {
-      "coverId": "COV-230",
-      "status": "needs-review",
-      "note": "На обложке Смысл жизни (live). Требуется подтвердить использование для SNG-078 или отдельного live-релиза."
     }
   ]
 }

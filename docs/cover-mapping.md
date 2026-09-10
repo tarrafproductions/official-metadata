@@ -1,6 +1,6 @@
 # Release artwork mapping
 
-264 of 278 release products have a verified artwork association; 14 remain explicitly unassigned.
+275 of 278 release products have a verified artwork association; 3 remain explicitly unassigned.
 
 Generated from the [visual review](../sources/cover-art-review-2026-09-10.json). Archive filenames are source-order IDs, not release IDs.
 
@@ -58,15 +58,15 @@ Use `coverPath` from [release-map.json](../assets/covers/release-map.json), join
 | SNG-048 | GODDESS | 199737907826 | [cover-048.webp](../assets/covers/by-release/cover-048.webp) |
 | SNG-049 | PARADISE | 199737886343 | [cover-049.webp](../assets/covers/by-release/cover-049.webp) |
 | SNG-050 | Semya v Serdtse | 199737495767 | [cover-050.webp](../assets/covers/by-release/cover-050.webp) |
-| SNG-051 | Shtorm i Lyubov | 199737612591 | **Needs review** |
-| SNG-052 | Sila Lyubvi | 199737598277 | **Needs review** |
+| SNG-051 | Shtorm i Lyubov | 199737612591 | [cover-051.webp](../assets/covers/by-release/cover-051.webp) |
+| SNG-052 | Sila Lyubvi | 199737598277 | [cover-052.webp](../assets/covers/by-release/cover-052.webp) |
 | SNG-053 | ASH and NEON | 199737136721 | [cover-053.webp](../assets/covers/by-release/cover-053.webp) |
 | SNG-054 | More Lyubvi | 199737115979 | [cover-054.webp](../assets/covers/by-release/cover-054.webp) |
 | SNG-055 | Фальшивая Любовь | 199738970133 | [cover-055.webp](../assets/covers/by-release/cover-055.webp) |
 | SNG-056 | Sister | 199738677605 | [cover-056.webp](../assets/covers/by-release/cover-056.webp) |
 | SNG-057 | Брат | 199738685365 | [cover-057.webp](../assets/covers/by-release/cover-057.webp) |
 | SNG-058 | Brother | 199738216408 | [cover-058.webp](../assets/covers/by-release/cover-058.webp) |
-| SNG-059 | New World | 199739691075 | **Needs review** |
+| SNG-059 | New World | 199739691075 | [cover-059.webp](../assets/covers/by-release/cover-059.webp) |
 | SNG-060 | STOP НАРКОТИК | 199739862048 | [cover-060.webp](../assets/covers/by-release/cover-060.webp) |
 | SNG-061 | ARRIBA Y ABAJO | 199739554028 | [cover-061.webp](../assets/covers/by-release/cover-061.webp) |
 | SNG-062 | Бусинка | 199739520566 | [cover-062.webp](../assets/covers/by-release/cover-062.webp) |
@@ -85,7 +85,7 @@ Use `coverPath` from [release-map.json](../assets/covers/release-map.json), join
 | SNG-075 | Гимн Одессы | 199741244023 | [cover-075.webp](../assets/covers/by-release/cover-075.webp) |
 | SNG-076 | HELLA | 199741008069 | [cover-076.webp](../assets/covers/by-release/cover-076.webp) |
 | SNG-077 | ГОРЬКО | 199741006461 | [cover-077.webp](../assets/covers/by-release/cover-077.webp) |
-| SNG-078 | Смысл Жизни | 199742899222 | **Needs review** |
+| SNG-078 | Смысл Жизни | 199742899222 | [cover-078.webp](../assets/covers/by-release/cover-078.webp) |
 | SNG-079 | ЛЕТИ | 199742726863 | [cover-079.webp](../assets/covers/by-release/cover-079.webp) |
 | SNG-080 | ABU DHABI NIGHTS | 199742334662 | [cover-080.webp](../assets/covers/by-release/cover-080.webp) |
 | SNG-081 | ВЛАСТЬ | 199742433303 | [cover-081.webp](../assets/covers/by-release/cover-081.webp) |
@@ -99,8 +99,8 @@ Use `coverPath` from [release-map.json](../assets/covers/release-map.json), join
 | SNG-089 | Sanctum Fire | 199743450811 | [cover-089.webp](../assets/covers/by-release/cover-089.webp) |
 | SNG-090 | ЗСУ | 199743546187 | [cover-090.webp](../assets/covers/by-release/cover-090.webp) |
 | SNG-091 | КИЇВ | 199743549454 | [cover-091.webp](../assets/covers/by-release/cover-091.webp) |
-| SNG-092 | ПРОЩАЙ | 199743524048 | **Needs review** |
-| SNG-093 | ТЕНИ | 199743452464 | **Needs review** |
+| SNG-092 | ПРОЩАЙ | 199743524048 | [cover-092.webp](../assets/covers/by-release/cover-092.webp) |
+| SNG-093 | ТЕНИ | 199743452464 | [cover-093.webp](../assets/covers/by-release/cover-093.webp) |
 | SNG-094 | POSSESSED | 199743290448 | [cover-094.webp](../assets/covers/by-release/cover-094.webp) |
 | SNG-095 | Запретный Вкус | 199743292206 | [cover-095.webp](../assets/covers/by-release/cover-095.webp) |
 | SNG-096 | Instagram (soundtrack) | 199744958323 | [cover-096.webp](../assets/covers/by-release/cover-096.webp) |
@@ -115,7 +115,7 @@ Use `coverPath` from [release-map.json](../assets/covers/release-map.json), join
 | SNG-105 | Anima Obscura (Dark Ritual Song) | 199746102007 | [cover-105.webp](../assets/covers/by-release/cover-105.webp) |
 | SNG-106 | HELLO | 199746331070 | [cover-106.webp](../assets/covers/by-release/cover-106.webp) |
 | SNG-107 | БУМЕРАНГ | 199747546978 | [cover-107.webp](../assets/covers/by-release/cover-107.webp) |
-| SNG-108 | Meaning of Life | 199748808495 | **Needs review** |
+| SNG-108 | Meaning of Life | 199748808495 | [cover-108.webp](../assets/covers/by-release/cover-108.webp) |
 | SNG-109 | VEVO | 199748950453 | [cover-109.webp](../assets/covers/by-release/cover-109.webp) |
 | SNG-110 | BANINA BANINA YALLA TARRAF | 199748545277 | [cover-110.webp](../assets/covers/by-release/cover-110.webp) |
 | SNG-111 | ПІСНЯ КРАКЕНА — “ВІТО І ЮТА” | 199748424800 | [cover-111.webp](../assets/covers/by-release/cover-111.webp) |
@@ -189,7 +189,7 @@ Use `coverPath` from [release-map.json](../assets/covers/release-map.json), join
 | SNG-179 | ЭТО МЕЛОЧИ | 821451719811 | [cover-179.webp](../assets/covers/by-release/cover-179.webp) |
 | SNG-180 | AFTER MIDNIGHT / INSTINCT MODE | 821550870789 | [cover-180.webp](../assets/covers/by-release/cover-180.webp) |
 | SNG-181 | ЧОМУ Я БЕЗ ДОМУ | 821550100572 | [cover-181.webp](../assets/covers/by-release/cover-181.webp) |
-| SNG-182 | DICTATOR MODE | 821530772225 | **Needs review** |
+| SNG-182 | DICTATOR MODE | 821530772225 | [cover-182.webp](../assets/covers/by-release/cover-182.webp) |
 | SNG-183 | I'M HUNGRY | 821530774205 | [cover-183.webp](../assets/covers/by-release/cover-183.webp) |
 | SNG-184 | Тарраф продакшинс поздравляет с Новым Годом | 199934754469 | [cover-184.webp](../assets/covers/by-release/cover-184.webp) |
 | SNG-185 | TARRAF LIVE SHOW (Live) | 821473229817 | [cover-185.webp](../assets/covers/by-release/cover-185.webp) |
@@ -217,7 +217,7 @@ Use `coverPath` from [release-map.json](../assets/covers/release-map.json), join
 | SNG-207 | Відповідай мені | 825259288326 | [cover-207.webp](../assets/covers/by-release/cover-207.webp) |
 | SNG-208 | البوميرانغ | 825233033034 | [cover-208.webp](../assets/covers/by-release/cover-208.webp) |
 | SNG-209 | Born for more - Рождены для большего [LIVE] | 825254965307 | [cover-209.webp](../assets/covers/by-release/cover-209.webp) |
-| SNG-210 | Inside | 825233680368 | **Needs review** |
+| SNG-210 | Inside | 825233680368 | [cover-210.webp](../assets/covers/by-release/cover-210.webp) |
 | SNG-211 | يا روح لا تبكي - We are guests [TARRAF LIVE SHOW] | 882000177995 | [cover-211.webp](../assets/covers/by-release/cover-211.webp) |
 | SNG-212 | Курочка ряба [TARRAF CARTOON] | 825233594627 | [cover-212.webp](../assets/covers/by-release/cover-212.webp) |
 | SNG-213 | أيام - Of Fire | 883071618028 | [cover-213.webp](../assets/covers/by-release/cover-213.webp) |
@@ -247,7 +247,7 @@ Use `coverPath` from [release-map.json](../assets/covers/release-map.json), join
 | SNG-237 | Он рисует мир | 821300919539 | [cover-237.webp](../assets/covers/by-release/cover-237.webp) |
 | SNG-238 | После 40 | 821406369436 | [cover-238.webp](../assets/covers/by-release/cover-238.webp) |
 | SNG-239 | OBARABO (الصحراء العجيبة) | 821406526259 | [cover-239.webp](../assets/covers/by-release/cover-239.webp) |
-| SNG-240 | Мой путь (LIVE) | 821430004266 | **Needs review** |
+| SNG-240 | Мой путь (LIVE) | 821430004266 | [cover-240.webp](../assets/covers/by-release/cover-240.webp) |
 | SNG-241 | OBARABO (DOMINÉ) | 821430010977 | [cover-241.webp](../assets/covers/by-release/cover-241.webp) |
 | SNG-242 | OBARABO (ANRA LUMÉ) | 821430023823 | [cover-242.webp](../assets/covers/by-release/cover-242.webp) |
 | SNG-243 | I Rise | 821430038339 | [cover-243.webp](../assets/covers/by-release/cover-243.webp) |
@@ -279,7 +279,7 @@ Use `coverPath` from [release-map.json](../assets/covers/release-map.json), join
 | SNG-269 | Я слышу тебя | 821473856082 | [cover-269.webp](../assets/covers/by-release/cover-269.webp) |
 | SNG-270 | ЗА ЧТО | 821473977428 | [cover-270.webp](../assets/covers/by-release/cover-270.webp) |
 | SNG-271 | Детство ((New Version)) | 821500164579 | [cover-271.webp](../assets/covers/by-release/cover-271.webp) |
-| SNG-272 | King's move | 821500845171 | **Needs review** |
+| SNG-272 | King's move | 821500845171 | [cover-272.webp](../assets/covers/by-release/cover-272.webp) |
 | SNG-273 | Смотри это Алик | 821520484602 | [cover-273.webp](../assets/covers/by-release/cover-273.webp) |
 | SNG-274 | Life is not a game | 821520512831 | [cover-274.webp](../assets/covers/by-release/cover-274.webp) |
 | SNG-275 | Огонь в крови | 821526627324 | [cover-275.webp](../assets/covers/by-release/cover-275.webp) |

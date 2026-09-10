@@ -151,24 +151,35 @@ def build(root):
         raise ValueError('Discography does not contain every canonical single')
     files[discography_path] = ('\n'.join(lines) + '\n').encode('utf-8')
     pending = ['# Обложки: что осталось подтвердить', '',
-               'Проверенные пары уже включены в `assets/covers/release-map.json`. Здесь только нерешённые вопросы. Номер COV относится к исходному архиву, номер SNG — к релизу.', '',
+               'Проверенные пары уже включены в `assets/covers/release-map.json`. Оставшиеся вопросы и подтверждения владельца приведены ниже. Номер COV относится к исходному архиву, номер SNG — к релизу.', '',
                '## Релизы без подтверждённой обложки', '',
                '| ID | Название | UPC |', '| --- | --- | --- |']
     for r in rows:
         if not r['coverPath']:
             pending.append('| %s | %s | %s |' % (r['catalogId'], r['title'], r['upc']))
-    pending += ['', '## Картинки для уточнения', '',
-                'Для картинки достаточно указать название релиза или его SNG-ID. Если нужной обложки здесь нет, нужен её исходный файл. Статусы дубликатов приведены отдельно ниже.', '',
-                '| Обложка | Что нужно уточнить |', '| --- | --- |']
-    for item in review['unassignedCovers']:
-        if item['status'] not in ('duplicate', 'alternate-artwork'):
+    needs_review = [item for item in review['unassignedCovers']
+                    if item['status'] not in ('duplicate', 'alternate-artwork')]
+    if needs_review:
+        pending += ['', '## Картинки для уточнения', '',
+                    'Для картинки достаточно указать название релиза или его SNG-ID. Если нужной обложки здесь нет, нужен её исходный файл. Статусы дубликатов приведены отдельно ниже.', '',
+                    '| Обложка | Что нужно уточнить |', '| --- | --- |']
+        for item in needs_review:
             pending.append('| **%s** ![%s](../%s) | %s |' % (item['coverId'], item['coverId'], covers[item['coverId']]['path'], item['note']))
+    else:
+        pending += ['', 'Все архивные файлы сопоставлены с релизами либо отмечены как дубликаты или альтернативные варианты. Для релизов из списка выше нужны их обложки или подтверждение, какой из имеющихся файлов использовать.']
+    owner_matches = [m for m in review['matches'] if m['method'] == 'catalog-owner-confirmation']
+    if owner_matches:
+        pending += ['', '## Подтверждения владельца', '',
+                    'Эти соответствия уточнены владельцем каталога Аликом Таррафом и уже применены.', '',
+                    '| Архивная обложка | Релиз | Название в каталоге |', '| --- | --- | --- |']
+        for m in owner_matches:
+            pending.append('| %s | %s | %s |' % (m['coverId'], m['catalogId'], by_id[m['catalogId']]['title']))
     pending += ['', '## Дубликаты и альтернативные файлы', '', '| Файл | Пояснение |', '| --- | --- |']
     for item in review['unassignedCovers']:
         if item['status'] in ('duplicate', 'alternate-artwork'):
             pending.append('| %s | %s |' % (item['coverId'], item['note']))
-    pending += ['', 'PROSTO (SNG-015): на проверенной странице Apple Music изображена Марина на оранжевом фоне с надписью «ПРОСТО» без remix. В исходном архиве найденные COV-034 и COV-186 имеют другую композицию и надпись remix; использовать их для SNG-015 без подтверждения нельзя.', '',
-                'Для остальных пар требуется дополнительная сверка с официальной страницей релиза или подтверждение владельца каталога.']
+    if not by_id['SNG-015']['coverPath']:
+        pending += ['', 'PROSTO (SNG-015): на проверенной странице Apple Music изображена Марина на оранжевом фоне с надписью «ПРОСТО» без remix. В исходном архиве найденные COV-034 и COV-186 имеют другую композицию и надпись remix; использовать их для SNG-015 без подтверждения нельзя.']
     files['docs/cover-review-needed.md'] = ('\n'.join(pending) + '\n').encode('utf-8')
     return files, output
 
