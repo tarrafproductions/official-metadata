@@ -1,8 +1,8 @@
 # Catalog exports
 
 Download [`catalog.csv`](catalog.csv) for a flat table or [`catalog.json`](catalog.json)
-for typed data and array fields. Both files are generated from the canonical
-JSON-LD and checked against it in CI.
+for typed data and array fields. Both files and the marked discography table are generated from the canonical
+JSON-LD and checked against it in CI. Never edit generated rows by hand.
 
 The export contains **339 recording appearances, 338 distinct ISRCs and 278
 release UPCs**: 275 standalone single products plus 64 ordered track positions
@@ -18,6 +18,7 @@ recording for the album appearance.
 | `recording_artist_credit` | Exact canonical performance display credit; separators are significant; never a songwriter or ownership inference |
 | `recording_artist_ids` | Structured primary-artist IDs; a joint display string links existing people, not a new combined artist |
 | `duration_ms` / `duration_iso8601` | Duration in milliseconds / Schema.org-compatible ISO 8601 |
+| `catalog_id` / `cover_path` | Release catalog ID (`SNG-NNN` or `LIVE-I`/`LIVE-II`/`LIVE-III`) and the matching file in the sole image directory; repeated album tracks share both values |
 | `release_id` / `upc` | Release identity / barcode; several rows can share a release UPC |
 | `release_date` / `release_status` | Product date and stated availability status |
 | `track_number` | One-based position on the release |

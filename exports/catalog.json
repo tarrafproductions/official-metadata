@@ -35,7 +35,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/swings-emo-version/1835065423?i=1835065424"
-      ]
+      ],
+      "catalog_id": "SNG-001",
+      "cover_path": "assets/covers/by-release/cover-001.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0047",
@@ -61,7 +63,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/13-years-feat-marina-tarraf/1835058894?i=1835058895"
-      ]
+      ],
+      "catalog_id": "SNG-002",
+      "cover_path": "assets/covers/by-release/cover-002.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0048",
@@ -85,7 +89,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/el-bal%C3%B3n-siempre-volar%C3%A1/1835058949?i=1835058950"
-      ]
+      ],
+      "catalog_id": "SNG-003",
+      "cover_path": "assets/covers/by-release/cover-003.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0049",
@@ -107,7 +113,9 @@
       "track_number": 1,
       "record_label": "TARRAF PRODUCTIONS",
       "musicbrainz_release_id": "",
-      "reference_urls": []
+      "reference_urls": [],
+      "catalog_id": "SNG-004",
+      "cover_path": "assets/covers/by-release/cover-004.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0050",
@@ -133,7 +141,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/non-name-road-%D0%B1%D0%B5%D0%B7%D0%BB%D1%8E%D0%B4%D0%BD%D0%B0%D1%8F-%D0%B4%D0%BE%D1%80%D0%BE%D0%B3%D0%B0/1835056478?i=1835056479"
-      ]
+      ],
+      "catalog_id": "SNG-005",
+      "cover_path": "assets/covers/by-release/cover-005.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0051",
@@ -159,7 +169,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/good-evil-%D0%B4%D0%BE%D0%B1%D1%80%D0%BE-%D0%B8-%D0%B7%D0%BB%D0%BE/1835059053?i=1835059054"
-      ]
+      ],
+      "catalog_id": "SNG-006",
+      "cover_path": "assets/covers/by-release/cover-006.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0052",
@@ -185,7 +197,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/fifa-%D0%BC%D1%8F%D1%87/1835056471?i=1835056472"
-      ]
+      ],
+      "catalog_id": "SNG-007",
+      "cover_path": "assets/covers/by-release/cover-007.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0053",
@@ -211,7 +225,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/nadoelo-%D0%BD%D0%B0%D0%B4%D0%BE%D0%B5%D0%BB%D0%BE/1835066120?i=1835066121"
-      ]
+      ],
+      "catalog_id": "SNG-008",
+      "cover_path": "assets/covers/by-release/cover-008.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0054",
@@ -237,7 +253,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/nazar/1835132429?i=1835132430"
-      ]
+      ],
+      "catalog_id": "SNG-009",
+      "cover_path": "assets/covers/by-release/cover-009.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0055",
@@ -263,7 +281,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/family-%D1%80%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D0%B8-%D0%B2%D0%BE-%D0%BC%D0%BD%D0%B5/1835058952?i=1835058953"
-      ]
+      ],
+      "catalog_id": "SNG-010",
+      "cover_path": "assets/covers/by-release/cover-010.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0056",
@@ -289,7 +309,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/ua-%D1%86%D0%B5-%D0%BD%D0%B0%D1%88-%D0%B2%D0%B0%D0%B9%D0%B1/1835066026?i=1835066027"
-      ]
+      ],
+      "catalog_id": "SNG-011",
+      "cover_path": "assets/covers/by-release/cover-011.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0057",
@@ -311,7 +333,9 @@
       "track_number": 1,
       "record_label": "TARRAF PRODUCTIONS",
       "musicbrainz_release_id": "",
-      "reference_urls": []
+      "reference_urls": [],
+      "catalog_id": "SNG-012",
+      "cover_path": "assets/covers/by-release/cover-012.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0058",
@@ -337,7 +361,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/boginya-feat-marina-tarraf/1835161345?i=1835161346"
-      ]
+      ],
+      "catalog_id": "SNG-013",
+      "cover_path": "assets/covers/by-release/cover-013.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0059",
@@ -359,7 +385,9 @@
       "track_number": 1,
       "record_label": "TARRAF PRODUCTIONS",
       "musicbrainz_release_id": "",
-      "reference_urls": []
+      "reference_urls": [],
+      "catalog_id": "SNG-014",
+      "cover_path": "assets/covers/by-release/cover-014.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0060",
@@ -383,7 +411,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/prosto/1835133497?i=1835133498"
-      ]
+      ],
+      "catalog_id": "SNG-015",
+      "cover_path": "assets/covers/by-release/cover-015.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0061",
@@ -409,7 +439,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/up-and-down-feat-marina-tarraf/1835159747?i=1835159748"
-      ]
+      ],
+      "catalog_id": "SNG-016",
+      "cover_path": "assets/covers/by-release/cover-016.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0062",
@@ -433,7 +465,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/vyshel-alik-pogulyat/1835091315?i=1835091316"
-      ]
+      ],
+      "catalog_id": "SNG-017",
+      "cover_path": "assets/covers/by-release/cover-017.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0063",
@@ -459,7 +493,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/%D0%B2%D0%BE%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B0%D1%8F-%D0%BC%D0%B0%D1%80%D0%B8%D0%BD%D0%B0-vip-mix/1835101489?i=1835101490"
-      ]
+      ],
+      "catalog_id": "SNG-018",
+      "cover_path": "assets/covers/by-release/cover-018.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0064",
@@ -485,7 +521,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/time-%D0%B2%D1%80%D0%B5%D0%BC%D1%8F/1835132831?i=1835132832"
-      ]
+      ],
+      "catalog_id": "SNG-019",
+      "cover_path": "assets/covers/by-release/cover-019.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0065",
@@ -509,7 +547,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/%D0%B7%D0%B0%D1%82%D0%BC%D0%B8%D0%BB%D0%B0-%D0%BC%D1%8B/1835112854?i=1835112855"
-      ]
+      ],
+      "catalog_id": "SNG-020",
+      "cover_path": "assets/covers/by-release/cover-020.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0066",
@@ -533,7 +573,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/%D0%B7%D0%B0%D1%87%D0%B5%D0%BC-%D0%B7%D0%B0%D1%87%D0%B5%D0%BC/1835121198?i=1835121199"
-      ]
+      ],
+      "catalog_id": "SNG-021",
+      "cover_path": "assets/covers/by-release/cover-021.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0067",
@@ -557,7 +599,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/%D0%BA%D0%B0%D1%87%D0%B5%D0%BB%D0%B8-remix/1835170700?i=1835171001"
-      ]
+      ],
+      "catalog_id": "SNG-022",
+      "cover_path": "assets/covers/by-release/cover-022.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0068",
@@ -583,7 +627,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/we-%D0%BC%D1%8B/1835161145?i=1835161146"
-      ]
+      ],
+      "catalog_id": "SNG-023",
+      "cover_path": "assets/covers/by-release/cover-023.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0069",
@@ -609,7 +655,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/nina-%D0%BD%D1%83-%D0%BD%D0%B8%D0%BD%D0%B0/1835099016?i=1835099017"
-      ]
+      ],
+      "catalog_id": "SNG-024",
+      "cover_path": "assets/covers/by-release/cover-024.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0070",
@@ -635,7 +683,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/x-%D1%81%D0%BB%D0%BE%D0%B6%D0%BD%D0%BE/1835056703?i=1835056704"
-      ]
+      ],
+      "catalog_id": "SNG-025",
+      "cover_path": "assets/covers/by-release/cover-025.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0071",
@@ -659,7 +709,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/%D1%82%D1%8B-%D1%8F-%D0%BD%D0%B5-%D0%BC%D1%8B/1835205676?i=1835205677"
-      ]
+      ],
+      "catalog_id": "SNG-026",
+      "cover_path": "assets/covers/by-release/cover-026.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0072",
@@ -685,7 +737,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/%D9%85%D9%84%D8%A7%D9%83%D9%8A-%D9%88%D8%B4%D9%8A%D8%B7%D8%A7%D9%86%D9%8A/1835165975?i=1835165976"
-      ]
+      ],
+      "catalog_id": "SNG-027",
+      "cover_path": "assets/covers/by-release/cover-027.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0073",
@@ -711,7 +765,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/prosto-feat-marina-tarraf-remix/1835629438?i=1835629440"
-      ]
+      ],
+      "catalog_id": "SNG-028",
+      "cover_path": "assets/covers/by-release/cover-028.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0074",
@@ -735,7 +791,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/tarraf-story/1835378964?i=1835378965"
-      ]
+      ],
+      "catalog_id": "SNG-029",
+      "cover_path": "assets/covers/by-release/cover-029.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0075",
@@ -759,7 +817,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/choose-you/1835344971?i=1835344972"
-      ]
+      ],
+      "catalog_id": "SNG-030",
+      "cover_path": "assets/covers/by-release/cover-030.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0076",
@@ -783,7 +843,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/noisy-silence/1835438195?i=1835438196"
-      ]
+      ],
+      "catalog_id": "SNG-031",
+      "cover_path": "assets/covers/by-release/cover-031.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0077",
@@ -809,7 +871,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/silence-%D1%88%D1%83%D0%BC%D0%BD%D0%B0%D1%8F-%D1%82%D0%B8%D1%88%D0%B8%D0%BD%D0%B0/1835394770?i=1835394892"
-      ]
+      ],
+      "catalog_id": "SNG-032",
+      "cover_path": "assets/covers/by-release/cover-032.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0078",
@@ -833,7 +897,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/eagles-not-crows/1835767850?i=1835767851"
-      ]
+      ],
+      "catalog_id": "SNG-033",
+      "cover_path": "assets/covers/by-release/cover-033.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0079",
@@ -859,7 +925,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/kacheli-emo-version/1835132296?i=1835132297"
-      ]
+      ],
+      "catalog_id": "SNG-034",
+      "cover_path": "assets/covers/by-release/cover-034.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0080",
@@ -883,7 +951,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/good-and-evil/1835938056?i=1835938057"
-      ]
+      ],
+      "catalog_id": "SNG-035",
+      "cover_path": "assets/covers/by-release/cover-035.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0081",
@@ -907,7 +977,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/%D0%B3%D1%96%D0%BC%D0%BD-%D1%83%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B8/1835888091?i=1835888092"
-      ]
+      ],
+      "catalog_id": "SNG-036",
+      "cover_path": "assets/covers/by-release/cover-036.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0082",
@@ -931,7 +1003,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/why-why/1836083504?i=1836083505"
-      ]
+      ],
+      "catalog_id": "SNG-037",
+      "cover_path": "assets/covers/by-release/cover-037.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0083",
@@ -955,7 +1029,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/paradox/1836571026?i=1836571027"
-      ]
+      ],
+      "catalog_id": "SNG-038",
+      "cover_path": "assets/covers/by-release/cover-038.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0084",
@@ -981,7 +1057,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/no-forgiveness-%D0%BD%D0%B5-%D1%83%D0%BC%D0%BE%D0%BB%D1%8F%D0%B9/1836564222?i=1836564223"
-      ]
+      ],
+      "catalog_id": "SNG-039",
+      "cover_path": "assets/covers/by-release/cover-039.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0085",
@@ -1005,7 +1083,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/forget-me/1837448433?i=1837448434"
-      ]
+      ],
+      "catalog_id": "SNG-040",
+      "cover_path": "assets/covers/by-release/cover-040.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0086",
@@ -1031,7 +1111,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/night-alive-%D0%BD%D0%BE%D1%87%D1%8C-%D0%BE%D0%B6%D0%B8%D0%B2%D0%B0%D0%B5%D1%82/1837338045?i=1837338046"
-      ]
+      ],
+      "catalog_id": "SNG-041",
+      "cover_path": "assets/covers/by-release/cover-041.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0087",
@@ -1055,7 +1137,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/%D0%B2%D0%BE%D0%B7%D0%B4%D1%83%D1%88%D0%BD%D1%8B%D0%B9-%D1%88%D0%B0%D1%80/1837705490?i=1837705494"
-      ]
+      ],
+      "catalog_id": "SNG-042",
+      "cover_path": "assets/covers/by-release/cover-042.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0088",
@@ -1079,7 +1163,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/rising-balloon/1837583118?i=1837583119"
-      ]
+      ],
+      "catalog_id": "SNG-043",
+      "cover_path": "assets/covers/by-release/cover-043.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0089",
@@ -1103,7 +1189,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/%D0%B4%D0%B5%D0%BD%D1%8C-birthday/1838238925?i=1838238928"
-      ]
+      ],
+      "catalog_id": "SNG-044",
+      "cover_path": "assets/covers/by-release/cover-044.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0090",
@@ -1129,7 +1217,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/narcissi-%D0%BD%D0%B0%D1%80%D1%86%D0%B8%D1%81%D1%81/1838279307?i=1838279309"
-      ]
+      ],
+      "catalog_id": "SNG-045",
+      "cover_path": "assets/covers/by-release/cover-045.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0091",
@@ -1151,7 +1241,9 @@
       "track_number": 1,
       "record_label": "TARRAF PRODUCTIONS",
       "musicbrainz_release_id": "",
-      "reference_urls": []
+      "reference_urls": [],
+      "catalog_id": "SNG-046",
+      "cover_path": "assets/covers/by-release/cover-046.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0092",
@@ -1177,7 +1269,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/judgment-day-%D0%BA%D0%BE%D0%BD%D0%B5%D1%86-%D1%81%D0%B2%D0%B5%D1%82%D0%B0/1838930604?i=1838930875"
-      ]
+      ],
+      "catalog_id": "SNG-047",
+      "cover_path": "assets/covers/by-release/cover-047.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0093",
@@ -1202,7 +1296,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/goddess/1839352234?i=1839352235"
-      ]
+      ],
+      "catalog_id": "SNG-048",
+      "cover_path": "assets/covers/by-release/cover-048.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0094",
@@ -1226,7 +1322,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/paradise/1839490815?i=1839490816"
-      ]
+      ],
+      "catalog_id": "SNG-049",
+      "cover_path": "assets/covers/by-release/cover-049.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0095",
@@ -1252,7 +1350,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/semya-v-serdtse-feat-aliana-tarraf/1839660948?i=1839660949"
-      ]
+      ],
+      "catalog_id": "SNG-050",
+      "cover_path": "assets/covers/by-release/cover-050.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0096",
@@ -1278,7 +1378,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/shtorm-i-lyubov/1839606716?i=1839606717"
-      ]
+      ],
+      "catalog_id": "SNG-051",
+      "cover_path": "assets/covers/by-release/cover-051.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0097",
@@ -1302,7 +1404,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/sila-lyubvi/1839638803?i=1839638804"
-      ]
+      ],
+      "catalog_id": "SNG-052",
+      "cover_path": "assets/covers/by-release/cover-052.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0098",
@@ -1326,7 +1430,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/ash-and-neon/1839847336?i=1839847337"
-      ]
+      ],
+      "catalog_id": "SNG-053",
+      "cover_path": "assets/covers/by-release/cover-053.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0099",
@@ -1350,7 +1456,9 @@
       "track_number": 1,
       "record_label": "TARRAF PRODUCTIONS",
       "musicbrainz_release_id": "",
-      "reference_urls": []
+      "reference_urls": [],
+      "catalog_id": "SNG-054",
+      "cover_path": "assets/covers/by-release/cover-054.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0100",
@@ -1376,7 +1484,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/false-love-%D1%84%D0%B0%D0%BB%D1%8C%D1%88%D0%B8%D0%B2%D0%B0%D1%8F-%D0%BB%D1%8E%D0%B1%D0%BE%D0%B2%D1%8C/1840033726?i=1840033727"
-      ]
+      ],
+      "catalog_id": "SNG-055",
+      "cover_path": "assets/covers/by-release/cover-055.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0101",
@@ -1400,7 +1510,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/sister/1840225079?i=1840225080"
-      ]
+      ],
+      "catalog_id": "SNG-056",
+      "cover_path": "assets/covers/by-release/cover-056.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0102",
@@ -1426,7 +1538,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/brat-%D0%B1%D1%80%D0%B0%D1%82/1840212135?i=1840212136"
-      ]
+      ],
+      "catalog_id": "SNG-057",
+      "cover_path": "assets/covers/by-release/cover-057.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0103",
@@ -1450,7 +1564,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/brother/1840718919?i=1840718920"
-      ]
+      ],
+      "catalog_id": "SNG-058",
+      "cover_path": "assets/covers/by-release/cover-058.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0104",
@@ -1475,7 +1591,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/new-world/1841198094?i=1841198095"
-      ]
+      ],
+      "catalog_id": "SNG-059",
+      "cover_path": "assets/covers/by-release/cover-059.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0105",
@@ -1501,7 +1619,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/stop-%D0%BD%D0%B0%D1%80%D0%BA%D0%BE%D1%82%D0%B8%D0%BA/1841049267?i=1841049268"
-      ]
+      ],
+      "catalog_id": "SNG-060",
+      "cover_path": "assets/covers/by-release/cover-060.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0106",
@@ -1525,7 +1645,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/arriba-y-abajo/1841263585?i=1841263586"
-      ]
+      ],
+      "catalog_id": "SNG-061",
+      "cover_path": "assets/covers/by-release/cover-061.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0107",
@@ -1551,7 +1673,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/businka-%D0%B1%D1%83%D1%81%D0%B8%D0%BD%D0%BA%D0%B0/1841208206?i=1841208207"
-      ]
+      ],
+      "catalog_id": "SNG-062",
+      "cover_path": "assets/covers/by-release/cover-062.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0108",
@@ -1577,7 +1701,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/ibiza-festival/1841826333?i=1841826334"
-      ]
+      ],
+      "catalog_id": "SNG-063",
+      "cover_path": "assets/covers/by-release/cover-063.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0109",
@@ -1603,7 +1729,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/youth-%D0%BC%D0%BE%D0%BB%D0%BE%D0%B4%D0%BE%D1%81%D1%82%D1%8C/1841545554?i=1841545555"
-      ]
+      ],
+      "catalog_id": "SNG-064",
+      "cover_path": "assets/covers/by-release/cover-064.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0110",
@@ -1627,7 +1755,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/hela/1841643172?i=1841643173"
-      ]
+      ],
+      "catalog_id": "SNG-065",
+      "cover_path": "assets/covers/by-release/cover-065.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0111",
@@ -1651,7 +1781,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/%D0%B4%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%BE/1841892669?i=1841892670"
-      ]
+      ],
+      "catalog_id": "SNG-066",
+      "cover_path": "assets/covers/by-release/cover-066.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0112",
@@ -1677,7 +1809,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/ukhu-el-%D1%83%D1%85%D1%83-%D0%B5%D0%BB/1842113418?i=1842113420"
-      ]
+      ],
+      "catalog_id": "SNG-067",
+      "cover_path": "assets/covers/by-release/cover-067.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0113",
@@ -1703,7 +1837,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/%D0%B4%D0%BE%D0%B1%D1%80%D0%BE-%D0%B8-%D0%B7%D0%BB%D0%BE-vip-remix-version/1842549034?i=1842549035"
-      ]
+      ],
+      "catalog_id": "SNG-068",
+      "cover_path": "assets/covers/by-release/cover-068.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0114",
@@ -1727,7 +1863,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/%D9%85%D9%84%D8%A7%D9%83-%D9%88-%D8%B4%D9%8A%D8%B7%D8%A7%D9%86/1842542057?i=1842542058"
-      ]
+      ],
+      "catalog_id": "SNG-069",
+      "cover_path": "assets/covers/by-release/cover-069.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0115",
@@ -1753,7 +1891,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/twins-in-fire-%D0%B1%D0%BB%D0%B8%D0%B7%D0%BD%D0%B5%D1%86%D1%8B-%D0%B2-%D0%BE%D0%B3%D0%BD%D0%B5/1842571349?i=1842571350"
-      ]
+      ],
+      "catalog_id": "SNG-070",
+      "cover_path": "assets/covers/by-release/cover-070.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0116",
@@ -1777,7 +1917,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/helah/1842833712?i=1842833893"
-      ]
+      ],
+      "catalog_id": "SNG-071",
+      "cover_path": "assets/covers/by-release/cover-071.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0117",
@@ -1803,7 +1945,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/destination-soundtrack/1843103001?i=1843103002"
-      ]
+      ],
+      "catalog_id": "SNG-072",
+      "cover_path": "assets/covers/by-release/cover-072.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0118",
@@ -1829,7 +1973,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/lost-soundtrack/1843039169?i=1843039170"
-      ]
+      ],
+      "catalog_id": "SNG-073",
+      "cover_path": "assets/covers/by-release/cover-073.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0119",
@@ -1855,7 +2001,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/odessa-%D0%B0%D0%B9-%D0%BE%D0%B4%D0%B5%D1%81%D1%81%D0%B0/1843151417?i=1843151418"
-      ]
+      ],
+      "catalog_id": "SNG-074",
+      "cover_path": "assets/covers/by-release/cover-074.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0120",
@@ -1881,7 +2029,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/odessa-mama-%D0%B3%D0%B8%D0%BC%D0%BD-%D0%BE%D0%B4%D0%B5%D1%81%D1%81%D1%8B/1843167770?i=1843167775"
-      ]
+      ],
+      "catalog_id": "SNG-075",
+      "cover_path": "assets/covers/by-release/cover-075.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0121",
@@ -1905,7 +2055,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/hella/1843445100?i=1843445101"
-      ]
+      ],
+      "catalog_id": "SNG-076",
+      "cover_path": "assets/covers/by-release/cover-076.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0122",
@@ -1931,7 +2083,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/wedding-%D0%B3%D0%BE%D1%80%D1%8C%D0%BA%D0%BE/1843445470?i=1843445471"
-      ]
+      ],
+      "catalog_id": "SNG-077",
+      "cover_path": "assets/covers/by-release/cover-077.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0123",
@@ -1957,7 +2111,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/meaning-of-life-%D1%81%D0%BC%D1%8B%D1%81%D0%BB-%D0%B6%D0%B8%D0%B7%D0%BD%D0%B8/1843524754?i=1843524755"
-      ]
+      ],
+      "catalog_id": "SNG-078",
+      "cover_path": "assets/covers/by-release/cover-078.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0124",
@@ -1981,7 +2137,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/%D0%BB%D0%B5%D1%82%D0%B8/1843772768?i=1843772769"
-      ]
+      ],
+      "catalog_id": "SNG-079",
+      "cover_path": "assets/covers/by-release/cover-079.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0125",
@@ -2005,7 +2163,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/abu-dhabi-nights/1844069622?i=1844069623"
-      ]
+      ],
+      "catalog_id": "SNG-080",
+      "cover_path": "assets/covers/by-release/cover-080.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0126",
@@ -2029,7 +2189,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/%D0%B2%D0%BB%D0%B0%D1%81%D1%82%D1%8C/1844025025?i=1844025026"
-      ]
+      ],
+      "catalog_id": "SNG-081",
+      "cover_path": "assets/covers/by-release/cover-081.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0127",
@@ -2053,7 +2215,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/%D1%81%D1%83%D0%BC-%D0%B7%D0%B0-%D0%B1%D0%B0%D1%82%D1%8C%D0%BA%D1%96%D0%B2%D1%89%D0%B8%D0%BD%D0%BE%D1%8E/1843996561?i=1843996562"
-      ]
+      ],
+      "catalog_id": "SNG-082",
+      "cover_path": "assets/covers/by-release/cover-082.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0128",
@@ -2077,7 +2241,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/%D1%8D%D1%82%D0%BE-%D0%BC%D0%BE%D0%B8-%D1%87%D1%83%D0%B2%D1%81%D1%82%D0%B2%D0%B0/1844006449?i=1844006870"
-      ]
+      ],
+      "catalog_id": "SNG-083",
+      "cover_path": "assets/covers/by-release/cover-083.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0129",
@@ -2101,7 +2267,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/%D0%BF%D1%80%D0%B5%D0%B4%D0%BD%D0%B0%D0%B7%D0%BD%D0%B0%D1%87%D0%B5%D0%BD%D0%B8%D0%B5/1844162260?i=1844162261"
-      ]
+      ],
+      "catalog_id": "SNG-084",
+      "cover_path": "assets/covers/by-release/cover-084.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0130",
@@ -2125,7 +2293,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/%D1%8F-%D0%BF%D1%80%D0%BE%D1%89%D0%B0%D1%8E/1844170151?i=1844170154"
-      ]
+      ],
+      "catalog_id": "SNG-085",
+      "cover_path": "assets/covers/by-release/cover-085.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0131",
@@ -2149,7 +2319,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/%D1%8F-%D1%8D%D1%82%D0%BE-%D1%82%D1%8B/1844118622?i=1844118624"
-      ]
+      ],
+      "catalog_id": "SNG-086",
+      "cover_path": "assets/covers/by-release/cover-086.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0132",
@@ -2175,7 +2347,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/distrokid/1844266343?i=1844266345"
-      ]
+      ],
+      "catalog_id": "SNG-087",
+      "cover_path": "assets/covers/by-release/cover-087.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0133",
@@ -2199,7 +2373,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/dubai-lights/1844435962?i=1844436296"
-      ]
+      ],
+      "catalog_id": "SNG-088",
+      "cover_path": "assets/covers/by-release/cover-088.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0134",
@@ -2223,7 +2399,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/sanctum-fire/1844576745?i=1844576746"
-      ]
+      ],
+      "catalog_id": "SNG-089",
+      "cover_path": "assets/covers/by-release/cover-089.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0135",
@@ -2247,7 +2425,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/%D0%B7%D1%81%D1%83/1844594060?i=1844594061"
-      ]
+      ],
+      "catalog_id": "SNG-090",
+      "cover_path": "assets/covers/by-release/cover-090.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0136",
@@ -2273,7 +2453,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/kyiv-%D0%BA%D0%B8%D1%97%D0%B2/1844612225?i=1844612229"
-      ]
+      ],
+      "catalog_id": "SNG-091",
+      "cover_path": "assets/covers/by-release/cover-091.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0137",
@@ -2299,7 +2481,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/adieus-%D0%BF%D1%80%D0%BE%D1%89%D0%B0%D0%B9/1844608712?i=1844608713"
-      ]
+      ],
+      "catalog_id": "SNG-092",
+      "cover_path": "assets/covers/by-release/cover-092.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0138",
@@ -2325,7 +2509,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/shadows-%D1%82%D0%B5%D0%BD%D0%B8/1844697321?i=1844697322"
-      ]
+      ],
+      "catalog_id": "SNG-093",
+      "cover_path": "assets/covers/by-release/cover-093.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0139",
@@ -2349,7 +2535,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/possessed/1845309427?i=1845309428"
-      ]
+      ],
+      "catalog_id": "SNG-094",
+      "cover_path": "assets/covers/by-release/cover-094.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0140",
@@ -2375,7 +2563,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/xxx-%D0%B7%D0%B0%D0%BF%D1%80%D0%B5%D1%82%D0%BD%D1%8B%D0%B9-%D0%B2%D0%BA%D1%83%D1%81/1844819098?i=1844819100"
-      ]
+      ],
+      "catalog_id": "SNG-095",
+      "cover_path": "assets/covers/by-release/cover-095.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0141",
@@ -2401,7 +2591,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/instagram-soundtrack/1845164494?i=1845164495"
-      ]
+      ],
+      "catalog_id": "SNG-096",
+      "cover_path": "assets/covers/by-release/cover-096.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0142",
@@ -2427,7 +2619,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/pension-%D0%BF%D0%B5%D0%BD%D1%81%D0%B8%D1%8F-%D0%BA%D0%B0%D0%B9%D1%84/1845043514?i=1845043515"
-      ]
+      ],
+      "catalog_id": "SNG-097",
+      "cover_path": "assets/covers/by-release/cover-097.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0143",
@@ -2451,7 +2645,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/cosmos-life-%D1%81%D0%B5%D1%80%D0%B8%D1%8F-1-%D0%BF%D0%BB%D0%B0%D0%BD%D0%B5%D1%82%D0%B0-%D0%B1%D0%B5%D0%B7-%D0%BB%D1%8E%D0%B4%D0%B5%D0%B9/1845607906?i=1845607907"
-      ]
+      ],
+      "catalog_id": "SNG-098",
+      "cover_path": "assets/covers/by-release/cover-098.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0144",
@@ -2475,7 +2671,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/cosmos-life-%D1%81%D0%B5%D1%80%D0%B8%D1%8F-2-%D0%B0%D0%B4%D0%B0%D0%BC-%D0%B8-%D0%B5%D0%B2%D0%B0/1845692691?i=1845692693"
-      ]
+      ],
+      "catalog_id": "SNG-099",
+      "cover_path": "assets/covers/by-release/cover-099.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0145",
@@ -2499,7 +2697,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/cosmos-life-%D1%81%D0%B5%D1%80%D0%B8%D1%8F-%D0%B7-%D1%80%D0%B0%D0%B7%D1%80%D1%83%D1%88%D0%B5%D0%BD%D0%B8%D0%B5/1845906996?i=1845906998"
-      ]
+      ],
+      "catalog_id": "SNG-100",
+      "cover_path": "assets/covers/by-release/cover-100.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0146",
@@ -2523,7 +2723,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/cosmos-life-%D1%81%D0%B5%D1%80%D0%B8%D1%8F-4-cosmos-life/1845998162?i=1845998163"
-      ]
+      ],
+      "catalog_id": "SNG-101",
+      "cover_path": "assets/covers/by-release/cover-101.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0147",
@@ -2549,7 +2751,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/mama/1846290781?i=1846290782"
-      ]
+      ],
+      "catalog_id": "SNG-102",
+      "cover_path": "assets/covers/by-release/cover-102.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0148",
@@ -2573,7 +2777,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/dream-of-light/1846383140?i=1846383145"
-      ]
+      ],
+      "catalog_id": "SNG-103",
+      "cover_path": "assets/covers/by-release/cover-103.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0149",
@@ -2599,7 +2805,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/between-orbits-%D0%BC%D0%B5%D0%B6%D0%B4%D1%83-%D0%BE%D1%80%D0%B1%D0%B8%D1%82/1846602424?i=1846602425"
-      ]
+      ],
+      "catalog_id": "SNG-104",
+      "cover_path": "assets/covers/by-release/cover-104.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0150",
@@ -2623,7 +2831,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/anima-obscura-dark-ritual-song/1847457711?i=1847457990"
-      ]
+      ],
+      "catalog_id": "SNG-105",
+      "cover_path": "assets/covers/by-release/cover-105.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0151",
@@ -2647,7 +2857,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/hello/1847127328?i=1847127329"
-      ]
+      ],
+      "catalog_id": "SNG-106",
+      "cover_path": "assets/covers/by-release/cover-106.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0152",
@@ -2671,7 +2883,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/%D0%B1%D1%83%D0%BC%D0%B5%D1%80%D0%B0%D0%BD%D0%B3/1847899430?i=1847899431"
-      ]
+      ],
+      "catalog_id": "SNG-107",
+      "cover_path": "assets/covers/by-release/cover-107.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0153",
@@ -2695,7 +2909,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/meaning-of-life/1848596758?i=1848596759"
-      ]
+      ],
+      "catalog_id": "SNG-108",
+      "cover_path": "assets/covers/by-release/cover-108.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0154",
@@ -2719,7 +2935,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/vevo/1848354868?i=1848354869"
-      ]
+      ],
+      "catalog_id": "SNG-109",
+      "cover_path": "assets/covers/by-release/cover-109.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0155",
@@ -2744,7 +2962,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/banina-banina-yalla-tarraf/1848684907?i=1848684908"
-      ]
+      ],
+      "catalog_id": "SNG-110",
+      "cover_path": "assets/covers/by-release/cover-110.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0156",
@@ -2768,7 +2988,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/%D0%BF%D1%96%D1%81%D0%BD%D1%8F-%D0%BA%D1%80%D0%B0%D0%BA%D0%B5%D0%BD%D0%B0-%D0%B2%D1%96%D1%82%D0%BE-%D1%96-%D1%8E%D1%82%D0%B0/1848794072?i=1848794074"
-      ]
+      ],
+      "catalog_id": "SNG-111",
+      "cover_path": "assets/covers/by-release/cover-111.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0157",
@@ -2794,7 +3016,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/time-%D0%B2%D1%80%D0%B5%D0%BC%D1%8F-%D0%BD%D0%B5-%D0%BF%D1%80%D0%BE%D1%89%D0%B0%D0%B5%D1%82/1849053988?i=1849053989"
-      ]
+      ],
+      "catalog_id": "SNG-112",
+      "cover_path": "assets/covers/by-release/cover-112.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0158",
@@ -2820,7 +3044,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/%D0%BA%D1%80%D0%B0%D0%BA%D0%B5%D0%BD-%D0%B2%D1%96%D1%82%D0%BE-%D1%88%D1%82%D0%BE%D1%80%D0%BC-vip-mix/1849751237?i=1849751238"
-      ]
+      ],
+      "catalog_id": "SNG-113",
+      "cover_path": "assets/covers/by-release/cover-113.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0159",
@@ -2844,7 +3070,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/%D0%BF%D1%96%D1%81%D0%BD%D1%8F-%D0%BA%D1%80%D0%B0%D0%BA%D0%B5%D0%BD-%D0%B2%D1%96%D1%82%D0%BE-%D1%88%D1%82%D0%BE%D1%80%D0%BC/1849142236?i=1849142243"
-      ]
+      ],
+      "catalog_id": "SNG-114",
+      "cover_path": "assets/covers/by-release/cover-114.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0160",
@@ -2868,7 +3096,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/%D0%B3%D0%B4%D0%B5-%D0%BA%D0%BE%D0%BD%D1%87%D0%B0%D0%B5%D1%82%D1%81%D1%8F-%D1%87%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D0%BA/1849494012?i=1849494013"
-      ]
+      ],
+      "catalog_id": "SNG-115",
+      "cover_path": "assets/covers/by-release/cover-115.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0161",
@@ -2892,7 +3122,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/%D0%BD%D0%B5-%D0%B3%D0%BE%D0%BD%D0%B8-%D1%84%D1%83%D1%84%D0%BB%D0%BE/1849349554?i=1849349555"
-      ]
+      ],
+      "catalog_id": "SNG-116",
+      "cover_path": "assets/covers/by-release/cover-116.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0162",
@@ -2916,7 +3148,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/the-other-side/1849862152?i=1849862153"
-      ]
+      ],
+      "catalog_id": "SNG-117",
+      "cover_path": "assets/covers/by-release/cover-117.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0163",
@@ -2943,7 +3177,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/police/1849622494?i=1849622500"
-      ]
+      ],
+      "catalog_id": "SNG-118",
+      "cover_path": "assets/covers/by-release/cover-118.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0164",
@@ -2969,7 +3205,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/nora-feat-marina-tarraf/1850118828?i=1850118859"
-      ]
+      ],
+      "catalog_id": "SNG-119",
+      "cover_path": "assets/covers/by-release/cover-119.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0165",
@@ -2993,7 +3231,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/%D0%BF%D0%B0%D0%BC%D1%8F%D1%82%D1%8C/1850255600?i=1850255601"
-      ]
+      ],
+      "catalog_id": "SNG-120",
+      "cover_path": "assets/covers/by-release/cover-120.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0166",
@@ -3017,7 +3257,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/%D0%B1%D1%80%D0%B0%D1%82-%D0%BE%D0%BD%D0%B0-%D0%B1%D0%B5%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D0%B0/1850340588?i=1850340589"
-      ]
+      ],
+      "catalog_id": "SNG-121",
+      "cover_path": "assets/covers/by-release/cover-121.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0167",
@@ -3041,7 +3283,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/%D0%B2%D1%96%D0%BD-%D0%BC%D0%B0%D0%BB%D1%8E%D1%94-%D1%81%D0%B2%D1%96%D1%82/1850314697?i=1850314698"
-      ]
+      ],
+      "catalog_id": "SNG-122",
+      "cover_path": "assets/covers/by-release/cover-122.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0168",
@@ -3065,7 +3309,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/halloween/1850896441?i=1850896442"
-      ]
+      ],
+      "catalog_id": "SNG-123",
+      "cover_path": "assets/covers/by-release/cover-123.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0169",
@@ -3089,7 +3335,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/%D0%B1%D1%80%D0%B0%D1%82%D0%B2%D0%B0-%D0%BD%D0%B5-%D1%81%D0%BF%D0%B8%D1%82/1850873591?i=1850873742"
-      ]
+      ],
+      "catalog_id": "SNG-124",
+      "cover_path": "assets/covers/by-release/cover-124.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0170",
@@ -3113,7 +3361,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/ad-vinculum/1850879934?i=1850879935"
-      ]
+      ],
+      "catalog_id": "SNG-125",
+      "cover_path": "assets/covers/by-release/cover-125.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0171",
@@ -3137,7 +3387,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/%D1%81%D0%B5%D1%80%D0%B4%D1%86%D0%B5%D0%B5%D0%B4%D0%BA%D0%B0/1851179270?i=1851179271"
-      ]
+      ],
+      "catalog_id": "SNG-126",
+      "cover_path": "assets/covers/by-release/cover-126.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0172",
@@ -3161,7 +3413,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/%D1%81%D1%83%D1%85%D0%B0%D1%8F-%D0%B2%D0%BE%D0%B4%D0%B0/1851157195?i=1851157196"
-      ]
+      ],
+      "catalog_id": "SNG-127",
+      "cover_path": "assets/covers/by-release/cover-127.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0173",
@@ -3185,7 +3439,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/%D0%BF%D0%B0%D0%BF%D0%B0/1851767470?i=1851767471"
-      ]
+      ],
+      "catalog_id": "SNG-128",
+      "cover_path": "assets/covers/by-release/cover-128.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0174",
@@ -3211,7 +3467,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/%D0%B4%D0%B0-%D0%BD%D0%B5%D1%82/1851905150?i=1851905151"
-      ]
+      ],
+      "catalog_id": "SNG-129",
+      "cover_path": "assets/covers/by-release/cover-129.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0175",
@@ -3237,7 +3495,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/ukraine-feat-marina-tarraf/1852147702?i=1852147703"
-      ]
+      ],
+      "catalog_id": "SNG-130",
+      "cover_path": "assets/covers/by-release/cover-130.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0176",
@@ -3261,7 +3521,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/%D1%81%D0%BE%D0%B2%D0%B5%D1%81%D1%82%D1%8C/1852055882?i=1852055884"
-      ]
+      ],
+      "catalog_id": "SNG-131",
+      "cover_path": "assets/covers/by-release/cover-131.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0177",
@@ -3285,7 +3547,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/he-paints-the-world/1852521904?i=1852521905"
-      ]
+      ],
+      "catalog_id": "SNG-132",
+      "cover_path": "assets/covers/by-release/cover-132.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0178",
@@ -3311,7 +3575,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/full-%D0%BF%D0%BE%D0%BB%D0%BD%D1%8B%D0%B9-%D0%B0%D0%B2%D1%82%D0%BE%D0%B1%D1%83%D1%81-%D0%B1%D1%83%D1%80%D0%B0%D1%82%D0%B8%D0%BD/1852640449?i=1852640750"
-      ]
+      ],
+      "catalog_id": "SNG-133",
+      "cover_path": "assets/covers/by-release/cover-133.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0179",
@@ -3335,7 +3601,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/code-of-silence/1853221639?i=1853221640"
-      ]
+      ],
+      "catalog_id": "SNG-134",
+      "cover_path": "assets/covers/by-release/cover-134.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0180",
@@ -3359,7 +3627,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/%D0%BA%D0%BE%D0%B4-%D1%82%D0%B8%D1%88%D1%96/1853126203?i=1853126204"
-      ]
+      ],
+      "catalog_id": "SNG-135",
+      "cover_path": "assets/covers/by-release/cover-135.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0181",
@@ -3385,7 +3655,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/kpob-i-bipa-blood-and-faith/1853220878?i=1853220880"
-      ]
+      ],
+      "catalog_id": "SNG-136",
+      "cover_path": "assets/covers/by-release/cover-136.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0182",
@@ -3409,7 +3681,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/boomerang/1853410834?i=1853410835"
-      ]
+      ],
+      "catalog_id": "SNG-137",
+      "cover_path": "assets/covers/by-release/cover-137.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0183",
@@ -3433,7 +3707,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/the-cure/1854023540?i=1854023541"
-      ]
+      ],
+      "catalog_id": "SNG-138",
+      "cover_path": "assets/covers/by-release/cover-138.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0184",
@@ -3457,7 +3733,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/release-me/1854321938?i=1854321939"
-      ]
+      ],
+      "catalog_id": "SNG-139",
+      "cover_path": "assets/covers/by-release/cover-139.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0185",
@@ -3481,7 +3759,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/%D0%BC%D0%B0%D1%82%D1%80%D0%B8%D1%86%D0%B0-%D0%BB%D0%B6%D0%B8-matrix-of-lies/1854398185?i=1854398188"
-      ]
+      ],
+      "catalog_id": "SNG-140",
+      "cover_path": "assets/covers/by-release/cover-140.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0186",
@@ -3503,7 +3783,9 @@
       "track_number": 1,
       "record_label": "TARRAF PRODUCTIONS",
       "musicbrainz_release_id": "",
-      "reference_urls": []
+      "reference_urls": [],
+      "catalog_id": "SNG-141",
+      "cover_path": "assets/covers/by-release/cover-141.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0187",
@@ -3527,7 +3809,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/%D1%85%D1%80%D0%B0%D0%BC-%D0%BB%D1%8E%D0%B1%D0%B2%D0%B8/1854941377?i=1854941378"
-      ]
+      ],
+      "catalog_id": "SNG-142",
+      "cover_path": "assets/covers/by-release/cover-142.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0188",
@@ -3551,7 +3835,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/%D0%BD%D0%B5-%D1%81%D1%82%D1%8B%D0%B4%D0%BD%D0%BE-%D0%BF%D0%B0%D0%B4%D0%B0%D1%82%D1%8C/1855113664?i=1855113846"
-      ]
+      ],
+      "catalog_id": "SNG-143",
+      "cover_path": "assets/covers/by-release/cover-143.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0189",
@@ -3575,7 +3861,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/%D1%8D%D1%82%D0%BE-%D1%82%D1%8B-%D1%8D%D1%82%D0%BE-%D1%8F/1855078336?i=1855078337"
-      ]
+      ],
+      "catalog_id": "SNG-144",
+      "cover_path": "assets/covers/by-release/cover-144.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0190",
@@ -3599,7 +3887,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/%D1%81%D0%B2%D0%B5%D1%82-%D0%B2%D0%BE-%D0%BC%D0%BD%D0%B5/1855523521?i=1855523522"
-      ]
+      ],
+      "catalog_id": "SNG-145",
+      "cover_path": "assets/covers/by-release/cover-145.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0191",
@@ -3623,7 +3913,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/%D0%BA%D0%BE%D0%BB%D1%8E%D1%87%D0%B8%D0%B9-%D0%BD%D0%BE-%D1%80%D0%BE%D0%B4%D0%BD%D0%BE%D0%B9/1855559882?i=1855559888"
-      ]
+      ],
+      "catalog_id": "SNG-146",
+      "cover_path": "assets/covers/by-release/cover-146.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0192",
@@ -3649,7 +3941,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/spotify/1856275541?i=1856275542"
-      ]
+      ],
+      "catalog_id": "SNG-147",
+      "cover_path": "assets/covers/by-release/cover-147.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0193",
@@ -3673,7 +3967,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/words/1856089287?i=1856089288"
-      ]
+      ],
+      "catalog_id": "SNG-148",
+      "cover_path": "assets/covers/by-release/cover-148.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0194",
@@ -3697,7 +3993,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/%D1%81%D0%BB%D0%BE%D0%B2%D0%B0/1856363847?i=1856363849"
-      ]
+      ],
+      "catalog_id": "SNG-149",
+      "cover_path": "assets/covers/by-release/cover-149.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0195",
@@ -3721,7 +4019,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/%D0%BF%D1%80%D0%B0%D0%B2%D0%B4%D0%B0/1856799000?i=1856799001"
-      ]
+      ],
+      "catalog_id": "SNG-150",
+      "cover_path": "assets/covers/by-release/cover-150.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0196",
@@ -3747,7 +4047,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/monsters-feat-marina-tarraf/1855373301?i=1855373302"
-      ]
+      ],
+      "catalog_id": "SNG-151",
+      "cover_path": "assets/covers/by-release/cover-151.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0197",
@@ -3773,7 +4075,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/%D0%B3imh-%D0%BB%D1%8E%D0%B1%D0%BE%D0%B2%D1%96/1857238901?i=1857238902"
-      ]
+      ],
+      "catalog_id": "SNG-152",
+      "cover_path": "assets/covers/by-release/cover-152.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0198",
@@ -3797,7 +4101,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/%D0%BF%D0%BE%D1%81%D0%BB%D0%B5-%D0%B6%D0%B8%D0%B7%D0%BD%D0%B8/1857312116?i=1857312118"
-      ]
+      ],
+      "catalog_id": "SNG-153",
+      "cover_path": "assets/covers/by-release/cover-153.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0199",
@@ -3821,7 +4127,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/%D0%B6%D0%B8%D0%B7%D0%BD%D1%8C-%D1%8D%D1%82%D0%BE-%D1%80%D0%B8%D0%BD%D0%B3/1858364654?i=1858364655"
-      ]
+      ],
+      "catalog_id": "SNG-154",
+      "cover_path": "assets/covers/by-release/cover-154.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0200",
@@ -3845,7 +4153,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/no-limit-animal-mode/1858401299?i=1858401300"
-      ]
+      ],
+      "catalog_id": "SNG-155",
+      "cover_path": "assets/covers/by-release/cover-155.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0201",
@@ -3869,7 +4179,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/%D0%B0-%D1%87%D1%82%D0%BE-%D0%B5%D1%81%D0%BB%D0%B8-%D1%8D%D1%82%D0%BE-%D1%81%D0%BD%D1%8B/1858497892?i=1858497893"
-      ]
+      ],
+      "catalog_id": "SNG-156",
+      "cover_path": "assets/covers/by-release/cover-156.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0202",
@@ -3893,7 +4205,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/%D0%BB%D1%8E%D0%B1%D0%BE%D0%B2%D1%8C-%D1%80%D0%B5%D0%B7%D0%BD%D1%8F/1858409739?i=1858409740"
-      ]
+      ],
+      "catalog_id": "SNG-157",
+      "cover_path": "assets/covers/by-release/cover-157.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0203",
@@ -3919,7 +4233,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/%D0%BA%D0%B0%D1%87%D0%B5%D0%BB%D1%96-ua-version/1858929495?i=1858929496"
-      ]
+      ],
+      "catalog_id": "SNG-158",
+      "cover_path": "assets/covers/by-release/cover-158.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0204",
@@ -3943,7 +4259,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/%D1%85%D0%BE%D1%87%D1%83-%D0%BB%D1%8E%D0%B1%D0%BB%D1%8E-%D0%B6%D0%B8%D0%B2%D1%83/1859324464?i=1859324465"
-      ]
+      ],
+      "catalog_id": "SNG-159",
+      "cover_path": "assets/covers/by-release/cover-159.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0205",
@@ -3967,7 +4285,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/eisenherz/1860727179?i=1860727180"
-      ]
+      ],
+      "catalog_id": "SNG-160",
+      "cover_path": "assets/covers/by-release/cover-160.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0206",
@@ -3991,7 +4311,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/happy-new-year-world/1861190030?i=1861190031"
-      ]
+      ],
+      "catalog_id": "SNG-161",
+      "cover_path": "assets/covers/by-release/cover-161.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0207",
@@ -4015,7 +4337,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/ty-angel-ya-demon/1861182124?i=1861182125"
-      ]
+      ],
+      "catalog_id": "SNG-162",
+      "cover_path": "assets/covers/by-release/cover-162.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0208",
@@ -4039,7 +4363,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/%D0%B4%D1%83%D1%88%D0%B0/1857687231?i=1857687232"
-      ]
+      ],
+      "catalog_id": "SNG-163",
+      "cover_path": "assets/covers/by-release/cover-163.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0209",
@@ -4063,7 +4389,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/reborn-in-fire/1855149863?i=1855149864"
-      ]
+      ],
+      "catalog_id": "SNG-164",
+      "cover_path": "assets/covers/by-release/cover-164.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0210",
@@ -4087,7 +4415,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/%D1%8F-%D1%81%D0%B2%D0%B5%D1%82-%D0%BE%D0%BD-%D1%82%D0%B5%D0%BD%D1%8C/1858377925?i=1858377926"
-      ]
+      ],
+      "catalog_id": "SNG-165",
+      "cover_path": "assets/covers/by-release/cover-165.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0211",
@@ -4111,7 +4441,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/american-dreams/1863496259?i=1863496260"
-      ]
+      ],
+      "catalog_id": "SNG-166",
+      "cover_path": "assets/covers/by-release/cover-166.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0212",
@@ -4135,7 +4467,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/%D1%86%D1%8B%D0%B3%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F-%D0%B4%D1%83%D1%88%D0%B0/1863880905?i=1863880906"
-      ]
+      ],
+      "catalog_id": "SNG-167",
+      "cover_path": "assets/covers/by-release/cover-167.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0213",
@@ -4159,7 +4493,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/%D0%BD%D0%B8%D0%BA%D1%82%D0%BE-%D0%BA%D1%80%D0%BE%D0%BC%D0%B5-%D0%BD%D0%B0%D1%81/1864174737?i=1864174738"
-      ]
+      ],
+      "catalog_id": "SNG-168",
+      "cover_path": "assets/covers/by-release/cover-168.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0214",
@@ -4183,7 +4519,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/%D0%BA%D1%83%D0%BF%D0%B8-%D0%B1%D0%B8%D0%BB%D0%B5%D1%82/1864248958?i=1864248959"
-      ]
+      ],
+      "catalog_id": "SNG-169",
+      "cover_path": "assets/covers/by-release/cover-169.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0215",
@@ -4208,7 +4546,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/still-yours/1865374436?i=1865374437"
-      ]
+      ],
+      "catalog_id": "SNG-170",
+      "cover_path": "assets/covers/by-release/cover-170.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0216",
@@ -4234,7 +4574,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/im-alive/1865503892?i=1865503893"
-      ]
+      ],
+      "catalog_id": "SNG-171",
+      "cover_path": "assets/covers/by-release/cover-171.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0217",
@@ -4256,7 +4598,9 @@
       "track_number": 1,
       "record_label": "TARRAF PRODUCTIONS",
       "musicbrainz_release_id": "",
-      "reference_urls": []
+      "reference_urls": [],
+      "catalog_id": "SNG-172",
+      "cover_path": "assets/covers/by-release/cover-172.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0218",
@@ -4282,7 +4626,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/dont-speak/1865910363?i=1865910364"
-      ]
+      ],
+      "catalog_id": "SNG-173",
+      "cover_path": "assets/covers/by-release/cover-173.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0219",
@@ -4308,7 +4654,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/life-racing/1866130028?i=1866130029"
-      ]
+      ],
+      "catalog_id": "SNG-174",
+      "cover_path": "assets/covers/by-release/cover-174.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0220",
@@ -4332,7 +4680,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/ash-remembers/1866253528?i=1866253529"
-      ]
+      ],
+      "catalog_id": "SNG-175",
+      "cover_path": "assets/covers/by-release/cover-175.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0221",
@@ -4356,7 +4706,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/stay/1866358286?i=1866358287"
-      ]
+      ],
+      "catalog_id": "SNG-176",
+      "cover_path": "assets/covers/by-release/cover-176.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0222",
@@ -4382,7 +4734,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-syria/1866862695?i=1866862696"
-      ]
+      ],
+      "catalog_id": "SNG-177",
+      "cover_path": "assets/covers/by-release/cover-177.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0223",
@@ -4406,7 +4760,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/%D0%BF%D0%BE%D0%BF%D0%BB%D0%B0%D1%87%D1%8C-%D0%BD%D0%B0-%D0%BC%D0%BE%D0%B5%D0%B9-%D0%B3%D1%80%D1%83%D0%B4%D0%B8/1867601966?i=1867601967"
-      ]
+      ],
+      "catalog_id": "SNG-178",
+      "cover_path": "assets/covers/by-release/cover-178.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0224",
@@ -4430,7 +4786,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/%D1%8D%D1%82%D0%BE-%D0%BC%D0%B5%D0%BB%D0%BE%D1%87%D0%B8/1867807252?i=1867807254"
-      ]
+      ],
+      "catalog_id": "SNG-179",
+      "cover_path": "assets/covers/by-release/cover-179.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0225",
@@ -4452,7 +4810,9 @@
       "track_number": 1,
       "record_label": "TARRAF PRODUCTIONS",
       "musicbrainz_release_id": "",
-      "reference_urls": []
+      "reference_urls": [],
+      "catalog_id": "SNG-180",
+      "cover_path": "assets/covers/by-release/cover-180.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0226",
@@ -4478,7 +4838,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/%D1%87%D0%BE%D0%BC%D1%83-%D1%8F-%D0%B1%D0%B5%D0%B7-%D0%B4%D0%BE%D0%BC%D1%83-feat-aliana-tarraf/1868550078?i=1868550559"
-      ]
+      ],
+      "catalog_id": "SNG-181",
+      "cover_path": "assets/covers/by-release/cover-181.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0227",
@@ -4500,7 +4862,9 @@
       "track_number": 1,
       "record_label": "TARRAF PRODUCTIONS",
       "musicbrainz_release_id": "",
-      "reference_urls": []
+      "reference_urls": [],
+      "catalog_id": "SNG-182",
+      "cover_path": "assets/covers/by-release/cover-182.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0228",
@@ -4526,7 +4890,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/im-hungry/1868323012?i=1868323013"
-      ]
+      ],
+      "catalog_id": "SNG-183",
+      "cover_path": "assets/covers/by-release/cover-183.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0229",
@@ -4550,7 +4916,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/%D1%82%D0%B0%D1%80%D1%80%D0%B0%D1%84-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%BA%D1%88%D0%B8%D0%BD%D1%81-%D0%BF%D0%BE%D0%B7%D0%B4%D1%80%D0%B0%D0%B2%D0%BB%D1%8F%D0%B5%D1%82-%D1%81-%D0%BD%D0%BE%D0%B2%D1%8B%D0%BC-%D0%B3%D0%BE%D0%B4%D0%BE%D0%BC/1867101626?i=1867101627"
-      ]
+      ],
+      "catalog_id": "SNG-184",
+      "cover_path": "assets/covers/by-release/cover-184.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0230",
@@ -4572,7 +4940,9 @@
       "track_number": 1,
       "record_label": "TARRAF PRODUCTIONS",
       "musicbrainz_release_id": "",
-      "reference_urls": []
+      "reference_urls": [],
+      "catalog_id": "SNG-185",
+      "cover_path": "assets/covers/by-release/cover-185.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0231",
@@ -4595,7 +4965,9 @@
       "track_number": 1,
       "record_label": "TARRAF PRODUCTIONS",
       "musicbrainz_release_id": "",
-      "reference_urls": []
+      "reference_urls": [],
+      "catalog_id": "SNG-186",
+      "cover_path": "assets/covers/by-release/cover-186.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0232",
@@ -4617,7 +4989,9 @@
       "track_number": 1,
       "record_label": "TARRAF PRODUCTIONS",
       "musicbrainz_release_id": "",
-      "reference_urls": []
+      "reference_urls": [],
+      "catalog_id": "SNG-187",
+      "cover_path": "assets/covers/by-release/cover-187.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0233",
@@ -4639,7 +5013,9 @@
       "track_number": 1,
       "record_label": "TARRAF PRODUCTIONS",
       "musicbrainz_release_id": "",
-      "reference_urls": []
+      "reference_urls": [],
+      "catalog_id": "SNG-188",
+      "cover_path": "assets/covers/by-release/cover-188.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0234",
@@ -4665,7 +5041,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/continuity-%D0%BC%D1%8B-%D0%BF%D0%B5%D1%80%D0%B5%D1%85%D0%BE%D0%B4-feat-alik-tarraf-manifesto/1880048964?i=1880048965"
-      ]
+      ],
+      "catalog_id": "SNG-189",
+      "cover_path": "assets/covers/by-release/cover-189.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0235",
@@ -4687,7 +5065,9 @@
       "track_number": 1,
       "record_label": "TARRAF PRODUCTIONS",
       "musicbrainz_release_id": "",
-      "reference_urls": []
+      "reference_urls": [],
+      "catalog_id": "SNG-190",
+      "cover_path": "assets/covers/by-release/cover-190.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0236",
@@ -4711,7 +5091,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ae/album/1890473446"
-      ]
+      ],
+      "catalog_id": "SNG-191",
+      "cover_path": "assets/covers/by-release/cover-191.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0237",
@@ -4738,7 +5120,9 @@
       "reference_urls": [
         "https://music.apple.com/ae/album/1890792555",
         "https://music.apple.com/ua/album/b%C3%A8same-ya-habibi-feat-marina-tarraf/1890792555?i=1890792556"
-      ]
+      ],
+      "catalog_id": "SNG-192",
+      "cover_path": "assets/covers/by-release/cover-192.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0238",
@@ -4762,7 +5146,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ae/album/1891327527"
-      ]
+      ],
+      "catalog_id": "SNG-193",
+      "cover_path": "assets/covers/by-release/cover-193.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0239",
@@ -4789,7 +5175,9 @@
       "reference_urls": [
         "https://music.apple.com/ae/album/1891230588",
         "https://music.apple.com/ua/album/%D0%B1%D1%83%D0%BB%D0%BB%D0%B8%D0%BD%D0%B3-feat-alik-tarraf/1891230588?i=1891230589"
-      ]
+      ],
+      "catalog_id": "SNG-194",
+      "cover_path": "assets/covers/by-release/cover-194.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0240",
@@ -4811,7 +5199,9 @@
       "track_number": 1,
       "record_label": "TARRAF PRODUCTIONS",
       "musicbrainz_release_id": "",
-      "reference_urls": []
+      "reference_urls": [],
+      "catalog_id": "SNG-195",
+      "cover_path": "assets/covers/by-release/cover-195.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0241",
@@ -4838,7 +5228,9 @@
       "reference_urls": [
         "https://music.apple.com/ae/album/1894303328",
         "https://music.apple.com/ua/album/%D0%BF%D0%BE%D0%B7%D0%B2%D0%BE%D0%BD%D0%B8-%D1%80%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D1%8F%D0%BC-feat-marina-tarraf/1894303328?i=1894303329"
-      ]
+      ],
+      "catalog_id": "SNG-196",
+      "cover_path": "assets/covers/by-release/cover-196.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0242",
@@ -4862,7 +5254,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ae/album/1893456889"
-      ]
+      ],
+      "catalog_id": "SNG-197",
+      "cover_path": "assets/covers/by-release/cover-197.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0243",
@@ -4886,7 +5280,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ae/album/1892892334"
-      ]
+      ],
+      "catalog_id": "SNG-198",
+      "cover_path": "assets/covers/by-release/cover-198.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0244",
@@ -4910,7 +5306,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ae/album/1895448760"
-      ]
+      ],
+      "catalog_id": "SNG-199",
+      "cover_path": "assets/covers/by-release/cover-199.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0245",
@@ -4934,7 +5332,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ae/album/1895686331"
-      ]
+      ],
+      "catalog_id": "SNG-200",
+      "cover_path": "assets/covers/by-release/cover-200.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0246",
@@ -4961,7 +5361,9 @@
       "reference_urls": [
         "https://music.apple.com/ae/album/1894723403",
         "https://music.apple.com/ua/album/velcaron-lux-in-tenebris-feat-marina-tarraf-dark-ritual/1894723403?i=1894723404"
-      ]
+      ],
+      "catalog_id": "SNG-201",
+      "cover_path": "assets/covers/by-release/cover-201.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0247",
@@ -4985,7 +5387,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ae/album/6765532743"
-      ]
+      ],
+      "catalog_id": "SNG-202",
+      "cover_path": "assets/covers/by-release/cover-202.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0248",
@@ -5009,7 +5413,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ae/album/1895185067"
-      ]
+      ],
+      "catalog_id": "SNG-203",
+      "cover_path": "assets/covers/by-release/cover-203.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0249",
@@ -5033,7 +5439,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ae/album/6766476649"
-      ]
+      ],
+      "catalog_id": "SNG-204",
+      "cover_path": "assets/covers/by-release/cover-204.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0250",
@@ -5057,7 +5465,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ae/album/6766982435"
-      ]
+      ],
+      "catalog_id": "SNG-205",
+      "cover_path": "assets/covers/by-release/cover-205.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0251",
@@ -5081,7 +5491,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ae/album/6767819487"
-      ]
+      ],
+      "catalog_id": "SNG-206",
+      "cover_path": "assets/covers/by-release/cover-206.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0252",
@@ -5105,7 +5517,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ae/album/6768433311"
-      ]
+      ],
+      "catalog_id": "SNG-207",
+      "cover_path": "assets/covers/by-release/cover-207.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0253",
@@ -5129,7 +5543,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ae/album/6769626344"
-      ]
+      ],
+      "catalog_id": "SNG-208",
+      "cover_path": "assets/covers/by-release/cover-208.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0254",
@@ -5156,7 +5572,9 @@
       "reference_urls": [
         "https://music.apple.com/ae/album/6769771166",
         "https://music.apple.com/ua/album/born-for-more-%D1%80%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%B1%D0%BE%D0%BB%D1%8C%D1%88%D0%B5%D0%B3%D0%BE-feat-marina-tarraf-live/6769771166?i=6769771167"
-      ]
+      ],
+      "catalog_id": "SNG-209",
+      "cover_path": "assets/covers/by-release/cover-209.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0255",
@@ -5180,7 +5598,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ae/album/6770317913"
-      ]
+      ],
+      "catalog_id": "SNG-210",
+      "cover_path": "assets/covers/by-release/cover-210.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0256",
@@ -5207,7 +5627,9 @@
       "reference_urls": [
         "https://music.apple.com/ae/album/6773153963",
         "https://music.apple.com/ua/album/%D9%8A%D8%A7-%D8%B1%D9%88%D8%AD-%D9%84%D8%A7-%D8%AA%D8%A8%D9%83%D9%8A-we-are-guests-feat-marina-tarraf-tarraf/6773153963?i=6773153964"
-      ]
+      ],
+      "catalog_id": "SNG-211",
+      "cover_path": "assets/covers/by-release/cover-211.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0257",
@@ -5231,7 +5653,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ae/album/6769981276"
-      ]
+      ],
+      "catalog_id": "SNG-212",
+      "cover_path": "assets/covers/by-release/cover-212.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0258",
@@ -5258,7 +5682,9 @@
       "reference_urls": [
         "https://music.apple.com/ae/album/6774043589",
         "https://music.apple.com/ua/album/%D8%A3%D9%8A%D8%A7%D9%85-of-fire-feat-marina-tarraf/6774043589?i=6774043590"
-      ]
+      ],
+      "catalog_id": "SNG-213",
+      "cover_path": "assets/covers/by-release/cover-213.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0259",
@@ -5284,7 +5710,9 @@
       "reference_urls": [
         "https://music.apple.com/ae/album/6770759376",
         "https://music.apple.com/ua/album/epic-evolution-music-live-studio-session/6770759376?i=6770759377"
-      ]
+      ],
+      "catalog_id": "SNG-214",
+      "cover_path": "assets/covers/by-release/cover-214.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0260",
@@ -5310,7 +5738,9 @@
       "reference_urls": [
         "https://music.apple.com/ae/album/6779852581",
         "https://music.apple.com/ua/album/still-yours-live/6779852581?i=6779852584"
-      ]
+      ],
+      "catalog_id": "SNG-215",
+      "cover_path": "assets/covers/by-release/cover-215.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0261",
@@ -5336,7 +5766,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/apocalypses-feat-marina-tarraf/1838563826?i=1838563827"
-      ]
+      ],
+      "catalog_id": "SNG-216",
+      "cover_path": "assets/covers/by-release/cover-216.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0262",
@@ -5358,7 +5790,9 @@
       "track_number": 1,
       "record_label": "TARRAF PRODUCTIONS",
       "musicbrainz_release_id": "",
-      "reference_urls": []
+      "reference_urls": [],
+      "catalog_id": "SNG-217",
+      "cover_path": "assets/covers/by-release/cover-217.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0263",
@@ -5381,7 +5815,9 @@
       "track_number": 1,
       "record_label": "TARRAF PRODUCTIONS",
       "musicbrainz_release_id": "",
-      "reference_urls": []
+      "reference_urls": [],
+      "catalog_id": "SNG-218",
+      "cover_path": "assets/covers/by-release/cover-218.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0264",
@@ -5403,7 +5839,9 @@
       "track_number": 1,
       "record_label": "TARRAF PRODUCTIONS",
       "musicbrainz_release_id": "",
-      "reference_urls": []
+      "reference_urls": [],
+      "catalog_id": "SNG-219",
+      "cover_path": "assets/covers/by-release/cover-219.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0265",
@@ -5423,7 +5861,9 @@
       "track_number": 1,
       "record_label": "TARRAF PRODUCTIONS",
       "musicbrainz_release_id": "",
-      "reference_urls": []
+      "reference_urls": [],
+      "catalog_id": "SNG-220",
+      "cover_path": "assets/covers/by-release/cover-220.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0266",
@@ -5445,7 +5885,9 @@
       "track_number": 1,
       "record_label": "TARRAF PRODUCTIONS",
       "musicbrainz_release_id": "",
-      "reference_urls": []
+      "reference_urls": [],
+      "catalog_id": "SNG-221",
+      "cover_path": "assets/covers/by-release/cover-221.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0267",
@@ -5467,7 +5909,9 @@
       "track_number": 1,
       "record_label": "TARRAF PRODUCTIONS",
       "musicbrainz_release_id": "",
-      "reference_urls": []
+      "reference_urls": [],
+      "catalog_id": "SNG-222",
+      "cover_path": "assets/covers/by-release/cover-222.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0268",
@@ -5489,7 +5933,9 @@
       "track_number": 1,
       "record_label": "TARRAF PRODUCTIONS",
       "musicbrainz_release_id": "",
-      "reference_urls": []
+      "reference_urls": [],
+      "catalog_id": "SNG-223",
+      "cover_path": "assets/covers/by-release/cover-223.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0269",
@@ -5511,7 +5957,9 @@
       "track_number": 1,
       "record_label": "TARRAF PRODUCTIONS",
       "musicbrainz_release_id": "",
-      "reference_urls": []
+      "reference_urls": [],
+      "catalog_id": "SNG-224",
+      "cover_path": "assets/covers/by-release/cover-224.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0270",
@@ -5533,7 +5981,9 @@
       "track_number": 1,
       "record_label": "TARRAF PRODUCTIONS",
       "musicbrainz_release_id": "",
-      "reference_urls": []
+      "reference_urls": [],
+      "catalog_id": "SNG-225",
+      "cover_path": "assets/covers/by-release/cover-225.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0271",
@@ -5555,7 +6005,9 @@
       "track_number": 1,
       "record_label": "TARRAF PRODUCTIONS",
       "musicbrainz_release_id": "",
-      "reference_urls": []
+      "reference_urls": [],
+      "catalog_id": "SNG-226",
+      "cover_path": "assets/covers/by-release/cover-226.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0272",
@@ -5577,7 +6029,9 @@
       "track_number": 1,
       "record_label": "TARRAF PRODUCTIONS",
       "musicbrainz_release_id": "",
-      "reference_urls": []
+      "reference_urls": [],
+      "catalog_id": "SNG-227",
+      "cover_path": "assets/covers/by-release/cover-227.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0273",
@@ -5599,7 +6053,9 @@
       "track_number": 1,
       "record_label": "TARRAF PRODUCTIONS",
       "musicbrainz_release_id": "",
-      "reference_urls": []
+      "reference_urls": [],
+      "catalog_id": "SNG-228",
+      "cover_path": "assets/covers/by-release/cover-228.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0274",
@@ -5621,7 +6077,9 @@
       "track_number": 1,
       "record_label": "TARRAF PRODUCTIONS",
       "musicbrainz_release_id": "",
-      "reference_urls": []
+      "reference_urls": [],
+      "catalog_id": "SNG-229",
+      "cover_path": "assets/covers/by-release/cover-229.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0275",
@@ -5643,7 +6101,9 @@
       "track_number": 1,
       "record_label": "TARRAF PRODUCTIONS",
       "musicbrainz_release_id": "",
-      "reference_urls": []
+      "reference_urls": [],
+      "catalog_id": "SNG-230",
+      "cover_path": "assets/covers/by-release/cover-230.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0276",
@@ -5665,7 +6125,9 @@
       "track_number": 1,
       "record_label": "TARRAF PRODUCTIONS",
       "musicbrainz_release_id": "",
-      "reference_urls": []
+      "reference_urls": [],
+      "catalog_id": "SNG-231",
+      "cover_path": "assets/covers/by-release/cover-231.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0277",
@@ -5691,7 +6153,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/aliana-feat-marina-tarraf/1882366409?i=1882366411"
-      ]
+      ],
+      "catalog_id": "SNG-232",
+      "cover_path": "assets/covers/by-release/cover-232.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0278",
@@ -5713,7 +6177,9 @@
       "track_number": 1,
       "record_label": "TARRAF PRODUCTIONS",
       "musicbrainz_release_id": "",
-      "reference_urls": []
+      "reference_urls": [],
+      "catalog_id": "SNG-233",
+      "cover_path": "assets/covers/by-release/cover-233.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0279",
@@ -5735,7 +6201,9 @@
       "track_number": 1,
       "record_label": "TARRAF PRODUCTIONS",
       "musicbrainz_release_id": "",
-      "reference_urls": []
+      "reference_urls": [],
+      "catalog_id": "SNG-234",
+      "cover_path": "assets/covers/by-release/cover-234.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0280",
@@ -5757,7 +6225,9 @@
       "track_number": 1,
       "record_label": "TARRAF PRODUCTIONS",
       "musicbrainz_release_id": "",
-      "reference_urls": []
+      "reference_urls": [],
+      "catalog_id": "SNG-235",
+      "cover_path": "assets/covers/by-release/cover-235.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0281",
@@ -5779,7 +6249,9 @@
       "track_number": 1,
       "record_label": "TARRAF PRODUCTIONS",
       "musicbrainz_release_id": "",
-      "reference_urls": []
+      "reference_urls": [],
+      "catalog_id": "SNG-236",
+      "cover_path": "assets/covers/by-release/cover-236.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0282",
@@ -5803,7 +6275,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/%D0%BE%D0%BD-%D1%80%D0%B8%D1%81%D1%83%D0%B5%D1%82-%D0%BC%D0%B8%D1%80/1880412662?i=1880412664"
-      ]
+      ],
+      "catalog_id": "SNG-237",
+      "cover_path": "assets/covers/by-release/cover-237.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0283",
@@ -5825,7 +6299,9 @@
       "track_number": 1,
       "record_label": "TARRAF PRODUCTIONS",
       "musicbrainz_release_id": "",
-      "reference_urls": []
+      "reference_urls": [],
+      "catalog_id": "SNG-238",
+      "cover_path": "assets/covers/by-release/cover-238.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0284",
@@ -5847,7 +6323,9 @@
       "track_number": 1,
       "record_label": "TARRAF PRODUCTIONS",
       "musicbrainz_release_id": "",
-      "reference_urls": []
+      "reference_urls": [],
+      "catalog_id": "SNG-239",
+      "cover_path": "assets/covers/by-release/cover-239.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0285",
@@ -5869,7 +6347,9 @@
       "track_number": 1,
       "record_label": "TARRAF PRODUCTIONS",
       "musicbrainz_release_id": "",
-      "reference_urls": []
+      "reference_urls": [],
+      "catalog_id": "SNG-240",
+      "cover_path": "assets/covers/by-release/cover-240.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0286",
@@ -5891,7 +6371,9 @@
       "track_number": 1,
       "record_label": "TARRAF PRODUCTIONS",
       "musicbrainz_release_id": "",
-      "reference_urls": []
+      "reference_urls": [],
+      "catalog_id": "SNG-241",
+      "cover_path": "assets/covers/by-release/cover-241.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0287",
@@ -5913,7 +6395,9 @@
       "track_number": 1,
       "record_label": "TARRAF PRODUCTIONS",
       "musicbrainz_release_id": "",
-      "reference_urls": []
+      "reference_urls": [],
+      "catalog_id": "SNG-242",
+      "cover_path": "assets/covers/by-release/cover-242.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0288",
@@ -5935,7 +6419,9 @@
       "track_number": 1,
       "record_label": "TARRAF PRODUCTIONS",
       "musicbrainz_release_id": "",
-      "reference_urls": []
+      "reference_urls": [],
+      "catalog_id": "SNG-243",
+      "cover_path": "assets/covers/by-release/cover-243.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0289",
@@ -5957,7 +6443,9 @@
       "track_number": 1,
       "record_label": "TARRAF PRODUCTIONS",
       "musicbrainz_release_id": "",
-      "reference_urls": []
+      "reference_urls": [],
+      "catalog_id": "SNG-244",
+      "cover_path": "assets/covers/by-release/cover-244.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0290",
@@ -5979,7 +6467,9 @@
       "track_number": 1,
       "record_label": "TARRAF PRODUCTIONS",
       "musicbrainz_release_id": "",
-      "reference_urls": []
+      "reference_urls": [],
+      "catalog_id": "SNG-245",
+      "cover_path": "assets/covers/by-release/cover-245.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0291",
@@ -6001,7 +6491,9 @@
       "track_number": 1,
       "record_label": "TARRAF PRODUCTIONS",
       "musicbrainz_release_id": "",
-      "reference_urls": []
+      "reference_urls": [],
+      "catalog_id": "SNG-246",
+      "cover_path": "assets/covers/by-release/cover-246.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0292",
@@ -6023,7 +6515,9 @@
       "track_number": 1,
       "record_label": "TARRAF PRODUCTIONS",
       "musicbrainz_release_id": "",
-      "reference_urls": []
+      "reference_urls": [],
+      "catalog_id": "SNG-247",
+      "cover_path": "assets/covers/by-release/cover-247.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0293",
@@ -6046,7 +6540,9 @@
       "track_number": 1,
       "record_label": "TARRAF PRODUCTIONS",
       "musicbrainz_release_id": "",
-      "reference_urls": []
+      "reference_urls": [],
+      "catalog_id": "SNG-248",
+      "cover_path": "assets/covers/by-release/cover-248.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0294",
@@ -6072,7 +6568,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/m%C3%A1s-cerca-closer-feat-marina-tarraf/1877599682?i=1877599683"
-      ]
+      ],
+      "catalog_id": "SNG-249",
+      "cover_path": "assets/covers/by-release/cover-249.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0295",
@@ -6094,7 +6592,9 @@
       "track_number": 1,
       "record_label": "TARRAF PRODUCTIONS",
       "musicbrainz_release_id": "",
-      "reference_urls": []
+      "reference_urls": [],
+      "catalog_id": "SNG-250",
+      "cover_path": "assets/covers/by-release/cover-250.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0296",
@@ -6116,7 +6616,9 @@
       "track_number": 1,
       "record_label": "TARRAF PRODUCTIONS",
       "musicbrainz_release_id": "",
-      "reference_urls": []
+      "reference_urls": [],
+      "catalog_id": "SNG-251",
+      "cover_path": "assets/covers/by-release/cover-251.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0297",
@@ -6140,7 +6642,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/%D0%B2%D1%81%D0%B5-%D1%85%D0%BE%D1%80%D0%BE%D1%88%D0%BE-live/1876641397?i=1876641398"
-      ]
+      ],
+      "catalog_id": "SNG-252",
+      "cover_path": "assets/covers/by-release/cover-252.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0298",
@@ -6163,7 +6667,9 @@
       "track_number": 1,
       "record_label": "TARRAF PRODUCTIONS",
       "musicbrainz_release_id": "",
-      "reference_urls": []
+      "reference_urls": [],
+      "catalog_id": "SNG-253",
+      "cover_path": "assets/covers/by-release/cover-253.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0299",
@@ -6185,7 +6691,9 @@
       "track_number": 1,
       "record_label": "TARRAF PRODUCTIONS",
       "musicbrainz_release_id": "",
-      "reference_urls": []
+      "reference_urls": [],
+      "catalog_id": "SNG-254",
+      "cover_path": "assets/covers/by-release/cover-254.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0300",
@@ -6207,7 +6715,9 @@
       "track_number": 1,
       "record_label": "TARRAF PRODUCTIONS",
       "musicbrainz_release_id": "",
-      "reference_urls": []
+      "reference_urls": [],
+      "catalog_id": "SNG-255",
+      "cover_path": "assets/covers/by-release/cover-255.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0301",
@@ -6229,7 +6739,9 @@
       "track_number": 1,
       "record_label": "TARRAF PRODUCTIONS",
       "musicbrainz_release_id": "",
-      "reference_urls": []
+      "reference_urls": [],
+      "catalog_id": "SNG-256",
+      "cover_path": "assets/covers/by-release/cover-256.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0302",
@@ -6251,7 +6763,9 @@
       "track_number": 1,
       "record_label": "TARRAF PRODUCTIONS",
       "musicbrainz_release_id": "",
-      "reference_urls": []
+      "reference_urls": [],
+      "catalog_id": "SNG-257",
+      "cover_path": "assets/covers/by-release/cover-257.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0303",
@@ -6274,7 +6788,9 @@
       "track_number": 1,
       "record_label": "TARRAF PRODUCTIONS",
       "musicbrainz_release_id": "",
-      "reference_urls": []
+      "reference_urls": [],
+      "catalog_id": "SNG-258",
+      "cover_path": "assets/covers/by-release/cover-258.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0304",
@@ -6296,7 +6812,9 @@
       "track_number": 1,
       "record_label": "TARRAF PRODUCTIONS",
       "musicbrainz_release_id": "",
-      "reference_urls": []
+      "reference_urls": [],
+      "catalog_id": "SNG-259",
+      "cover_path": "assets/covers/by-release/cover-259.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0305",
@@ -6318,7 +6836,9 @@
       "track_number": 1,
       "record_label": "TARRAF PRODUCTIONS",
       "musicbrainz_release_id": "",
-      "reference_urls": []
+      "reference_urls": [],
+      "catalog_id": "SNG-260",
+      "cover_path": "assets/covers/by-release/cover-260.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0306",
@@ -6340,7 +6860,9 @@
       "track_number": 1,
       "record_label": "TARRAF PRODUCTIONS",
       "musicbrainz_release_id": "",
-      "reference_urls": []
+      "reference_urls": [],
+      "catalog_id": "SNG-261",
+      "cover_path": "assets/covers/by-release/cover-261.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0307",
@@ -6362,7 +6884,9 @@
       "track_number": 1,
       "record_label": "TARRAF PRODUCTIONS",
       "musicbrainz_release_id": "",
-      "reference_urls": []
+      "reference_urls": [],
+      "catalog_id": "SNG-262",
+      "cover_path": "assets/covers/by-release/cover-262.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0308",
@@ -6384,7 +6908,9 @@
       "track_number": 1,
       "record_label": "TARRAF PRODUCTIONS",
       "musicbrainz_release_id": "",
-      "reference_urls": []
+      "reference_urls": [],
+      "catalog_id": "SNG-263",
+      "cover_path": "assets/covers/by-release/cover-263.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0309",
@@ -6406,7 +6932,9 @@
       "track_number": 1,
       "record_label": "TARRAF PRODUCTIONS",
       "musicbrainz_release_id": "",
-      "reference_urls": []
+      "reference_urls": [],
+      "catalog_id": "SNG-264",
+      "cover_path": "assets/covers/by-release/cover-264.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0310",
@@ -6428,7 +6956,9 @@
       "track_number": 1,
       "record_label": "TARRAF PRODUCTIONS",
       "musicbrainz_release_id": "",
-      "reference_urls": []
+      "reference_urls": [],
+      "catalog_id": "SNG-265",
+      "cover_path": "assets/covers/by-release/cover-265.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0311",
@@ -6450,7 +6980,9 @@
       "track_number": 1,
       "record_label": "TARRAF PRODUCTIONS",
       "musicbrainz_release_id": "",
-      "reference_urls": []
+      "reference_urls": [],
+      "catalog_id": "SNG-266",
+      "cover_path": "assets/covers/by-release/cover-266.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0312",
@@ -6472,7 +7004,9 @@
       "track_number": 1,
       "record_label": "TARRAF PRODUCTIONS",
       "musicbrainz_release_id": "",
-      "reference_urls": []
+      "reference_urls": [],
+      "catalog_id": "SNG-267",
+      "cover_path": "assets/covers/by-release/cover-267.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0313",
@@ -6498,7 +7032,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/%D0%BF%D0%BE%D0%BA%D0%B0-%D0%BC%D1%8B-%D0%B6%D0%B8%D0%B2%D1%8B-feat-marina-tarraf/1872709598?i=1872709599"
-      ]
+      ],
+      "catalog_id": "SNG-268",
+      "cover_path": "assets/covers/by-release/cover-268.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0314",
@@ -6520,7 +7056,9 @@
       "track_number": 1,
       "record_label": "TARRAF PRODUCTIONS",
       "musicbrainz_release_id": "",
-      "reference_urls": []
+      "reference_urls": [],
+      "catalog_id": "SNG-269",
+      "cover_path": "assets/covers/by-release/cover-269.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0315",
@@ -6542,7 +7080,9 @@
       "track_number": 1,
       "record_label": "TARRAF PRODUCTIONS",
       "musicbrainz_release_id": "",
-      "reference_urls": []
+      "reference_urls": [],
+      "catalog_id": "SNG-270",
+      "cover_path": "assets/covers/by-release/cover-270.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0316",
@@ -6564,7 +7104,9 @@
       "track_number": 1,
       "record_label": "TARRAF PRODUCTIONS",
       "musicbrainz_release_id": "",
-      "reference_urls": []
+      "reference_urls": [],
+      "catalog_id": "SNG-271",
+      "cover_path": "assets/covers/by-release/cover-271.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0317",
@@ -6586,7 +7128,9 @@
       "track_number": 1,
       "record_label": "TARRAF PRODUCTIONS",
       "musicbrainz_release_id": "",
-      "reference_urls": []
+      "reference_urls": [],
+      "catalog_id": "SNG-272",
+      "cover_path": "assets/covers/by-release/cover-272.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0318",
@@ -6608,7 +7152,9 @@
       "track_number": 1,
       "record_label": "TARRAF PRODUCTIONS",
       "musicbrainz_release_id": "",
-      "reference_urls": []
+      "reference_urls": [],
+      "catalog_id": "SNG-273",
+      "cover_path": "assets/covers/by-release/cover-273.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0319",
@@ -6630,7 +7176,9 @@
       "track_number": 1,
       "record_label": "TARRAF PRODUCTIONS",
       "musicbrainz_release_id": "",
-      "reference_urls": []
+      "reference_urls": [],
+      "catalog_id": "SNG-274",
+      "cover_path": "assets/covers/by-release/cover-274.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0320",
@@ -6652,7 +7200,9 @@
       "track_number": 1,
       "record_label": "TARRAF PRODUCTIONS",
       "musicbrainz_release_id": "",
-      "reference_urls": []
+      "reference_urls": [],
+      "catalog_id": "SNG-275",
+      "cover_path": "assets/covers/by-release/cover-275.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#tarraf-productions-live-vol-i-track-01",
@@ -6679,7 +7229,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/opening-overture-live/6784526211?i=6784526212"
-      ]
+      ],
+      "catalog_id": "LIVE-I",
+      "cover_path": "assets/covers/by-release/live-vol-i.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#tarraf-productions-live-vol-i-track-02",
@@ -6706,7 +7258,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/alik-marina-introduction-live/6784526211?i=6784526214"
-      ]
+      ],
+      "catalog_id": "LIVE-I",
+      "cover_path": "assets/covers/by-release/live-vol-i.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#tarraf-productions-live-vol-i-track-03",
@@ -6733,7 +7287,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/abu-dhabi-nights-live/6784526211?i=6784526215"
-      ]
+      ],
+      "catalog_id": "LIVE-I",
+      "cover_path": "assets/covers/by-release/live-vol-i.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#tarraf-productions-live-vol-i-track-04",
@@ -6760,7 +7316,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/eagles-not-crows-live/6784526211?i=6784526216"
-      ]
+      ],
+      "catalog_id": "LIVE-I",
+      "cover_path": "assets/covers/by-release/live-vol-i.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#tarraf-productions-live-vol-i-track-05",
@@ -6787,7 +7345,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/%D8%AD%D8%A8%D9%83-%D9%85%D9%88-%D9%84%D8%B9%D8%A8%D8%A9-live/6784526211?i=6784526217"
-      ]
+      ],
+      "catalog_id": "LIVE-I",
+      "cover_path": "assets/covers/by-release/live-vol-i.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#tarraf-productions-live-vol-i-track-06",
@@ -6814,7 +7374,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/obarabo-%D8%A7%D9%84%D8%B5%D8%AD%D8%B1%D8%A7%D8%A1-%D8%A7%D9%84%D8%B9%D8%AC%D9%8A%D8%A8%D8%A9-live/6784526211?i=6784526218"
-      ]
+      ],
+      "catalog_id": "LIVE-I",
+      "cover_path": "assets/covers/by-release/live-vol-i.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#tarraf-productions-live-vol-i-track-07",
@@ -6841,7 +7403,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/words-live/6784526211?i=6784526219"
-      ]
+      ],
+      "catalog_id": "LIVE-I",
+      "cover_path": "assets/covers/by-release/live-vol-i.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#tarraf-productions-live-vol-i-track-08",
@@ -6868,7 +7432,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/tell-me-why-live/6784526211?i=6784526220"
-      ]
+      ],
+      "catalog_id": "LIVE-I",
+      "cover_path": "assets/covers/by-release/live-vol-i.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#tarraf-productions-live-vol-i-track-09",
@@ -6895,7 +7461,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/desert-dominus-live/6784526211?i=6784526221"
-      ]
+      ],
+      "catalog_id": "LIVE-I",
+      "cover_path": "assets/covers/by-release/live-vol-i.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#tarraf-productions-live-vol-i-track-10",
@@ -6922,7 +7490,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/%D0%BC%D1%8B-live/6784526211?i=6784526222"
-      ]
+      ],
+      "catalog_id": "LIVE-I",
+      "cover_path": "assets/covers/by-release/live-vol-i.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#tarraf-productions-live-vol-i-track-11",
@@ -6949,7 +7519,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/malak-shaitan-live/6784526211?i=6784526223"
-      ]
+      ],
+      "catalog_id": "LIVE-I",
+      "cover_path": "assets/covers/by-release/live-vol-i.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#tarraf-productions-live-vol-i-track-12",
@@ -6976,7 +7548,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/goddess-live/6784526211?i=6784526224"
-      ]
+      ],
+      "catalog_id": "LIVE-I",
+      "cover_path": "assets/covers/by-release/live-vol-i.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#tarraf-productions-live-vol-i-track-13",
@@ -7003,7 +7577,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/%D1%81%D0%BC%D1%8B%D1%81%D0%BB-%D0%B6%D0%B8%D0%B7%D0%BD%D0%B8-live/6784526211?i=6784526225"
-      ]
+      ],
+      "catalog_id": "LIVE-I",
+      "cover_path": "assets/covers/by-release/live-vol-i.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#tarraf-productions-live-vol-i-track-14",
@@ -7030,7 +7606,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/fire-drones-show-live/6784526211?i=6784526226"
-      ]
+      ],
+      "catalog_id": "LIVE-I",
+      "cover_path": "assets/covers/by-release/live-vol-i.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#tarraf-productions-live-vol-i-track-15",
@@ -7057,7 +7635,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/meaning-of-life-live/6784526211?i=6784526227"
-      ]
+      ],
+      "catalog_id": "LIVE-I",
+      "cover_path": "assets/covers/by-release/live-vol-i.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#tarraf-productions-live-vol-i-track-16",
@@ -7084,7 +7664,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/%D1%81%D1%83%D0%BC-%D0%B7%D0%B0-%D0%B1%D0%B0%D1%82%D1%8C%D0%BA%D1%96%D0%B2%D1%89%D0%B8%D0%BD%D1%83-live/6784526211?i=6784526228"
-      ]
+      ],
+      "catalog_id": "LIVE-I",
+      "cover_path": "assets/covers/by-release/live-vol-i.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#tarraf-productions-live-vol-i-track-17",
@@ -7111,7 +7693,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/dont-speak-live/6784526211?i=6784526229"
-      ]
+      ],
+      "catalog_id": "LIVE-I",
+      "cover_path": "assets/covers/by-release/live-vol-i.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#tarraf-productions-live-vol-i-track-18",
@@ -7138,7 +7722,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/i-rise-live/6784526211?i=6784526230"
-      ]
+      ],
+      "catalog_id": "LIVE-I",
+      "cover_path": "assets/covers/by-release/live-vol-i.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#tarraf-productions-live-vol-i-track-19",
@@ -7165,7 +7751,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/%D0%B4%D0%BE%D0%B1%D1%80%D0%BE-%D0%B8-%D0%B7%D0%BB%D0%BE-live/6784526211?i=6784526231"
-      ]
+      ],
+      "catalog_id": "LIVE-I",
+      "cover_path": "assets/covers/by-release/live-vol-i.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#tarraf-productions-live-vol-i-track-20",
@@ -7192,7 +7780,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/the-other-side-live/6784526211?i=6784526232"
-      ]
+      ],
+      "catalog_id": "LIVE-I",
+      "cover_path": "assets/covers/by-release/live-vol-i.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#tarraf-productions-live-vol-i-track-21",
@@ -7219,7 +7809,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/this-is-goodbye-live/6784526211?i=6784526233"
-      ]
+      ],
+      "catalog_id": "LIVE-I",
+      "cover_path": "assets/covers/by-release/live-vol-i.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#tarraf-productions-live-vol-i-track-22",
@@ -7246,7 +7838,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/end-vol-1-live/6784526211?i=6784526234"
-      ]
+      ],
+      "catalog_id": "LIVE-I",
+      "cover_path": "assets/covers/by-release/live-vol-i.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#tarraf-productions-live-vol-ii-track-01",
@@ -7273,7 +7867,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/kacheli-introduction-live/6793955748?i=6793955751"
-      ]
+      ],
+      "catalog_id": "LIVE-II",
+      "cover_path": "assets/covers/by-release/live-vol-ii.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#tarraf-productions-live-vol-ii-track-02",
@@ -7300,7 +7896,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/%D0%BA%D0%B0%D1%87%D0%B5%D0%BB%D0%B8-live/6793955748?i=6793955753"
-      ]
+      ],
+      "catalog_id": "LIVE-II",
+      "cover_path": "assets/covers/by-release/live-vol-ii.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#tarraf-productions-live-vol-ii-track-03",
@@ -7327,7 +7925,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/im-hungry-live/6793955748?i=6793955754"
-      ]
+      ],
+      "catalog_id": "LIVE-II",
+      "cover_path": "assets/covers/by-release/live-vol-ii.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#tarraf-productions-live-vol-ii-track-04",
@@ -7354,7 +7954,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/noise-silence-live/6793955748?i=6793955755"
-      ]
+      ],
+      "catalog_id": "LIVE-II",
+      "cover_path": "assets/covers/by-release/live-vol-ii.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#tarraf-productions-live-vol-ii-track-05",
@@ -7381,7 +7983,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/arabica-overture-live/6793955748?i=6793955756"
-      ]
+      ],
+      "catalog_id": "LIVE-II",
+      "cover_path": "assets/covers/by-release/live-vol-ii.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#tarraf-productions-live-vol-ii-track-06",
@@ -7408,7 +8012,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/%D8%A7%D9%84%D9%84%D9%8A%D9%84%D8%A9-%D9%85%D8%AC%D9%86%D9%88%D9%86%D8%A9-live/6793955748?i=6793955757"
-      ]
+      ],
+      "catalog_id": "LIVE-II",
+      "cover_path": "assets/covers/by-release/live-vol-ii.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#tarraf-productions-live-vol-ii-track-07",
@@ -7435,7 +8041,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/banina-banina-yalla-tarraf-live/6793955748?i=6793955758"
-      ]
+      ],
+      "catalog_id": "LIVE-II",
+      "cover_path": "assets/covers/by-release/live-vol-ii.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#tarraf-productions-live-vol-ii-track-08",
@@ -7462,7 +8070,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/release-me-live/6793955748?i=6793955759"
-      ]
+      ],
+      "catalog_id": "LIVE-II",
+      "cover_path": "assets/covers/by-release/live-vol-ii.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#tarraf-productions-live-vol-ii-track-09",
@@ -7489,7 +8099,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/hello-live/6793955748?i=6793955760"
-      ]
+      ],
+      "catalog_id": "LIVE-II",
+      "cover_path": "assets/covers/by-release/live-vol-ii.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#tarraf-productions-live-vol-ii-track-10",
@@ -7516,7 +8128,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/syria-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-live/6793955748?i=6793955971"
-      ]
+      ],
+      "catalog_id": "LIVE-II",
+      "cover_path": "assets/covers/by-release/live-vol-ii.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#tarraf-productions-live-vol-ii-track-11",
@@ -7543,7 +8157,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/animals-live/6793955748?i=6793955973"
-      ]
+      ],
+      "catalog_id": "LIVE-II",
+      "cover_path": "assets/covers/by-release/live-vol-ii.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#tarraf-productions-live-vol-ii-track-12",
@@ -7570,7 +8186,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/marina-birthday-celebration-live/6793955748?i=6793955974"
-      ]
+      ],
+      "catalog_id": "LIVE-II",
+      "cover_path": "assets/covers/by-release/live-vol-ii.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#tarraf-productions-live-vol-ii-track-13",
@@ -7597,7 +8215,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/%D0%BD%D1%83-%D0%BD%D0%B8%D0%BD%D0%B0-live/6793955748?i=6793955975"
-      ]
+      ],
+      "catalog_id": "LIVE-II",
+      "cover_path": "assets/covers/by-release/live-vol-ii.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#tarraf-productions-live-vol-ii-track-14",
@@ -7624,7 +8244,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/ave-lumen-aeternum-live/6793955748?i=6793955976"
-      ]
+      ],
+      "catalog_id": "LIVE-II",
+      "cover_path": "assets/covers/by-release/live-vol-ii.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#tarraf-productions-live-vol-ii-track-15",
@@ -7651,7 +8273,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/ad-vinculum-live/6793955748?i=6793955977"
-      ]
+      ],
+      "catalog_id": "LIVE-II",
+      "cover_path": "assets/covers/by-release/live-vol-ii.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#tarraf-productions-live-vol-ii-track-16",
@@ -7678,7 +8302,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/dubai-lights-live/6793955748?i=6793955978"
-      ]
+      ],
+      "catalog_id": "LIVE-II",
+      "cover_path": "assets/covers/by-release/live-vol-ii.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#tarraf-productions-live-vol-ii-track-17",
@@ -7705,7 +8331,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/good-and-evil-live/6793955748?i=6793955979"
-      ]
+      ],
+      "catalog_id": "LIVE-II",
+      "cover_path": "assets/covers/by-release/live-vol-ii.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#tarraf-productions-live-vol-ii-track-18",
@@ -7732,7 +8360,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/alik-guitar-improvisation-live/6793955748?i=6793955980"
-      ]
+      ],
+      "catalog_id": "LIVE-II",
+      "cover_path": "assets/covers/by-release/live-vol-ii.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#tarraf-productions-live-vol-ii-track-19",
@@ -7759,7 +8389,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/the-end-live/6793955748?i=6793955981"
-      ]
+      ],
+      "catalog_id": "LIVE-II",
+      "cover_path": "assets/covers/by-release/live-vol-ii.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#tarraf-productions-live-vol-ii-track-20",
@@ -7786,7 +8418,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/im-alive-prelude-live/6793955748?i=6793955982"
-      ]
+      ],
+      "catalog_id": "LIVE-II",
+      "cover_path": "assets/covers/by-release/live-vol-ii.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#tarraf-productions-live-vol-ii-track-21",
@@ -7813,7 +8447,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/im-alive-live/6793955748?i=6793955983"
-      ]
+      ],
+      "catalog_id": "LIVE-II",
+      "cover_path": "assets/covers/by-release/live-vol-ii.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#tarraf-productions-live-vol-ii-track-22",
@@ -7840,7 +8476,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/ignis-in-me-live/6793955748?i=6793955984"
-      ]
+      ],
+      "catalog_id": "LIVE-II",
+      "cover_path": "assets/covers/by-release/live-vol-ii.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#tarraf-productions-live-vol-ii-track-23",
@@ -7867,7 +8505,9 @@
       "musicbrainz_release_id": "",
       "reference_urls": [
         "https://music.apple.com/ua/album/dream-of-light-live/6793955748?i=6793955985"
-      ]
+      ],
+      "catalog_id": "LIVE-II",
+      "cover_path": "assets/covers/by-release/live-vol-ii.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#tarraf-productions-live-vol-iii-track-01",
@@ -7893,7 +8533,9 @@
       "track_number": 1,
       "record_label": "TARRAF PRODUCTIONS",
       "musicbrainz_release_id": "",
-      "reference_urls": []
+      "reference_urls": [],
+      "catalog_id": "LIVE-III",
+      "cover_path": "assets/covers/by-release/live-vol-iii.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#tarraf-productions-live-vol-iii-track-02",
@@ -7919,7 +8561,9 @@
       "track_number": 2,
       "record_label": "TARRAF PRODUCTIONS",
       "musicbrainz_release_id": "",
-      "reference_urls": []
+      "reference_urls": [],
+      "catalog_id": "LIVE-III",
+      "cover_path": "assets/covers/by-release/live-vol-iii.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#tarraf-productions-live-vol-iii-track-03",
@@ -7945,7 +8589,9 @@
       "track_number": 3,
       "record_label": "TARRAF PRODUCTIONS",
       "musicbrainz_release_id": "",
-      "reference_urls": []
+      "reference_urls": [],
+      "catalog_id": "LIVE-III",
+      "cover_path": "assets/covers/by-release/live-vol-iii.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0260",
@@ -7971,7 +8617,9 @@
       "reference_urls": [
         "https://music.apple.com/ae/album/6779852581",
         "https://music.apple.com/ua/album/still-yours-live/6779852581?i=6779852584"
-      ]
+      ],
+      "catalog_id": "LIVE-III",
+      "cover_path": "assets/covers/by-release/live-vol-iii.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#tarraf-productions-live-vol-iii-track-05",
@@ -7997,7 +8645,9 @@
       "track_number": 5,
       "record_label": "TARRAF PRODUCTIONS",
       "musicbrainz_release_id": "",
-      "reference_urls": []
+      "reference_urls": [],
+      "catalog_id": "LIVE-III",
+      "cover_path": "assets/covers/by-release/live-vol-iii.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#tarraf-productions-live-vol-iii-track-06",
@@ -8023,7 +8673,9 @@
       "track_number": 6,
       "record_label": "TARRAF PRODUCTIONS",
       "musicbrainz_release_id": "",
-      "reference_urls": []
+      "reference_urls": [],
+      "catalog_id": "LIVE-III",
+      "cover_path": "assets/covers/by-release/live-vol-iii.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#tarraf-productions-live-vol-iii-track-07",
@@ -8049,7 +8701,9 @@
       "track_number": 7,
       "record_label": "TARRAF PRODUCTIONS",
       "musicbrainz_release_id": "",
-      "reference_urls": []
+      "reference_urls": [],
+      "catalog_id": "LIVE-III",
+      "cover_path": "assets/covers/by-release/live-vol-iii.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#tarraf-productions-live-vol-iii-track-08",
@@ -8075,7 +8729,9 @@
       "track_number": 8,
       "record_label": "TARRAF PRODUCTIONS",
       "musicbrainz_release_id": "",
-      "reference_urls": []
+      "reference_urls": [],
+      "catalog_id": "LIVE-III",
+      "cover_path": "assets/covers/by-release/live-vol-iii.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#tarraf-productions-live-vol-iii-track-09",
@@ -8101,7 +8757,9 @@
       "track_number": 9,
       "record_label": "TARRAF PRODUCTIONS",
       "musicbrainz_release_id": "",
-      "reference_urls": []
+      "reference_urls": [],
+      "catalog_id": "LIVE-III",
+      "cover_path": "assets/covers/by-release/live-vol-iii.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#tarraf-productions-live-vol-iii-track-10",
@@ -8127,7 +8785,9 @@
       "track_number": 10,
       "record_label": "TARRAF PRODUCTIONS",
       "musicbrainz_release_id": "",
-      "reference_urls": []
+      "reference_urls": [],
+      "catalog_id": "LIVE-III",
+      "cover_path": "assets/covers/by-release/live-vol-iii.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#tarraf-productions-live-vol-iii-track-11",
@@ -8153,7 +8813,9 @@
       "track_number": 11,
       "record_label": "TARRAF PRODUCTIONS",
       "musicbrainz_release_id": "",
-      "reference_urls": []
+      "reference_urls": [],
+      "catalog_id": "LIVE-III",
+      "cover_path": "assets/covers/by-release/live-vol-iii.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#tarraf-productions-live-vol-iii-track-12",
@@ -8179,7 +8841,9 @@
       "track_number": 12,
       "record_label": "TARRAF PRODUCTIONS",
       "musicbrainz_release_id": "",
-      "reference_urls": []
+      "reference_urls": [],
+      "catalog_id": "LIVE-III",
+      "cover_path": "assets/covers/by-release/live-vol-iii.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#tarraf-productions-live-vol-iii-track-13",
@@ -8205,7 +8869,9 @@
       "track_number": 13,
       "record_label": "TARRAF PRODUCTIONS",
       "musicbrainz_release_id": "",
-      "reference_urls": []
+      "reference_urls": [],
+      "catalog_id": "LIVE-III",
+      "cover_path": "assets/covers/by-release/live-vol-iii.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#tarraf-productions-live-vol-iii-track-14",
@@ -8231,7 +8897,9 @@
       "track_number": 14,
       "record_label": "TARRAF PRODUCTIONS",
       "musicbrainz_release_id": "",
-      "reference_urls": []
+      "reference_urls": [],
+      "catalog_id": "LIVE-III",
+      "cover_path": "assets/covers/by-release/live-vol-iii.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#tarraf-productions-live-vol-iii-track-15",
@@ -8257,7 +8925,9 @@
       "track_number": 15,
       "record_label": "TARRAF PRODUCTIONS",
       "musicbrainz_release_id": "",
-      "reference_urls": []
+      "reference_urls": [],
+      "catalog_id": "LIVE-III",
+      "cover_path": "assets/covers/by-release/live-vol-iii.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#tarraf-productions-live-vol-iii-track-16",
@@ -8283,7 +8953,9 @@
       "track_number": 16,
       "record_label": "TARRAF PRODUCTIONS",
       "musicbrainz_release_id": "",
-      "reference_urls": []
+      "reference_urls": [],
+      "catalog_id": "LIVE-III",
+      "cover_path": "assets/covers/by-release/live-vol-iii.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#tarraf-productions-live-vol-iii-track-17",
@@ -8309,7 +8981,9 @@
       "track_number": 17,
       "record_label": "TARRAF PRODUCTIONS",
       "musicbrainz_release_id": "",
-      "reference_urls": []
+      "reference_urls": [],
+      "catalog_id": "LIVE-III",
+      "cover_path": "assets/covers/by-release/live-vol-iii.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#tarraf-productions-live-vol-iii-track-18",
@@ -8335,7 +9009,9 @@
       "track_number": 18,
       "record_label": "TARRAF PRODUCTIONS",
       "musicbrainz_release_id": "",
-      "reference_urls": []
+      "reference_urls": [],
+      "catalog_id": "LIVE-III",
+      "cover_path": "assets/covers/by-release/live-vol-iii.webp"
     },
     {
       "recording_id": "https://aliktarraf.com/#tarraf-productions-live-vol-iii-track-19",
@@ -8361,7 +9037,9 @@
       "track_number": 19,
       "record_label": "TARRAF PRODUCTIONS",
       "musicbrainz_release_id": "",
-      "reference_urls": []
+      "reference_urls": [],
+      "catalog_id": "LIVE-III",
+      "cover_path": "assets/covers/by-release/live-vol-iii.webp"
     }
   ]
 }

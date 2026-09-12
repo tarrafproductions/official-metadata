@@ -3,8 +3,9 @@
 This document defines how the official TARRAF PRODUCTIONS metadata is used on
 the public Vite/React website deployed through Netlify.
 
-The current source-of-truth snapshot is
+The original identity snapshot is
 [`v1.0.0`](https://github.com/tarrafproductions/official-metadata/releases/tag/v1.0.0).
+The current catalog and artwork require a reviewed commit containing those additions.
 The website must consume a reviewed build-time snapshot pinned to a release tag
 or commit; it must not depend on a runtime request to GitHub or silently track
 mutable `main` data.
@@ -96,22 +97,15 @@ must not replace the pre-rendered entity pages with one shared `index.html`.
 
 ## Release artwork
 
-For a reviewed snapshot containing the artwork mapping, import
-[`assets/covers/release-map.json`](../assets/covers/release-map.json) at build time.
-Join its `releases` entries to the catalog by `catalogId`, `releaseId` or UPC.
-Resolve `coverPath` relative to that same pinned snapshot and copy the referenced
-files into the website build. This addition does not change the existing
-`v1.0.0` snapshot; adopting the new artwork requires updating the reviewed pin.
+Import [`exports/catalog.json`](../exports/catalog.json) at build time. Each recording appearance includes `catalog_id` and `cover_path`. Multiple live tracks intentionally share their album's ID and image. Use `catalog_id` as the release key and copy the referenced artwork from the same pinned commit.
 
-For verified singles, `assets/covers/by-release/cover-004.webp` corresponds to
-`SNG-004`. Archive filenames identify source files and use a different order.
-Use a placeholder for `status: "needs-review"` with `coverPath: null`; do not
-construct an artwork URL from an ID without checking the mapping.
+Current image files exist only in `assets/covers/by-release/`: `cover-004.webp` belongs to `SNG-004`; the three albums use `live-vol-i.webp`, `live-vol-ii.webp`, and `live-vol-iii.webp`. Replace these files in place for subsequent artwork changes.
 
-The [mapping table](cover-mapping.md) and [review record](cover-review-needed.md)
-show complete coverage of all 278 release products. Run
-`python3 .github/scripts/build_cover_mapping.py --check --require-complete`
-to validate the mapping and require artwork for every release. CI enforces this gate.
+The existing [`release-map.json`](../assets/covers/release-map.json) integration remains available as a generated index, joined by `catalogId`, `releaseId` or UPC. The fields `coverPath` and `sha256` are retained. Schema version 2 removes the old `coverId`, `sourcePath`, `verification`, `sourceCommit`, `reviewedOn`, `unassignedCovers` and archive counts. No website import should reference these retired archive fields. `coverFiles` reports the current image count.
+
+After updating the repository pin, replace the website's old imported asset snapshot so obsolete copies are removed. Rebuild from the sole image directory. Refresh the image cache where needed; `sha256` can be used as the cache version. The repository update does not itself deploy the Netlify website.
+
+Run `python3 .github/scripts/build_cover_mapping.py --check --require-complete` to require a valid image for every release and reject extra image files. CI enforces the same gate.
 
 ## Release gate
 

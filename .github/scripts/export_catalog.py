@@ -13,6 +13,8 @@ from decimal import Decimal
 from pathlib import Path
 from typing import Any
 
+from build_cover_mapping import release_catalog_id, target_path
+
 
 FIELDS = (
     'recording_id', 'recording_title', 'recording_alternate_titles',
@@ -20,6 +22,7 @@ FIELDS = (
     'duration_iso8601', 'duration_ms', 'release_id', 'release_title',
     'release_artist_credit', 'upc', 'release_date', 'release_status',
     'track_number', 'record_label', 'musicbrainz_release_id', 'reference_urls',
+    'catalog_id', 'cover_path',
 )
 ARRAY_FIELDS = {'recording_alternate_titles', 'recording_artist_ids', 'reference_urls'}
 DURATION = re.compile(r'PT(?:(\d+)H)?(?:(\d+)M)?(?:(\d+(?:\.\d+)?)S)?')
@@ -66,6 +69,7 @@ def build_catalog(root: Path) -> dict:
     rows = []
     for release in sorted((n for n in nodes.values() if n.get('@type') == 'MusicRelease'), key=lambda n: n['@id']):
         album = nodes[release['releaseOf']['@id']]
+        catalog_id = release_catalog_id(release)
         upcs = [i['value'] for i in as_list(release.get('identifier')) if i.get('propertyID') == 'UPC']
         if len(upcs) != 1 or not isinstance(upcs[0], str):
             raise ValueError(f"Release requires one string UPC: {release['@id']}")
@@ -95,6 +99,8 @@ def build_catalog(root: Path) -> dict:
                 'record_label': ', '.join(party_name(p) for p in as_list(release.get('recordLabel'))),
                 'musicbrainz_release_id': mbids[0] if mbids else '',
                 'reference_urls': as_list(recording.get('sameAs')),
+                'catalog_id': catalog_id,
+                'cover_path': target_path(catalog_id),
             })
     return {
         'schema_version': 1,
@@ -116,7 +122,31 @@ def export_contents(root: Path) -> dict[str, str]:
     return {
         'exports/catalog.json': json.dumps(catalog, ensure_ascii=False, indent=2) + '\n',
         'exports/catalog.csv': stream.getvalue(),
+        'docs/discography.md': discography_contents(root, catalog),
     }
+
+
+def discography_contents(root: Path, catalog: dict) -> str:
+    """Keep explanatory prose; derive the current table from canonical JSON-LD."""
+    document = (root / 'docs/discography.md').read_text(encoding='utf-8')
+    table = ['<!-- BEGIN GENERATED SINGLES -->',
+             '| Catalog ID | Date | Release | Credited artist(s) | UPC | ISRC | Artwork |',
+             '| --- | --- | --- | --- | --- | --- | --- |']
+    for row in sorted(catalog['rows'], key=lambda r: r['catalog_id']):
+        if not row['catalog_id'].startswith('SNG-'):
+            continue
+        cells = [row[k] for k in ('catalog_id', 'release_date', 'release_title',
+                                  'release_artist_credit', 'upc', 'isrc')]
+        cells = [str(c).replace('|', '\\|').replace('\n', ' ') for c in cells]
+        cells.append('[%s](../%s)' % (Path(row['cover_path']).name, row['cover_path']))
+        table.append('| ' + ' | '.join(cells) + ' |')
+    table.append('<!-- END GENERATED SINGLES -->')
+    document, count = re.subn(
+        r'<!-- BEGIN GENERATED SINGLES -->.*?<!-- END GENERATED SINGLES -->',
+        lambda _: '\n'.join(table), document, flags=re.S)
+    if count != 1:
+        raise ValueError('Missing or repeated generated singles table in discography')
+    return document
 
 
 def main() -> int:
