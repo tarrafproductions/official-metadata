@@ -1,36 +1,23 @@
-# TARRAF PRODUCTIONS cover-art archive
+# Release artwork
 
-This directory preserves 287 first-party artwork files supplied by TARRAF PRODUCTIONS: the original 279 files, three additional covers supplied by the catalog owner on September 10, 2026, and five replacement covers supplied on September 12, 2026. All 275 singles and three live albums now have verified artwork.
+The only current image source is `by-release/`. Replace the existing file in place:
 
-## Contents
+- `SNG-NNN` → `by-release/cover-NNN.webp`.
+- `LIVE-I`, `LIVE-II`, `LIVE-III` → `by-release/live-vol-i.webp`, `live-vol-ii.webp`, `live-vol-iii.webp`.
 
-- `archive/cover-001.webp` through `archive/cover-279.webp` — square WebP derivatives, maximum 1200 × 1200 px, quality 84.
-- `archive/cover-280.webp` through `archive/cover-282.webp` — the three owner-supplied additions, converted from the supplied 800 × 800 JPEGs to lossless WebP with identical decoded RGB pixels.
-- `archive/cover-283.webp` through `archive/cover-287.webp` — five owner-supplied replacements from September 12, converted from 2048 × 2048 PNG/JPEG files to 1200 × 1200 WebP, quality 84. The full composition and supplied ICC profiles are preserved. Previous artwork remains archived.
-- `manifest.json` — stable cover IDs, original OneDrive filenames, repository paths, dimensions, byte sizes, and SHA-256 checksums.
-- `by-release/cover-NNN.webp` — verified single artwork whose number matches `SNG-NNN`. These are exact copies of the corresponding archive files.
-- `by-release/live-vol-i.webp`, `live-vol-ii.webp`, `live-vol-iii.webp` — verified live album artwork.
-- `release-map.json` — explicit links from catalog IDs, release identities and UPCs to artwork, including verification evidence and unresolved entries.
+Numbers identify releases, never upload order. Check the title and version before replacing a cover. Git history contains previous artwork and its review evidence; there is no second image directory or manual association list.
 
-## Website integration
+`release-map.json` is a generated integration index. Its release identities, titles and UPCs come from canonical JSON-LD. Paths follow the rule above; SHA-256 and byte size are read directly from each image. Never edit this index by hand. The generator never writes an image.
 
-Import `release-map.json` and join each release by `catalogId`, `releaseId` or UPC. Resolve its `coverPath` relative to the same pinned repository snapshot. Use a placeholder when the status is `needs-review` and `coverPath` is null.
-
-The archive retains its original source order. `archive/cover-004.webp` is COV-004, which depicts SNG-020; `by-release/cover-004.webp` is the verified artwork for SNG-004 (VVERH VNIZ), copied from COV-029. Do not use the archive number as a release ID.
-
-See the [complete mapping](../../docs/cover-mapping.md) and the [review record](../../docs/cover-review-needed.md). All archive files are preserved, including nine duplicate or alternate files.
-
-## Maintaining the mapping
-
-Record supported associations in [`sources/cover-art-review-2026-09-10.json`](../../sources/cover-art-review-2026-09-10.json), then run:
+After replacing a cover or editing the canonical catalog:
 
 ```sh
-python3 .github/scripts/build_cover_mapping.py
-python3 .github/scripts/build_cover_mapping.py --check --require-complete
+python3 .github/scripts/build_cover_mapping.py --require-complete
+python3 .github/scripts/export_catalog.py
 ```
 
-The generator validates archive checksums, release identities, assigned filenames and generated documentation. CI requires complete coverage, so adding a release without a verified cover fails validation.
+CI checks missing files, unexpected copies, file containers, current checksums, catalog identities and reproducible outputs. The retained `verified` status represents the reviewed association; automated checks validate file integrity and correspondence, not the text depicted in an image.
 
-## Rights
+For the website, `exports/catalog.json` supplies `catalog_id` and `cover_path` on every recording appearance. The compatible `release-map.json` fields `catalogId`, `releaseId`, `title`, `upc`, `status`, `coverPath` and `sha256` remain available. Schema version 2 removes archive IDs, archive paths, repeated verification lists and archive counts. Resolve all paths from one pinned repository commit.
 
 All artwork remains © TARRAF PRODUCTIONS. No reuse license is granted by its presence in this repository.
