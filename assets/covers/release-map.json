@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "reviewedOn": "2026-09-10",
-  "sourceCommit": "e52af4712ee3470d6c07616d6c0643fbee2915f5",
+  "reviewedOn": "2026-09-12",
+  "sourceCommit": "7ebddd564e1ad667ab975305807bf8efcbd551f7",
   "pathBase": "Repository root of the same pinned snapshot",
   "counts": {
     "releases": 278,
     "mappedReleases": 278,
     "unmappedReleases": 0,
-    "archiveFiles": 282,
-    "unassignedArchiveFiles": 4
+    "archiveFiles": 287,
+    "unassignedArchiveFiles": 9
   },
   "releases": [
     {
@@ -439,14 +439,19 @@
       "title": "ملاكي و شيطاني",
       "upc": "199732756191",
       "status": "verified",
-      "coverId": "COV-008",
+      "coverId": "COV-285",
       "coverPath": "assets/covers/by-release/cover-027.webp",
-      "sourcePath": "assets/covers/archive/cover-008.webp",
-      "sha256": "5c3d4a6d9a7d4f54364c4afb091c0337a8f73a382714712aef56affa1a62d520",
+      "sourcePath": "assets/covers/archive/cover-285.webp",
+      "sha256": "961318578ec4e84b0fbc64968cb9ea00953dfe5622a19d52cfccbf498348788c",
       "verification": {
-        "coverId": "COV-008",
+        "coverId": "COV-285",
         "catalogId": "SNG-027",
-        "method": "visual-title-and-version-match"
+        "method": "catalog-owner-confirmation",
+        "confirmedBy": "Alik Tarraf",
+        "confirmedOn": "2026-09-12",
+        "ownerProvidedTitle": "ملاكي و شيطاني",
+        "source": "sources/catalog-owner-corrections-2026-09-12.json",
+        "note": "Owner-supplied replacement artwork; previous COV-008 remains in the archive."
       }
     },
     {
@@ -682,14 +687,19 @@
       "title": "Воздушный Шар",
       "upc": "199735951869",
       "status": "verified",
-      "coverId": "COV-199",
+      "coverId": "COV-284",
       "coverPath": "assets/covers/by-release/cover-042.webp",
-      "sourcePath": "assets/covers/archive/cover-199.webp",
-      "sha256": "35725d0a834376010917c7e5b54af1c1f64b9b861f71d62e4fb0d01227e9bc30",
+      "sourcePath": "assets/covers/archive/cover-284.webp",
+      "sha256": "45101db50073ab4e6abda9ff538ab56d5c10e593e45703f9b6c28268e7971d6a",
       "verification": {
-        "coverId": "COV-199",
+        "coverId": "COV-284",
         "catalogId": "SNG-042",
-        "method": "visual-title-and-version-match"
+        "method": "catalog-owner-confirmation",
+        "confirmedBy": "Alik Tarraf",
+        "confirmedOn": "2026-09-12",
+        "ownerProvidedTitle": "Воздушный Шар",
+        "source": "sources/catalog-owner-corrections-2026-09-12.json",
+        "note": "Owner-supplied replacement artwork; previous COV-199 remains in the archive."
       }
     },
     {
@@ -698,14 +708,19 @@
       "title": "RISING BALLOON",
       "upc": "199735912389",
       "status": "verified",
-      "coverId": "COV-216",
+      "coverId": "COV-283",
       "coverPath": "assets/covers/by-release/cover-043.webp",
-      "sourcePath": "assets/covers/archive/cover-216.webp",
-      "sha256": "5a87943ff7b0679fb7a9000b26694f35b0198f7f3976d2f0eec51e0de3607a59",
+      "sourcePath": "assets/covers/archive/cover-283.webp",
+      "sha256": "eca0b7b52ae0cf11c603ace99ac467114d45e0c80e459e659d1b44d0d4420cd2",
       "verification": {
-        "coverId": "COV-216",
+        "coverId": "COV-283",
         "catalogId": "SNG-043",
-        "method": "visual-title-and-version-match"
+        "method": "catalog-owner-confirmation",
+        "confirmedBy": "Alik Tarraf",
+        "confirmedOn": "2026-09-12",
+        "ownerProvidedTitle": "RISING BALLOON",
+        "source": "sources/catalog-owner-corrections-2026-09-12.json",
+        "note": "Owner-supplied replacement artwork; previous COV-216 remains in the archive."
       }
     },
     {
@@ -1927,7 +1942,7 @@
     {
       "catalogId": "SNG-118",
       "releaseId": "https://aliktarraf.com/#catalog-sng-118-digital-release",
-      "title": "ПОЛИСАЙ",
+      "title": "POLICE",
       "upc": "199749543050",
       "status": "verified",
       "coverId": "COV-224",
@@ -1937,8 +1952,12 @@
       "verification": {
         "coverId": "COV-224",
         "catalogId": "SNG-118",
-        "method": "visual-title-and-canonical-alias-match",
-        "note": "Artwork title Police is an existing canonical alternateName of SNG-118."
+        "method": "catalog-owner-confirmation",
+        "note": "Owner renamed ПОЛИСАЙ to POLICE. Existing artwork already reads Police and is retained.",
+        "confirmedBy": "Alik Tarraf",
+        "confirmedOn": "2026-09-12",
+        "ownerProvidedTitle": "POLICE",
+        "source": "sources/catalog-owner-corrections-2026-09-12.json"
       }
     },
     {
@@ -2614,7 +2633,9 @@
       "verification": {
         "coverId": "COV-025",
         "catalogId": "SNG-160",
-        "method": "visual-title-and-version-match"
+        "method": "visual-title-and-version-match",
+        "recheckedOn": "2026-09-12",
+        "note": "Existing repository association matches the printed artwork title. Retained after visual recheck; see website integration correction in sources/catalog-owner-corrections-2026-09-12.json."
       }
     },
     {
@@ -3550,7 +3571,9 @@
       "verification": {
         "coverId": "COV-160",
         "catalogId": "SNG-218",
-        "method": "visual-title-and-version-match"
+        "method": "visual-title-and-version-match",
+        "recheckedOn": "2026-09-12",
+        "note": "Existing repository association matches the printed artwork title. Retained after visual recheck; see website integration correction in sources/catalog-owner-corrections-2026-09-12.json."
       }
     },
     {
@@ -4477,14 +4500,19 @@
       "title": "Tarraf Productions Live, Vol. I: The Opening",
       "upc": "882614979497",
       "status": "verified",
-      "coverId": "COV-136",
+      "coverId": "COV-286",
       "coverPath": "assets/covers/by-release/live-vol-i.webp",
-      "sourcePath": "assets/covers/archive/cover-136.webp",
-      "sha256": "863029b7c084a5ccd3b3c58fd9d6704fb9eef9bfb9224cca766c980e5fb5c39f",
+      "sourcePath": "assets/covers/archive/cover-286.webp",
+      "sha256": "1d6e227ef90ce12e19dfa6388d27efacf9091e36f01489c3062ddf06073e141f",
       "verification": {
-        "coverId": "COV-136",
+        "coverId": "COV-286",
         "catalogId": "LIVE-I",
-        "method": "visual-title-and-version-match"
+        "method": "catalog-owner-confirmation",
+        "confirmedBy": "Alik Tarraf",
+        "confirmedOn": "2026-09-12",
+        "ownerProvidedTitle": "Tarraf Productions Live, Vol. I: The Opening",
+        "source": "sources/catalog-owner-corrections-2026-09-12.json",
+        "note": "Owner-supplied replacement artwork; previous COV-136 remains in the archive."
       }
     },
     {
@@ -4493,14 +4521,19 @@
       "title": "Tarraf Productions Live, Vol. II: The Fire",
       "upc": "882197185506",
       "status": "verified",
-      "coverId": "COV-071",
+      "coverId": "COV-287",
       "coverPath": "assets/covers/by-release/live-vol-ii.webp",
-      "sourcePath": "assets/covers/archive/cover-071.webp",
-      "sha256": "f6e943a8e3702fd22a1bf5ed880e1d5e003c815cebbacc1804bf98f6c69030ef",
+      "sourcePath": "assets/covers/archive/cover-287.webp",
+      "sha256": "514d69ccdee14bcd4db66592beceb292ce4439e1b2e26d95bd51afb7634ccd58",
       "verification": {
-        "coverId": "COV-071",
+        "coverId": "COV-287",
         "catalogId": "LIVE-II",
-        "method": "visual-title-and-version-match"
+        "method": "catalog-owner-confirmation",
+        "confirmedBy": "Alik Tarraf",
+        "confirmedOn": "2026-09-12",
+        "ownerProvidedTitle": "Tarraf Productions Live, Vol. II: The Fire",
+        "source": "sources/catalog-owner-corrections-2026-09-12.json",
+        "note": "Owner-supplied replacement artwork; previous COV-071 remains in the archive."
       }
     },
     {
@@ -4540,6 +4573,31 @@
       "coverId": "COV-225",
       "status": "alternate-artwork",
       "note": "Второй файл обложки Мама (SNG-102); основным выбран COV-157."
+    },
+    {
+      "coverId": "COV-216",
+      "status": "alternate-artwork",
+      "note": "Прежняя обложка RISING BALLOON (SNG-043); по указанию владельца 2026-09-12 заменена на COV-283. Сохранена только в архиве."
+    },
+    {
+      "coverId": "COV-199",
+      "status": "alternate-artwork",
+      "note": "Прежняя обложка Воздушный Шар (SNG-042); по указанию владельца 2026-09-12 заменена на COV-284. Сохранена только в архиве."
+    },
+    {
+      "coverId": "COV-008",
+      "status": "alternate-artwork",
+      "note": "Прежняя обложка ملاكي و شيطاني (SNG-027); по указанию владельца 2026-09-12 заменена на COV-285. Сохранена только в архиве."
+    },
+    {
+      "coverId": "COV-136",
+      "status": "alternate-artwork",
+      "note": "Прежняя обложка Tarraf Productions Live, Vol. I: The Opening (LIVE-I); по указанию владельца 2026-09-12 заменена на COV-286. Сохранена только в архиве."
+    },
+    {
+      "coverId": "COV-071",
+      "status": "alternate-artwork",
+      "note": "Прежняя обложка Tarraf Productions Live, Vol. II: The Fire (LIVE-II); по указанию владельца 2026-09-12 заменена на COV-287. Сохранена только в архиве."
     }
   ]
 }

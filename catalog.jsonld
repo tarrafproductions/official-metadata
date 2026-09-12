@@ -129,7 +129,7 @@
       "@id": "https://github.com/tarrafproductions/official-metadata#studio-singles",
       "name": "TARRAF PRODUCTIONS Verified Singles Register",
       "description": "Canonical register of 275 observed digital single releases and recordings, including studio, remix and live singles. All recordings have ISRC and duration; all products have UPC and release date.",
-      "dateModified": "2026-09-07",
+      "dateModified": "2026-09-12",
       "about": [
         {
           "@id": "https://aliktarraf.com/#tarraf-productions"
@@ -153,5 +153,5 @@
       }
     }
   ],
-  "dateModified": "2026-09-07"
+  "dateModified": "2026-09-12"
 }
