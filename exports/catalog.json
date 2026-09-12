@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "as_of": "2026-09-07",
+  "as_of": "2026-09-12",
   "description": "One row per recording appearance on a release. ISRC identifies a recording; UPC identifies a release. Repeated ISRCs across different releases are intentional.",
   "submission_status": "Neutral metadata export; no external registration or rights claim is implied. Recipient-specific mapping and required rights fields remain separate.",
   "counts": {
@@ -2920,9 +2920,10 @@
     },
     {
       "recording_id": "https://aliktarraf.com/#catalog-trk-0163",
-      "recording_title": "ПОЛИСАЙ",
+      "recording_title": "POLICE",
       "recording_alternate_titles": [
-        "Police"
+        "Police",
+        "ПОЛИСАЙ"
       ],
       "recording_artist_credit": "Alik Tarraf",
       "recording_artist_ids": [
@@ -2932,7 +2933,7 @@
       "duration_iso8601": "PT6M10.96S",
       "duration_ms": 370960,
       "release_id": "https://aliktarraf.com/#catalog-sng-118-digital-release",
-      "release_title": "ПОЛИСАЙ",
+      "release_title": "POLICE",
       "release_artist_credit": "Alik Tarraf",
       "upc": "199749543050",
       "release_date": "2025-10-27",

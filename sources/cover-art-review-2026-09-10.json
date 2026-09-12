@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "reviewedOn": "2026-09-10",
+  "reviewedOn": "2026-09-12",
   "reviewedBy": "Codex visual review; owner-confirmed entries explicitly attributed to Alik Tarraf.",
-  "sourceCommit": "e52af4712ee3470d6c07616d6c0643fbee2915f5",
-  "methodology": "Every supplied archive image was visually inspected. Explicit artwork titles and versions were matched to the canonical register; selected ambiguous artwork was compared with the linked Apple Music pages. Unresolved cases are not assigned by ordinal position or elimination. On 2026-09-10, catalog owner Alik Tarraf supplied explicit cover-to-title associations for all 11 previously ambiguous archive images; those entries are separately marked catalog-owner-confirmation. The owner subsequently supplied three additional images for SNG-015, SNG-074 and SNG-158 on 2026-09-10. They were appended as COV-280 to COV-282 and converted to lossless WebP with identical decoded RGB pixels, completing all 278 release associations.",
+  "sourceCommit": "7ebddd564e1ad667ab975305807bf8efcbd551f7",
+  "methodology": "Every supplied archive image was visually inspected. Explicit artwork titles and versions were matched to the canonical register; selected ambiguous artwork was compared with the linked Apple Music pages. Unresolved cases are not assigned by ordinal position or elimination. On 2026-09-10, catalog owner Alik Tarraf supplied explicit cover-to-title associations for all 11 previously ambiguous archive images; those entries are separately marked catalog-owner-confirmation. The owner subsequently supplied three additional images for SNG-015, SNG-074 and SNG-158 on 2026-09-10. They were appended as COV-280 to COV-282 and converted to lossless WebP with identical decoded RGB pixels, completing all 278 release associations. On 2026-09-12 the owner supplied five replacement covers, appended as COV-283 to COV-287. Previous artwork remains archived as alternate-artwork. EISENHERZ (SNG-160 / COV-025) and Jordan (SNG-218 / COV-160) were rechecked visually: both repository assignments already match the titles printed on the artwork; the owner-reported website reversal must be corrected in the consuming site. SNG-118 was renamed POLICE by the owner. See sources/catalog-owner-corrections-2026-09-12.json.",
   "matches": [
     {
       "coverId": "COV-001",
@@ -41,9 +41,14 @@
       "method": "visual-title-and-version-match"
     },
     {
-      "coverId": "COV-008",
+      "coverId": "COV-285",
       "catalogId": "SNG-027",
-      "method": "visual-title-and-version-match"
+      "method": "catalog-owner-confirmation",
+      "confirmedBy": "Alik Tarraf",
+      "confirmedOn": "2026-09-12",
+      "ownerProvidedTitle": "ملاكي و شيطاني",
+      "source": "sources/catalog-owner-corrections-2026-09-12.json",
+      "note": "Owner-supplied replacement artwork; previous COV-008 remains in the archive."
     },
     {
       "coverId": "COV-009",
@@ -125,7 +130,9 @@
     {
       "coverId": "COV-025",
       "catalogId": "SNG-160",
-      "method": "visual-title-and-version-match"
+      "method": "visual-title-and-version-match",
+      "recheckedOn": "2026-09-12",
+      "note": "Existing repository association matches the printed artwork title. Retained after visual recheck; see website integration correction in sources/catalog-owner-corrections-2026-09-12.json."
     },
     {
       "coverId": "COV-026",
@@ -359,9 +366,14 @@
       "method": "visual-title-and-version-match"
     },
     {
-      "coverId": "COV-071",
+      "coverId": "COV-287",
       "catalogId": "LIVE-II",
-      "method": "visual-title-and-version-match"
+      "method": "catalog-owner-confirmation",
+      "confirmedBy": "Alik Tarraf",
+      "confirmedOn": "2026-09-12",
+      "ownerProvidedTitle": "Tarraf Productions Live, Vol. II: The Fire",
+      "source": "sources/catalog-owner-corrections-2026-09-12.json",
+      "note": "Owner-supplied replacement artwork; previous COV-071 remains in the archive."
     },
     {
       "coverId": "COV-072",
@@ -690,9 +702,14 @@
       "method": "visual-title-and-version-match"
     },
     {
-      "coverId": "COV-136",
+      "coverId": "COV-286",
       "catalogId": "LIVE-I",
-      "method": "visual-title-and-version-match"
+      "method": "catalog-owner-confirmation",
+      "confirmedBy": "Alik Tarraf",
+      "confirmedOn": "2026-09-12",
+      "ownerProvidedTitle": "Tarraf Productions Live, Vol. I: The Opening",
+      "source": "sources/catalog-owner-corrections-2026-09-12.json",
+      "note": "Owner-supplied replacement artwork; previous COV-136 remains in the archive."
     },
     {
       "coverId": "COV-137",
@@ -807,7 +824,9 @@
     {
       "coverId": "COV-160",
       "catalogId": "SNG-218",
-      "method": "visual-title-and-version-match"
+      "method": "visual-title-and-version-match",
+      "recheckedOn": "2026-09-12",
+      "note": "Existing repository association matches the printed artwork title. Retained after visual recheck; see website integration correction in sources/catalog-owner-corrections-2026-09-12.json."
     },
     {
       "coverId": "COV-161",
@@ -1008,9 +1027,14 @@
       "method": "visual-title-and-version-match"
     },
     {
-      "coverId": "COV-199",
+      "coverId": "COV-284",
       "catalogId": "SNG-042",
-      "method": "visual-title-and-version-match"
+      "method": "catalog-owner-confirmation",
+      "confirmedBy": "Alik Tarraf",
+      "confirmedOn": "2026-09-12",
+      "ownerProvidedTitle": "Воздушный Шар",
+      "source": "sources/catalog-owner-corrections-2026-09-12.json",
+      "note": "Owner-supplied replacement artwork; previous COV-199 remains in the archive."
     },
     {
       "coverId": "COV-200",
@@ -1099,9 +1123,14 @@
       "method": "visual-title-and-version-match"
     },
     {
-      "coverId": "COV-216",
+      "coverId": "COV-283",
       "catalogId": "SNG-043",
-      "method": "visual-title-and-version-match"
+      "method": "catalog-owner-confirmation",
+      "confirmedBy": "Alik Tarraf",
+      "confirmedOn": "2026-09-12",
+      "ownerProvidedTitle": "RISING BALLOON",
+      "source": "sources/catalog-owner-corrections-2026-09-12.json",
+      "note": "Owner-supplied replacement artwork; previous COV-216 remains in the archive."
     },
     {
       "coverId": "COV-217",
@@ -1141,8 +1170,12 @@
     {
       "coverId": "COV-224",
       "catalogId": "SNG-118",
-      "method": "visual-title-and-canonical-alias-match",
-      "note": "Artwork title Police is an existing canonical alternateName of SNG-118."
+      "method": "catalog-owner-confirmation",
+      "note": "Owner renamed ПОЛИСАЙ to POLICE. Existing artwork already reads Police and is retained.",
+      "confirmedBy": "Alik Tarraf",
+      "confirmedOn": "2026-09-12",
+      "ownerProvidedTitle": "POLICE",
+      "source": "sources/catalog-owner-corrections-2026-09-12.json"
     },
     {
       "coverId": "COV-226",
@@ -1476,6 +1509,31 @@
       "coverId": "COV-225",
       "status": "alternate-artwork",
       "note": "Второй файл обложки Мама (SNG-102); основным выбран COV-157."
+    },
+    {
+      "coverId": "COV-216",
+      "status": "alternate-artwork",
+      "note": "Прежняя обложка RISING BALLOON (SNG-043); по указанию владельца 2026-09-12 заменена на COV-283. Сохранена только в архиве."
+    },
+    {
+      "coverId": "COV-199",
+      "status": "alternate-artwork",
+      "note": "Прежняя обложка Воздушный Шар (SNG-042); по указанию владельца 2026-09-12 заменена на COV-284. Сохранена только в архиве."
+    },
+    {
+      "coverId": "COV-008",
+      "status": "alternate-artwork",
+      "note": "Прежняя обложка ملاكي و شيطاني (SNG-027); по указанию владельца 2026-09-12 заменена на COV-285. Сохранена только в архиве."
+    },
+    {
+      "coverId": "COV-136",
+      "status": "alternate-artwork",
+      "note": "Прежняя обложка Tarraf Productions Live, Vol. I: The Opening (LIVE-I); по указанию владельца 2026-09-12 заменена на COV-286. Сохранена только в архиве."
+    },
+    {
+      "coverId": "COV-071",
+      "status": "alternate-artwork",
+      "note": "Прежняя обложка Tarraf Productions Live, Vol. II: The Fire (LIVE-II); по указанию владельца 2026-09-12 заменена на COV-287. Сохранена только в архиве."
     }
   ]
 }

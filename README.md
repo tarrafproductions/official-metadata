@@ -39,12 +39,12 @@ The repository is a source of truth and a version history. Publishing JSON-LD he
 - [`docs/discography.md`](docs/discography.md) — human-readable discography register with documented coverage and source provenance.
 - [`docs/live-production-credits.md`](docs/live-production-credits.md) — verified production-credit matrix for the Fujairah recording event, live trilogy, and 64 recordings.
 - [`docs/website-integration.md`](docs/website-integration.md) — implementation contract for multilingual Vite/React pages, pre-rendering, canonical URLs, `hreflang`, and JSON-LD.
-- [`assets/covers/manifest.json`](assets/covers/manifest.json) — indexed archive of 282 supplied cover-art files, with web-ready derivatives and integrity checksums.
+- [`assets/covers/manifest.json`](assets/covers/manifest.json) — indexed archive of 287 supplied cover-art files, with web-ready derivatives and integrity checksums.
 - [`assets/covers/release-map.json`](assets/covers/release-map.json) — verified artwork associations for all 275 singles and three live albums; single filenames in `by-release/` match their SNG IDs.
 
 The first-party DistroKid catalog evidence supplied on 2026-09-04 confirms 275 standalone single products. The canonical JSON-LD register now covers all 275 observed products; the 59 formerly pending items were reconciled from verified release dates, UPCs, ISRCs, durations, and explicit-content statuses. Missing values are never inferred.
 
-The artwork archive preserves the original 279 files and three additional covers supplied by the owner on September 10, 2026. All 278 release products are matched; four archive files are duplicates or alternate artwork. Use the explicit `coverPath` in the release map. For example, `assets/covers/by-release/cover-004.webp` belongs to `SNG-004`. See the [mapping table](docs/cover-mapping.md) and [review record](docs/cover-review-needed.md).
+The artwork archive preserves the original 279 files, three additional covers supplied by the owner on September 10, 2026, and five replacements supplied on September 12. All 278 release products are matched; nine archive files are duplicates or alternate artwork. The [September 12 correction note](docs/catalog-corrections-2026-09-12.md) covers the new artwork, the POLICE title, and exact EISENHERZ/Jordan website associations. Use the explicit `coverPath` in the release map. For example, `assets/covers/by-release/cover-004.webp` belongs to `SNG-004`. See the [mapping table](docs/cover-mapping.md) and [review record](docs/cover-review-needed.md).
 
 ## Unified catalog export
 

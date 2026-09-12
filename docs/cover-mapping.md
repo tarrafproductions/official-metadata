@@ -125,7 +125,7 @@ Use `coverPath` from [release-map.json](../assets/covers/release-map.json), join
 | SNG-115 | Где Кончается Человек | 199749709517 | [cover-115.webp](../assets/covers/by-release/cover-115.webp) |
 | SNG-116 | НЕ ГОНИ ФУФЛО | 199749849954 | [cover-116.webp](../assets/covers/by-release/cover-116.webp) |
 | SNG-117 | The Other Side | 199749343308 | [cover-117.webp](../assets/covers/by-release/cover-117.webp) |
-| SNG-118 | ПОЛИСАЙ | 199749543050 | [cover-118.webp](../assets/covers/by-release/cover-118.webp) |
+| SNG-118 | POLICE | 199749543050 | [cover-118.webp](../assets/covers/by-release/cover-118.webp) |
 | SNG-119 | NORA | 199749050473 | [cover-119.webp](../assets/covers/by-release/cover-119.webp) |
 | SNG-120 | ПАМЯТЬ | 199750780994 | [cover-120.webp](../assets/covers/by-release/cover-120.webp) |
 | SNG-121 | БРАТ ОНА БЕРЕМЕННА | 199750667622 | [cover-121.webp](../assets/covers/by-release/cover-121.webp) |

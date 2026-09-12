@@ -11757,7 +11757,7 @@
     {
       "@type": "MusicAlbum",
       "@id": "https://aliktarraf.com/#catalog-sng-118",
-      "name": "ПОЛИСАЙ",
+      "name": "POLICE",
       "albumReleaseType": "https://schema.org/SingleRelease",
       "byArtist": [
         {
@@ -11785,12 +11785,15 @@
           "propertyID": "TARRAF Catalog Release ID",
           "value": "SNG-118"
         }
+      ],
+      "alternateName": [
+        "ПОЛИСАЙ"
       ]
     },
     {
       "@type": "MusicRelease",
       "@id": "https://aliktarraf.com/#catalog-sng-118-digital-release",
-      "name": "ПОЛИСАЙ — Digital Single Release",
+      "name": "POLICE — Digital Single Release",
       "releaseOf": {
         "@id": "https://aliktarraf.com/#catalog-sng-118"
       },
@@ -11817,12 +11820,15 @@
           "propertyID": "UPC",
           "value": "199749543050"
         }
+      ],
+      "alternateName": [
+        "ПОЛИСАЙ — Digital Single Release"
       ]
     },
     {
       "@type": "MusicRecording",
       "@id": "https://aliktarraf.com/#catalog-trk-0163",
-      "name": "ПОЛИСАЙ",
+      "name": "POLICE",
       "isrcCode": "QT6E82542002",
       "byArtist": [
         {
@@ -11849,7 +11855,8 @@
       ],
       "duration": "PT6M10.96S",
       "alternateName": [
-        "Police"
+        "Police",
+        "ПОЛИСАЙ"
       ],
       "sameAs": [
         "https://music.apple.com/ua/album/police/1849622494?i=1849622500"

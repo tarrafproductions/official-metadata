@@ -22,7 +22,7 @@ The existing `studio-singles.jsonld` filename is retained for integrations; its 
 
 ## Cover artwork
 
-The repository preserves 282 supplied cover-art files (the original 279 plus three owner-supplied additions) in [`assets/covers/archive`](../assets/covers/archive), with source filenames and checksums in [`manifest.json`](../assets/covers/manifest.json). The archive uses source-order numbering. Verified release artwork is in [`assets/covers/by-release`](../assets/covers/by-release), where `cover-004.webp` corresponds to `SNG-004`, and so on.
+The repository preserves 287 supplied cover-art files (the original 279, three owner-supplied additions on September 10 and five replacements on September 12) in [`assets/covers/archive`](../assets/covers/archive), with source filenames and checksums in [`manifest.json`](../assets/covers/manifest.json). The archive uses source-order numbering. Verified release artwork is in [`assets/covers/by-release`](../assets/covers/by-release), where `cover-004.webp` corresponds to `SNG-004`, and so on.
 
 <!-- BEGIN GENERATED ARTWORK STATUS -->
 278 of 278 release products have a verified cover association (0 still need review). The [complete mapping](cover-mapping.md) includes singles and all three live albums; the [review record](cover-review-needed.md) documents owner confirmations and any unresolved artwork.
@@ -153,7 +153,7 @@ GitHub provides version history and public provenance; it does not replace regis
 | SNG-115 | 2025-10-26 | Где Кончается Человек | Alik Tarraf | 199749709517 | QT6E82504500 | Source-normalized | [cover-115.webp](../assets/covers/by-release/cover-115.webp) |
 | SNG-116 | 2025-10-26 | НЕ ГОНИ ФУФЛО | Alik Tarraf | 199749849954 | QT6E72580731 | Source-normalized | [cover-116.webp](../assets/covers/by-release/cover-116.webp) |
 | SNG-117 | 2025-10-27 | The Other Side | Alik Tarraf | 199749343308 | QT6E82591324 | Source-normalized | [cover-117.webp](../assets/covers/by-release/cover-117.webp) |
-| SNG-118 | 2025-10-27 | ПОЛИСАЙ | Alik Tarraf | 199749543050 | QT6E82542002 | Source-normalized | [cover-118.webp](../assets/covers/by-release/cover-118.webp) |
+| SNG-118 | 2025-10-27 | POLICE | Alik Tarraf | 199749543050 | QT6E82542002 | Catalog owner, 2026-09-12 | [cover-118.webp](../assets/covers/by-release/cover-118.webp) |
 | SNG-119 | 2025-10-28 | NORA | Alik Tarraf (feat. Marina Tarraf) | 199749050473 | QT6E92567897 | Source-normalized | [cover-119.webp](../assets/covers/by-release/cover-119.webp) |
 | SNG-120 | 2025-10-29 | ПАМЯТЬ | Alik Tarraf | 199750780994 | QT6EA2526339 | Source-normalized | [cover-120.webp](../assets/covers/by-release/cover-120.webp) |
 | SNG-121 | 2025-10-30 | БРАТ ОНА БЕРЕМЕННА | Alik Tarraf | 199750667622 | QT6EA2554382 | Source-normalized | [cover-121.webp](../assets/covers/by-release/cover-121.webp) |
